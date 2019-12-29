@@ -16,7 +16,7 @@ script:
 
 branches:
   only:
-    - production
+    - master
 
 env:
   global:
@@ -34,4 +34,4 @@ deploy:
     on:
       tags: false
       all_branches: true
-      condition: $TRAVIS_BRANCH =~ ^(production)$
+      condition: $TRAVIS_BRANCH =~ ^(master)$
