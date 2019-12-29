@@ -1,0 +1,35 @@
+---
+id: 1670
+title: XXXI Niedziela zwykła, Uroczystość Wszystkich Świętych
+date: 2015-11-04T02:16:35+00:00
+author: admin
+layout: revision
+guid: http://anielaolsztynek.pl/2015/11/1660-revision-9/
+permalink: /2015/11/1660-revision-9/
+---
+> **Mt 5, 1-12a**
+> 
+> **Droga błogosławieństw**
+> 
+> <span style="color: #000000;">Dzisiejszy dzień w szczególny sposób nastraja nas do wspominania tych, którzy przeszli już do wieczności. Patrzymy na nich w perspektywie życia wiecznego. Ci, którzy dostąpili już zbawienia, są dla nas orędownikami przed Bogiem. Rozważamy dziś Kazanie na górze, które jest hymnem na cześć tych, którzy &#8222;cieszą się i radują w niebie&#8221;. Ale Jezus kieruje te słowa także do żyjących. Wyznacza im perspektywę, która ma być programem życia duchowego. Jeśli będziemy kierować się duchem błogosławieństw, możemy być pewni osiągnięcia życia wiecznego.</span>
+> 
+> <span style="color: #666699;">Panie, wsłuchując się w Twoje słowa wypowiedziane na Górze Błogosławieństw, proszę o to, abyś dał mi wytrwałość, która pozwoli mi wprowadzić je w czyn i żyć nimi.</span>
+
+  * Zmiana tajemnic różańcowych dziś po Mszy Świętej o godzinie 9:00.
+  * Procesja żałobna z naszego kościoła na cmentarz komunalny bezpośrednio po Mszy Świętej o godzinie 11:00. Na cmentarzu nabożeństwo za zmarłych, po nabożeństwie będzie okazja do poświęcenia nowych krzyży i pomników na grobach zmarłych.
+  * Natomiast na cmentarzu przy ulicy Grunwaldzkiej Msza Święta będzie o godzinie 14:00. Po niej procesja i nabożeństwo za zmarłych.
+  * Wspomnienie Wszystkich Wiernych Zmarłych, czyli Dzień Zaduszny wypada jutro &#8211; 2 listopada.
+  * Dniem Zadusznym rozpoczyna się Tydzień Modlitw za Zmarłych &#8211; do 8 listopada włącznie, tak więc od poniedziałku do soboty będzie odprawiane za zmarłych nabożeństwo, tzw. wypominki o godzinie 16:30. W następną niedzielę odmówimy wspólnie różaniec za zmarłych o godzinie 8:30. Natomiast przez cały listopad będzie odprawiana Msza Święta za tych wiernych zmarłych z naszych rodzin, których imiona wypisaliśmy na kartkach.
+  * W tym tygodniu wypada I czwartek, I piątek i I sobota listopada. W piątek przed południem odwiedziny chorych, po południu spowiedź od godziny 16:00.
+  * W następną niedzielę obchodzimy VII Dzień Solidarności z Kościołem Prześladowanym. Po Mszach Świętych będą zbierane dobrowolne ofiary na ten cel.
+  * Jest do nabycia nowy numer &#8222;Gościa Niedzielnego&#8221;.
+  * W związku z liczeniem wiernych obecnych na Mszy Świętej w niedzielę 25 października, można podać, że frekwencja wyniosła blisko 26 % w stosunku do faktycznej j liczby parafian aktualnie zamieszkujących teren parafii (20, 5 % w stosunku do wszystkich zameldowanych). 350 0sób zameldowanych nie mieszka na terenie parafii.
+
+  * Ponieważ niestety Halloween zaczyna być coraz częściej &#8222;świętowane&#8221; także u nas, pragnę przypomnieć, że **CHRZEŚCIJANIE NIE POWINNI OBCHODZIĆ** **HALLOWEEN**. Ci, którzy je &#8222;świętują&#8221;, tak naprawdę czczą kulturę śmierci. Jak pisze &#8222;L&#8217;Osservatore Romano&#8221;: &#8222;Halloween jest przejawem okultyzmu i jest to święto **antychrześcijańskie**. Promuje ono strach i śmierć. Rodzice powinni być tego w pełni świadomi&#8221;. Korzenie &#8222;Halloween&#8221; sięgają pogańskich obchodów święta duchów i celtyckiego boga śmierci. Tę pogańską tradycję w II połowie XX wieku zawłaszczają **sataniści**, którzy noc z 31 października na 1 listopada uważają za swoje największe w roku święto. Kroniki policyjne potwierdzają wzmożoną liczbę aktów przemocy o charakterze okultystycznym, nasilających się w tym właśnie czasie. Przychylne temu świętu są <span style="line-height: 24px;"><strong>organizacje masońskie, okultystyczne a także ruch New Age</strong></span>. Pewnie niewielu rodziców wie, że zbieranie słodyczy przez dzieci wywodzi się z pogańskich zabobonów, według których, aby nie rozzłościć złych duchów, powinno się przygotować na ten dzień wiele rarytasów. Z kolei wydrążona dynia jest pozostałością po pogańskim zwyczaju rzeźbienia wizerunku demonów, których rolą było odstraszanie nieszczęść; jest także ówczesnym symbolem potępionych dusz. Zarówno podświetlona dynia, jak i czaszka, którymi tak chętnie ozdabiane są domy podczas Halloween, w przeszłości były symbolami czcicieli szatana. W tym też dniu dzieci przebierają się za śmierć, duchy, czarownice, nietoperze, czarne koty, zombie, sowy, wampiry, duchy i demony. Znaczna część z tych postaci to symbole szatana i jego pomocników. Nawet, jeśli Halloween jest przez nas traktowane jako zabawa, rzeczywistość duchowa (złe duchy, demony) widzą ludzkie zaangażowanie wyrażone w znakach, symbolach, gestach i czynach. Dochodzi do pewnego otwarcia &#8211; inicjacji &#8211; na określony duchowy świat. Praktyka wielu egzorcystów pokazuje, że nawet nieświadoma zabawa w wywoływanie duchów, przyzywanie zmarłych, czy przebieranie się za demony, czy też śmierć może mieć groźne skutki w naszym życiu. Halloween jest &#8222;świętem&#8221; niebezpiecznym, spłycającym i ośmieszającym wartość życia duchowego i pozagrobowego, a czyni to z tym większą perfidią, że wzywa do zabawy właśnie w tych dniach, kiedy my &#8211; chrześcijanie &#8211; wspominamy naszych zmarłych i obchodzimy uroczystość Wszystkich Świętych. Ta uroczystość ma w swoim założeniu rozpalić w nas tęsknotę za Niebem, świętością, Bogiem, ale też przypomnieć o powinności pomocy w osiągnięciu Nieba naszym bliskim zmarłym przebywającym w czyśćcu. Ma wreszcie skierować nasze tak bardzo pochłonięte doczesnością myśli ku wieczności i wartościom nieprzemijającym. W Piśmie Świętym czytamy: <span style="color: #000000;"><strong>&#8222;Wszystko badajcie, a co szlachetne &#8211; zachowujcie! Unikajcie wszystkiego, co ma choćby pozór zła&#8221; (1 Tes 5, 21-23)</strong></span>
+
+  * <span style="color: #000000;">Katechizm Kościoła Katolickiego tak wypowiada się na temat wszelkich praktyk okultystycznych: </span>
+
+ <span style="font-size: 16px;"></span>
+
+  1. &#8222;Należy odrzucić wszelkie formy wróżbiarstwa: odwoływanie się do szatana lub demonów, wywoływanie zmarłych lub inne praktyki mające rzekomo odsłaniać przyszłość. Korzystanie z horoskopów, astrologia, chiromancja, wyjaśnianie przepowiedni i wróżb, zjawiska jasnowidztwa, posługiwanie się medium są przejawami chęci panowania nad czasem, historią i wreszcie nad ludźmi, a jednocześnie pragnieniem zjednania sobie tajemnych mocy. Praktyki te są sprzeczne z czcią i szacunkiem &#8211; połączonym z miłującą bojaźnią &#8211; które należą się jedynie Bogu&#8221; (**artkuł 2116**).
+  2. Wszystkie praktyki magii i czarów, przez które dąży się do opanowania tajemnych sił, by posługiwać się nimi i osiągnąć nadnaturalną władzę nad bliźnim &#8211; nawet w celu zapewnienia mu zdrowia &#8211; są w poważnej sprzeczności z cnotą religijności. Praktyki te należy potępić tym bardziej wtedy, gdy towarzyszy im intencja zaszkodzenia drugiemu człowiekowi lub uciekania się do interwencji demonów (**artykuł 2117**).

@@ -1,0 +1,26 @@
+---
+id: 1346
+title: XXVII Niedziela zwykła
+date: 2014-10-05T00:05:32+00:00
+author: admin
+layout: post
+guid: http://anielaolsztynek.pl/?p=1346
+permalink: /2014/10/xxvii-niedziela-zwykla-4/
+categories:
+  - Bez kategorii
+---
+> **Mt 21, 33-43**
+> 
+> **Zarządcy cennego daru**
+> 
+> Nasze życie nie należy do nas, ale do Boga. Podobnie jak winnica w Ewangelii. To Bóg ją zbudował z jak najlepszych materiałów, zaopatrzył w niezbędne elementy, dopiero potem ją wydzierżawił, aby była środkiem do wyrobu wybornego wina. Podobnie jest z nami, z pomocą łaski mamy pracować nad naszymi talentami, darami, kształtować swój charakter, pamiętając, że Bóg kiedyś się upomni o owoce naszych zmagań.
+> 
+> <span style="color: #666699;">Jezu, dopomóż mi, abym nigdy nie przestał zmagać się o Twoje królestwo, zapalaj moje serce gorącym entuzjazmem do zmieniania mojego &#8222;ja&#8221; na Twoje &#8222;Ty&#8221;.</span>
+
+  * Dziś pierwsza niedziela miesiąca i zmiana tajemnic różańcowych połączona ze wspólnym różańcem o godzinie 8:30.
+  * Jak co roku w pierwszą niedzielę października po mszy Świętej będą zbierane dobrowolne ofiary na rzecz Caritas Archidiecezji Warmińskiej.
+  * Natomiast w następną niedzielę w Dniu Papieskim po Mszach Świętych w ramach Dzieła Nowego Tysiąclecia będą zbierane dobrowolne ofiary na fundusz stypendialny dla uzdolnionej młodzieży z małych miejscowości i z rodzin najuboższych.
+  * We wtorek &#8211; 7 października &#8211; wypada liturgiczne wspomnienie Matki Bożej Różańcowej. Jest to święto patronalne Kółek Różańcowych. W związku z tym serdecznie zapraszam wszystkich członków Kółek Różańcowych w tym dniu na wspólny różaniec w ich intencji.
+  * Zachęcam i zapraszam do wspólnej modlitwy różańcowej codziennie o godzinie 16:30. Dzieci zapraszam we środę, młodzież w piątek.
+  * Jest do nabycia nowy numer &#8222;Gościa Niedzielnego&#8221;.
+  * Dziś po Mszy Świętej o godzinie 17:00 próba chóru. wszystkich chętnych serdecznie zapraszamy.

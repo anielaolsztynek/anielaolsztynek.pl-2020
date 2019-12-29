@@ -1,0 +1,38 @@
+---
+id: 995
+title: XXIV Niedziela Zwykła
+date: 2013-09-17T19:51:34+00:00
+author: admin
+layout: revision
+guid: http://anielaolsztynek.pl/2013/09/988-revision-6/
+permalink: /2013/09/988-revision-6/
+---
+> **Łk 15, 1-32**
+> 
+> **Nie słowa, ale serce**
+> 
+> Miłosierdzie Boga jest dostępne nie dla tego, kto potrafi przygotować piękną mowę pokutną, ale dla tego, kto w swym sercu uznał szkodliwość popełnionego zła i postanawia je porzucić oraz jest gotów przyjąć na siebie konsekwencje własnych czynów. Powrót do ojca jest dla młodszego syna wyznaniem, że ojciec miał rację i że musi ponieść słuszne konsekwencje swej głupoty. Ale Ojciec nie chce mieć niewolników w swoim domu. Jego miłość obdarza syna wolnością, chociaż jasne jest, że młody człowiek mylił się w swym uporze. Pewność, że ojciec kocha taką miłością, pozwala podjąć drogę powrotu.
+> 
+> <span style="color: #666699;">Panie, nie pozwól mi trwać w grzechu, daj mi odwagę wyznania zła i prośby o przebaczenie. Daj śmiałą gotowość ponoszenia konsekwencji, ale w zaufaniu Twemu miłosierdziu.</span style="color: #666699;"></p> 
+> 
+> <ul>
+>   <li>
+>     <span style="font-style: normal;">Dziś w naszej parafii odpust ku czci naszej patronki Błogosławionej Anieli Salawy. Ta uroczystość to szczególna okazja, aby wyrazić naszą wdzięczność wobec samego Boga za wszystkie łaski, którymi nas obdarza, zwłaszcza za przyczyną naszej Patronki. Jesteśmy wdzięczni Opatrzności Bożej za to, że nasza parafia ma właśnie taką Patronkę. Ufamy głęboko, że Błogosławiona Aniela wyprasza dla naszej parafii wiele łask. Przeżywając wspólnie święto parafialne dziękuję wszystkim tu obecnym: księdzu kaznodziei, księżom, szafarzowi Komunii Świętej, osobom zaangażowanym w liturgię, czyli organistce Wiolecie, posługującym przy ołtarzu, lektorom, ministrantom, osobom czytającym Słowo Boże, scholi, chórowi. Dziękuję też wszystkim zatroskanym o nasz kościół: za sprzątanie, pranie obrusów i bielizny kielichowej; dziękuję za obecność i wspólną modlitwę wszystkim Gościom a także wszystkim Parafianom za to, że w naszej wspólnocie parafialnej możemy wzajemnie wzrastać i się ubogacać.</span>
+>   </li>
+>   <li>
+>     <span style="font-style: normal;">W następną niedzielę &#8211; 22 września &#8211; na terenie naszej parafii, w Skansenie, odbędą się Dożynki Wojewódzkie, które rozpoczną się Mszą Świętą o godzinie 12.00 pod przewodnictwem Księdza Arcybiskupa Wojciecha Ziemby, Metropolity Warmińskiego. W tym dniu wstęp na skansen jest wolny. W związku z powyższym w następną niedzielę nie będzie Mszy Świętej o godzinie 11.00, zapraszam na 12.00 do Skansenu.</span>
+>   </li>
+>   <li>
+>     <span style="font-style: normal;">W najbliższy piątek dyżur w Punkcie Caritas w godzinach 18.00- 19.00.</span>
+>   </li>
+>   <li>
+>     <span style="font-style: normal;">Spotkanie z Rodzicami dzieci pierwszokomunijnych za dwa tygodnie &#8211; 29 września po Mszy Świętej o godzinie 11.00, z kandydatami do bierzmowania w piątek, 27 września.</span>
+>   </li>
+>   <li>
+>     <span style="font-style: normal;">Centrum medyczne &#8222;Ars Medica&#8221; zaprasza na bezpłatną tomografię komputerową klatki piersiowej w ramach wczesnego wykrywania raka płuc. Informacje w gablocie.</span>
+>   </li>
+> </ul>
+> 
+> <p>
+>   </span>
+> </p></blockquote>

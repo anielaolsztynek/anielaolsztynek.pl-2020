@@ -1,0 +1,29 @@
+---
+id: 2483
+title: XXXII Niedziela zwykła, Narodowe Święto Niepodległości
+date: 2018-11-11T20:09:20+00:00
+author: admin
+layout: revision
+guid: http://anielaolsztynek.pl/2018/11/2482-revision-v1/
+permalink: /2018/11/2482-revision-v1/
+---
+> **Mk 12, 38-44**
+> 
+> **Oblicza miłości**
+> 
+> Uboga kobieta wrzuciła do skarbony wszystko, co miała. Podziwiamy jej postawę, zwłaszcza, że sam Jezus dał ją uczniom za przykład. Z drugiej strony możemy się zastanawiać, czy postąpiła roztropnie. Skarbiec świątynny niewiele się wzbogacił jej drobną ofiarą, a ona pozostała bez środków do życia. W takim myśleniu ukryta jest pewna forma kalkulacji, obca ewangelicznej postawie miłości, która &#8222;nie szuka siebie&#8221; (1 Kor 13, 5). Do ubogiej wdowy podobne są osoby, które opiekują się kimś chorym lub niedołężnym, ofiarując swój czas, siły i pieniądze. Czują, że w taki sposób wypełniają obowiązek miłości cierpliwej i szlachetnej (por. 1, Kor 13, 4). Wdowim groszem jest przebaczenie i danie komuś kolejnej szansy, bo miłość &#8222;nie liczy doznanych krzywd&#8221; (1 Kor, 13, 5), albo uczciwość, kiedy znajomi proponują zarobek na lewo. W końcu miłość &#8222;nie cieszy się z niesprawiedliwości, lecz raduje się prawdą&#8221; (1 Kor 13, 6).
+> 
+> <span style="color: #666699;">Panie Jezu, dając mi za przykład ubogą wdowę, uczysz mnie prawdziwej miłości. Umocnij we mnie ducha ofiarności, bym w ten sposób był coraz bardziej podobny do Ciebie. </span>
+> 
+> &nbsp;
+
+  * Dziś pod koniec Mszy Świętej <span style="text-decoration: underline;">o godzinie 9:00</span> odbędzie się **poświęcenie** **nowych** **konfesjonałów**. Przy okazji dziękuję parafianom jako ofiarodawcom tego bardzo ważnego elementu naszego kościoła. Dziękuję też serdecznie elektrykowi &#8211; Panu Markowi i elektronikowi Rafałowi za wykonanie oświetlenia i sygnalizacji informującej o obecności kapłana i osoby spowiadającej się. Pięknie się składa, że właśnie dzisiaj możemy poświęcić konfesjonały (z czasem umieszczę tabliczkę upamiętniającą ten fakt). Konfesjonał to miejsce pojednania z Bogiem, miejsce, w którym odzyskujemy wolność Dzieci Bożych, wolność od grzechów. Niech te konfesjonały, które stwarzają dobre warunki, służą do godnego przeżywania Sakramentu Spowiedzi Świętej.
+  * Natomiast po Mszy Świętej <span style="text-decoration: underline;">o godzinie 11:00</span> wysłuchamy **programu patriotycznego** w wykonaniu uczniów ze Szkoły Podstawowej nr 2. Zaśpiewamy też dziękczynne Te Deum, a po Mszy Świętej wspólnie zaśpiewamy hymn państwowy.
+  * **Program obchodów dzisiejszego Święta Niepodległości w Olsztynku**: <span style="text-decoration: underline;">godzina 10:30</span> &#8211; Msza Święta za Ojczyznę w kościele Najświętszego Serca Pana Jezusa, po Mszy Świętej przemarsz i złożenie kwiatów pod tablicą &#8222;Orła Białego&#8221;, odsłonięcie pamiątkowego obelisku z okazji 100-lecia Odzyskania Niepodległości. <span style="text-decoration: underline;">Godzina 17:00</span> &#8211; Szkoła Podstawowa nr 1 im. Noblistów Polskich w Olsztynku: przemówienie okolicznościowe, &#8222;Poloneza czas zacząć&#8221; &#8211; Przedszkole Miejskie w Olsztynku; &#8222;Już nie zapomnisz mnie&#8221; &#8211; występ laureatów Międzyszkolnego Festiwalu Piosenki Polskiej; &#8222;Ku Niepodległości&#8230;&#8221; &#8211; inscenizacja muzyczna; koncert zespołu Annette Music; &#8222;Piękne, bo polskie&#8230;&#8221; &#8211; wystawa prac plastycznych.
+  * <span style="text-decoration: underline;">W sobotę &#8211; 17 listopada</span> &#8211; odbędzie się w Waplewie **uroczystość nadania**** imienia Jana Pawła II tamtejszej Szkole Podstawowej**. Program uroczystości: o <span style="text-decoration: underline;">godzinie 10:00</span>: uroczysta Msza Święta w kościele Parafialnym p.w. Św. Stanisława Biskupa i Męczennika w Waplewie, przejście do budynku Zespołu, odsłonięcie i poświęcenie tablicy pamiątkowej, wystąpienia okolicznościowe, część artystyczna w wykonaniu uczniów Zespołu Szkolno-Przedszkolnego w Waplewie.
+  * <span style="text-decoration: underline;">W następną niedzielę &#8211; 18 listopada</span> &#8211; <span style="text-decoration: underline;">o godzinie 11:00</span> &#8211; wystąpi w naszym kościele z koncertem pieśni patriotycznych olsztynecki chór **Arte del Canto**.
+  * Również w następną niedzielę, <span style="text-decoration: underline;">18 listopada o godzinie 16:00</span>, Szkoła Podstawowa nr 2 im. rtm. Witolda Pileckiego, przy współpracy z Miejskim Domem Kultury, organizuje z okazji 100. rocznicy odzyskania niepodległości przez Polskę **koncert** **zespołu &#8222;Forteca&#8221;**. Koncert ten to pewnego rodzaju klamra &#8211; coś, co zamyka obchody Święta Niepodległości w naszej Gminie Olsztynek. Koncert odbędzie się w sali koncertowej Szkoły Podstawowej nr 1 im. Noblistów Polskich w Olsztynku. Bilety można kupić w MDK i w Szkole Podstawowej nr 2 (10 zł bilet dla dzieci i młodzieży, 20 zł bilet dla osoby dorosłej). Zapraszamy całe rodziny do udziału w koncercie.
+  * Jutro ostatni **dyżur w Punkcie Caritas**, <span style="text-decoration: underline;">w godzinach 18:00-19:00</span>. Przypominam, że w związku z bardzo małym zainteresowaniem rzeczami używanymi, proszę juz nie przynosić tych rzeczy.
+  * <span style="text-decoration: underline;">We</span> <span style="text-decoration: underline;">wtorek i środę</span> Msze Święte <span style="text-decoration: underline;">o godzinie 8:00</span>.
+  * <span style="text-decoration: underline;">W piątek – 16 listopada</span> – wypada liturgiczne **Święto Najświętszej Marii Panny Ostrobramskiej – Matki Miłosierdzia**.
+  * W minionym tygodniu odszedł do wieczności nasz parafianin z ulicy Jagodowej ś.p. Bogdan Sira, lat 60. Wieczny odpoczynek racz zmarłemu dać Panie.

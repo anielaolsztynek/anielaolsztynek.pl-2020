@@ -1,0 +1,15 @@
+---
+id: 1401
+title: IV Niedziela Adwentu
+date: 2014-12-20T02:08:48+00:00
+author: admin
+layout: revision
+guid: http://anielaolsztynek.pl/2014/12/1395-revision-5/
+permalink: /2014/12/1395-revision-5/
+---
+> **Łk 1, 26-38**
+> 
+> **Obdarowana ponad miarę**
+> 
+> Maryja obdarowana przez Boga. Obdarowana ponad miarę &#8211; łaski pełna. Obdarowana Jezusem &#8211; Słowem Wcielonym. Takie obdarowanie budzi lęk. Jak to możliwe? Dlatego Bóg słowami Gabriela zaprasza Ja do ufności: &#8222;Nie bój się, Maryjo, bo Bóg Cię obdarzył łaską&#8221;. Maryja przestaje się lękać, bo powierza się miłości Boga: &#8222;Tam, gdzie jest miłość, nie ma lęku, doskonała miłość odrzuca lęk&#8221; (1 J 4, 18). Ona, która doświadcza umiłowania ponad miarę i zostaje wypełniona Bożą łaską, pokornie zawierza się otrzymanemu darowi: &#8222;Jestem służebnicą Pana; niech mi się stanie według Twego słowa&#8221;.  
+> <span style="color: #666699;">Jezu, ja także jestem obdarowany ponad miarę. Ojciec dał mi Ciebie, a wraz z Tobą wszelkie łaski i nieskończoność swojego przebaczenia. Oto ja, Panie, niechaj Twoje słowo spełnia się w moim życiu.</span>

@@ -1,0 +1,18 @@
+---
+id: 79
+title: IV Niedziela Adwentu
+date: 2010-12-19T20:10:59+00:00
+author: admin
+layout: revision
+guid: http://anielaolsztynek.pl/2010/12/72-revision-5/
+permalink: /2010/12/72-revision-5/
+---
+  * W najbliższą sobotę Święta Bożego Narodzenia. Naszym polskim zwyczajem poprzedzi je Wigilia, którą będziemy przeżywali w piątek wieczorem w naszych domach rodzinnych. Zachęcam gorąco, abyśmy przy Wieczerzy Wigilijnej zachowywali, pielęgnowali i przekazywali następnym pokoleniom nasze tradycje i zwyczaje (dzielenie się opłatkiem, modlitwa, czytanie Pisma Św. i śpiewanie kolęd). W dniu wigilijnym z racji na piątek obowiązuje wstrzemięźliwość od pokarmów mięsnych. W piątek Msza Św. o godz. 8:00.
+  * Msza Św. -Pasterka tradycyjnie o godz. 24:00. 40 minut przed Pasterką z koncertem kolęd wystąpi chórek młodzieżowo-dziecięcy pod kierunkiem naszej organistki &#8211; Wioletty. To także trzecia rocznica poświęcenia naszego kościoła.
+  * W pierwszym i drugim dniu Świąt Msze Św. jak w każdą niedzielę.
+  * Są jeszcze do nabycia świece wigilijne Caritas.
+  * Okazja do Spowiedzi Św. jeszcze dziś po Mszy Św. i każdego dnia przed Mszą Św.
+  * Bóg zapłać tym wszystkim, którzy włączyli się w przedświąteczną akcję pomocy najtrudniej sytuowanym rodzinom z naszej parafii. Przygotowano i rozdano 36 paczek żywnościowych oraz prezenty dla dzieci z tych rodzin. Zakupiono żywność na łączną wartość ponad 3000 zł (w tym 750zł zebranych w poprzednią niedziele, 300 zł ze sprzedaży świec i 300 zł z funduszu parafialnego, oraz 1800 zł z 1% podatku i na 1% podatku na rzecz naszego parafialnego Caritasu wpłynęło ok. 5000zł. Prezenty dl dzieci zakupione zostały głównie przez jedną rodzinę z naszej parafii o wartości 3000 zł. Łączna wartość paczek wynosi ponad 6000 zł. W miniony czwartek rozdano też żywność blisko 100 rodzinom w ramach Europejskiego Programu Pomocy Żywnościowej- ok. 1300kg. Łącznie w ciągu roku rozdano ponad 20 ton żywności. Otrzymaliśmy również paczki z Niemiec, z Bad Sadsa. Serdecznie dziękuje za wielkie zaangażowanie PZC przy przywiezieniu żywności z Olsztyna i wszystkim ofiarodawcom oraz darczyńcom.
+  * Msze Św. roratnie w tym tygodniu w środę i w piątek rano.
+  * Bóg zapłać za ofiary grudniowe na rzecz  budowy kościoła składane przy okazji rozdawania opłatków. Bóg zapłać wszystkim osobom zbierającym te ofiary przez cały rok. Msza Św. w intencji ofiarodawców i osób zbierających ofiary jutro o godz. 17:00
+  * Dziś w Gościu Niedzielnym Mały Gość Niedzielny.

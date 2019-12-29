@@ -1,0 +1,30 @@
+---
+id: 1267
+title: XIII Niedziela zwykła
+date: 2014-06-29T00:00:36+00:00
+author: admin
+layout: post
+guid: http://anielaolsztynek.pl/?p=1267
+permalink: /2014/06/xiii-niedziela-zwykla-3/
+categories:
+  - Bez kategorii
+---
+> **Mt 16, 13-19**
+> 
+> **Najważniejsze pytanie**
+> 
+> Trzeba być z kimś blisko, aby móc go spytać: &#8222;Kim dla ciebie jestem?&#8221;. Pytanie to najczęściej zadają sobie przyjaciele, zakochani, dzieci i rodzice, krewni, czyli ci wszyscy, których łączą więzy miłości. Tak naprawdę odkrywamy wtedy coś z własnej tajemnicy, przeglądając się w pełnym miłości spojrzeniu bliskiej osoby. Także Jezus pytał swoich apostołów: &#8222;A wy za kogo mnie uważacie?&#8221; Rozradowało Go, że Piotr odkrył Jego sekret, iż jest oczekiwanym Mesjaszem. Kim Jezus jest dziś dla mnie? I kim ja jestem dla Niego?
+> 
+> <span style="color: #666699;">Jezu, pragnę coraz bardziej Cię poznawać, bo w Twoim człowieczeństwie będę umiał rozpoznać prawdę, piękno i dobro ukryte we mnie i w każdym innym człowieku, a to napełni moje serce błogosławieństwem!</span>
+
+  * Święty Piotr, którego uroczystość dzisiaj obchodzimy, jest patronem naszego miasta, przeżywającego w tych dniach swoje święto, czyli Dni Olsztynka. Przypominam, że Świętemu Piotrowi poświęcony jest witraż w naszym kościele, jego imię nosi także nasz dzwon.
+  * Jutro zakończenie nabożeństwa czerwcowego.
+  * We wtorek &#8211; 1 lipca wypada 18 rocznica powstania naszej parafii &#8211; tak więc nasza parafia jest już pełnoletnia.
+  * W związku z zakończeniem nabożeństw stałych, w każdą środę będziemy odmawiali Nowennę do matki Bożej Nieustającej Pomocy, a w piątki Koronkę do Miłosierdzia Bożego.
+  * W tym tygodniu wypada I Piątek lipca. Przed południem odwiedziny chorych, po południu Spowiedź od godziny 16:30.
+  * Zmiana tajemnic różańcowych w następną niedzielę po Mszy Świętej o godzinie 9:00.
+  * Bóg zapłać za ofiary złożone w czerwcu na rzecz inwestycji parafialnych. Dziękuję wszystkim zaangażowanym w zbiórkę tych ofiar. Msza Święta w intencji ofiarodawców jutro o godzinie 17:00.
+  * Wojewódzki Ośrodek Koordynujący zaprasza kobiety z miasta i gminy Olsztynek na spotkanie edukacyjne z zakresu profilaktyki onkologicznej w dniu 11 lipca bieżącego roku o godzinie 17:00 do Miejskiego Domu Kultury w Olsztynku. Więcej informacji w gablocie.
+  * Jest do nabycia nowy numer &#8222;Gościa Niedzielnego&#8221;.
+  * Dzieciom, młodzieży, nauczycielom i katechetom na progu wakacji oraz wszystkim, którzy udają się na urlopy życzę spokojnego, owocnego, bezpiecznego i radosnego wypoczynku oraz wielu miłych wrażeń.
+  * Dyżur w punkcie Caritas w najbliższy piątek w godzinach od 18:00 do 19:00.
