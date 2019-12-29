@@ -5,11 +5,6 @@ cache:
   directories:
     - /home/travis/.rvm/
 
-before_install:
-  - nvm use
-  - npm i -g npm
-  - npm i -g firebase-tools
-
 script:
   - pwd
   - ls /home/travis
@@ -30,6 +25,12 @@ addons:
   apt:
     packages:
       - libcurl4-openssl-dev
+
+before_deploy:
+  - nvm install $(cat .nvmrc)
+  - nvm use
+  - npm i -g npm
+  - npm i -g firebase-tools
 
 deploy:
   - provider: script
