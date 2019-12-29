@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "site": "anielaolsztynek2020",
     "public": "public/anielaolsztynek.pl/_site",
     "ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
   }
