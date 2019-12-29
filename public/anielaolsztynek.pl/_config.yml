@@ -17,24 +17,20 @@
 # url: http://anielaolsztynek.pl
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 name: Parafia pod wezwaniem Błogosławionej Anieli Salawy w Olsztynku
-title:  Parafia pod wezwaniem Błogosławionej Anieli Salawy w Olsztynku
+title: Parafia pod wezwaniem Błogosławionej Anieli Salawy w Olsztynku
 description: >
   Rzymskokatolicka Parafia pod wezwaniem
   Błogosławionej Anieli Salawy w
   Olsztynku
 
-title: Your awesome title
 email: your-email@example.com
 baseurl: "" # the subpath of your site, e.g. /blog
-twitter_username: jekyllrb
-github_username:  jekyll
 
 # Build settings
 markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
-
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
