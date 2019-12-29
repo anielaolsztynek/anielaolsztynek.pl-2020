@@ -94,7 +94,7 @@ permalink: /2014/04/46-revision-10/
  19. Helena Biała
  20. Maria Pisarska
 
-[<img class="aligncenter size-full wp-image-49" title="1roza" src="http://anielaolsztynek.pl/wp-content/uploads/2010/12/1roza.jpg" alt="" width="400" height="300" srcset="http://anielaolsztynek.pl/wp-content/uploads/2010/12/1roza.jpg 400w, http://anielaolsztynek.pl/wp-content/uploads/2010/12/1roza-300x225.jpg 300w" sizes="(max-width: 400px) 100vw, 400px" />](http://anielaolsztynek.pl/wp-content/uploads/2010/12/1roza.jpg)
+[<img class="aligncenter size-full wp-image-49" title="1roza" src="{{ site.urls.wp_content_base }}/uploads/2010/12/1roza.jpg" alt="" width="400" height="300" srcset="{{ site.urls.wp_content_base }}/uploads/2010/12/1roza.jpg 400w, {{ site.urls.wp_content_base }}/uploads/2010/12/1roza-300x225.jpg 300w" sizes="(max-width: 400px) 100vw, 400px" />]({{ site.urls.wp_content_base }}/uploads/2010/12/1roza.jpg)
 
 ### II Róża Różańcowa
 
@@ -121,4 +121,4 @@ permalink: /2014/04/46-revision-10/
 
 <span style="font-size: small;"><span style="line-height: 24px;">Do Róż Różańcowych należały również: Stanisława Giranowska, Teresa Serafinowska, Mariola Sokal, Brunhilda Sztandera, Helena Tomaszewska, Maria Pilarska, Alina Popielewska, Danuta Banach.</span></span>
 
-[<img class="aligncenter size-full wp-image-51" title="2roza" src="http://anielaolsztynek.pl/wp-content/uploads/2010/12/2roza.jpg" alt="" width="400" height="300" srcset="http://anielaolsztynek.pl/wp-content/uploads/2010/12/2roza.jpg 400w, http://anielaolsztynek.pl/wp-content/uploads/2010/12/2roza-300x225.jpg 300w" sizes="(max-width: 400px) 100vw, 400px" />](http://anielaolsztynek.pl/wp-content/uploads/2010/12/2roza.jpg)
+[<img class="aligncenter size-full wp-image-51" title="2roza" src="{{ site.urls.wp_content_base }}/uploads/2010/12/2roza.jpg" alt="" width="400" height="300" srcset="{{ site.urls.wp_content_base }}/uploads/2010/12/2roza.jpg 400w, {{ site.urls.wp_content_base }}/uploads/2010/12/2roza-300x225.jpg 300w" sizes="(max-width: 400px) 100vw, 400px" />]({{ site.urls.wp_content_base }}/uploads/2010/12/2roza.jpg)

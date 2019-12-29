@@ -10,13 +10,13 @@ categories:
   - Bez kategorii
 ---
 > **Mk 13, 33-37**
-> 
+>
 > **Czuwajcie!**
-> 
+>
 > Dominantą dzisiejszej Ewangelii jest wezwanie do czuwania. W zasadzie nie jest nam ono obce, gdyż współczesny świat ustawił nas w stan ciągłego czuwania: na kolejny sms, kolejny e-mail, kolejną promocję czy super ofertę, której nie możemy przegapić&#8230; Choć w tego typu sprawach warto by było, abyśmy zredukowali ową &#8222;czujność&#8221; do pewnego stopnia, to w sprawach duchowych często wcale jej nie posiadamy lub jej poziom jest bardzo niski. Jezusowe wezwanie do czuwania jest zaproszeniem do &#8222;starania się o wszystko&#8221; zarówno na płaszczyźnie materialnej, jak i duchowej. Nie chodzi przecież o to, aby kosztem twardego stąpania po ziemi wyrobić w sobie wrażliwość duchową. Tak jak chrześcijaństwo wzywa do znalezienia właściwej harmonii pomiędzy duszą a ciałem, tak też wzywa nas do pełnego otwarcia się na rzeczywistość wieczną w naszym tu i teraz.
-> 
+>
 > <span style="color: #666699;">Panie, naucz nas czujności, która otwierając nas na Ciebie, pogłębia nasze zaangażowanie wobec tych, których postawiłeś na naszej drodze, a w nas samych rodzi coraz głębsze zrozumienie wieczności.</span>
-> 
+>
 > &nbsp;
 
   * Dziś rozpoczął się **Adwent**, który jest czasem radosnego oczekiwania. Niech będzie to dla nas okres religijnej refleksji, modlitwy i przygotowania na przyjście Pana.
@@ -30,4 +30,4 @@ categories:
   * Bóg zapłać za ofiary złożone w listopadzie na rzecz inwestycji parafialnych i wszystkim osobom zaangażowanym w zbiórkę tych ofiar. Mszę Świętą w intencji ofiarodawców odprawiłem wczoraj o godzinie 15:00. Listopadowa zbiórka ofiar została przeznaczona na zakup nowego odkurzacza do kościoła, koszt prawie 3000 zł. (Stary uległ zepsuciu, a jego naprawa byłaby zbyt droga).
   * Jest do nabycia nowy numer „Gościa Niedzielnego”.
 
-[<img class="aligncenter size-large wp-image-2294" src="http://anielaolsztynek.pl/wp-content/uploads/2017/12/Dystrybucja-Żywności-736x1024.jpg" alt="" width="640" height="890" srcset="http://anielaolsztynek.pl/wp-content/uploads/2017/12/Dystrybucja-Żywności-736x1024.jpg 736w, http://anielaolsztynek.pl/wp-content/uploads/2017/12/Dystrybucja-Żywności-216x300.jpg 216w, http://anielaolsztynek.pl/wp-content/uploads/2017/12/Dystrybucja-Żywności-768x1068.jpg 768w, http://anielaolsztynek.pl/wp-content/uploads/2017/12/Dystrybucja-Żywności.jpg 1314w" sizes="(max-width: 640px) 100vw, 640px" />](http://anielaolsztynek.pl/wp-content/uploads/2017/12/Dystrybucja-Żywności.jpg)
+[<img class="aligncenter size-large wp-image-2294" src="{{ site.urls.wp_content_base }}/uploads/2017/12/Dystrybucja-Żywności-736x1024.jpg" alt="" width="640" height="890" srcset="{{ site.urls.wp_content_base }}/uploads/2017/12/Dystrybucja-Żywności-736x1024.jpg 736w, {{ site.urls.wp_content_base }}/uploads/2017/12/Dystrybucja-Żywności-216x300.jpg 216w, {{ site.urls.wp_content_base }}/uploads/2017/12/Dystrybucja-Żywności-768x1068.jpg 768w, {{ site.urls.wp_content_base }}/uploads/2017/12/Dystrybucja-Żywności.jpg 1314w" sizes="(max-width: 640px) 100vw, 640px" />]({{ site.urls.wp_content_base }}/uploads/2017/12/Dystrybucja-Żywności.jpg)

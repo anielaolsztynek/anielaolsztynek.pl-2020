@@ -9,7 +9,7 @@ permalink: /2010/12/35-revision-3/
 ---
 Schola spotyka się raz w tygodniu, **w czwartki o godzinie 15.00 w domu parafialnym.** W spotkaniach uczestniczą dzieci dużej rozpiętości wiekowej. Wskazanym jest, aby dziecko potrafiło czytać, co usprawnia naukę śpiewu. Zachęcamy:
 
-  * dzieci z klasy 2 Szkoły Podstawowej, przygotowujące się do przyjęcia Komunii Świętej do uczestniczenia w spotkaniach scholi;  
+  * dzieci z klasy 2 Szkoły Podstawowej, przygotowujące się do przyjęcia Komunii Świętej do uczestniczenia w spotkaniach scholi;
     pomaga to w pełniejszym i bardziej czynnym uczestnictwie we Mszy Św.
   * młodzież do rozwijania swoich talentów muzycznych oraz nauki gry na gitarze
   * wszystkie chętne dzieci i młodzież niezależnie od wieku, płci i umiejętności wokalno &#8211; muzycznych
@@ -33,7 +33,7 @@ Jest jeszcze wiele plusów należenia do scholi, których nie da się tu opisać
 
 ### Prowadzący
 
-[<img class="size-full wp-image-38 alignleft" title="wiola" src="http://anielaolsztynek.pl/wp-content/uploads/2010/12/wiola.jpg" alt="" width="93" height="127" />](http://anielaolsztynek.pl/wp-content/uploads/2010/12/wiola.jpg)Scholę prowadzi Wioletta Figielska &#8211; magister teologii Uniwersytetu Warmińsko &#8211; Mazurskiego w Olsztynie, absolwent kursu kwalifikacyjnego w zakresie śpiewu i muzyki kościelnej, katecheta w Szkole Podstawowej w Olsztynku, organistka przy parafii.
+[<img class="size-full wp-image-38 alignleft" title="wiola" src="{{ site.urls.wp_content_base }}/uploads/2010/12/wiola.jpg" alt="" width="93" height="127" />]({{ site.urls.wp_content_base }}/uploads/2010/12/wiola.jpg)Scholę prowadzi Wioletta Figielska &#8211; magister teologii Uniwersytetu Warmińsko &#8211; Mazurskiego w Olsztynie, absolwent kursu kwalifikacyjnego w zakresie śpiewu i muzyki kościelnej, katecheta w Szkole Podstawowej w Olsztynku, organistka przy parafii.
 
 Swoje zamiłowanie do muzyki kościelnej odkryła w 3 klasie szkoły podstawowej, gdy rozpoczęła śpiewanie w scholi dziecięcej zorganizowanej przez katechetkę Ewę Piłat (Suchodolską) przy parafii Najświętszego Serca Pana Jezusa w Olsztynku (5 lat). Następnie należała do scholi Vox Cordis prowadzonej przez ks. Zbigniewa Stępniaka oraz wyłonionego z niej zespołu młodzieżowego Magnalia Dei (4 lata), gdzie grała na gitarze. W 1998 r. założyła scholę Apostołowie Radości przy parafii bł. Anieli Salawy. W latach 2002-2006 prowadziła chór szkolny Bravo przy Gimnazjum w Olsztynku.
 
@@ -70,133 +70,133 @@ Wielkim wydarzeniem w życiu scholi była uroczystość Bożego Ciała 2005 r. Z
         1. Ewa Małecka
       </div>
     </td>
-    
+
     <td width="240">
       <div class="tresc">
         11. Dominika Klimek
       </div>
     </td>
   </tr>
-  
+
   <tr>
     <td width="240">
       <div class="tresc">
         2. Emilia Kaczmarczyk
       </div>
     </td>
-    
+
     <td width="240">
       <div class="tresc">
         12. Klaudia Pawlicka
       </div>
     </td>
   </tr>
-  
+
   <tr>
     <td width="240">
       <div class="tresc">
         3. Grażyna Figielska
       </div>
     </td>
-    
+
     <td width="240">
       <div class="tresc">
         13. Wiktoria Ogonowska
       </div>
     </td>
   </tr>
-  
+
   <tr>
     <td width="240">
       <div class="tresc">
         4. Ewelina Milewska
       </div>
     </td>
-    
+
     <td width="240">
       <div class="tresc">
         14. Asia Płoska
       </div>
     </td>
   </tr>
-  
+
   <tr>
     <td width="240">
       <div class="tresc">
         5. Marta Kowalska
       </div>
     </td>
-    
+
     <td width="240">
       <div class="tresc">
         15. Ania Kaczmarczyk
       </div>
     </td>
   </tr>
-  
+
   <tr>
     <td width="240">
       <div class="tresc">
         6. Kasia Kaźmierczak
       </div>
     </td>
-    
+
     <td width="240">
       <div class="tresc">
         16. Monika Płoska
       </div>
     </td>
   </tr>
-  
+
   <tr>
     <td width="240">
       <div class="tresc">
         7. Marta Kornowska
       </div>
     </td>
-    
+
     <td width="240">
       <div class="tresc">
         17. Marta Ścięgaj
       </div>
     </td>
   </tr>
-  
+
   <tr>
     <td width="240">
       <div class="tresc">
         8. Marzena Falba
       </div>
     </td>
-    
+
     <td width="240">
       <div class="tresc">
         18. Marysia Dubiel
       </div>
     </td>
   </tr>
-  
+
   <tr>
     <td width="240">
       <div class="tresc">
         9. Magda Miklaszewska
       </div>
     </td>
-    
+
     <td width="240">
       <div class="tresc">
         19. Radek Kaczmarczyk
       </div>
     </td>
   </tr>
-  
+
   <tr>
     <td width="240">
       <div class="tresc">
         10. Bogusia Jackiewicz
       </div>
     </td>
-    
+
     <td width="240">
       <div class="tresc">
         20. Mateusz Słodownik

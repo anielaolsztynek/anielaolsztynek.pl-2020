@@ -6,33 +6,34 @@ author: admin
 layout: page
 guid: http://anielaolsztynek.pl/
 ---
+
 Schola spotyka się raz w tygodniu, **w czwartki o godzinie 15.00 w domu parafialnym.** W spotkaniach uczestniczą dzieci dużej rozpiętości wiekowej. Wskazanym jest, aby dziecko potrafiło czytać, co usprawnia naukę śpiewu. Zachęcamy:
 
-  * dzieci z klasy 2 Szkoły Podstawowej, przygotowujące się do przyjęcia Komunii Świętej do uczestniczenia w spotkaniach scholi;  
-    pomaga to w pełniejszym i bardziej czynnym uczestnictwie we Mszy Św.
-  * młodzież do rozwijania swoich talentów muzycznych oraz nauki gry na gitarze
-  * wszystkie chętne dzieci i młodzież niezależnie od wieku, płci i umiejętności wokalno &#8211; muzycznych
+- dzieci z klasy 2 Szkoły Podstawowej, przygotowujące się do przyjęcia Komunii Świętej do uczestniczenia w spotkaniach scholi;
+  pomaga to w pełniejszym i bardziej czynnym uczestnictwie we Mszy Św.
+- młodzież do rozwijania swoich talentów muzycznych oraz nauki gry na gitarze
+- wszystkie chętne dzieci i młodzież niezależnie od wieku, płci i umiejętności wokalno &#8211; muzycznych
 
 Dlaczego warto być członkiem scholi:
 
-  * spotkasz tu fajnych ludzi
-  * spędzisz czas w miłej atmosferze
-  * pogłębisz swoją wiarę poprzez wspólnotowe jej przeżywanie
-  * będziesz znał więcej piosenek niż Twoi rówieśnicy
-  * będziesz &#8222;inny&#8221; a &#8222;inność&#8221; jest teraz w modzie
+- spotkasz tu fajnych ludzi
+- spędzisz czas w miłej atmosferze
+- pogłębisz swoją wiarę poprzez wspólnotowe jej przeżywanie
+- będziesz znał więcej piosenek niż Twoi rówieśnicy
+- będziesz &#8222;inny&#8221; a &#8222;inność&#8221; jest teraz w modzie
 
 A co dla Twojego głosu i słuchu muzycznego?
 
-  * systematyczne ćwiczenia uczynią z Ciebie mistrza
-  * wyrobisz sobie dobrą emisję i dykcję
-  * nauczysz się odpowiednio oddychać
-  * poznasz tajniki śpiewu chóralnego, oazowego
+- systematyczne ćwiczenia uczynią z Ciebie mistrza
+- wyrobisz sobie dobrą emisję i dykcję
+- nauczysz się odpowiednio oddychać
+- poznasz tajniki śpiewu chóralnego, oazowego
 
 Jest jeszcze wiele plusów należenia do scholi, których nie da się tu opisać. Trzeba po prostu przyjść i spróbować.
 
 ### Prowadzący
 
-[<img class="size-full wp-image-38 alignleft" title="wiola" src="http://anielaolsztynek.pl/wp-content/uploads/2010/12/wiola.jpg" alt="" width="93" height="127" />](http://anielaolsztynek.pl/wp-content/uploads/2010/12/wiola.jpg)Scholę prowadzi Wioletta Figielska &#8211; magister teologii Uniwersytetu Warmińsko &#8211; Mazurskiego w Olsztynie, absolwent kursu kwalifikacyjnego w zakresie śpiewu i muzyki kościelnej, katecheta w Szkole Podstawowej w Olsztynku, organistka przy parafii.
+[<img class="size-full wp-image-38 alignleft" title="wiola" src="{{ site.urls.wp_content_base }}/uploads/2010/12/wiola.jpg" alt="" width="93" height="127" />]({{ site.urls.wp_content_base }}/uploads/2010/12/wiola.jpg)Scholę prowadzi Wioletta Figielska &#8211; magister teologii Uniwersytetu Warmińsko &#8211; Mazurskiego w Olsztynie, absolwent kursu kwalifikacyjnego w zakresie śpiewu i muzyki kościelnej, katecheta w Szkole Podstawowej w Olsztynku, organistka przy parafii.
 
 Swoje zamiłowanie do muzyki kościelnej odkryła w 3 klasie szkoły podstawowej, gdy rozpoczęła śpiewanie w scholi dziecięcej zorganizowanej przez katechetkę Ewę Piłat (Suchodolską) przy parafii Najświętszego Serca Pana Jezusa w Olsztynku (5 lat). Następnie należała do scholi Vox Cordis prowadzonej przez ks. Zbigniewa Stępniaka oraz wyłonionego z niej zespołu młodzieżowego Magnalia Dei (4 lata), gdzie grała na gitarze. W 1998 r. założyła scholę Apostołowie Radości przy parafii bł. Anieli Salawy. W latach 2002-2006 prowadziła chór szkolny Bravo przy Gimnazjum w Olsztynku.
 
