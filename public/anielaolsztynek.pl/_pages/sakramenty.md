@@ -5,7 +5,9 @@ date: 2010-12-04T22:05:49+00:00
 author: admin
 layout: page
 guid: http://anielaolsztynek.pl/
+permalink: /sakramenty.html
 ---
+
 ### Chrzest
 
 Jest udzielany w czasie Mszy Św. tylko w 3 niedziele miesiąca i w święta, w każdym innym czasie po Mszy Św. Chrzestni, wg prawa kanonicznego, muszą być wierzący i praktykujący bez przeszkody do sakramentu pokuty, i mieć ukończony 16 rok życia. Obowiązkiem rodziców i chrzestnych jest wychowanie dziecka w wierze katolickiej. [-> KPK](http://aniela.olsztynek.pl/sakr/chrzest.htm)
@@ -32,13 +34,13 @@ Narzeczeni zamierzający zawrzeć sakrament małżeństwa, zgłaszają się do k
 
 Tryb postępowania przewidziany dla zawarcia małżeństwa konkordatowego:
 
-  1. Wystawienie przez kierownika USC zaświadczenia stwierdzającego brak okoliczności wyłączających zawarcie małżeństwa oraz zawierającego treść i datę złożonych przed nim oświadczeń narzeczonych w sprawie nazwisk przyszłych małżonków i ich dzieci (dokument jest ważny 3 miesiące, po upływie daty ważności dokumentu narzeczeni muszą otrzymać nowy).
-  2. Przedłożenie duchownemu przez narzeczonych zaświadczenia wystawionego przez kierownika USC.
-  3. Przyjęcie przez duchownego oświadczenia woli narzeczonych jednoczesnego zawarcia małżeństwa podlegającego prawu polskiemu.
-  4. Sporządzenie przez duchownego zaświadczenia stwierdzającego fakt złożenia przez narzeczonych w/w oświadczenia woli.
-  5. Przekazanie przez duchownego do USC w/w zaświadczenia.
-  6. Sporządzenie aktu małżeństwa przez kierownika USC.
+1. Wystawienie przez kierownika USC zaświadczenia stwierdzającego brak okoliczności wyłączających zawarcie małżeństwa oraz zawierającego treść i datę złożonych przed nim oświadczeń narzeczonych w sprawie nazwisk przyszłych małżonków i ich dzieci (dokument jest ważny 3 miesiące, po upływie daty ważności dokumentu narzeczeni muszą otrzymać nowy).
+2. Przedłożenie duchownemu przez narzeczonych zaświadczenia wystawionego przez kierownika USC.
+3. Przyjęcie przez duchownego oświadczenia woli narzeczonych jednoczesnego zawarcia małżeństwa podlegającego prawu polskiemu.
+4. Sporządzenie przez duchownego zaświadczenia stwierdzającego fakt złożenia przez narzeczonych w/w oświadczenia woli.
+5. Przekazanie przez duchownego do USC w/w zaświadczenia.
+6. Sporządzenie aktu małżeństwa przez kierownika USC.
 
-Jeśli chcesz obejrzeć pełna wersje Kodeksu Prawa Kanonicznego, kliknij <a href="http://aniela.olsztynek.pl/sakr/prawo.htm" target="_blank">tutaj</a>. Możesz także ściągnąć kodeks w postaci pliku *.pdf [stąd](http://aniela.olsztynek.pl/sakr/prawo/kpk.pdf).
+Jeśli chcesz obejrzeć pełna wersje Kodeksu Prawa Kanonicznego, kliknij <a href="http://aniela.olsztynek.pl/sakr/prawo.htm" target="_blank">tutaj</a>. Możesz także ściągnąć kodeks w postaci pliku \*.pdf [stąd](http://aniela.olsztynek.pl/sakr/prawo/kpk.pdf).
 
-Możesz też ściągnąć Katechizm Kościoła Katolickiego w wersji *.pdf [stąd](http://aniela.olsztynek.pl/sakr/prawo/kkk.pdf).
+Możesz też ściągnąć Katechizm Kościoła Katolickiego w wersji \*.pdf [stąd](http://aniela.olsztynek.pl/sakr/prawo/kkk.pdf).

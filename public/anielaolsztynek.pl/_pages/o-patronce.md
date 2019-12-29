@@ -5,7 +5,9 @@ date: 2010-12-04T17:43:04+00:00
 author: admin
 layout: page
 guid: http://aniela.jblew.pl/?page_id=8
+permalink: /o-patronce.html
 ---
+
 ### Bł. Aniela Salawa
 
 Była córką Bartłomieja i Ewy z Bochenków. Ojciec pochodził z Sieprawia, dużej wsi w połowie drogi między Krakowem a Myślenicami, o pow. 2 mile kwadratowe. Z pierwszą żoną Magdaleną z Wielgusów miał 2 synów, a drugą, Zofię z Bochenków poznał w Sułkowicach gdzie odbywał praktykę kowalską. Ojciec drugiej żony prowadził w Sułkowicach (wieś znana z chałupnictwa kowalskiego, dzisiaj miasto) piekarnię.

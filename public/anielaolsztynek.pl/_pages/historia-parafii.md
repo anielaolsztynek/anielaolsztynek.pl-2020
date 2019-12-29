@@ -5,7 +5,9 @@ date: 2010-12-04T17:52:13+00:00
 author: admin
 layout: page
 guid: http://aniela.jblew.pl/?page_id=13
+permalink: /historia-parafii.html
 ---
+
 Parafia została powołana do życia dekretem Ks. Arcybiskupa Edmunda Piszcza z dnia 2 lutego 1996 r. Dekret miał wejść w życie z dniem 1 lipca 1996 r. Pierwszym proboszczem nowopowstałej parafii został mianowany ks. Sławomir Piniaha. Granica między dotychczasową parafią Najświętszego Serca Pana Jezusa w Olsztynku a projektowaną w dzielnicy północno &#8211; wschodniej ma przebiegać szosą Olsztyn &#8211; Olsztynek oraz trasą Warszawa-Olsztynek-Gdańsk (E7). W skład parafii wchodzi wyżej wymieniona część Olsztynka oraz miejscowości: Jagiełek, Łęciny, Sudwa, Świętajny, Tolejny i Wilkowo. Na terenie parafii znajduje się również Skansen a w nim zabytkowy kościółek. Po przeprowadzonych rozmowach Dyrektor muzeum Pan Tadeusz Kufel wyraził zgodę na czasowe użytkowanie przez parafię wymienionego obiektu.
 
 W pierwszej kolejności wybudowana została drewniana kaplica przy ul. Wilczej 11. Budowa została rozpoczęta 18 czerwca 1996 r. a została zakończona 29 lipca 1996 r. Pierwsza Msza Św. w kaplicy została odprawiona 7 lipca 1996 r. Tego dnia o godz. 8.00 odbyła się w Skansenie Msza Św., na którą przyszło 30 osób a na mszach o godz. 10.00 i 11.30 w kaplicy było ok. 60 osób. Parafianki ozdobiły ołtarz kwiatami. Byli też pierwsi ministranci (Krzysztof i Andrzej Sokal, Mariusz Lisowski oraz Bartłomiej Tabędzki z Zambrowa).
@@ -94,13 +96,13 @@ Tuż przed Bożym Narodzeniem 2007 roku w bocznym ołtarzu został zawieszony ob
 
 24 grudnia 2007 roku celebrowana była pierwsza Pasterka w nowym kościele. Tradycyjnie poprzedził ją koncert kolęd przygotowany przez parafialną scholę, a przewodniczył jej ksiądz Arcybiskup Senior Edmund Piszcz, który poświęcił także ołtarz, tabernakulum oraz obraz Jezusa Miłosiernego. Kościół wypełniali bardzo licznie zgromadzeni parafianie oraz zaproszeni goście.
 
-Jak co roku styczeń w naszej parafii to czas jasełek bożonarodzeniowych, koncertów kolęd oraz wizyt duszpasterskich. 
+Jak co roku styczeń w naszej parafii to czas jasełek bożonarodzeniowych, koncertów kolęd oraz wizyt duszpasterskich.
 
 Rok 2008 to nadal prace wykończeniowe w kościele &#8211; wstawiono dębowe ławki boczne, kolejne witraże ufundowane przez: parafian, Duszpasterstwo Kierowców, leśników z Nadleśnictw Jagiełek, Nowe Ramuki, Olsztynek. Trwały też prace wokół kościoła &#8211; posadzono rośliny ozdobne, dar rodziny z parafii; wykonano parking oraz chodnik przy kościele.
 
-W czerwcu został umieszczony w kościele obraz Matki Bożej Nieustającej Pomocy, dar nowożeńców z naszej parafii, poświęcony podczas ich uroczystości ślubnej. 
+W czerwcu został umieszczony w kościele obraz Matki Bożej Nieustającej Pomocy, dar nowożeńców z naszej parafii, poświęcony podczas ich uroczystości ślubnej.
 
-2 sierpnia 2008 roku Ksiądz Proboszcz, organistka i członkowie służby liturgicznej posługiwali we Mszy Świętej  
+2 sierpnia 2008 roku Ksiądz Proboszcz, organistka i członkowie służby liturgicznej posługiwali we Mszy Świętej
 będącej częścią obchodów Dnia Bezpiecznego Kierowcy Służb Mundurowych, odbywających się w Rybakach. To tam, podczas poświęcenia kapliczki Świętego Krzysztofa, patrona kierowców, zrodziła się myśl, aby i przy naszym kościele powstała podobna kapliczka.
 
 Także w Rybakach, w Ośrodku Caritas, pod koniec sierpnia 2008 roku grupa ministrantów oraz dziewcząt ze scholi odpoczywała na biwaku, zorganizowanym dzięki pomocy księdza Mariana Midury.
@@ -111,17 +113,17 @@ W grudniu 2008 roku jedna z rodzin parafii ufundowała relikwiarz na relikwie B�
 
 Początek roku 2009 to wstawienie w naszym kościele kolejnych trzech witraży &#8211; darów leśników, strażaków i Służby Celnej. Mszę Świętą, podczas której zostały poświęcone te witraże uświetnił udział przedstawicieli wszystkich wcześniej wymienionych służb a także występ zespołu kleryków z Pieniężna.
 
-W marcu 2009 roku została położona granitowa posadzka w prezbiterium oraz pobudowano ołtarz i ambonę. To dzieło zostało w całości ufundowane przez jedną z rodzin naszej parafii. 
+W marcu 2009 roku została położona granitowa posadzka w prezbiterium oraz pobudowano ołtarz i ambonę. To dzieło zostało w całości ufundowane przez jedną z rodzin naszej parafii.
 
-W dniach 25-26 kwietnia nasza wspólnota przeżywała peregrynację obrazu Jezusa Miłosiernego. Tę uroczystość poprzedziły rekolekcje, a obraz powitaliśmy na uroczystej mszy Świętej pod przewodnictwem księdza Biskupa Jacka Jezierskego. Dwie kopie obrazu nawiedzały domy wszystkich chętnych rodzin z naszej parafii. Mieszkańcy każdej ulicy, czy też miejscowości, składali ofiary na Msze Święte w intencji ich rodzin, ofiary te zostały później przeznaczone na zakup lampek halogenowych umieszczonych nad Stacjami Drogi Krzyżowej. Nawiedzenie parafian przez obraz Jezusa Miłosiernego trwało 6 i pół miesiąca, obraz przyjęło prawie 400 rodzin na 520 mieszkających w parafii. Wraz z obrazem wędrowały księgi pamiątkowe, w których mieszkańcy dziękowali za wszelkie łaski. Owocem peregrynacji obrazu było też powołanie do życia Parafialnego Zespołu Caritas, którego zadaniem będzie pomoc najuboższym mieszkańcom parafii. 
+W dniach 25-26 kwietnia nasza wspólnota przeżywała peregrynację obrazu Jezusa Miłosiernego. Tę uroczystość poprzedziły rekolekcje, a obraz powitaliśmy na uroczystej mszy Świętej pod przewodnictwem księdza Biskupa Jacka Jezierskego. Dwie kopie obrazu nawiedzały domy wszystkich chętnych rodzin z naszej parafii. Mieszkańcy każdej ulicy, czy też miejscowości, składali ofiary na Msze Święte w intencji ich rodzin, ofiary te zostały później przeznaczone na zakup lampek halogenowych umieszczonych nad Stacjami Drogi Krzyżowej. Nawiedzenie parafian przez obraz Jezusa Miłosiernego trwało 6 i pół miesiąca, obraz przyjęło prawie 400 rodzin na 520 mieszkających w parafii. Wraz z obrazem wędrowały księgi pamiątkowe, w których mieszkańcy dziękowali za wszelkie łaski. Owocem peregrynacji obrazu było też powołanie do życia Parafialnego Zespołu Caritas, którego zadaniem będzie pomoc najuboższym mieszkańcom parafii.
 
 Kolejne zmiany w wystroju naszego kościoła, jakie dokonały się w nim w 2009 roku, to pojawienie się dwóch wełnianych dywanów w prezbiterium ufundowanych przez rodzinę z naszej parafii oraz nowych witraży, daru rodzin z naszej wspólnoty, nauczycieli z naszej parafii i sympatyzujących z nią.
 
-3 lipca 2009 roku, podczas obchodów 650-lecia Olsztynka, ksiądz proboszcz Sławomir Piniaha otrzymał z rąk władz miejskich tytuł &#8222;Zasłużony dla Olsztynka&#8221; za zaangażowanie i działalność na rzecz społeczeństwa naszego miasta. 
+3 lipca 2009 roku, podczas obchodów 650-lecia Olsztynka, ksiądz proboszcz Sławomir Piniaha otrzymał z rąk władz miejskich tytuł &#8222;Zasłużony dla Olsztynka&#8221; za zaangażowanie i działalność na rzecz społeczeństwa naszego miasta.
 
 2 sierpnia 2009 roku została poświęcona kapliczka Świętego Krzysztofa, wybudowana dzięki pomocy fundacji Pana Krzysztofa Hołowczyca, księdza Mariana Midury, Jacka Czachora oraz kierowców z naszej parafii (rozprowadzane były specjalne cegiełki na ten cel). Figura Świętego Krzysztofa jest darem misjonarzy.
 
-15 sierpnia 2009 roku , w Uroczystość Wniebowzięcia Najświętszej Marii Panny w naszym kościele odbył się ślub Wioletty Figielskiej i Adama Korgula, którzy posługują w naszej parafii prawie od początku jej istnienia &#8211; Wioletta jest organistką, animatorem muzycznym i katechetką, natomiast Adam zajmuje się służbą liturgiczną. Młodą parę pobłogosławił ksiądz Biskup Jacek Jezierski. 
+15 sierpnia 2009 roku , w Uroczystość Wniebowzięcia Najświętszej Marii Panny w naszym kościele odbył się ślub Wioletty Figielskiej i Adama Korgula, którzy posługują w naszej parafii prawie od początku jej istnienia &#8211; Wioletta jest organistką, animatorem muzycznym i katechetką, natomiast Adam zajmuje się służbą liturgiczną. Młodą parę pobłogosławił ksiądz Biskup Jacek Jezierski.
 
 W listopadzie 2009 roku w kościele pojawiła się Pierwsza Stacja nowej Drogi Krzyżowej &#8211; dar plastyka, który zaprojektował wystrój kościoła. Natomiast w grudniu odbyła się akcja zbierania funduszy na zakup ławek do kościoła, w tym celu rozprowadzane były cegiełki w formie kartek świątecznych ze zdjęciem naszej świątyni; do akcji włączyły się też zaprzyjaźnione nadleśnictwa.
 
@@ -137,13 +139,13 @@ W dniu 10 kwietnia 2010 roku w drodze na obchody rocznicy zbrodni katyńskiej ro
 
 6 czerwca 2010 roku ksiądz Jerzy Popiełuszko, kapłan, który zginął męczeńską śmiercią z rąk SB, został ogłoszony Błogosławionym. Po 27 latach trwania procesu beatyfikacyjnego Papież Benedykt XVI ogłosił heroiczność jego cnót.
 
-27 czerwca w naszej parafii gościliśmy grupę dzieci i młodzieży z terenów południowej Polski, doświadczonych tragiczną w skutkach powodzią. Dla wszystkich dzieci przygotowaliśmy paczki zawierające przybory szkolne. Grupa przebywała na koloniach w ośrodku Caritas w Rybakach. 
+27 czerwca w naszej parafii gościliśmy grupę dzieci i młodzieży z terenów południowej Polski, doświadczonych tragiczną w skutkach powodzią. Dla wszystkich dzieci przygotowaliśmy paczki zawierające przybory szkolne. Grupa przebywała na koloniach w ośrodku Caritas w Rybakach.
 
 Wakacje to czas wzmożonych działań Parafialnego Zespołu Caritas &#8211; rozdano kolejną transzę żywności 60-ciu potrzebującym rodzinom (pomocy przy transporcie żywności z Olsztyna udzielili przedsiębiorcy z parafii), zorganizowano też kolonie w Rybakach dla dzieci z rodzin objętych pomocą, a także w sierpniu trzydniowy pobyt w pensjonacie w Ostrowinie, natomiast przed rozpoczęciem roku szkolnego przygotowano wyprawki szkolne dla dzieci.
 
 3 października 2010 roku na Mszy Świętej o godzinie 11.00 w naszej świątyni obecny był ksiądz Arcybiskup Tadeusz Kondrusiewicz, Metropolita Mińsko-Mohylewski. Dzięki księdzu Arcybiskupowi i księdzu Zbigniewowi Kozłowskiemu, który posługującemu na Ukrainie, a przebywającemu czasowo na urlopie w Polsce, mogliśmy dowiedzieć się jak funkcjonuje i jakie ma problemy kościół na Wschodzie.
 
-Pod koniec roku 2010 przybyło w kościele kilka nowych Stacji Drogi Krzyżowej, ufundowanych przez rodziny z naszej parafii oraz nowe witraże. Przywieziono także ławki dębowe, które zastąpiły używane przez 14 lat krzesełka. 
+Pod koniec roku 2010 przybyło w kościele kilka nowych Stacji Drogi Krzyżowej, ufundowanych przez rodziny z naszej parafii oraz nowe witraże. Przywieziono także ławki dębowe, które zastąpiły używane przez 14 lat krzesełka.
 
 Tradycyjnie już okres przedświąteczny był czasem pomocy najuboższym ( rozdawanie żywności, paczki świąteczne).
 
@@ -165,8 +167,8 @@ Latem dzięki Parafialnemu Zespołowi Caritas po raz kolejny udało się zorgani
 
 W październiku 2011 roku kościół został otynkowany z zewnątrz, zamontowano też parapety nierdzewne oraz wykonano obróbkę dachu. Był to wspólny wysiłek księdza Proboszcza i budowlańców z parafii, przy tynkowaniu pomagali też parafianie, między innymi bezrobotni.
 
-W grudniu 2011 roku 130 rodzin otrzymało dary żywnościowe, jak co roku też przygotowano paczki świąteczne z żywnością  
-i zabawkami, które dzieciom wręczył Mikołaj. 
+W grudniu 2011 roku 130 rodzin otrzymało dary żywnościowe, jak co roku też przygotowano paczki świąteczne z żywnością
+i zabawkami, które dzieciom wręczył Mikołaj.
 
 6 stycznia 2012 roku Święto Trzech Króli wróciło jako dzień wolny od pracy &#8211; tego dnia na Mszy Świętej z koncertem kolęd wystąpił chór z Olsztynka pod dyrekcją pani Marii Gronkiewicz.
 
