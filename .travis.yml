@@ -10,9 +10,9 @@ before_install:
 
 script:
   # Build public website
-  - (cd public && bundle exec jekyll build)
+  - (cd public/anielaolsztynek.pl && bundle exec jekyll build)
   # Test links on public website
-  - (cd public && bundle exec htmlproofer ./_site)
+  - (cd public/anielaolsztynek.pl && bundle exec htmlproofer ./_site)
 
 branches:
   only:
