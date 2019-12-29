@@ -5,10 +5,6 @@ cache:
   directories:
     - /home/travis/.rvm/
 
-before_install:
-  - npm i -g npm
-  - npm i -g firebase-tools
-
 script:
   - pwd
   - ls /home/travis
