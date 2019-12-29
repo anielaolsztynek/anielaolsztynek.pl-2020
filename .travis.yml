@@ -1,0 +1,37 @@
+language: ruby
+sudo: false
+cache: bundler
+rvm:
+  - 2.3
+
+before_install:
+  - npm i -g npm
+  - npm i -g firebase-tools
+
+script:
+  # Build public website
+  - (cd public && bundle exec jekyll build)
+  # Test links on public website
+  - (cd public && bundle exec htmlproofer ./_site)
+
+branches:
+  only:
+    - production
+
+env:
+  global:
+    - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
+
+addons:
+  apt:
+    packages:
+      - libcurl4-openssl-dev
+
+deploy:
+  - provider: script
+    script: bash -c "npx firebase deploy --only hosting"
+    skip_cleanup: true
+    on:
+      tags: false
+      all_branches: true
+      condition: $TRAVIS_BRANCH =~ ^(production)$
