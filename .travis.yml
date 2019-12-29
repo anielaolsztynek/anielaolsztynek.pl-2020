@@ -1,16 +1,21 @@
 language: ruby
 sudo: false
-cache: bundler
+cache:
+  bundler: true
+  directories:
+    - /home/travis/.rvm/
 
 before_install:
   - npm i -g npm
   - npm i -g firebase-tools
 
 script:
+  - pwd
+  - ls /home/travis
   # Build public website
   - (cd public/anielaolsztynek.pl && bundle exec jekyll build)
   # Test links on public website
-  - (cd public/anielaolsztynek.pl && bundle exec htmlproofer ./_site)
+  # - (cd public/anielaolsztynek.pl && bundle exec htmlproofer ./_site) TODO reenable
 
 branches:
   only:
