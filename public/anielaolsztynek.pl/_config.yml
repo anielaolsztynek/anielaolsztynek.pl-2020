@@ -24,6 +24,7 @@ description: >
   Olsztynku
 email: your-email@example.com
 baseurl: "" # the subpath of your site, e.g. /blog
+lang: pl
 
 urls:
   - kronika_base: https://anielaolsztynek-kronika.web.app
