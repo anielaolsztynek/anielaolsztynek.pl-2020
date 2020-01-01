@@ -27,8 +27,11 @@ baseurl: "" # the subpath of your site, e.g. /blog
 lang: pl
 
 urls:
-  - kronika_base: https://anielaolsztynek-kronika.web.app
-  - wp_content_base: /assets/wp-content
+  kronika_base: https://anielaolsztynek-kronika.web.app
+  wp_content_base: /assets/wp-content
+wp_content_base: /assets/wp-content
+
+paginate: 10
 
 # Build settings
 markdown: kramdown
