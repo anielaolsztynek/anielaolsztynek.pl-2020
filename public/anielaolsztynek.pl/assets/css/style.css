@@ -12,6 +12,16 @@ body {
   padding: 0;
   color: #121212;
 }
+.column {
+  float: left;
+}
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
 #headerline {
   background: url(/assets/theme/topbg.jpg) repeat-x;
   width: 100%;
@@ -40,7 +50,6 @@ body {
   width: 978px;
   margin: 0;
   padding: 0;
-  float: left;
 }
 #topcontent {
   width: 978px;
@@ -62,15 +71,18 @@ body {
 
 #insidebar {
   width: 210px;
+  max-width: 210px;
   padding: 5px;
   padding-top: 15px;
-  vertical-align: top;
+  float: right;
 }
+
 #contentwrap {
-  width: 768px;
+  width: 702px;
+  max-width: 702px;
   padding: 15px;
-  vertical-align: top;
 }
+
 #insidebar h3 {
   margin: 0;
   padding: 0;
@@ -135,6 +147,11 @@ a:hover {
 .post {
   padding-bottom: 15px;
 }
+
+.post:first-of-type {
+  margin-bottom: 100px;
+}
+
 .post p {
   margin: 0;
   padding: 0;
@@ -168,10 +185,7 @@ ul {
   padding-bottom: 55px;
   padding-top: 15px;
 }
-#after-first-entry {
-  width: 100%;
-  height: 100px;
-}
+
 blockquote {
   padding: 10px;
   padding-top: 38px;

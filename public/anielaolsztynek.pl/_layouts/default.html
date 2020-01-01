@@ -8,23 +8,23 @@
     {%- include header.html -%}
 
     <div id="container">
-			<div id="wcontent">
-			    <div id="topcontent">&nbsp;</div>
-                <div id="content">
-                    <table id="maincontent">
-                        <tr>
-                          <td id="contentwrap" role="main" aria-label="Content">
-			                    <h1><a href="/">Parafia p.w. Bł. Anieli Salawy w Olsztynku</a></h1>
-                          {{ content }}
-			                </td>
-			                {%- include sidebar.html -%}
-			            </tr>
-			        </table>
+		  <div id="wcontent">
+			  <div id="topcontent">&nbsp;</div>
+        <div id="content">
+          <div id="maincontent" class="row">
+              <div class="column" id="contentwrap" role="main" aria-label="Content">
+			          <h1><a href="/">Parafia p.w. Bł. Anieli Salawy w Olsztynku</a></h1>
+                {{ content }}
+              </div>
+              <div class="column" id="insidebar" class="insidebar">
+                {%- include sidebar.html -%}
+              </div>
 			    </div>
-			    <div id="bottomcontent">&nbsp;</div>
+			  </div>
+			  <div id="bottomcontent">&nbsp;</div>
 			</div>
 		</div>
-    {%- include footer.html -%}
+      {%- include footer.html -%}
 
   </body>
 
