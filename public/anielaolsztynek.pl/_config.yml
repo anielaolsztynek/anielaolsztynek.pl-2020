@@ -57,21 +57,26 @@ menu:
   - title: O patronce
     url: /o-patronce/
 
+jekyll-archives:
+  enabled:
+    - year
+    - month
+  layout: home
+  permalinks:
+    year: "/:year/"
+    month: "/:year/:month/"
+
 paginate: 10
 
 # Build settings
-markdown: kramdown
+markdown: CommonMark
 theme: minima
 plugins:
   - jekyll-feed
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+  - jekyll-archives
+  - jekyll-paginate
+  - jekyll-include-cache
+  - jekyll-commonmark
+
+exclude:
+  - .jekyll-cache
