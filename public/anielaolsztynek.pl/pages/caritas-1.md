@@ -4,8 +4,7 @@ title: "Caritas &#8211; 1%"
 date: 2011-03-01T20:02:09+00:00
 author: admin
 layout: page
-guid: http://anielaolsztynek.pl/
-permalink: /caritas-1.html
+permalink: /caritas-1/
 ---
 
 **Dane potrzebne do dokonania odpisu w zeznaniu podatkowym na parafialne Caritas:**
