@@ -31,6 +31,32 @@ urls:
   wp_content_base: /assets/wp-content
 wp_content_base: /assets/wp-content
 
+menu:
+  - title: Strona główna
+    url: /
+  - title: Porządek nabożeństw
+    url: /porzadek-nabozenstw/
+  - title: Caritas – 1%
+    url: /caritas-1/
+  - title: Galeria zdjęć
+    url: /galeria/
+  - title: Kroniki parafialne
+    url: /kroniki-parafialne/
+  - title: Róże Różańcowe
+    url: /roze-rozancowe/
+  - title: Ministranci
+    url: /ministranci/
+  - title: Sakramenty
+    url: /sakramenty/
+  - title: Schola
+    url: /schola/
+  - title: Kontakt
+    url: /kontakt/
+  - title: Historia parafii
+    url: /historia-parafii/
+  - title: O patronce
+    url: /o-patronce/
+
 paginate: 10
 
 # Build settings

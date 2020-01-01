@@ -2,9 +2,15 @@
   <h3 class="widget-title">Menu</h3>
   <div class="menu-menu-container">
     <ul id="menu-menu" class="menu">
-      <li
+      {% for item in site.menu %}
+      <li class="menu-item">
+        <a href="{{ item.url }}">{{ item.title }}</a>
+      </li>
+      {% endfor %}
+
+      <!--<li
         id="menu-item-152"
-        class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-152"
+        class="menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-152"
       >
         <a href="http://anielaolsztynek.pl/">Strona główna</a>
       </li>
@@ -77,7 +83,7 @@
         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-161"
       >
         <a href="http://anielaolsztynek.pl/o-patronce/">O patronce</a>
-      </li>
+      </li>-->
     </ul>
   </div>
 </div>
