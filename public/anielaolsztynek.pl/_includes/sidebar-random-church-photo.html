@@ -1,0 +1,10 @@
+<img style="border: 1px solid gray;" id="sidebar-random-church-photo" />
+<script>
+  var churchImages = [
+    "/assets/foto/kosciol200.jpg",
+    "/assets/foto/kosciol200_2.jpg"
+  ];
+
+  var n = Math.floor(churchImages.length * Math.random());
+  document.getElementById("sidebar-random-church-photo").src = churchImages[n];
+</script>

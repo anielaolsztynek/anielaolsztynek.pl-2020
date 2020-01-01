@@ -7,12 +7,23 @@
 
     {%- include header.html -%}
 
-    <main class="page-content" aria-label="Content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
-    </main>
-
+    <div id="container">
+			<div id="wcontent">
+			    <div id="topcontent">&nbsp;</div>
+                <div id="content">
+                    <table id="maincontent">
+                        <tr>
+                            <td id="contentwrap" role="main" aria-label="Content">
+			                    <h1><a href="/">Parafia p.w. Bł. Anieli Salawy w Olsztynku</a></h1>
+                          {{ content }}
+			                </td>
+			                {%- include sidebar.html -%}
+			            </tr>
+			        </table>
+			    </div>
+			    <div id="bottomcontent">&nbsp;</div>
+			</div>
+		</div>
     {%- include footer.html -%}
 
   </body>
