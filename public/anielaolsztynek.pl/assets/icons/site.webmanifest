@@ -1,0 +1,14 @@
+{
+    "name": "B\u0142. Aniela Olsztynek",
+    "short_name": "B\u0142. Aniela Olsztynek",
+    "icons": [
+        {
+            "src": "/assets/icons/android-chrome-96x96.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#764796",
+    "background_color": "#764796",
+    "display": "standalone"
+}
