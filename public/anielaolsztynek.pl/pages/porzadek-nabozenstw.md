@@ -5,7 +5,7 @@ date: 2014-04-02T00:48:31+00:00
 author: admin
 layout: page
 guid: http://aniela.jblew.pl/?page_id=30
-permalink: /porzadek-nabozenstw.html
+permalink: /porzadek-nabozenstw/
 ---
 
 - **Niedziele i Święta**: 9.00, 11.00, 17.00

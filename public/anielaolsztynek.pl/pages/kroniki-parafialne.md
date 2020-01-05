@@ -5,7 +5,7 @@ date: 2016-09-04T13:43:35+00:00
 author: admin
 layout: page
 guid: http://anielaolsztynek.pl/
-permalink: /kroniki-parafialne.html
+permalink: /kroniki-parafialne/
 ---
 
 Z okazji 20-lecia naszej parafii udostępniamy całość kronik parafialnych, a także prezentację przygotowaną z okazji dzisiejszego święta.

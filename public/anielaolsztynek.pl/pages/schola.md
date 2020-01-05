@@ -5,7 +5,7 @@ date: 2010-12-04T20:57:16+00:00
 author: admin
 layout: page
 guid: http://anielaolsztynek.pl/
-permalink: /schola.html
+permalink: /schola/
 ---
 
 Schola spotyka się raz w tygodniu, **w czwartki o godzinie 15.00 w domu parafialnym.** W spotkaniach uczestniczą dzieci dużej rozpiętości wiekowej. Wskazanym jest, aby dziecko potrafiło czytać, co usprawnia naukę śpiewu. Zachęcamy:

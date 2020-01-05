@@ -1,6 +1,6 @@
 ---
 id: 139
-title: "Caritas &#8211; 1%"
+title: "Caritas 1%"
 date: 2011-03-01T20:02:09+00:00
 author: admin
 layout: page

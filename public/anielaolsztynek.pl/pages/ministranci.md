@@ -5,7 +5,7 @@ date: 2014-03-20T22:07:23+00:00
 author: admin
 layout: page
 guid: http://anielaolsztynek.pl/
-permalink: /ministranci.html
+permalink: /ministranci/
 ---
 
 Każdy chcący zostać ministrantem powinien zgłosić się do zakrystii bądź do ks. Proboszcza. Po zgłoszeniu chęci do służby przy ołtarzu zostaje aspirantem. Jest to dla niego czas obeznania się z ministranturą, zwyczajami i zasadami panującymi w zakrystii oraz także z innymi ministrantami. Okres ten trwa zwykle około trzech miesięcy, jednak może zostać skrócony lub wydłużony, jeśli będzie tego wymagać sytuacja. Aspirant nie uczy się sam &#8211; na każdej Mszy Św. jest przy nim jego starszy kolega, który udziela mu wskazówek i pilnuje, aby nie zagubił się podczas liturgii. W tym czasie aspirant uczestniczy również w indywidualnych próbach, których celem jest bliższe poznanie liturgii (zachowanie na Mszy Świętej, funkcje itp.). Po przejściu tego etapu zostaje wpisany na listę ministrantów (wpisanie na listę następuje zwykle na początku miesiąca) oraz uczestniczy we Mszy Św., podczas której wykonuje po raz pierwszy swoje funkcje.

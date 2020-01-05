@@ -5,7 +5,7 @@ date: 2014-04-06T11:03:55+00:00
 author: admin
 layout: page
 guid: http://anielaolsztynek.pl/
-permalink: /roze-rozancowe.html
+permalink: /roze-rozancowe/
 ---
 
 ### **Intencje papieskie dla Żywego Różańca na rok 2014**

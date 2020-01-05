@@ -5,7 +5,7 @@ date: 2010-12-04T18:11:01+00:00
 author: admin
 layout: page
 guid: http://aniela.jblew.pl/?page_id=23
-permalink: /kontakt.html
+permalink: /kontakt/
 ---
 
 **Adres:

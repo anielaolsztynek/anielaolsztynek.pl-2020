@@ -5,7 +5,7 @@ date: 2010-12-04T22:05:49+00:00
 author: admin
 layout: page
 guid: http://anielaolsztynek.pl/
-permalink: /sakramenty.html
+permalink: /sakramenty/
 ---
 
 ### Chrzest

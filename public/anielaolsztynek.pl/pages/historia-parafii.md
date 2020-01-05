@@ -5,7 +5,7 @@ date: 2010-12-04T17:52:13+00:00
 author: admin
 layout: page
 guid: http://aniela.jblew.pl/?page_id=13
-permalink: /historia-parafii.html
+permalink: /historia-parafii/
 ---
 
 Parafia została powołana do życia dekretem Ks. Arcybiskupa Edmunda Piszcza z dnia 2 lutego 1996 r. Dekret miał wejść w życie z dniem 1 lipca 1996 r. Pierwszym proboszczem nowopowstałej parafii został mianowany ks. Sławomir Piniaha. Granica między dotychczasową parafią Najświętszego Serca Pana Jezusa w Olsztynku a projektowaną w dzielnicy północno &#8211; wschodniej ma przebiegać szosą Olsztyn &#8211; Olsztynek oraz trasą Warszawa-Olsztynek-Gdańsk (E7). W skład parafii wchodzi wyżej wymieniona część Olsztynka oraz miejscowości: Jagiełek, Łęciny, Sudwa, Świętajny, Tolejny i Wilkowo. Na terenie parafii znajduje się również Skansen a w nim zabytkowy kościółek. Po przeprowadzonych rozmowach Dyrektor muzeum Pan Tadeusz Kufel wyraził zgodę na czasowe użytkowanie przez parafię wymienionego obiektu.
