@@ -67,15 +67,12 @@ jekyll-archives:
     year: "/:year/"
     month: "/:year/:month/"
 
-paginate: 10
-
 # Build settings
 markdown: CommonMark
 theme: minima
 plugins:
   - jekyll-feed
   - jekyll-archives
-  - jekyll-paginate
   - jekyll-include-cache
   - jekyll-commonmark
   - jekyll-sitemap
