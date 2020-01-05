@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<h1>Archiwum postów</h1>
+
+{%- for post in page.posts -%}
+<article class="post">
+  <h2 class="entry-title">{{ post.title | escape }}</h2>
+
+  {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+  <div class="postmeta">{{ post.date | date: date_format }}</div>
+
+  <div class="entry-content">
+    {{ post.content }}
+  </div>
+</article>
+{%- endfor -%}

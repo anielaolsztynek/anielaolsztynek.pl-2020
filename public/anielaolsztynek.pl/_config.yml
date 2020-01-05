@@ -14,8 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-# url: http://anielaolsztynek.pl
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+url: "" # the base hostname & protocol for your site
 name: Parafia pod wezwaniem Błogosławionej Anieli Salawy w Olsztynku
 title: Parafia pod wezwaniem Błogosławionej Anieli Salawy w Olsztynku
 description: >
@@ -61,7 +61,9 @@ jekyll-archives:
   enabled:
     - year
     - month
-  layout: home
+  layouts:
+    year: archive
+    month: archive
   permalinks:
     year: "/:year/"
     month: "/:year/:month/"
@@ -80,3 +82,17 @@ plugins:
 
 exclude:
   - .jekyll-cache
+
+monthNames:
+  - Styczeń
+  - Luty
+  - Marzec
+  - Kwiecień
+  - Maj
+  - Czerwiec
+  - Lipiec
+  - Sierpień
+  - Wrzesień
+  - Październik
+  - Listopad
+  - Grudzień

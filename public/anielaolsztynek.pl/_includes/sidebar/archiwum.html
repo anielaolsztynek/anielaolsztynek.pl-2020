@@ -1,114 +1,17 @@
+<div id="archives-2" class="widget-container widget_archive">
+  <h3 class="widget-title">Archiwum</h3>
+  <ul>
+    {% assign postsByYearMonth = site.posts | group_by_exp:"post", "post.date |
+    date: '%Y %b'" %} {% for yearMonth in postsByYearMonth %}
+    <li class="list-group-item py-1">
+      {% for item in yearMonth.items limit: 1 %} {% assign m = item.date | date:
+      "%-m" | minus: 1 %}
 
-<div id="archives-2" class="widget-container widget_archive"><h3 class="widget-title">Archiwum</h3>		<ul>
-  <li><a href="http://anielaolsztynek.pl/2019/12/">Grudzień 2019</a></li>
-  <li><a href="http://anielaolsztynek.pl/2019/11/">Listopad 2019</a></li>
-  <li><a href="http://anielaolsztynek.pl/2019/10/">Październik 2019</a></li>
-  <li><a href="http://anielaolsztynek.pl/2019/09/">Wrzesień 2019</a></li>
-  <li><a href="http://anielaolsztynek.pl/2019/08/">Sierpień 2019</a></li>
-  <li><a href="http://anielaolsztynek.pl/2019/07/">Lipiec 2019</a></li>
-  <li><a href="http://anielaolsztynek.pl/2019/06/">Czerwiec 2019</a></li>
-  <li><a href="http://anielaolsztynek.pl/2019/05/">Maj 2019</a></li>
-  <li><a href="http://anielaolsztynek.pl/2019/04/">Kwiecień 2019</a></li>
-  <li><a href="http://anielaolsztynek.pl/2019/03/">Marzec 2019</a></li>
-  <li><a href="http://anielaolsztynek.pl/2019/02/">Luty 2019</a></li>
-  <li><a href="http://anielaolsztynek.pl/2019/01/">Styczeń 2019</a></li>
-  <li><a href="http://anielaolsztynek.pl/2018/12/">Grudzień 2018</a></li>
-  <li><a href="http://anielaolsztynek.pl/2018/11/">Listopad 2018</a></li>
-  <li><a href="http://anielaolsztynek.pl/2018/10/">Październik 2018</a></li>
-  <li><a href="http://anielaolsztynek.pl/2018/09/">Wrzesień 2018</a></li>
-  <li><a href="http://anielaolsztynek.pl/2018/08/">Sierpień 2018</a></li>
-  <li><a href="http://anielaolsztynek.pl/2018/07/">Lipiec 2018</a></li>
-  <li><a href="http://anielaolsztynek.pl/2018/06/">Czerwiec 2018</a></li>
-  <li><a href="http://anielaolsztynek.pl/2018/05/">Maj 2018</a></li>
-  <li><a href="http://anielaolsztynek.pl/2018/04/">Kwiecień 2018</a></li>
-  <li><a href="http://anielaolsztynek.pl/2018/03/">Marzec 2018</a></li>
-  <li><a href="http://anielaolsztynek.pl/2018/02/">Luty 2018</a></li>
-  <li><a href="http://anielaolsztynek.pl/2018/01/">Styczeń 2018</a></li>
-  <li><a href="http://anielaolsztynek.pl/2017/12/">Grudzień 2017</a></li>
-  <li><a href="http://anielaolsztynek.pl/2017/11/">Listopad 2017</a></li>
-  <li><a href="http://anielaolsztynek.pl/2017/10/">Październik 2017</a></li>
-  <li><a href="http://anielaolsztynek.pl/2017/09/">Wrzesień 2017</a></li>
-  <li><a href="http://anielaolsztynek.pl/2017/08/">Sierpień 2017</a></li>
-  <li><a href="http://anielaolsztynek.pl/2017/07/">Lipiec 2017</a></li>
-  <li><a href="http://anielaolsztynek.pl/2017/06/">Czerwiec 2017</a></li>
-  <li><a href="http://anielaolsztynek.pl/2017/05/">Maj 2017</a></li>
-  <li><a href="http://anielaolsztynek.pl/2017/04/">Kwiecień 2017</a></li>
-  <li><a href="http://anielaolsztynek.pl/2017/03/">Marzec 2017</a></li>
-  <li><a href="http://anielaolsztynek.pl/2017/02/">Luty 2017</a></li>
-  <li><a href="http://anielaolsztynek.pl/2017/01/">Styczeń 2017</a></li>
-  <li><a href="http://anielaolsztynek.pl/2016/12/">Grudzień 2016</a></li>
-  <li><a href="http://anielaolsztynek.pl/2016/11/">Listopad 2016</a></li>
-  <li><a href="http://anielaolsztynek.pl/2016/10/">Październik 2016</a></li>
-  <li><a href="http://anielaolsztynek.pl/2016/09/">Wrzesień 2016</a></li>
-  <li><a href="http://anielaolsztynek.pl/2016/08/">Sierpień 2016</a></li>
-  <li><a href="http://anielaolsztynek.pl/2016/07/">Lipiec 2016</a></li>
-  <li><a href="http://anielaolsztynek.pl/2016/06/">Czerwiec 2016</a></li>
-  <li><a href="http://anielaolsztynek.pl/2016/05/">Maj 2016</a></li>
-  <li><a href="http://anielaolsztynek.pl/2016/04/">Kwiecień 2016</a></li>
-  <li><a href="http://anielaolsztynek.pl/2016/03/">Marzec 2016</a></li>
-  <li><a href="http://anielaolsztynek.pl/2016/02/">Luty 2016</a></li>
-  <li><a href="http://anielaolsztynek.pl/2016/01/">Styczeń 2016</a></li>
-  <li><a href="http://anielaolsztynek.pl/2015/12/">Grudzień 2015</a></li>
-  <li><a href="http://anielaolsztynek.pl/2015/11/">Listopad 2015</a></li>
-  <li><a href="http://anielaolsztynek.pl/2015/10/">Październik 2015</a></li>
-  <li><a href="http://anielaolsztynek.pl/2015/09/">Wrzesień 2015</a></li>
-  <li><a href="http://anielaolsztynek.pl/2015/08/">Sierpień 2015</a></li>
-  <li><a href="http://anielaolsztynek.pl/2015/07/">Lipiec 2015</a></li>
-  <li><a href="http://anielaolsztynek.pl/2015/06/">Czerwiec 2015</a></li>
-  <li><a href="http://anielaolsztynek.pl/2015/05/">Maj 2015</a></li>
-  <li><a href="http://anielaolsztynek.pl/2015/04/">Kwiecień 2015</a></li>
-  <li><a href="http://anielaolsztynek.pl/2015/03/">Marzec 2015</a></li>
-  <li><a href="http://anielaolsztynek.pl/2015/02/">Luty 2015</a></li>
-  <li><a href="http://anielaolsztynek.pl/2015/01/">Styczeń 2015</a></li>
-  <li><a href="http://anielaolsztynek.pl/2014/12/">Grudzień 2014</a></li>
-  <li><a href="http://anielaolsztynek.pl/2014/11/">Listopad 2014</a></li>
-  <li><a href="http://anielaolsztynek.pl/2014/10/">Październik 2014</a></li>
-  <li><a href="http://anielaolsztynek.pl/2014/09/">Wrzesień 2014</a></li>
-  <li><a href="http://anielaolsztynek.pl/2014/08/">Sierpień 2014</a></li>
-  <li><a href="http://anielaolsztynek.pl/2014/07/">Lipiec 2014</a></li>
-  <li><a href="http://anielaolsztynek.pl/2014/06/">Czerwiec 2014</a></li>
-  <li><a href="http://anielaolsztynek.pl/2014/05/">Maj 2014</a></li>
-  <li><a href="http://anielaolsztynek.pl/2014/04/">Kwiecień 2014</a></li>
-  <li><a href="http://anielaolsztynek.pl/2014/03/">Marzec 2014</a></li>
-  <li><a href="http://anielaolsztynek.pl/2014/02/">Luty 2014</a></li>
-  <li><a href="http://anielaolsztynek.pl/2014/01/">Styczeń 2014</a></li>
-  <li><a href="http://anielaolsztynek.pl/2013/12/">Grudzień 2013</a></li>
-  <li><a href="http://anielaolsztynek.pl/2013/11/">Listopad 2013</a></li>
-  <li><a href="http://anielaolsztynek.pl/2013/10/">Październik 2013</a></li>
-  <li><a href="http://anielaolsztynek.pl/2013/09/">Wrzesień 2013</a></li>
-  <li><a href="http://anielaolsztynek.pl/2013/08/">Sierpień 2013</a></li>
-  <li><a href="http://anielaolsztynek.pl/2013/07/">Lipiec 2013</a></li>
-  <li><a href="http://anielaolsztynek.pl/2013/06/">Czerwiec 2013</a></li>
-  <li><a href="http://anielaolsztynek.pl/2013/05/">Maj 2013</a></li>
-  <li><a href="http://anielaolsztynek.pl/2013/04/">Kwiecień 2013</a></li>
-  <li><a href="http://anielaolsztynek.pl/2013/03/">Marzec 2013</a></li>
-  <li><a href="http://anielaolsztynek.pl/2013/02/">Luty 2013</a></li>
-  <li><a href="http://anielaolsztynek.pl/2013/01/">Styczeń 2013</a></li>
-  <li><a href="http://anielaolsztynek.pl/2012/12/">Grudzień 2012</a></li>
-  <li><a href="http://anielaolsztynek.pl/2012/11/">Listopad 2012</a></li>
-  <li><a href="http://anielaolsztynek.pl/2012/10/">Październik 2012</a></li>
-  <li><a href="http://anielaolsztynek.pl/2012/09/">Wrzesień 2012</a></li>
-  <li><a href="http://anielaolsztynek.pl/2012/08/">Sierpień 2012</a></li>
-  <li><a href="http://anielaolsztynek.pl/2012/07/">Lipiec 2012</a></li>
-  <li><a href="http://anielaolsztynek.pl/2012/06/">Czerwiec 2012</a></li>
-  <li><a href="http://anielaolsztynek.pl/2012/05/">Maj 2012</a></li>
-  <li><a href="http://anielaolsztynek.pl/2012/04/">Kwiecień 2012</a></li>
-  <li><a href="http://anielaolsztynek.pl/2012/03/">Marzec 2012</a></li>
-  <li><a href="http://anielaolsztynek.pl/2012/02/">Luty 2012</a></li>
-  <li><a href="http://anielaolsztynek.pl/2012/01/">Styczeń 2012</a></li>
-  <li><a href="http://anielaolsztynek.pl/2011/12/">Grudzień 2011</a></li>
-  <li><a href="http://anielaolsztynek.pl/2011/11/">Listopad 2011</a></li>
-  <li><a href="http://anielaolsztynek.pl/2011/10/">Październik 2011</a></li>
-  <li><a href="http://anielaolsztynek.pl/2011/09/">Wrzesień 2011</a></li>
-  <li><a href="http://anielaolsztynek.pl/2011/08/">Sierpień 2011</a></li>
-  <li><a href="http://anielaolsztynek.pl/2011/07/">Lipiec 2011</a></li>
-  <li><a href="http://anielaolsztynek.pl/2011/06/">Czerwiec 2011</a></li>
-  <li><a href="http://anielaolsztynek.pl/2011/05/">Maj 2011</a></li>
-  <li><a href="http://anielaolsztynek.pl/2011/04/">Kwiecień 2011</a></li>
-  <li><a href="http://anielaolsztynek.pl/2011/03/">Marzec 2011</a></li>
-  <li><a href="http://anielaolsztynek.pl/2011/02/">Luty 2011</a></li>
-  <li><a href="http://anielaolsztynek.pl/2011/01/">Styczeń 2011</a></li>
-  <li><a href="http://anielaolsztynek.pl/2010/12/">Grudzień 2010</a></li>
-  <li><a href="http://anielaolsztynek.pl/2010/11/">Listopad 2010</a></li>
+      <a href="{{ site.url }}/{{ item.date | date: '%Y/%m' }}">
+        {{ site.monthNames[m] }} {{ item.date | date: '%Y' }}
+      </a>
+      {% endfor %}
+    </li>
+    {% endfor %}
   </ul>
-  </div></td>
+</div>
