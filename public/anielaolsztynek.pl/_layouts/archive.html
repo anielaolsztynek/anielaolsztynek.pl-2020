@@ -2,7 +2,8 @@
 layout: default
 ---
 
-<h1>Archiwum postów</h1>
+{%- assign dateYM = page.date | date: '%Y/%m' -%}
+<h1>Archiwum postów {{ dateYM }}</h1>
 
 {%- for post in page.posts -%}
 <article class="post">

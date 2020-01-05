@@ -2,12 +2,25 @@
 layout: default
 ---
 
-{%- for post in site.posts -%}
+{%- for post in site.posts limit:10 -%}
 <article class="post">
-  <h2 class="entry-title">{{ post.title | escape }}</h2>
+  <h2 class="entry-title">
+    <a href="{{ post.url }}">{{ post.title | escape }}</a>
+  </h2>
 
   {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-  <div class="postmeta">{{ post.date | date: date_format }}</div>
+  {% assign m = post.date | date: "%-m" | minus: 1 %}
+  <div class="postmeta">
+    {%- assign dateYM = post.date | date: '%Y/%m' -%}
+    <a
+      href="{{ dateYM }}"
+      alt="Archiwum {{ dateYM }}"
+      title="Archiwum {{ dateYM }}"
+    >
+      {{ post.date | date: '%d' }} {{ site.monthNames[m] }} {{ post.date | date:
+      '%Y' }}
+    </a>
+  </div>
 
   <div class="entry-content">
     {{ post.content }}
