@@ -5,7 +5,13 @@
 
   <body>
 
-    {%- include header.html -%}
+    <header id="headerline">
+      <a id="headera" href="/"
+        ><div id="anheader" alt="Prafia p.w. Bł. Anieli Salawy w Olsztynku">
+          &nbsp;
+        </div></a
+      >
+    </header>
 
     <div id="container">
 		  <div id="wcontent">
@@ -24,7 +30,17 @@
 			  <div id="bottomcontent">&nbsp;</div>
 			</div>
 		</div>
-      {%- include footer.html -%}
+
+    <footer id="footer">
+      &copy; Copyright 2010-{{ 'now' | date: "%Y" }} by Parafia Rzymskokatolicka pod
+      wezwaniem Błogosławionej Anieli Salawy w
+      Olsztynku&nbsp;&nbsp;|&nbsp;&nbsp;Administrator:
+      <u>Danuta Lewandowska</u>&nbsp;&nbsp;|&nbsp;&nbsp;
+      <a href="https://jedrzej.lewandowski.doctor/"
+        >Designed by: Jędrzej Lewandowski</a
+      >
+    </footer>
+
 
   </body>
 
