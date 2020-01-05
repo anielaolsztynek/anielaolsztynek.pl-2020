@@ -14,7 +14,6 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-
 url: "" # the base hostname & protocol for your site
 name: Parafia pod wezwaniem Błogosławionej Anieli Salawy w Olsztynku
 title: Parafia pod wezwaniem Błogosławionej Anieli Salawy w Olsztynku
@@ -79,6 +78,7 @@ plugins:
   - jekyll-paginate
   - jekyll-include-cache
   - jekyll-commonmark
+  - jekyll-sitemap
 
 exclude:
   - .jekyll-cache
