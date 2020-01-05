@@ -8,6 +8,9 @@ guid: http://aniela.jblew.pl/?page_id=30
 permalink: /porzadek-nabozenstw.html
 ---
 
+- **Niedziele i Święta**: 9.00, 11.00, 17.00
+- **Dni powszednie**: 17.00
+
 ### Adwent
 
 - W każdy poniedziałek, środę (z udziałem dzieci) i sobotę o godz. 17.00 Msza Św. Roratnia
