@@ -1,7 +1,7 @@
+.DS_Store
 _site
 .jekyll-cache
 
-# Logs
 logs
 *.log
 npm-debug.log*
