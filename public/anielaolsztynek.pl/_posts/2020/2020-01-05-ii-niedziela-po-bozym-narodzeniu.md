@@ -20,8 +20,8 @@ date: 2020-01-05
 - W następną niedzielę wypada **Święto Chrztu Pańskiego** i zakończenie okresu Bożego Narodzenia.
 - Msze Święte w tym tygodniu: w środę i czwartek o godzinie <u>8:00</u>, w pozostałe dni o godzinie <u>17:00</u>.
 - Porządek kolędy w tym tygodniu:.
-  - Jagiełek i Wilkowo – wtorek, godz. <u>9:00</u>.
-  - Sudwa 27, ul. Wilcza 22, ul. Sosnowa i Leśna 22, 26, 28, 30 i ul. Parkowa– środa, godz. <u>14:30</u>.
-  - Ul. Leszczynowa, Dębowa, Brzozowa, Grabowa i Głogowa – czwartek, godz. <u>13:30</u>.
-  - Ul. Wrzosowa 2 i 4– piątek, godz. <u>14:30</u>.
-  - Ul. Wrzosowa 6, 7 i 8 – sobota, godz. <u>10:00</u>.
+  1. Jagiełek i Wilkowo – wtorek, godz. <u>9:00</u>.
+  2. Sudwa 27, ul. Wilcza 22, ul. Sosnowa i Leśna 22, 26, 28, 30 i ul. Parkowa– środa, godz. <u>14:30</u>.
+  3. Ul. Leszczynowa, Dębowa, Brzozowa, Grabowa i Głogowa – czwartek, godz. <u>13:30</u>.
+  4. Ul. Wrzosowa 2 i 4– piątek, godz. <u>14:30</u>.
+  5. Ul. Wrzosowa 6, 7 i 8 – sobota, godz. <u>10:00</u>.
