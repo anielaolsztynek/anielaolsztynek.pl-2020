@@ -16,7 +16,7 @@ date: 2020-01-19
 
 - Dziś w czasie Mszy Świętej o godzinie <u>11:00</u> wystąpi ze śpiewem kolęd **"Swojska Nutka"** pod kierunkiem Pana Jerzego Tytza i Wiesława Dubickiego.
 - Przeżywamy **Tydzień Modlitw o Jedność Chrześcijan**. W sobotę wypada liturgiczne Święto Nawrócenia Świętego Pawła Apostoła i zakończenie Tygodnia Modlitw o Jednośc Chrześcijan.
-- Dzisiejsze ofiary składane na tacę są przeznaczone na potrzeby Wyższego Seminarium Duchownego "Hosianum" w Olsztynie. Bóg zapłać.
+- Dzisiejsze ofiary składane na tacę są przeznaczone na potrzeby Wyższego Seminarium Duchownego “Hosianum” w Olsztynie. Bóg zapłać.
 - **Porządek wizyt kolędowych w tym tygodniu**:
   1. Ul. Leśna i Malinowa, Morelowa 26, 32, 34 – poniedziałek, godz. <u>15:00</u>.
   2. Ul. Leśników i Morelowa – wtorek, godz. <u>10:00</u>, c.d. godz.<u>15:00</u>.
