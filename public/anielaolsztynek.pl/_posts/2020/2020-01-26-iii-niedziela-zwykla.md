@@ -15,7 +15,7 @@ date: 2020-01-26
 
 
 - W następną niedzielę - 2 lutego - obchodzimy **Święto Ofiarowania Pańskiego**. W tym dniu czcimy Chrystusa Pana Światłość Świata (symbolizują to świece) i Jego Matkę jako Matkę Bożą Gromniczną. Tradycyjnie w czasie Mszy Świętej będzie poświęcenie świec zwanych gromnicami, które przynosimy ze sobą. Można będzie też nabyć je przed Mszą Świętą w zakrystii.
-- Nasępna - I Niedziela miesiąca to także **Niedziela Adoracji Najświętszego Sakramentu**.
+- Następna - I Niedziela miesiąca to także **Niedziela Adoracji Najświętszego Sakramentu**.
 - Zmiana tajemnic różańcowych także w następną niedzielę. Będzie ona połączona ze wspólnym różańcem o godzinie <u>8:30</u>.
 - **Porządek wizyt kolędowych w tym tygodniu**:
   1. Ul. Lipowa (domy jednorodzinne) i Akacjowa 23 – poniedziałek, godz. <u>15:00</u>.
@@ -25,4 +25,4 @@ date: 2020-01-26
   5. Ul. Świerkowa i Akacjowa 4A – piątek, godz. <u>10:00</u>, c.d. godz.<u>15:00</u>.
   6. Ul. Wilcza 10, 10A, Akacjowa 4 i Sudwa 40  – sobota, godz. <u>09:00</u>.
 - Msze Święte w tym tygodniu: jutro Mszy Świętej nie będzie, w sobotę o godzinie <u>17:00</u>, w pozostałe dni o godzinie <u>8:00</u>.
-Wydawanie żywności rodzinom objetym pomocą w sobotę w godzinach <u>9:00-10:30</u>.
+- Wydawanie żywności rodzinom objetym pomocą w sobotę w godzinach <u>9:00-10:30</u>.
