@@ -8,7 +8,8 @@ date: 2020-01-26
 > **Wszystko w służbie ewangelizacji**
 >
 > Uwięzienie Jana Chrzciciela było dla Jezusa znakiem rozpoczęcia Jego misji głoszenia Ewangelii bliskości Boga. Jezus nie działał sam. Do dzieła ewangelizacji zaprosił uczniów, tworząc z nimi wspólnotę życia. Co takiego miał w sobie Syn Boży, że apostołowie potrafili natychmiast pozostawić własne sprawy i bliskich, aby związać swoją przyszłość z Nim? Dziś Jezus spotyka każdego z nas uwikłanego w życiowe zmagania i codzienność. Prosi, abyśmy w świadczeniu o Nim wykorzystywali całe nasze dotychczasowe doświadczenie. On z prostych rybaków nie uczynił rabinów, nauczycieli Prawa, lecz rybaków ludzi. Jakie moje doświadczenia pomogą mi być świadkiem Jezusa?
-> <span style="color: #666699;">Jezu, oto ja, zanurzony w trud codzienności. Ufam Twoim obietnicom. To Ty czynisz mnie Twoim apostołem. </span>
+>
+ <span style="color: #666699;">Jezu, oto ja, zanurzony w trud codzienności. Ufam Twoim obietnicom. To Ty czynisz mnie Twoim apostołem. </span>
 >
 > &nbsp;
 
