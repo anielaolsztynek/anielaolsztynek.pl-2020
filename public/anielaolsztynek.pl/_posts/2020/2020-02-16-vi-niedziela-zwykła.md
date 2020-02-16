@@ -14,5 +14,5 @@ date: 2020-02-16
 > &nbsp;
 
 
-- W następną niedzielę – 23 lutego o godzinie <u>15:00</u> - odbędzie się **XXII Wenta Dobroczynna Akcji Katolickiej**, na rzecz Hospicjum dla Dzieci Caritas Archidiecezji Warmińskiej, w sali koncertowej Państwowej Szkoły Muzycznej w Olsztynie. W programie Nula Stankiewicz i Janusz Strobel z koncertem piosenek Agnieszki Osieckiej. Program w gablocie.
-- Msze Święte w tym tygodniu: we wtorek, środę i czwartek Mszy Świętych w naszym kościele nie będzie. Jest to związane z pracami przy ołtarzach bocznych, które będą obkładane marmurem.
+- W następną niedzielę – 23 lutego o godzinie <u>15:00</u> - odbędzie się **XXII Wenta Dobroczynna Akcji Katolickiej** na rzecz Hospicjum dla Dzieci Caritas Archidiecezji Warmińskiej, w sali koncertowej Państwowej Szkoły Muzycznej w Olsztynie. W programie Nula Stankiewicz i Janusz Strobel z koncertem piosenek Agnieszki Osieckiej. Program w gablocie.
+- Msze Święte w tym tygodniu: we wtorek, środę i czwartek Mszy Świętych w naszym kościele nie będzie. Jest to związane z pracami przy ołtarzach bocznych - będą one obkładane marmurem.
