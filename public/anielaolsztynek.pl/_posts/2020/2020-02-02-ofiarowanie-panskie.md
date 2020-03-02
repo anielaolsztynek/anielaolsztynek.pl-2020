@@ -1,4 +1,3 @@
----
 title: Ofiarowanie Pańskie
 date: 2020-02-02
 ---
@@ -7,7 +6,8 @@ date: 2020-02-02
 >
 > **Oto życie całkowicie oddane w darze**
 >
-> Jezus - pierwszy całkowicie oddany Ojcu i konsekrowany, poświęcony dla misji. Tak maleńki, a już rozpoznany przez Symeona i Annę w swojej najgłębszej tożsamości. Oto życie Boga-Człowieka ofiarowane w darze, życie, które wnosi pokój, błogosławieństwo, radość, nadzieję. Maryja i Józef, przynosząc Dzieciątko Jezus do świątyni, przynoszą Bogu także swoje życie i życie Świętej Rodziny, które wpisuje się w misję Syna Bożego. Jezus w tajemnicy swojego ofiarowania w świątyni uczy nas, że za każdym razem, gdy coś z siebie szczerze ofiarujemy innym, mogą oni dostrzec w nas coś z piękna i tajemnicy Boga samego.
+> Jezus - pierwszy całkowicie oddany Ojcu i konsekrowany, poświęcony dla misji. Tak maleńki, a już rozpoznany przez Symeona i Annę w swojej najgłębszej tożsamości. Oto życie Boga-Człowieka ofiarowane w darze, życie, które wnosi pokój, błogosławieństwo, radość, nadzieję. Maryja i Józef, przynosząc Dzieciątko Jezus do świątyni, przynoszą Bogu także swoje życie i życie Świętej Rodziny, które wpisuje się w misję Syna Bożego. Jezus w tajemnicy swojego ofiarowania w świątyni uczy nas, że za każdym razem, gdy coś z siebie szczerze ofiar---
+ujemy innym, mogą oni dostrzec w nas coś z piękna i tajemnicy Boga samego.
 >
 > <span style="color: #666699;">Ofiaruję Ci dziś, Jezu, wszystkie osoby konsekrowane. Dziękuję, że przypominają mi o wartości życia ofiarowanego dla innych. </span>
 >
