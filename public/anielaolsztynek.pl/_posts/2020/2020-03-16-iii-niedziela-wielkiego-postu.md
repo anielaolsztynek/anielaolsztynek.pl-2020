@@ -18,8 +18,7 @@ date: 2020-03-15
 - W poniedziałek i we wtorek Mszy Świętej nie będzie. W pozostałe dni o godzinie <u>17:00</u>.
 - W sobotę Msza Święta o godzinie <u>17:00</u> będzie odprawiana jako niedzielna.
 - Wielkopostna Spowiedź Święta: każdego dnia przed Mszą Świętą i w Wielki Poniedziałek i Wielki Wtorek od godziny <u>16:00</u>.
-- **Komunikat Arcybiskupa Metropolity Warmińskiego w sprawie wprowadzenia stanu zagrożenia epidemicznego w Polsce**:
-W związku z wprowadzeniem stanu zagrożenia epidemicznego w Polsce, stosując się do rozporządzeń organów państwowych z 13 marca br., oraz w nawiązaniu do Komunikatu Rady Stałej Konferencji Episkopatu Polski, z dnia 12 marca 2020 r. i do Komunikatu Przewodniczącego Konferencji Episkopatu Polski Arcybiskupa Stanisława Gądeckiego, z dnia 13 marca 2020 r.:
+- **Komunikat Arcybiskupa Metropolity Warmińskiego w sprawie wprowadzenia stanu zagrożenia epidemicznego w Polsce: W związku z wprowadzeniem stanu zagrożenia epidemicznego w Polsce, stosując się do rozporządzeń organów państwowych z 13 marca br., oraz w nawiązaniu do Komunikatu Rady Stałej Konferencji Episkopatu Polski, z dnia 12 marca 2020 r. i do Komunikatu Przewodniczącego Konferencji Episkopatu Polski Arcybiskupa Stanisława Gądeckiego, z dnia 13 marca 2020 r.:**
 
 - udzielam dyspensy od obowiązku niedzielnego uczestnictwa we Mszy świętej do dnia 29 marca br. grupom osób wymienionych w Komunikacie Rady Stałej Konferencji Episkopatu Polski, za zachowaniem III przykazania Dekalogu: „Pamiętaj, aby dzień święty święcić”;
 
