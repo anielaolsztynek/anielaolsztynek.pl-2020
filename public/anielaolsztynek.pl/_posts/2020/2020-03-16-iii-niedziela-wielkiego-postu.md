@@ -21,17 +21,12 @@ date: 2020-03-15
 - **Komunikat Arcybiskupa Metropolity Warmińskiego w sprawie wprowadzenia stanu zagrożenia epidemicznego w Polsce: W związku z wprowadzeniem stanu zagrożenia epidemicznego w Polsce, stosując się do rozporządzeń organów państwowych z 13 marca br., oraz w nawiązaniu do Komunikatu Rady Stałej Konferencji Episkopatu Polski, z dnia 12 marca 2020 r. i do Komunikatu Przewodniczącego Konferencji Episkopatu Polski Arcybiskupa Stanisława Gądeckiego, z dnia 13 marca 2020 r.**:
 
 - udzielam dyspensy od obowiązku niedzielnego uczestnictwa we Mszy świętej do dnia 29 marca br. grupom osób wymienionych w Komunikacie Rady Stałej Konferencji Episkopatu Polski, za zachowaniem III przykazania Dekalogu: „Pamiętaj, aby dzień święty święcić”;
+  - zarządzam na terenie Archidiecezji Warmińskiej, z dniem 15 marca br., tj. od III Niedzieli Wielkiego Postu, aby podczas każdej Mszy Świętej i każdego nabożeństwa wewnątrz kościoła mogło przebywać maksymalnie 50 osób;
+  - zamieniam tradycyjną formę tegorocznych wielkopostnych rekolekcji parafialnych na rekolekcje prowadzone w środkach społecznego przekazu. Konkretne propozycje rekolekcji zostaną podane przez duszpasterzy;
+  - zlecam księżom proboszczom wyznaczenie dni wielkopostnej spowiedzi świętej dla wiernych;
+  - szczególnie zachęcam do otwarcia kościołów z możliwością indywidualnej adoracji Najświętszego Sakramentu i przystępowania do sakramentu pokuty i pojednania;
+  - księży, kapelanów szpitalnych, siostry zakonne i wiernych świeckich zachęcam do szczególnie troskliwej, roztropnej i odważnej opieki duszpasterskiej nad chorymi.
 
-- zarządzam na terenie Archidiecezji Warmińskiej, z dniem 15 marca br., tj. od III Niedzieli Wielkiego Postu, aby podczas każdej Mszy Świętej i każdego nabożeństwa wewnątrz kościoła mogło przebywać maksymalnie 50 osób;
+  Jednocześnie proszę kapłanów i osoby życia konsekrowanego, aby codziennie o godz. 20.30 - bez udziału wiernych - odmawiali w kościele różaniec w intencji osób chorych oraz tych, którzy się nimi opiekują, jak również służb medycznych i sanitarnych, a także o pokój serc i łaskę nawrócenia. Proszę wiernych, aby w tym samym czasie w swoich rodzinach odmawiali różaniec w duchowej łączności z kapłanami.
 
-- zamieniam tradycyjną formę tegorocznych wielkopostnych rekolekcji parafialnych na rekolekcje prowadzone w środkach społecznego przekazu. Konkretne propozycje rekolekcji zostaną podane przez duszpasterzy;
-
-- zlecam księżom proboszczom wyznaczenie dni wielkopostnej spowiedzi świętej dla wiernych;
-
-- szczególnie zachęcam do otwarcia kościołów z możliwością indywidualnej adoracji Najświętszego Sakramentu i przystępowania do sakramentu pokuty i pojednania;
-
-- księży, kapelanów szpitalnych, siostry zakonne i wiernych świeckich zachęcam do szczególnie troskliwej, roztropnej i odważnej opieki duszpasterskiej nad chorymi.
-
-Jednocześnie proszę kapłanów i osoby życia konsekrowanego, aby codziennie o godz. 20.30 - bez udziału wiernych - odmawiali w kościele różaniec w intencji osób chorych oraz tych, którzy się nimi opiekują, jak również służb medycznych i sanitarnych, a także o pokój serc i łaskę nawrócenia. Proszę wiernych, aby w tym samym czasie w swoich rodzinach odmawiali różaniec w duchowej łączności z kapłanami.
-
-Wszystkich duszpasterzy i wiernych zapewniam o mojej modlitwie i duchowej łączności.
+  Wszystkich duszpasterzy i wiernych zapewniam o mojej modlitwie i duchowej łączności.
