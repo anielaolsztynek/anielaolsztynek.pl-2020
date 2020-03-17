@@ -14,7 +14,7 @@ date: 2020-03-15
 > &nbsp;
 
 
-- Liturgiczna **Uroczystość ku czci Św. Józefa**, Oblubieńca Najświętszej Marii Panny wypada w najbliższy czwartek - 19 marca.
+- Liturgiczna **Uroczystość ku czci Św. Józefa**, Oblubieńca Najświętszej Marii Panny, wypada w najbliższy czwartek - 19 marca.
 - W poniedziałek i we wtorek Mszy Świętej nie będzie. W pozostałe dni o godzinie <u>17:00</u>.
 - W sobotę Msza Święta o godzinie <u>17:00</u> będzie odprawiana jako niedzielna.
 - Wielkopostna Spowiedź Święta: każdego dnia przed Mszą Świętą i w Wielki Poniedziałek i Wielki Wtorek od godziny <u>16:00</u>.
