@@ -26,3 +26,4 @@ Spotkania dla młodzieży rozpoczną się w poniedziałek (23.03). One również
 [facebook.com/MlodziWarmii/](http://https://www.facebook.com/MlodziWarmii/)
 - **Rekolekcje z dominikaninem**: TVP 3 w paśmie ogólnopolskim nadawać będzie "Rekolekcje z dominikaninem" (o. Jacek Salij". Nauki będą emitowane w dniach 25-27 marca (środa, czwartek, piątek), zaraz po transmisji Mszy Świętej z Jasnej Góry.
 - **W związku z możliwością pojawienia się koronawirusa na terenie Polski**, a także naszej Archidiecezji, Ksiądz Arcybiskup zachęca do wspólnego śpiewu suplikacji "Święty Boże, Święty Mocny", błagalnej modlitwy podejmowanej przez wiernych od wieków w chwilach zagrożeń, także jako prośba o ustanie epidemii.
+<br /> <a href="http://facebook.com/MlodziWarmii/>facebook.com/MlodziWarmii</a>
