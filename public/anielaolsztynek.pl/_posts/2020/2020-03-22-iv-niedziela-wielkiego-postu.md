@@ -23,6 +23,6 @@ date: 2020-03-22
   - "W tym roku rekolekcje wielkopostne odbywają się pod hasłem „Skracamy Dystans 2020”. Warmińskie Duszpasterstwo Młodzieży działające w Archidiecezji Warmińskiej zaprasza dzieci i młodzież do wzięcia w nich udziału online.
 Internetowe rekolekcje dla dzieci rozpoczną się w niedzielę (22.03) i potrwają trzy dni. Każdego dnia o godzinie <u>10:00</u> udostępniany będzie film na profilu duszpasterstwa na Facebooku i na kanale duszpasterstwa na YouTube.
 Spotkania dla młodzieży rozpoczną się w poniedziałek (23.03). One również potrwają trzy dni. Dodatkowo, Warmińskie Duszpasterstwo Młodzieży każdego dnia rekolekcji zaprasza też młodzież na facebookowe spotkanie LIVE o godz. <u>21:00</u>
-[http://www.facebook.com/MlodziWarmii/](http://https://www.facebook.com/MlodziWarmii/)
+[https://www.facebook.com/MlodziWarmii/](https://www.facebook.com/MlodziWarmii/)
 - **Rekolekcje z dominikaninem**: TVP 3 w paśmie ogólnopolskim nadawać będzie "Rekolekcje z dominikaninem" (o. Jacek Salij". Nauki będą emitowane w dniach 25-27 marca (środa, czwartek, piątek), zaraz po transmisji Mszy Świętej z Jasnej Góry.
 - **W związku z możliwością pojawienia się koronawirusa na terenie Polski**, a także naszej Archidiecezji, Ksiądz Arcybiskup zachęca do wspólnego śpiewu suplikacji "Święty Boże, Święty Mocny", błagalnej modlitwy podejmowanej przez wiernych od wieków w chwilach zagrożeń, także jako prośba o ustanie epidemii.
