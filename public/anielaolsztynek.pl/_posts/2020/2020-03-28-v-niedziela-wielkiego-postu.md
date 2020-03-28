@@ -1,6 +1,6 @@
 ---
 title: V Niedziela Wielkiego Postu
-date: 2020-03-29
+date: 2020-03-28
 ---
 
 > **J 11, 1-45**
