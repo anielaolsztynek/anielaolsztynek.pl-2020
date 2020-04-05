@@ -13,11 +13,10 @@ date: 2020-03-01
 >
 > &nbsp;
 
-
 - Dziękuję **P. Danielowi Kasprowiczowi** - świeckiemu misjonarzowi, za obecność w naszej parafii, za przybliżenie nam swojej pracy i posługi na misjach na Madagaskarze.
 - Dzisiejsze ofiary składane na tacę są przeznaczone na potrzeby **Wyższego Seminarium Duchownego "Hosianum"** w Olsztynie. Natomiast po Mszy Świętej przy wyjściu można wesprzeć dzieła misyjne prowadzone przez Pana Daniela.
 - **Pierwsza niedziela Wielkiego Postu** jest jak gdyby drugim początkiem tego okresu dla tych zwłaszcza, którzy nie wzięli udziału w liturgii Środy Popielcowej. Cały kościół rozpoczął czterdziestodniową pokutę, której dobre przeżycie doprowadzi nas do prawdziwego spotkania ze Zmartwychwstałym Panem.
-- Włączmy się w głębokie przeżycie tego czasu przez modlitwę osobistą i wspólnotową. Tej drugiej będzie sprzyjał udział w nabożeństwach wielkopostnych. **Droga Krzyżowa** w każdy piątek Wielkiego Postu o godzinie <u>16:30</u>.  Zachęcam serdecznie do wspólnego udziału w tym nabożeństwie, obowiązkowo dzieci przed I Komunią Świętą i młodzież przed bierzmowaniem.
+- Włączmy się w głębokie przeżycie tego czasu przez modlitwę osobistą i wspólnotową. Tej drugiej będzie sprzyjał udział w nabożeństwach wielkopostnych. **Droga Krzyżowa** w każdy piątek Wielkiego Postu o godzinie <u>16:30</u>. Zachęcam serdecznie do wspólnego udziału w tym nabożeństwie, obowiązkowo dzieci przed I Komunią Świętą i młodzież przed bierzmowaniem.
 - **Gorzkie Żale** w niedziele Wielkiego Postu o godzinie <u>08:45</u>.
 - Pamiętajmy też o osobistych postanowieniach czy umartwieniach na Wielki Post. Jest również wystawiona skarbona, do której możemy składać jałmużnę wielkopostną z myślą o biednych.
 - Następna, II Niedzielę Wielkiego Postu, to **Dzień Modlitwy, Postu i Solidarności z Misjonarzami**. Po Mszach Świętych będą zbierane ofiary na Misjne Dzieło Pomocy "Ad Gentes".
@@ -26,11 +25,7 @@ date: 2020-03-01
 - Dziś poświęcenie krzyżyków dla dzieci pierwszokomunijnych pod koniec Mszy Świetej o godzinie <u>11:00</u>.
 - **W związku z możliwością pojawienia się koronawirusa na terenie Polski** dziś do odczytania w kościele jest list ministra zdrowia prof. Łukasza Szumowskiego oraz komunikat przewodniczącego Konferencji Episkopatu Polski. Komunikat arcybiskupa Stanisława Gądeckiego dotyczy przede wszystkim środków, które należy podjąć w przypadku pojawienia się informacji o zakażeniach na terenie diecezji.
 
-
-
-
 **KOMUNIKAT PRZEWODNICZĄCEGO KONFERENCJI EPISKOPATU POLSKI**
-
 
 W związku z możliwością pojawienia się koronawirusa na terenie Polski, zachęcam duchowieństwo i wiernych do zachowania zwiększonej ostrożności. W ewentualnych ogniskach tego zjawiska należy – w kościołach i pomieszczeniach parafialnych – przez czas jego trwania starać się o pomniejszenie ryzyka zachorowań poprzez zwrócenie szczególnej uwagi na zachowywanie podstawowych zasad higieny.
 
@@ -41,7 +36,6 @@ Kto ma obawy przed zarażeniem, ten nie powinien w tym czasie korzystać z wody 
 
 Pamiętajmy, że w czasie każdego zagrożenia życia społeczności ludzkiej odwoływano się zawsze do mocy gorącej modlitwy i skuteczności sakramentów. Dlatego zachęcam wszystkich do ożywienia głębokiej wiary w moc Eucharystii i polecania Panu Bogu tej sprawy w modlitwie powszechnej.
 
-
 Stanisław Gądecki
 Arcybiskup Metropolita Poznański
 Przewodniczący Konferencji Episkopatu Polski
@@ -49,11 +43,7 @@ Wiceprzewodniczący Rady Konferencji Episkopatów Europy (CCEE)
 
 Warszawa, dnia 28 lutego 2020 roku
 
-
-
-
 **LIST MINISTRA ZDROWIA PROFESORA ŁUKASZA SZUMOWSKIEGO**
-
 
 Szanowni Państwo,
 
