@@ -19,4 +19,4 @@ date: 2020-04-12
 - W następną niedzielę wypada **Święto Miłosierdzia Bożego**.
 - We wtorek Msza Święta pogrzebowa o godzinie <u>12:00</u>. Nie będzie w tym dniu Mszy Świętej o godzinie <u>17:00</u>.
 - Podobnie nie będzie też Mszy Świętej w sobotę.
-- W pozostałe dni Msze Święte o godzinie <u>17:00</u>.
+- W pozostałe dni tygodnia Msze Święte o godzinie <u>17:00</u>.
