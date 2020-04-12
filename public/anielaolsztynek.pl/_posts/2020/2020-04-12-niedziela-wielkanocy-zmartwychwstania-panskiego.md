@@ -17,4 +17,5 @@ date: 2020-04-12
 - W drugim dniu świąt Msze Święte o godzinie <u>9:00</u> i <u>11:00</u>.
 - W następną niedzielę wypada **Święto Miłosierdzia Bożego**.
 - We wtorek Msza Święta pogrzebowa o godzinie <u>12:00</u>. Nie będzie w tym dniu Mszy Świętej o godzinie <u>17:00</u>.
-- Podobnie nie będzie też Mszy Świętej w sobotę. W pozostałe dni o godzinie <u>17:00</u>.
+- Podobnie nie będzie też Mszy Świętej w sobotę.
+- W pozostałe dni tygodnia Msze Święte o godzinie <u>17:00</u>.
