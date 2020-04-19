@@ -13,6 +13,7 @@ date: 2020-04-05
 >
 > &nbsp;
 
+
 - Dzisiejszą **Niedzielą Palmową** rozpoczynamy **Wielki Tydzień**. Centralne miejsce w tym tygodniu, jak również w ciągu całego roku liturgicznego zajmuje **Triduum Paschalne**, trwające od Mszy Św. wieczornej Wielkiego Czwartku do Niedzieli Zmartwychwstania. Triduum Paschalne jest pamiątką tajemnicy przejścia Pana Jezusa z tego świata do Ojca, przejścia ze Śmierci do Życia.
 - Msza Święta w **Wielki Czwartek** jest Mszą Wieczerzy Pańskiej, upamiętniającą ustanowienie Eucharystii i Kapłaństwa. Po Mszy Świętej Najświętszy Sakrament zostanie przeniesiony do ciemnicy, która symbolizuje uwięzienie Pana Jezusa.
 - W **Wielki Piątek** uczestniczymy w Liturgii Męki Pańskiej, słuchając opisu Męki Pana Jezusa i adorując krzyż. Po nabożeństwie Pan Jezus w Eucharystii zostanie przeniesiony do Grobu. W naszych domach możemy przygotować krzyż i świece na białym obrusie (podobnie jak w czasie kolędy) i podczas liturgii, która będzie transmitowana, można oddać cześć przez przyklęknięcie przed krzyżem.
