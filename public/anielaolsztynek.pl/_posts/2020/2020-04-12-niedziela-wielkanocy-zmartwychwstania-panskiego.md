@@ -1,3 +1,4 @@
+---
 title: Niedziela Wielkanocy Zmartwychwstania Pańskiego
 date: 2020-04-12
 ---
