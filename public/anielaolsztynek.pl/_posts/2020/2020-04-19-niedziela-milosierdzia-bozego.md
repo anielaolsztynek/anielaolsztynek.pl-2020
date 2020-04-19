@@ -9,7 +9,7 @@ date: 2020-04-19
 >
 > Jezus przychodzi mimo zamkniętych drzwi i serc. Wnosi pokój i radość w serca uczniów. Udzielając im swojego Ducha, czyni ich apostołami miłosierdzia i przebaczenia. To tchnienie Jezusa trwa do dziś. W posłudze kapłańskiej, podczas każdego rozgrzeszenia Duch Święty wylewa się na nas, lecząc rany grzechów i wypełniając nas Bożą miłością. Czy wierzę, że każda spowiedź i dla mnie staje się doświadczeniem przeżytym przez apostoła Tomasza? Wyznając Bogu grzechy, doświadczam Jego przebaczającej miłości, wiarą dotykam Jego ran. I mogę w zachwycie wyznać: "Pan mój i Bóg mój!"
 >
-> <span style="color: #666699;">Dziękuję Ci,Jezu, że we wspólnocie Kościoła mogę doświadczać spotkania z Tobą. </span>
+> <span style="color: #666699;">Dziękuję Ci, Jezu, że we wspólnocie Kościoła mogę doświadczać spotkania z Tobą. </span>
 >
 > &nbsp;
 
@@ -17,7 +17,7 @@ date: 2020-04-19
 - Dzisiejszą **Niedzielą Miłosierdzia Bożego** rozpoczyna się **76 Tydzień Miłosierdzia**.
 - Dziękuję za ofiary złożone w ramach jałmużny wielkopostnej o łącznej kwocie 255 złotych. Tymi ofiarami wsparliśmy osoby najbardziej potrzebujące pomocy, zwłaszcza chore.
 - Dziękuję za wszystkie ofiary składane na potrzeby parafii, czy to przelewem na konto parafialne, czy też bezpośrednio w kancelarii parafialnej. Wszystkie konieczne opłaty dzięki temu są dokonywane na bieżąco.   Dziękuję też za wszystkie wyrazy życzliwości i troski, również za dostarczone maseczki czy płyn dezynfekujący.
-- Ponieważ planowany termin I Komunii Świętej jest nierealny, uroczystość ta została przeniesiona - po konsultacji z rodzicami dzieci - na dzień 13 września.
+- Ponieważ planowany termin I Komunii Świętej jest nierealny, uroczystość ta została przeniesiona - po konsultacji z rodzicami dzieci - na 13 września tego roku.
 - Bierzmowanie jest również odwołane.
 W minionym czasie odeszło do wieczności kilkoro naszych parafian: śp. Włodzimierz Cichmiński, lat 68, śp. Ewa Mędrzycka, lat 58, śp. Eryk Kukraszewski, lat 89, śp. Edward Siennicki, lat 69. Wieczny odpoczynek racz zmarłym dać, Panie.
 - **Msze Święte** w tym tygodniu:
