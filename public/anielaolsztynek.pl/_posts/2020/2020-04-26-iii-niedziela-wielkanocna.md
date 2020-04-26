@@ -23,6 +23,7 @@ date: 2020-04-26
 - Bóg zapłać za wszystkie ofiary przeznaczone na utrzymanie parafii.
 - Na koniec zaśpiewamy suplikacje z prośbą o deszcz i ustanie epidemii.
 - We wtorek Msza Święta godzinie <u>8:00</u>.
+
 - **DEKRET KSIĘDZA ARCYBISKUPA W SPRAWIE DYSPENSY OD OBOWIĄZKU NIEDZIELNEGO UCZESTNICTWA WE MSZY ŚWIĘTEJ**
 od dnia 20 kwietnia 2020 r. do odwołania.
 W związku z przedłużającym się stanem epidemii w Polsce, stosując się do obowiązujących wskazań organów państwowych i służb sanitarnych, udzielam, od dnia 20 kwietnia br. do odwołania, dyspensy od obowiązku niedzielnego uczestnictwa we
