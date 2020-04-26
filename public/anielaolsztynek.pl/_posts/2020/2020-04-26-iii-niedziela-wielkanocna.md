@@ -13,7 +13,6 @@ date: 2020-04-26
 >
 > &nbsp;
 
-
 - Dzisiejsza ostatnia niedziela kwietnia jest **XIV Ogólnopolską Niedzielą Modlitw za Kierowców**.
 - W piątek rozpoczyna się maj - miesiąc poświęcony czci Matki Bożej. Zachęcam do udziału w **nabożeństwie majowym**, codziennie po Mszy Świętej o godzinie <u>17:00</u>, w niedziele o godzinie <u>8:45</u>.
 - 1 maja Msza Święta wraz z nabożeństwem majowym o godzinie <u>10:00</u>.
