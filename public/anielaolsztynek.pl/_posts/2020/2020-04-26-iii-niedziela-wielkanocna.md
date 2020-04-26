@@ -8,7 +8,7 @@ date: 2020-04-26
 > **Tajemniczy wędrowiec**
 >
 > Zmartwychwstały Pan jest blisko nas i pragnie nam towarzyszyć na drogach naszej codzienności. On nie dziwi sie naszym ucieczkom, rozczarowaniom, wątpliwościom. Podobnie jak do dwóch uczniów zdążających do Emaus, przybliża się do nas jako tajemniczy wędrowiec, słucha uważnie naszych serc, pyta, wyjaśnia słowo Boże. Ukazuje sens swojej tajemnicy paschalnej i pomaga nam w jej świetle odczytywać nasze własne życie. Obecność Jezusa rozpala także nasze serca, napełnia je nowym sensem i światłem. My także mamy szansę rozpoznawać żywego Jezusa, zmartwychwstałego Pana działającego w naszym życiu i potem z radością świadczyć o Nim.
-
+>
 > <span style="color: #666699;">Jezu, daj mi oczy wiary, abym umiał Cię rozpoznawać za każdym razem, kiedy będziesz szedł obok mnie. </span>
 >
 > &nbsp;
