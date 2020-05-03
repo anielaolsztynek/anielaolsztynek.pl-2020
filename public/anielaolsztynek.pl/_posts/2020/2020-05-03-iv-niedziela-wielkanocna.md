@@ -14,7 +14,7 @@ date: 2020-05-03
 > &nbsp;
 
 - Dziś **I niedziela miesiąca – niedziela Adoracji Najświętszego Sakramentu**. Podczas Mszy Świętych o godzinie <u>9:00</u> i <u>11:00</u> wystawienie i adoracja Najświętszego Sakramentu.
-- Dziś na Jasnej Górze o godzinie <u>11:00</u> odbywa się uroczyste zawierzenie naszej Ojczyzny Najświętszemu Sercu Pana Jezusa i Matce Bożej Królowej Polski. Ten akt zawierzenia zgodnie z zaleceniem Księdza Arcybiskupa Józefa Górzyńskiego zostanie dziś odczytany, podobnie jak w dniu wczorajszym, gdy przeżywaliśmy przeniesioną liturgiczną **Uroczystość Matki Bożej Królowej Polski**.
+- Również dziś na Jasnej Górze o godzinie <u>11:00</u> odbywa się uroczyste zawierzenie naszej Ojczyzny Najświętszemu Sercu Pana Jezusa i Matce Bożej Królowej Polski. Ten akt zawierzenia zgodnie z zaleceniem Księdza Arcybiskupa Józefa Górzyńskiego zostanie dziś odczytany, podobnie jak w dniu wczorajszym, gdy przeżywaliśmy przeniesioną liturgiczną **Uroczystość Matki Bożej Królowej Polski**.
 - W najbliższy piątek 8 maja wypada liturgiczna **Uroczystość ku czci Św. Stanisława – Biskupa i Męczennika**, głównego Patrona Polski.
 - Serdecznie zachęcam i zapraszam do udziału w **nabożeństwie majowym** codziennie bezpośrednio po Mszy Świętej o godzinie <u>17:00</u>, w niedziele o godzinie <u>8:45</u>.
 - Składam serdeczne Bóg zapłać za ofiary przekazywane na utrzymanie parafii.
