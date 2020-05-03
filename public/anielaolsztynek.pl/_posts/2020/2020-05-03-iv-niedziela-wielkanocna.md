@@ -46,9 +46,10 @@ Najświętsze Serce Jezusa, przyjdź Królestwo Twoje!
 Maryjo, Królowo Polski, módl się za nami. Amen.
 
 
+
 W imieniu Kościoła w Polsce
 
-+ Stanisław Gądecki
+Stanisław Gądecki
 Arcybiskup Metropolita Poznański
 Przewodniczący Konferencji Episkopatu Polski
 
