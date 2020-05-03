@@ -163,13 +163,14 @@ p {
   text-align: justify !important;
 }
 .post p:first-child {
-  text-indent: 1em;
+  text-indent: 0;
 }
+/*
 .post p:first-child:first-letter {
   font-family: sans-serif;
   font-weight: bold;
   color: #444;
-}
+}*/
 .widget-container {
   margin-bottom: 25px;
 }
