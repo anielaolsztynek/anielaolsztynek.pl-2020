@@ -14,7 +14,7 @@ date: 2020-05-17
 > &nbsp;
 
 - Od dzisiaj w naszym kościele we Mszy Świętej może uczestniczyć 30 osób plus odpowiednia ilość osób w przestrzeni przed kościołem, z zachowaniem właściwej odległości. Proszę też o zachowanie należytego dystansu w kościele, czyli maksymalnie 2 osoby w ławce.
-- W poniedziałek <u>18 maja</u> przypada **setna rocznica Urodzin Świętego Jana Pawła II**. W tym dniu będziemy dziękować Opatrzności Bożej za dar życia i pontyfikatu naszego Rodaka - Swiętego Jana Pawła II.
-- Młodzież przygotowującą się do przyjęcia **sakramentu bierzmowania** zapraszam w czwartek na godzinę <u>18:00</u>.
+- W poniedziałek <u>18 maja</u> przypada **setna rocznica Urodzin Świętego Jana Pawła II**. W tym dniu będziemy dziękować Opatrzności Bożej za dar życia i pontyfikatu naszego Rodaka - Świętego Jana Pawła II, podczas Mszy Świętej połączonej z nabożeństwem majowym, zaśpiewamy też dziękczynne Te Deum.
+- Młodzież przygotowującą się do przyjęcia **sakramentu bierzmowania** zapraszam w czwartek na godzinę <u>18:00</u>. Bierzmowanie będzie miało miejsce w naszej parafii w następną środę, <u>27 maja</u>, będzie na dwóch Mszach Świętych, o godzinie <u>16:30</u> i <u>18:00</u>.
 - Jest do nabycia nowy numer **Gościa Niedzielnego**.
 - W następną niedzielę obchodzić będziemy **Uroczystość Wniebowstąpienia Pańskiego**.
