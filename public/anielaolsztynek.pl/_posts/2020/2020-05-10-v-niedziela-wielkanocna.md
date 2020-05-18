@@ -22,4 +22,4 @@ date: 2020-05-10
 - **Osoby korzystające z pomocy** mogą odbierać żywność po wcześniejszym, indywidualnym skontaktowaniu się telefonicznie ze mną i umówieniu na konkretną godzinę.
 - W związku z sytuacją, jaka miała miejsce w poprzednią niedzielę, kiedy było dużo osób, planowałem wprowadzić kolejne dwie Msze Święte, ale po dzisiejszej niedzieli nie widzę takiej potrzeby - tyle osób, ile jest dziś w kościele, może być w każdą niedzielę, co najmniej drugie tyle może być na placu przed kościołem.
 - W <u>sobotę</u> Msza Święta połączona z nabożeństwem majowym będzie wyjątkowo o godzinie <u>13:00</u>, na prośbę rodziny, która zamówiła intencję. Nie będzie w sobotę Mszy Świętej o godzinie <u>17:00</u>.
-- W minionym tygodniu odszedł do wieczności nasz parafianin śp. Bogdan Kuciński, lat 72. Pogrzeb prawdopodobnie w środę. Wieczny odpoczynek racz zmarłemu dać, Panie.
+- W minionym tygodniu odszedł do wieczności nasz parafianin śp. Bogusław Kuciński, lat 72. Pogrzeb prawdopodobnie w środę. Wieczny odpoczynek racz zmarłemu dać, Panie.
