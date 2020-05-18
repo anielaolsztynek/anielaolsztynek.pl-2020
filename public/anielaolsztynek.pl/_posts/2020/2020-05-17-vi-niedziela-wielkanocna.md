@@ -13,7 +13,7 @@ date: 2020-05-17
 >
 > &nbsp;
 
-- Od dzisiaj w naszym kościele we Mszy Świętej może uczestniczyć 30 osób plus odpowiednia ilość osób w przestrzeni przed kościołem, z zachowaniem odpowiedniej odległości. Proszę też o zachowanie odpowiedniego dystansu w kościele, czyli maksymalnie 2 osoby w ławce.
+- Od dzisiaj w naszym kościele we Mszy Świętej może uczestniczyć 30 osób plus odpowiednia ilość osób w przestrzeni przed kościołem, z zachowaniem właściwej odległości. Proszę też o zachowanie należytego dystansu w kościele, czyli maksymalnie 2 osoby w ławce.
 - W poniedziałek <u>18 maja</u> przypada **setna rocznica Urodzin Świętego Jana Pawła II**. W tym dniu będziemy dziękować Opatrzności Bożej za dar życia i pontyfikatu naszego Rodaka - Swiętego Jana Pawła II.
 - Młodzież przygotowującą się do przyjęcia **sakramentu bierzmowania** zapraszam w czwartek na godzinę <u>18:00</u>.
 - Jest do nabycia nowy numer **Gościa Niedzielnego**.
