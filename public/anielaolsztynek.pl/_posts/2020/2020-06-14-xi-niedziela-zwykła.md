@@ -9,7 +9,7 @@ date: 2020-06-14
 >
 > Jezus widzi nie tylko to, co zewnętrzne. On czyta w głębi ludzkich serc. Jest poruszony kondycją człowieka udręczonego życiem i porzuconego, czyli samotnego, zagubionego, niczyjego. On jako Dobry Pasterz pragnie otoczyć go swoją troskliwą miłością i mądrością. Pierwszym krokiem jest prośba o modlitwę w intencjach tych, którzy razem z Nim będą troszczyć się o ludzi zagubionych. Drugim - posłanie apostołów, a dziś innych powołanych. Jezus obdarza ich swoją bliskością i udziela im ze swojej władzy, ponieważ misję pełnią w Jego imieniu. Cechą powołanych ma być bezinteresowność. Wszystko darmo otrzymali od Boga, wszystko darmo mają dawać braciom.
 >
-> <span style="color: #666699;">Panie, i ja dziś proszę: poślij robotników na swoje żniwo. Daj powołanym odwagę podjęcia tego daru i wierności otrzymanej łasce. </span>
+> <span style="color: #666699;">Panie, i ja dziś proszę: Poślij robotników na swoje żniwo. Daj powołanym odwagę podjęcia tego daru i wierności otrzymanej łasce. </span>
 >
 > &nbsp;
 
