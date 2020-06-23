@@ -13,6 +13,6 @@ date: 2020-06-14
 >
 > &nbsp;
 
-- Dziękuję raz jeszcze tym wszystkim, którzy zaangażowali się w przygotowanie i przebieg procesji w uroczystość **Bożego Ciała** oraz za wykonanie czterech ołtarzy. Serdecznie dziękuję parafianom i gościom za  czynny udział w tej pięknej procesji. Osobiście jestem bardzo zadowolony z przebiegu procesji pierwszy raz tą trasą, prowadzącą na osiedle przy ulicy Leśnej, tym bardziej, że z tygodnia na tydzień, z dnia na dzień, wersja przebiegu Bożego Ciała i procesji się zmieniała. Jestem przekonany, że Opatrzność Boża czuwa nad tym wszystkim, a tegoroczna procesja bedzie też inspiracją na przyszłość.
-- W najbliższy piątek wypada uroczystość **Najświętszego Serca Pana Jezusa**. Jest to dzień odpustu w sasiedniej parafii.
+- Dziękuję raz jeszcze tym wszystkim, którzy zaangażowali się w przygotowanie i przebieg procesji w uroczystość **Bożego Ciała** oraz za wykonanie czterech ołtarzy. Serdecznie dziękuję parafianom i gościom za  czynny udział w tej pięknej procesji. Osobiście jestem bardzo zadowolony z przebiegu procesji pierwszy raz tą trasą, prowadzącą na osiedle przy ulicy Leśnej, tym bardziej, że z tygodnia na tydzień, z dnia na dzień, wersja przebiegu Bożego Ciała i procesji się zmieniała. Jestem przekonany, że Opatrzność Boża czuwa nad wszystkim, a tegoroczna procesja będzie też inspiracją na przyszłość.
+- W najbliższy piątek wypada uroczystość **Najświętszego Serca Pana Jezusa**. Jest to dzień odpustu w sąsiedniej parafii.
 - We wtorek i środę Msze Święte o godzinie <u>8:00</u>.
