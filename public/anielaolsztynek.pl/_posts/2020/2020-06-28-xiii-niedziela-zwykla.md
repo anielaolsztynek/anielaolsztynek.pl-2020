@@ -29,5 +29,5 @@ date: 2020-06-28
   - W ogrodzie, w miejscu po świerkach nawieziono ziemi i posiano trawę.
   - Przy bocznych drzwiach kościoła wybrano żwir na głębokość 60 cm i w to miejsce przywieziono ziemię, na której jest trawnik.
   - Łączna wartość tych małych inwestycji to 6 000 złotych + 9 400 spłaconego długu, co daje kwotę 15 400 złotych. Na inwestycje w tym czasie wpłynęło 10 840 złotych, długu pozostało jeszcze ponad 28 000 złotych, dlatego też malowanie kościoła póki co jest wstrzymane.
-  - Dziękuję tym wszystkim, którzy w tym trudnym czasie stworzyli swoistą tarczę antykryzysową, wpłacając pieniądze na konto parafialne (8 820 złotych), dzięki którym mogłem regulować zobowiązania inwestycyjne i bieżące rachunki. W najtrudniejszych miesiącach - III, IV i V - wydatki bieżące wyniosły ponad 12 000złotych, a z tacy wpłynęło niecałe 9 000 złotych.
+  - Dziękuję tym wszystkim, którzy w tym trudnym czasie stworzyli swoistą tarczę antykryzysową, wpłacając pieniądze na konto parafialne (8 820 złotych), dzięki którym mogłem regulować zobowiązania inwestycyjne i bieżące rachunki. W najtrudniejszych miesiącach - III, IV i V - wydatki bieżące wyniosły ponad 12 000 złotych, a z tacy wpłynęło niecałe 9 000 złotych.
 - We środę Msza Święta o godzinie <u>8:00</u>.
