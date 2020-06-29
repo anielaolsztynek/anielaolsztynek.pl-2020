@@ -19,7 +19,7 @@ date: 2020-06-28
 - W tym tygodniu wypada **I czwartek, I piątek i I sobota lipca**. Ponieważ jestem świeżo po zabiegu kolana, w tym miesiącu nie będzie odwiedzin chorych.
 - **Zmiana tajemnic różańcowych** w następną niedzielę o godzinie <u>8:30</u>.
 - Również w następną, **I niedzielę miesiąca** adoracja Najświętszego Sakramentu.
-- **XIV Piesza Pielgrzymka w intencji rodzin z Łomianek do Gietrzwałdu** przez Olsztynek będzie szła w dniach <u>29.06-05.07.2020</u>. Plakat w gablocie.
+- **XIV Piesza Pielgrzymka w intencji rodzin z Łomianek do Gietrzwałdu** przez Olsztynek będzie odbywała się w dniach <u>29.06-05.07.2020</u>. Plakat w gablocie.
 - Wszystkim dzieciom, młodzieży, nauczycielom i katechetom na progu wakacji oraz wszystkim, którzy udają się na urlopy, życzę spokojnego, radosnego i bezpiecznego wypoczynku oraz wielu miłych wrażeń.
 - **Podsumowanie półrocza (inwestycje)**:
   - Długu spłacono 9 400 złotych.
