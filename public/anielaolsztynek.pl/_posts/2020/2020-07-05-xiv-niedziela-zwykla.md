@@ -14,6 +14,6 @@ date: 2020-07-05
 > &nbsp;
 
 - 1 lipca minęła **24 rocznica powstania naszej parafii**.
-- Natomiast we wtorek - <u>7 lipca</u> - wypada **24 rocznica pierwszej Mszy Świętej odprawionej w kaplicy**.
-- **XXXVII Warmińska Pielgrzymka Piesza na Jasną Górę wyrusza w dniu 31 lipca z Gietrzwałdu**. Zapisy do <u>20 lipca</u>. Plakat w gablocie.
+- Natomiast we wtorek - <u>7 lipca</u> - wypada **24 rocznica pierwszej Mszy Świętej** odprawionej w kaplicy.
+- **XXXVII Warmińska Pielgrzymka Piesza na Jasną Górę** wyrusza w dniu <u>31 lipca</u> z Gietrzwałdu. Zapisy do <u>20 lipca</u>. Plakat w gablocie.
 - Jest do nabycia nowy numer **"Gościa Niedzielnego"**.
