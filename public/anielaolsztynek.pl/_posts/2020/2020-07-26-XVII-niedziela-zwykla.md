@@ -16,5 +16,5 @@ date: 2020-07-26
 - Zgodnie z zapowiedzią z okazji **święta Świętego Krzysztofa** – patrona podróżnych i kierowców - dziś po Mszy Świętej będzie poświęcenie pojazdów. Przy tej okazji będą zbierane dobrowolne ofiary na misje w ramach Miva Polska, na zakup środków transportu.
 - W czwartek – 30 lipca – wyrusza z Gietrzwałdu Piesza Pielgrzymka na Jasną Górę, grupa około 50 osób.
 - Następna, I niedziela miesiąca to **niedziela adoracji Najświętszego Sakramentu**.
-- Zmiana tajemnic różańcowych w następną niedzielę o godzinie <u>8:30</u> rano.
+- Zmiana tajemnic różańcowych w następną niedzielę o godzinie <u>8:30</u>.
 - We wtorek i piątek Msza Święta o godzinie <u>8:00</u>.
