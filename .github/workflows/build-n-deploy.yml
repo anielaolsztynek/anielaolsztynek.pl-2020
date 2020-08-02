@@ -16,7 +16,7 @@ jobs:
         with:
           node-version: "12.x"
 
-      - run: npm --prefix=public ci
+#     - run: npm --prefix=public ci
 
       - name: Setup ruby
         uses: ruby/setup-ruby@v1
@@ -35,12 +35,12 @@ jobs:
         run: |
           bundle config path vendor/bundle
           bundle install --jobs 4 --retry 3
-      - run: (cd public && bundle exec jekyll build)
+      - run: (cd public/anielaolsztynek.pl && bundle exec jekyll build)
 #     - run: npm install -g workbox-cli && workbox generateSW workbox-config.js
 
       - name: Deploy to Firebase
         uses: w9jds/firebase-action@v1.1.0
         with:
-          args: deploy
+          args: deploy --only hosting
         env:
           FIREBASE_TOKEN: ${{ secrets.FIREBASE_TOKEN }}
