@@ -15,5 +15,5 @@ date: 2020-08-02
 
 - Dziś I niedziela miesiąca - **niedziela adoracji Najświętszego Sakramentu**.
 - W czwartek – <u>6 sierpnia</u> – wypada liturgiczne **Święto Przemienienia Pańskiego**. W tym dniu Msza Święta połączona ze ślubem o godzinie <u>16:00</u>.
-- W najbliższy piątek wypada I piątek miesiąca - odwiedziny chorych przed południem. Msza Święta w tym dniu połączona ze ślubem o godzinie <u>15:00</u>.
+- W najbliższy piątek wypada **I piątek miesiąca** - odwiedziny chorych przed południem. Msza Święta w tym dniu połączona ze ślubem o godzinie <u>15:00</u>.
 - Przypominam o obowiązku noszenia maseczek wewnątrz kościoła. Jest to wymóg sanitarny, ale również wyraz naszej chrześcijańskiej postawy i troski o drugiego człowieka.
