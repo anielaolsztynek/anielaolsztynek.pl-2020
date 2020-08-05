@@ -1,47 +1,48 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
-  {%- include head.html -%}
+{%- include head.html -%}
 
-  <body>
+<body>
 
-    <header id="headerline">
-      <a id="headera" href="/"
-        ><div id="anheader" alt="Prafia p.w. Bł. Anieli Salawy w Olsztynku">
-          &nbsp;
-        </div></a
-      >
-    </header>
+  <header id="headerline">
+    <a id="headera" href="/">
+      <div id="anheader" alt="Prafia p.w. Bł. Anieli Salawy w Olsztynku">
+        &nbsp;
+      </div>
+    </a>
+  </header>
 
-    <div id="container">
-		  <div id="wcontent">
-			  <div id="topcontent">&nbsp;</div>
-        <div id="content">
-          <div id="maincontent" class="row">
-              <div class="column" id="contentwrap" role="main" aria-label="Content">
-			          <h1><a href="/">Parafia p.w. Bł. Anieli Salawy w Olsztynku</a></h1>
-                {{ content }}
-              </div>
-              <div class="column" id="insidebar" class="insidebar">
-                {%- include sidebar.html -%}
-              </div>
-			    </div>
-			  </div>
-			  <div id="bottomcontent">&nbsp;</div>
-			</div>
-		</div>
+  <div id="container">
+    <div id="wcontent">
+      <div id="topcontent">&nbsp;</div>
+      <div id="content">
+        <div id="maincontent" class="row">
+          <div class="column" id="contentwrap" role="main" aria-label="Content">
+            <h1><a href="/">Parafia p.w. Bł. Anieli Salawy w Olsztynku</a></h1>
+            {{ content }}
+          </div>
+          <div class="column" id="insidebar" class="insidebar">
+            {%- include sidebar.html -%}
+          </div>
+        </div>
+      </div>
+      <div id="bottomcontent">&nbsp;</div>
+    </div>
+  </div>
 
-    <footer id="footer">
-      &copy; Copyright 2010-{{ 'now' | date: "%Y" }} by Parafia Rzymskokatolicka pod
-      wezwaniem Błogosławionej Anieli Salawy w
-      Olsztynku&nbsp;&nbsp;|&nbsp;&nbsp;Administrator:
-      <u>Danuta Lewandowska</u>&nbsp;&nbsp;|&nbsp;&nbsp;
-      <a href="https://jedrzej.lewandowski.doctor/"
-        >Designed by: Jędrzej Lewandowski</a
-      >. <a href="https://travis-ci.com/anielaolsztynek/anielaolsztynek.pl-2020" rel="nofollow noopener" >Anielaolsztynek.pl build log</a>
-    </footer>
+  <footer id="footer">
+    &copy; Copyright 2010-{{ 'now' | date: "%Y" }} by Parafia Rzymskokatolicka pod
+    wezwaniem Błogosławionej Anieli Salawy w
+    Olsztynku&nbsp;&nbsp;|&nbsp;&nbsp;Administrator:
+    <u>Danuta Lewandowska</u>&nbsp;&nbsp;|&nbsp;&nbsp;
+    <a href="https://jedrzej.lewandowski.doctor/">Designed by: Jędrzej Lewandowski</a>.
+    <a href="https://github.com/anielaolsztynek/anielaolsztynek.pl-2020/actions" rel="nofollow noopener">
+      Anielaolsztynek.pl build log
+    </a>
+  </footer>
 
 
-  </body>
+</body>
 
 </html>
