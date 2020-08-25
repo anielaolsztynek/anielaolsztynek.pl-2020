@@ -14,7 +14,7 @@ date: 2020-08-23
 > &nbsp;
 
 - Dziś o godzinie <u>11:00</u> będzie odprawiona Msza Święta w intencji pszczelarzy, w ramach obchodów **Regionalnego Dnia Pszczelarza**. W czasie tej Mszy Świętej będzie poświęcona figura Świętego Ambrożego,  biskupa, patrona pszczelarzy.
-- W środę - 26 sierpnia - wypada **Uroczystość Najświętszej Marii Panny Częstochowskiej**.
-- Odpust w naszej parafii za 2 tygodnie — 6 września.
+- W środę - <u>26 sierpnia</u> - wypada **Uroczystość Najświętszej Marii Panny Częstochowskiej**.
+- **Odpust** w naszej parafii za 2 tygodnie — <u>6 września</u>.
 - Próby dla dzieci **przed uroczystością I Komunii Świętej** (która odbędzie się <u>13.09.20</u> o godzinie <u>11:00</u>) w tym tygodniu w środę i czwartek o godzinie <u>17:00</u>.
 - W czwartek Msza Święta będzie o godzinie <u>8:00</u>.
