@@ -22,5 +22,4 @@ date: 2020-09-06
 - **Próby dla dzieci przed uroczystością I Komunii Świętej** w tym tygodniu w poniedziałek, wtorek i środę o godzinie <u>17:45</u>.
 - W związku z nowym rokiem szkolnym, który rozpoczął się w minionym tygodniu, wszystkim dzieciom, młodzieży, nauczycielom, wychowawcom i katechetom życzę błogosławieństwa Bożego, wytrwałości w nauce i nauczaniu oraz zdrowia.
 - Zgodnie z zapowiedzią dziś **poświęcenie tornistrów i przyborów szkolnych** należących do pierwszoklasistów.
-- Mobilne Centrum Badań organizuje badanie pod kątem: miażdżycy tętnic, osteoporozy oraz zakwaszeniea organizmu. W ambulansie będzie możliwość nabycia testu kasetkowego na obecność przeciwciał oraz wykrywające infekcję koronawirusa. Badanie odbędzie się w Ambulansie w piątek, 11 wrzesnia 2020 o godzinie 11:00 na parkingu przy kościele. Szczegóły na plakatach i ulotkach przy wyjściu z koscioła.
 - W piątek Msza Święta ślubna o godzinie <u>16:00</u>, w sobotę o godzinie <u>15:15</u> i <u>16:30</u>.
