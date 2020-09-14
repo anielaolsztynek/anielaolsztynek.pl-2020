@@ -14,9 +14,9 @@ date: 2020-09-13
 > &nbsp;
 
 - Dziś w naszej parafii **Uroczystość I Komunii Świętej**, do której przystąpiło dwanaścioro dzieci (w tym dziesięcioro z naszej parafii). Otaczamy je naszą modlitwą i jednocześnie życzymy im, by były wierne Ewangelii Chrystusowej, czerpały radość i siły z Eucharystii i kochały Jezusa słowem i czynem przez całe swe życie.
-- Bóg zapłać rodzicom dzieci przystępujących w tym roku pierwszy raz do Komunii Świętej za dar ołtarza – dar dla parafii. Jest to lawabo - naczynie do obmywania palców przz kapłana rozdzielajacego Komunię Świętą.
+- Bóg zapłać rodzicom dzieci przystępujących w tym roku pierwszy raz do Komunii Świętej za dar ołtarza – dar dla parafii. Jest to lawabo - naczynie do obmywania palców przez kapłana rozdzielajacego Komunię Świętą.
 - Dziś odbywają się uroczystości odpustowe w **143 rocznicę Objawień Najświętszej Marii Panny w Gietrzwałdzie** oraz **54 Dożynki Archidiecezjalne**.
 - Jutro - 14 września - wypada **Święto Podwyższenia Krzyża Świętego**.
-- Tradycyjnie w niedziele po Mszach Świętych będą rozdawane dzieciom obrazki nawiązujące do Ewangelii. Dzieci przygotowujące się w tym roku szkolnym do I Komunii Świętej zbierają obrazki obowiązkowo, tak samo dzieci z drugich klas. I Komunia Święta w przyszłym roku tradycyjnie w drugą niedzielę maja. Dziś po Mszy Świętej będą rozdawane dzieciom książeczki, do których będą wklejane obrazki.
+- Tradycyjnie w niedziele po Mszach Świętych **będą rozdawane dzieciom obrazki nawiązujące do Ewangelii**. Dzieci przygotowujące się w tym roku szkolnym do I Komunii Świętej zbierają obrazki obowiązkowo, tak samo dzieci z drugich klas. I Komunia Święta w przyszłym roku tradycyjnie w drugą niedzielę maja. Dziś po Mszy Świętej będą rozdawane dzieciom książeczki, do których będą wklejane obrazki.
 - W następną niedzielę po Mszy Świętej o godzinie <u>11:00</u> **spotkanie z rodzicami dzieci przygotowujących się w tym roku szkolnym do I Komunii Świętej**.
 - W czwartek Msza Święta o godzinie <u>8:00</u>.
