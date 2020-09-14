@@ -19,4 +19,4 @@ date: 2020-09-13
 - Jutro - 14 września - wypada **Święto Podwyższenia Krzyża Świętego**.
 - Tradycyjnie w niedziele po Mszach Świętych **będą rozdawane dzieciom obrazki nawiązujące do Ewangelii**. Dzieci przygotowujące się w tym roku szkolnym do I Komunii Świętej zbierają obrazki obowiązkowo, tak samo dzieci z drugich klas. I Komunia Święta w przyszłym roku tradycyjnie w drugą niedzielę maja. Dziś po Mszy Świętej będą rozdawane dzieciom książeczki, do których będą wklejane obrazki.
 - W następną niedzielę po Mszy Świętej o godzinie <u>11:00</u> **spotkanie z rodzicami dzieci przygotowujących się w tym roku szkolnym do I Komunii Świętej**.
-- W czwartek Msza Święta o godzinie <u>8:00</u>.
+- We czwartek Msza Święta o godzinie <u>8:00</u>.
