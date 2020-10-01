@@ -16,7 +16,7 @@ date: 2020-09-27
 - We czwartek rozpoczyna się październik, **miesiąc wspólnej modlitwy różańcowej**. Serdecznie zapraszam do tej modlitwy przez cały miesiąc, codziennie o godzinie <u>16:30</u>, w niedziele o godzinie <u>8:30</u>.
 - W tym tygodniu wypada **I czwartek, I piątek i I sobota** października. W piątek przed południem odwiedziny chorych. Po południu okazja do Spowiedzi Św. od godziny <u>16:00</u>.
 - Następna pierwsza niedziela miesiąca to także **niedziela Adoracji Najświętszego Sakramentu** w czasie Mszy Świętych o godzinie <u>9:00</u> i <u>11:00</u>.
-- W następną niedzielę proszę, aby dzieci, w tym dzieci przygotowujące się w tym roku szkolnym do I Komunii Świętej, przyniosły do poświęcenia różańce na godzinę <u>11:00</u>.
+- W następną niedzielę proszę, aby dzieci, w tym dzieci przygotowujące się w tym roku szkolnym do I Komunii Świętej, **przyniosły do poświęcenia różańce** na godzinę <u>11:00</u>.
 - Także w następną niedzielę po Mszach Świętych będą zbierane dobrowolne ofiary do puszek na potrzeby Caritas Archidiecezji Warmińskiej.
 - **Osoby, które chcą w tym roku korzystać z pomocy żywnościowej**, proszone są o dostarczenie skierowania z MOPS-u.
 - W sobotę Msze Święte ślubne o godzinie <u>14:45</u> i <u>16:00</u>.
