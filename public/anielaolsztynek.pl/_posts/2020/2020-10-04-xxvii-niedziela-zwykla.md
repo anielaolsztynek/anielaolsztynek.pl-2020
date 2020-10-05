@@ -15,8 +15,8 @@ date: 2020-10-04
 
 - Dziś pierwsza niedziela miesiąca – **niedziela adoracji Najświętszego Sakramentu**.
 - Także dzisiaj, jak co roku w pierwszą niedzielę października, po Mszy Świętej będą zbierane ofiary do puszek na potrzeby Caritas Archidiecezji Warmińskiej.
-- Natomiast w następną niedzielę – **w Dniu Papieskim** – po Mszach Świętych w ramach Dzieła Nowego Tysiąclecia będą zbierane ofiary na fundusz stypendialny dla uzdolnionej młodzieży z małych miejscowości i z rodzin najuboższych.
+- Natomiast w następną niedzielę – w Dniu Papieskim – po Mszach Świętych w ramach **Dzieła Nowego Tysiąclecia** będą zbierane ofiary na fundusz stypendialny dla uzdolnionej młodzieży z małych miejscowości i z rodzin najuboższych.
 - Zachęcam do **wspólnej modlitwy różańcowej** codziennie o godzinie <u>16:30</u>, w niedziele o godzinie <u>8:30</u>. Młodzież i kandydatów do bierzmowania z klas VIII zapraszam we wtorek, dzieci zapraszam w środę, też na godzinę <u>16:30</u>.
-- W środę - 7 października - wypada liturgiczne **wspomnienie Matki Bożej Różańcowej**. Jest to Święto Patronalne Kółek Różańcowych. Zapraszam na wspólny różaniec i Mszę Świętą w intencji wszystkich członków Kółek Różańcowych.
-- W następną niedzielę będziemy gościli w naszej parafii Księdza Cezarego Opalacha, pracownika naukowego Wydziału Teologii Uniwersytetu Warmińsko-Mazurskiego, który wygłosi słowo na temat małżeństwa. Wysłuchamy też świadectwa rodziny ze wspólnoty kościoła Domowego.
+- W środę - 7 października - wypada liturgiczne **wspomnienie Matki Bożej Różańcowej**. Jest to **Święto Patronalne Kółek Różańcowych**. Zapraszam na wspólny różaniec i Mszę Świętą w intencji wszystkich członków Kółek Różańcowych.
+- W następną niedzielę będziemy gościli w naszej parafii Księdza Cezarego Opalacha, pracownika naukowego Wydziału Teologii Uniwersytetu Warmińsko-Mazurskiego, który wygłosi słowo na temat małżeństwa. Wysłuchamy też świadectwa rodziny ze wspólnoty Kościoła Domowego.
 - Dziś **poświęcenia różańców** dla dzieci przygotowujących się w tym roku szkolnym do I Komunii Świętej.
