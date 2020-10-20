@@ -18,7 +18,7 @@ date: 2020-10-18
 - W czwartek - 22 października - wypada liturgiczne wspomnienie **Świętego Jana Pawła II, papieża**.
 - Zachęcam i zapraszam do **wspólnej modlitwy różańcowej** przez cały październik codziennie o godzinie <u>16:30</u>, w niedziele o godzinie <u>8:30</u>. Młodzież zapraszam we wtorek, dzieci w środę.
 - Kartki na wypominki i Mszę Św. zbiorową, odprawianą przez cały listopad, są wyłożone na półce z prasą.
-- Ksiądz Arcybiskup przypomina, że zgodnie z dekretem z dnia 29 maja bieżącego roku, w Archidiecezji Warmińskiej obowiązuje nadal dyspensa od niedzielnego i świątecznego uczestnictwa we Mszy Świętej, dla następujących wiernych:
+- Ksiądz Arcybiskup przypomina, że zgodnie z dekretem z dnia 29 maja bieżącego roku, w Archidiecezji Warmińskiej **obowiązuje nadal dyspensa od niedzielnego i świątecznego uczestnictwa we Mszy Świętej, dla następujących wiernych:**
   - a. osoby w podeszłym wieku,
   - b. osoby z objawami infekcji,
   - c. osoby, które czują obawę przed zarażeniem,
