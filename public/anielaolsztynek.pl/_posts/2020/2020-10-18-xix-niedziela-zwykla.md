@@ -23,9 +23,11 @@ date: 2020-10-18
   - b. osoby z objawami infekcji,
   - c. osoby, które czują obawę przed zarażeniem,
 
-z zachowaniem III przykazania Dekalogu: „Pamiętaj, aby dzień święty święcić”.
-Jednocześnie Arcybiskup zachęca, czyniąc to też osobiście, do udziału we Mszy Świętej w dni powszednie, a także do udziału we Mszy Świętej w niedziele, poprzez transmisje radiowe lub telewizyjne.
+  z zachowaniem III przykazania Dekalogu: „Pamiętaj, aby dzień święty święcić”.
+  Jednocześnie Arcybiskup zachęca, czyniąc to też osobiście, do udziału we Mszy Świętej w dni powszednie, a także do udziału we Mszy Świętej w niedziele, poprzez transmisje radiowe lub telewizyjne.
+
 - W naszym kościele w czasie Mszy Świętej może być 80 osób.
 
 
+![Podsumowanie realizacji programu Caritas w naszej parafii](/assets/2020/2020.10.18-caritas.jpg)
 
