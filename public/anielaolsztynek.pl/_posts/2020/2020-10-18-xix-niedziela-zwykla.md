@@ -28,6 +28,3 @@ date: 2020-10-18
 
 - W naszym kościele w czasie Mszy Świętej może być 80 osób.
 
-
-![Podsumowanie realizacji programu Caritas w naszej parafii](/assets/2020/2020.10.18-caritas.jpg)
-

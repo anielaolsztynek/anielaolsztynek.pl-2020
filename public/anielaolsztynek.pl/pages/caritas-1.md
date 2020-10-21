@@ -16,3 +16,9 @@ permalink: /caritas-1/
 **UWAGA!** Proszę o dostarczenie do parafii ksero PITu ze stroną, na której jest odpis na Caritas w celu orientacji wysokości pozyskanych środków z parafii.
 
 - **Program Operacyjny Pomoc Żywnościowa 2014-2020:** <https://caritas.pl/projekty/program-operacyjny-pomoc-zywnosciowa/>
+
+
+
+### Podsumowanie realizacji programu 2019
+
+![Podsumowanie realizacji programu Caritas w naszej parafii](/assets/2020/2020.10.18-caritas.jpg)
