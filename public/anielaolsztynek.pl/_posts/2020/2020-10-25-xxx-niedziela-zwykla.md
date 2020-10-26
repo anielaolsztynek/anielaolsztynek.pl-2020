@@ -15,9 +15,10 @@ date: 2020-10-25
 
 - W sobotę ostatnie nabożeństwo różańcowe.
 - **Uroczystość Wszystkich Świętych** obchodzimy w następną niedzielę – 1 listopada. Msze Święte w tym dniu będą odprawione jak w każdą niedzielę. W związku z pandemią nie będzie procesji żałobnej na cmentarz ani nabożeństwa za zmarłych na cmentarzu.
-- Poświęcenie pomników w terminie ustalonym telefonicznie przed świętem Wszystkich Świętych lub po tej uroczystości. Proszę dzwonić.
+- Poświęcenie pomników w terminie ustalonym telefonicznie przed Świętem Wszystkich Świętych lub po tej uroczystości. Proszę dzwonić.
 - Kartki na wypominki i Mszę Świętą zbiorową są wyłożone na półce z prasą.
-- W następną niedzielę - 1 liostopada - wspólny różaniec w intencji zmarłych o godzinie <u>8:30</u>, połączony ze zmianą tajemnic różańcowych.
+- W następną niedzielę - 1 listopada - wspólny różaniec w intencji zmarłych o godzinie <u>8:30</u>, połączony ze zmianą tajemnic różańcowych.
+
 
 
 - **APEL PRZEWODNICZĄCEGO KONFERENCJI EPISKOPATU POLSKI PRZED UROCZYSTOŚCIĄ WSZYSTKICH ŚWIĘTYCH**
@@ -41,13 +42,14 @@ Przewodniczący Konferencji Episkopatu Polski
 Poznań, dnia 23 października 2020 roku
 
 
+
 - **KOMUNIKAT ARCYBISKUPA METROPOLITY WARMIŃSKIEGO DOTYCZĄCY UROCZYSTOŚCI WSZYSTKICH ŚWIĘTYCH W DNIU 1 LISTOPADA 2020 ROKU**
 
 Drodzy Duszpasterze, Bracia i Siostry w Chrystusie Panu!
 
 W związku z coraz trudniejszą sytuacją epidemiczną w naszym kraju i naszej archidiecezji, mając na uwadze nowe ograniczenia liczby osób podczas zgromadzeń religijnych na całym terytorium Polski oraz odpowiadając na apel Przewodniczącego Konferencji Episkopatu Polski Arcybiskupa Stanisława Gądeckiego, zalecam, by uwzględniając racje duszpasterskie podjąć decyzję o odwołaniu Mszy Świętych i nabożeństw na cmentarzach w Uroczystość Wszystkich Świętych.
 
-Jednocześnie przypominam o dyspensie, którą udzieliłem wszystkim osobom, przebywającym w tzw. „strefie czerwonej” od obowiązku udziału we Mszach Świętych w niedziele i święta nakazane, z której można skorzystać również w Uroczystość Wszystkich Świętych.
+Jednocześnie przypominam o dyspensie, której udzieliłem wszystkim osobom, przebywającym w tzw. „strefie czerwonej” od obowiązku udziału we Mszach Świętych w niedziele i święta nakazane, z której można skorzystać również w Uroczystość Wszystkich Świętych.
 
 Zachęcam do nawiedzania grobów i modlitwy za zmarłych w dniach poprzedzających Uroczystość Wszystkich Świętych i w dniach następujących po tej uroczystości. Dekret Penitencjarii Apostolskiej, wydany 22 października br. na polecenie Ojca Świętego Franciszka, rozszerzył możliwość uzyskania odpustu zupełnego ofiarowanego za zmarłych nawiedzając cmentarz i modląc się za zmarłych przez osiem dni dowolnie wybranych w całym miesiącu listopadzie. Te dni mogą być od siebie oddzielone. Również odpust zupełny ofiarowany za zmarłych, związany ze wspomnieniem wszystkich wiernych zmarłych (2 listopada), może być przeniesiony na inny dzień listopada, dowolnie wybrany. Odpust ten można uzyskać przez pobożne nawiedzenie kościoła lub kaplicy i odmówienie modlitwy „Ojcze nasz” i „Wierzę w Boga”.
 
