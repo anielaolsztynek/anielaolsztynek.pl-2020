@@ -17,7 +17,8 @@ date: 2020-10-25
 - **Uroczystość Wszystkich Świętych** obchodzimy w następną niedzielę – 1 listopada. Msze Święte w tym dniu będą odprawione jak w każdą niedzielę. W związku z pandemią nie będzie procesji żałobnej na cmentarz ani nabożeństwa za zmarłych na cmentarzu.
 - Poświęcenie pomników w terminie ustalonym telefonicznie przed Świętem Wszystkich Świętych lub po tej uroczystości. Proszę dzwonić.
 - Kartki na wypominki i Mszę Świętą zbiorową są wyłożone na półce z prasą.
-- W następną niedzielę - 1 listopada - wspólny różaniec w intencji zmarłych o godzinie <u>8:30</u>, połączony ze zmianą tajemnic różańcowych.
+- W następną niedzielę - 1 listopada - **wspólny różaniec w intencji zmarłych** o godzinie <u>8:30</u>, połączony ze zmianą tajemnic różańcowych.
+
 
 
 
