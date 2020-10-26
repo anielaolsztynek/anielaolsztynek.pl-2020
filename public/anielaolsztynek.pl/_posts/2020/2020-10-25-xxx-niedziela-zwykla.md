@@ -7,7 +7,7 @@ date: 2020-10-25
 >
 > **Obietnica Boga**
 >
-> "Będziesz miłował" - bardziej niż nakaz czy przykazanie jest to pragnienie Boga względem nas i Jego obietnica. Jeśli pozwolimy Bogu, aby nas kształtował, On mocą swojego Ducha uzdolni całą naszą osobę do kochania w sposób harmonijny i integralny. Wówczas będziemy kochać Go całym umysłem przez poznawanie prawdy. Całym naszym sercem przez budowanie dojrzałych więzi i relacji. Całą naszą duszą przez podejmowanie ewangelicznych decyzji i czystość intencji w działaniach. Coraz bardziej harmonizując nasze wnętrze, będziemy zdolni do miłowania naszych bliźnich jak samych siebie.
+> "Będziesz miłował" - bardziej niż nakaz, czy przykazanie jest to pragnienie Boga względem nas i Jego obietnica. Jeśli pozwolimy Bogu, aby nas kształtował, On mocą swojego Ducha uzdolni całą naszą osobę do kochania w sposób harmonijny i integralny. Wówczas będziemy kochać Go całym umysłem przez poznawanie prawdy. Całym naszym sercem przez budowanie dojrzałych więzi i relacji. Całą naszą duszą przez podejmowanie ewangelicznych decyzji i czystość intencji w działaniach. Coraz bardziej harmonizując nasze wnętrze, będziemy zdolni do miłowania naszych bliźnich jak samych siebie.
 >
 > <span style="color: #666699;">Jezu, pragnę kochać Ciebie całym sobą. Dziękuję za Twoje zaproszeniei obietnicę wzrastania w miłości. </span>
 >
