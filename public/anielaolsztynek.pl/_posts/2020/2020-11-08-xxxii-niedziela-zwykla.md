@@ -16,7 +16,7 @@ date: 2020-11-08
 - Dziś wypada **XII Dzień Solidarności z Kościołem Prześladowanym – z Kościołem w Potrzebie**. Po Mszy Świętej przy wyjściu z kościoła można złożyć dobrowolną ofiarę jako pomoc Kościołowi w Potrzebie.
 - W środę – <u>11 listopada</u> – **102 rocznica Odzyskania Niepodległości Polski**.
 - W tym dniu wypada też **20 rocznica poświęcenia naszego dzwonu i plebanii**.
-- Msze Święte w tym tygodniu do soboty włącznie odwołane.
+- Msze Święte w tym tygodniu do soboty włącznie są odwołane.
 - Msze Święte za zmarłych Ksiądz Proboszcz będzie odprawiał indywidualnie.
 - Od wczoraj w naszym kościele mogą przebywać 22 osoby w czasie Mszy Świętej.
 - W minionym tygodniu odeszła do wieczności nasza parafianka śp. Matylda Panasiuk - lat 81. Wieczny odpoczynek racz zmarłej dać, Panie.
