@@ -18,3 +18,4 @@ date: 2020-11-15
 - W tym tygodniu Msze Święte w naszym kościele będą w poniedziałek, piątek i sobotę o godzinie <u>17:00</u>.
 - Podobnie jak w poprzednim tygodniu, Msze Święte za zmarłych Ksiądz Proboszcz będzie odprawiał indywidualnie.
 - W minionym tygodniu odszedł do wieczności nasz parafianin śp. Józef Mierzejewski - lat 88. Wieczny odpoczynek racz zmarłemu dać, Panie.
+
