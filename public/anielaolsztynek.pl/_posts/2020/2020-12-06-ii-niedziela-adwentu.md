@@ -18,6 +18,6 @@ date: 2020-12-06
 - Jutro liturgiczne wspomnienie **Św. Ambrożego** - biskupa - patrona pszczelarzy. O tyle bliższa nam jest ta postać, że od sierpnia jest obecna w naszym kościele figura świętego. Msza Święta w intencji pszczelarzy będzie odprawiona 20 grudnia o godzinie <u>11:00</u>.
 - **Msze Święte roratnie o Najświętszej Marii Pannie** w tym tygodniu w środę i czwartek o godzinie <u>17:00</u>.
 - Są do nabycia w zakrystii **świece Caritas** na stół wigilijny w cenie 5 złotych.
-- Do następnej niedzieli można przyniosić napełnione żywnością oraz artykułami chemicznymi siatki charytatywne. To wyraz naszej pamięci przede wszystkim o osobach samotnych, starszych i chorych.
+- Do następnej niedzieli można przyniosić napełnione żywnością oraz artykułami chemicznymi siatki charytatywne. Jest to wyraz naszej pamięci przede wszystkim o osobach samotnych, starszych i chorych.
 - We wtorek – 8 grudnia - wypada liturgiczna uroczystość **Niepokalanego Poczęcia Najświętszej Marii Panny**.
 - W tym roku wizyta duszpasterska - **kolęda** - w formie dotychczasowej nie może się odbyć.
