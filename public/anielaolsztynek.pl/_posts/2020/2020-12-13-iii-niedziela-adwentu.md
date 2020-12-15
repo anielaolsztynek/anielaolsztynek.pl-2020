@@ -7,21 +7,21 @@ date: 2020-12-13
 >
 > **Kim jestem, a kim nie?**
 >
-> Niedziela Gaudete - Niedziela Radości. Liturgia zaprasza nas do radości, bo przychodzący Pan jest coraz bliżej. Jan Chrzciciel pokazuje nam, co jest źródłem tej głębokiej radości, której świat dać nie może. To świadomość własnej tożsamości i misji. Jan wie, kim jest w oczach Boga i jaką misja On go obdarzył. Mówiąc o samym sobie do faryzeuszy, najpierw trzykrotnie zapewnia, kim na pewno nie jest. Dopiero potem stwierdza, kim jest. Im bardziej będziemy świadomi, kim jesteśmy, a kim nie, tym wiecej radości będzie nam towarzyszyło w codzienności.
+> Niedziela Gaudete - Niedziela Radości. Liturgia zaprasza nas do radości, bo przychodzący Pan jest coraz bliżej. Jan Chrzciciel pokazuje nam, co jest źródłem tej głębokiej radości, której świat dać nie może. To świadomość własnej tożsamości i misji. Jan wie, kim jest w oczach Boga i jaką misją On go obdarzył. Mówiąc o samym sobie do faryzeuszy, najpierw trzykrotnie zapewnia, kim na pewno nie jest. Dopiero potem stwierdza, kim jest. Im bardziej będziemy świadomi, kim jesteśmy, a kim nie, tym wiecej radości będzie nam towarzyszyło w codzienności.
 >
 > <span style="color: #666699;">Jezu, pragnę odkrywać, kim jestem w Twoich oczach, aby móc innych prowadzić ku Tobie. </span>
 >
 > &nbsp;
 
-- Zbliżają się **Święta Bożego Narodzenia**. Zachęcam, abyśmy przeżyli je przygotowani duchowo, żeby w tym czasie Chrystus znalazł miejsce w naszych sercach. Korzystajmy z nauk rekolekcyjnych transmitowanych przez radio czy telewizję. W naszym kościele też będzie miał miejsce **dzień skupienia** w najbliższą sobotę. Msze Święte z nauką - kazaniem - w sobotę o godzinie <u>10:00</u> i <u>17:00</u>. W tym dniu też będzie okazja do Spowiedzi Św. 20 minut przed Mszą Św. i w czasie Mszy Świętej. W tym dniu, a także w następną niedzielę kazanie wygłosi ks. Włodzimierz - pallotyn z Warszawy (Ząbki).
+- Zbliżają się **Święta Bożego Narodzenia**. Zachęcam, abyśmy przeżyli je przygotowani duchowo, aby w tym czasie Chrystus znalazł miejsce w naszych sercach. Korzystajmy z nauk rekolekcyjnych transmitowanych przez radio czy telewizję. W naszym kościele też będzie miał miejsce **dzień skupienia** w najbliższą sobotę. Msze Święte z nauką - kazaniem - w sobotę o godzinie <u>10:00</u> i <u>17:00</u>. W tym dniu będzie okazja do **Spowiedzi Św**, 20 minut przed Mszą Św. i w czasie Mszy Świętej. W tym dniu, a także w następną niedzielę kazanie wygłosi ks. Włodzimierz - pallotyn z Warszawy (Ząbki).
 - Od czwartku – <u>17 grudnia</u> – rozpoczyna się druga część Adwentu. Dni tego okresu w liturgii są poświęcone bezpośredniemu przygotowaniu do Bożego Narodzenia. W tych dniach odmawiamy Nowennę do Dzieciątka Jezus.
 - W tym tygodniu **Msze Święte roratnie o Najświętszej Marii Pannie** we wtorek, środę i czwartek o godzinie <u>17:00</u>.
 - W piątek Msza Święta będzie o godzinie <u>8:00</u>.
 - Są jeszcze do nabycia w zakrystii **świece Caritas** na stół wigilijny w cenie 5 złotych.
-- Jeszcze do dziś można przynosić napełnione siatki Caritas, które w tym tygodniu będą rozprowadzone. Dziękuję wszystkim, którzy włączyli się w akcję pomocy przedświątecznej najbardziej potrzebującym osobom z naszej parafii.
+- Jeszcze do dziś można przynosić napełnione **siatki Caritas**, które w tym tygodniu będą rozprowadzone. Dziękuję wszystkim, którzy włączyli się w akcję pomocy przedświątecznej najbardziej potrzebującym osobom z naszej parafii.
 - Przypominam, że w tym roku wizyta duszpasterska - **kolęda** - odbędzie się u tych rodzin, które wcześniej zgłoszą się i wyrażą chęć spotkania. Można zgłaszać się po Mszy Świętej lub telefonicznie do Świąt Bożego Narodzenia.
 - Już dziś chcę poinformować, że w tym roku **Pasterka** będzie o godzinie <u>22:00</u> i <u>24:00</u>.
-- Apel do ozdrowieńców.
+- Apel do ozdrowieńców:
 - **ARCHIDIECEZJA WARMIŃSKA PRZYŁĄCZA SIĘ DO APELU O ODDAWANIE OSOCZA**
 
   - Prezes Naczelnej Rady Lekarskiej zwraca się z prośbą do wszystkich ozdrowieńców z COVID-19 o oddawanie osocza. Do apelu przyłączyła się także archidiecezja warmińska.
