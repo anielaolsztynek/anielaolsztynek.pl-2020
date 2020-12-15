@@ -21,7 +21,7 @@ date: 2020-12-13
 - Jeszcze do dziś można przynosić napełnione **siatki Caritas**, które w tym tygodniu będą rozprowadzone. Dziękuję wszystkim, którzy włączyli się w akcję pomocy przedświątecznej najbardziej potrzebującym osobom z naszej parafii.
 - Przypominam, że w tym roku wizyta duszpasterska - **kolęda** - odbędzie się u tych rodzin, które wcześniej zgłoszą się i wyrażą chęć spotkania. Można zgłaszać się po Mszy Świętej lub telefonicznie do Świąt Bożego Narodzenia.
 - Już dziś chcę poinformować, że w tym roku **Pasterka** będzie o godzinie <u>22:00</u> i <u>24:00</u>.
-- Apel do ozdrowieńców:
+- **Apel do ozdrowieńców:**
 - **ARCHIDIECEZJA WARMIŃSKA PRZYŁĄCZA SIĘ DO APELU O ODDAWANIE OSOCZA**
 
   - Prezes Naczelnej Rady Lekarskiej zwraca się z prośbą do wszystkich ozdrowieńców z COVID-19 o oddawanie osocza. Do apelu przyłączyła się także archidiecezja warmińska.
