@@ -16,3 +16,4 @@ date: 2021-01-03
 - Dziś pierwsza niedziela miesiąca – **niedziela adoracji Najświętszego Sakramentu**.
 - W środę wypada **Uroczystość Trzech Króli** – Uroczystość Objawienia Pańskiego. W czasie każdej Mszy Świętej będzie poświęcenie kredy i wody, które zabierzemy do swoich domów. Msze Św. w tym dniu jak w każdą niedzielę. Ofiary składane w tym dniu na tacę są przeznaczone na misje.
 - W następną niedzielę wypada **Święto Chrztu Pańskiego** i zakończenie okresu Bożego Narodzenia.
+
