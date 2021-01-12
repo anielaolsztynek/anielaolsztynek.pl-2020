@@ -1,5 +1,5 @@
 ---
-title: II Chrztu Pańskiego
+title: Niedziela Chrztu Pańskiego
 date: 2021-01-10
 ---
 
@@ -15,6 +15,6 @@ Warto w święto Chrztu Pańskigo zadać sobie pytanie: czy moja rodzina jest ś
 > &nbsp;
 
 - Dzisiejszą **niedzielą Chrztu Pańskiego** kończy się okres Bożego Narodzenia, a zaczyna się okres zwykły.
-- Msze Święte w tym tygodniu: w poniedziałek i środę Mszy Świętej nie będzie, w sobotę o godzinie <u>17:00</u>, w pozostałe dni o godzinie <u>9:00</u>.
+- **Msze Święte w tym tygodniu:** w poniedziałek i środę Mszy Świętej nie będzie, w sobotę o godzinie <u>17:00</u>, w pozostałe dni o godzinie <u>9:00</u>.
 - W minionym tygodniu odeszła do wieczności nasza parafianka ś.p. Janina Kapusta - lat 92. Wieczny odpoczynek racz zmarłej dać, Panie.
 
