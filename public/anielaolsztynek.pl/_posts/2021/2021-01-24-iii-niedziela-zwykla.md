@@ -16,5 +16,5 @@ date: 2021-01-24
 - Dzisiejsza niedziela jest ogłoszona w naszej Archidiecezji **"Dniem Solidarności z Chorwacją"**, która ucierpiała na skutek trzęsienia ziemi. Po Mszach Swiętych będą zbierane datki do puszek jako pomoc dla ofiar tej tragedii.
 - Jutro wypada liturgiczne **Święto Nawrócenia Świętego Pawła** i zakończenie **Tygodnia Modlitw o Jedność Chrześcijan**.
 - Jutro i w środę Msza Święta o godzinie <u>8:00</u>.
-- Jest do nabycia nowy numer "Gościa Niedzielnego:.
+- Jest do nabycia nowy numer "Gościa Niedzielnego".
 
