@@ -9,7 +9,7 @@ date: 2021-02-07
 >
 > "Po to wyszedłem". Czasem praca wydaje się ponad siły. Męczy nas brak czasu dla siebie, na wyciszenie. Jest tak, jakby "całe miasto zgromadziło się u drzwi". Bywa, że i na modlitwę musimy wyrywać czas z codziennych zajęć. A gdy już zanurzamy się w samotnej modlitwie, zjawiają się ludzie potrzebujący pomocy. "Wszyscy Cię szukają" - to lekcja, że w samotnej modlitwie muszę przedstawiać Ojcu tych wszystkich, którzy szukają pomocy duchowej. Jezus czyni dobro, wszystkim. Nie narzeka, że tak wielu Go szuka. Głosiciel wiary, którym na mocy chrztu świętego i bierzmowania jest każdy z nas, musi brać przykład z zapału Jezusa.
 >
-> <span style="color: #666699;">Panie, proszę Cię o siły do pracy. Niech nie męczy mnie obecność innych, tylko będzie okazją do uczynioenia czegoś dobrego. </span>
+> <span style="color: #666699;">Panie, proszę Cię o siły do pracy. Niech nie męczy mnie obecność innych, tylko będzie okazją do uczynienia czegoś dobrego. </span>
 >
 > &nbsp;
 
