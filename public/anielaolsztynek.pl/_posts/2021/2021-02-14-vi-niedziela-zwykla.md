@@ -17,4 +17,4 @@ date: 2021-02-14
 - Zachęcam do udziału w nabożeństwach wielkopostnych. **Droga Krzyżowa** będzie odprawiana w naszym kościele w każdy piątek Wielkiego Postu o godzinie <u>16:30</u>, wspólna dla wszystkich. Serdecznie zachęcam i zapraszam dzieci, młodzież i wszystkich parafian do udziału w tym nabożeństwie.
 - **Gorzkie Żale** w niedziele Wielkiego Postu o godzinie <u>08:45</u>.
 - Rodzice ciężko chorej Lenki proszą o wsparcie ludzi o dobrych sercach. Lenka choruje na SMA, czyli rdzeniowy zanik mięśni. Rodzice prowadza zbiórkę na terapię genową lekiem o nazwie Zolgensma. Lek ten kosztuje 9 mln złotych. Dzis po mszy Świętej będzie prowadzona zbiórka na ten cel. Informacje w gablocie.
-- W minionym tygodniu odszedł do wieczności nasz parafianin ś.p. Franciszek Horoch. Wieczny odpoczynek racz zmarłemu dać, Panie.
+- W minionym tygodniu odszedł do wieczności nasz parafianin ś.p. Franciszek Horoch, lat 56. Wieczny odpoczynek racz zmarłemu dać, Panie.
