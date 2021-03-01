@@ -13,11 +13,11 @@ date: 2021-02-28
 >
 > &nbsp;
 
-- W dzisiejszą, **II niedzielę Wielkiego Postu** tradycyjnie po Mszy Świętej będą zbierane dobrowolne ofiary na potrzeby misji, które za pośrednictwem Dzieła Pomocy Misjom **"Ad Gentes"** zostaną przeznaczone na realizację projektów ewangelizacyjnych i humanitarnych.
+- W dzisiejszą, **II niedzielę Wielkiego Postu**, tradycyjnie po Mszy Świętej będą zbierane dobrowolne ofiary na potrzeby misji, które za pośrednictwem Dzieła Pomocy Misjom **"Ad Gentes"** zostaną przeznaczone na realizację projektów ewangelizacyjnych i humanitarnych.
 - Zachęcam i zapraszam do udziału w nabożeństwach wielkopostnych. **Droga Krzyżowa** w każdy piątek Wielkiego Postu o godzinie <u>16:30</u>, **Gorzkie Żale** w niedziele Wielkiego Postu o godzinie <u>08:45</u>.
 - **Rekolekcje wielkopostne** w naszej parafii za dwa tygodnie, tradycyjnie od IV niedzieli Wielkiego Postu.
 - W tym tygodniu wypada **I czwartek, I piątek i I sobota** marca. W piątek przed południem odwiedziny chorych.
 - W następną - I niedzielę miesiąca - **adoracja Najświętszego Sakramentu** i zmiana tajemnic różańcowych, połączona ze wspólnym różańcem, o godzinie <u>8:30</u>.
-- Ojciec Święty Franciszek ogłosił bieżący rok **Rokiem Świętego Józefa**. Stąd figura Świętego Józefa w naszym kościele, upamiętniająca ten rok. Wiecej informacji za tydzień.
+- Ojciec Święty Franciszek ogłosił bieżący rok **Rokiem Świętego Józefa**. Stąd dla upamiętnienia figura Świętego Józefa w naszym kościele. Więcej informacji za tydzień.
 - Przychodnia w Olsztynku otrzymała dodatkowe szczepionki przeciwko Covid-19 firmy Moderna. Prosimy osoby w wieku 70 lat i starsze o rejestrowanie się w poniedziałek telefonicznie lub osobiście w przychodni.
 - Jutro Msza Święta o godzinie <u>9:00</u>, we wtorek i środę Mszy Świętej nie będzie.
