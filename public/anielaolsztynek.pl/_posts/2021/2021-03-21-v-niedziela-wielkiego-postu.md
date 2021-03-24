@@ -13,12 +13,12 @@ date: 2021-03-21
 >
 > &nbsp;
 
-- W minionym tygodniu przeżyliśmy parafialne **Rekolekcje wielkopostne**. Wyrażam wdzięczność Bogu za owoce tych rekolekcji, przygotowujących nas do Świąt Wielkanocnych.
+- W minionym tygodniu przeżyliśmy parafialne **rekolekcje wielkopostne**. Wyrażam wdzięczność Bogu za owoce tych rekolekcji, przygotowujących nas do Świąt Wielkanocnych.
 - Zachęcam do słuchania nauk rekolekcyjnych transmitowanych przez środki masowego przekazu.
 - W najbliższy czwartek - 25 marca - wypada liturgiczna uroczystość **Zwiastowania Pańskiego**.
 - Serdecznie zapraszam na ostatnią w tym roku **Drogę Krzyżową** w piątek o godzinie <u>16:30</u>, w intencji rodzin z naszej parafii.
 - Już za tydzień **Niedziela Palmowa** – Niedziela Męki Pańskiej. Podczas wszystkich Mszy Świętych błogosławieństwo palm.
-- Msza Święta o godzinie <u>11:00</u> w Niedzielę Palmową, podobnie jak dziś, będzie transmitowana przez facebooka i youtube'a. Będzie też transmitowana z naszego kościoła Droga Krzyżowa w najbliższy piątek o godzinie <u>16:30</u>, podobnie jak Triduum Paschalne i Msza Święta Wielkanocna.
+- Msza Święta o godzinie <u>11:00</u> w Niedzielę Palmową, podobnie jak dziś, będzie transmitowana przez facebooka i youtube'a. Będzie też transmitowana z naszego kościoła Droga Krzyżowa w najbliższy piątek o godzinie <u>16:30</u>, tak, jak i Triduum Paschalne oraz Msza Święta Wielkanocna.
 - Ofiary zbierane na tacę w Niedzielę Palmową będą przeznaczone na zakup kwiatów do **Grobu Pańskiego**.
 - W poniedziałek i środę Msza Święta o godzinie <u>8:00</u>.
 - W minionym tygodniu odszedł do wieczności nasz parafianin śp. Edmund Chodubski, lat 91. Wieczny odpoczynek racz zmarłemu dać, Panie.
