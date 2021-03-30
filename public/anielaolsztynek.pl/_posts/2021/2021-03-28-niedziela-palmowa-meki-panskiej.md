@@ -26,7 +26,7 @@ date: 2021-03-28
 - Ogłoszenie w sprawie **I Komunii Świętej** będzie w Niedzielę Miłosierdzia, tydzień po świętach.
 - Rozpoczęliśmy Wielki Tydzień. Niech w tym Tygodniu towarzyszy nam szczególne Boże błogosławieństwo, byśmy wiernie szli za naszym Panem i towarzyszyli Mu w Jego męce i chwale.
 
-- **BŁOGOSŁAWIEŃSTWO STOŁU PRZED UROCZYSTYM POSIŁKIEM W NIEDZIELĘ ZMARTWYCHWSTANIA PAŃSKIEGO** („Obrzędy błogosławieństw 2, Katowice 2010).
+- **BŁOGOSŁAWIEŃSTWO STOŁU PRZED UROCZYSTYM POSIŁKIEM W NIEDZIELĘ ZMARTWYCHWSTANIA PAŃSKIEGO** („Obrzędy błogosławieństw" 2, Katowice 2010).
 
   - Przed rozpoczęciem obrzędu można zaśpiewać pieśń wielkanocną, np. "Zwycięzca śmierci".
   - Ojciec rodziny lub przewodniczący zapala świecę umieszczoną na stole i mówi: Chrystus zmartwychwstał. Alleluja. Wszyscy odpowiadają: Prawdziwie zmartwychwstał. Alleluja. Następnie ktoś z uczestników odczytuje tekst Pisma Świętego.
