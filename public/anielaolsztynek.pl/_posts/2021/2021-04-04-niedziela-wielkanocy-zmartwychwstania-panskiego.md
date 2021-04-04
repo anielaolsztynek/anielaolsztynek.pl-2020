@@ -14,6 +14,7 @@ date: 2021-04-04
 > &nbsp;
 
 - W pierwszym dniu świąt Msze Święte jak w każdą niedzielę.
-- W drugim dniu świąt Msze Święte o godzinie <u>9:00</u> i <u>11:00</u>.
+- W drugim dniu świąt Msze Święte o godzinie <u>9:00</u> i <u>11:00</u>, nie będzie Mszy Świętej o godzinie 17:00.
 - W piątek odwiedziny chorych przed południem.
+- **W najbliższy piątek post nie obowiązuje** (oktawa Wielkiej Nocy).
 - W następną niedzielę wypada **Święto Miłosierdzia Bożego**.
