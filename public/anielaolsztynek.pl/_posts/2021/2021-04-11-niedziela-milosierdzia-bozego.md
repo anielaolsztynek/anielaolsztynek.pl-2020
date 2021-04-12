@@ -21,4 +21,4 @@ date: 2021-04-11
 - W środę Msza Święta o godzinie <u>8:00</u>.
 - Otrzymaliśmy trochę maseczek jednorazowych od wojewody. Gdyby ktoś potrzebował, proszę zgłaszać się do kancelarii.
 - W następną niedzielę rozpoczyna się **Tydzień Biblijny**.
-- Dzień 14 kwietnia jest ustanowiony **Świętem Chrztu Polski**
+- Dzień 14 kwietnia jest ustanowiony **Świętem Chrztu Polski**.
