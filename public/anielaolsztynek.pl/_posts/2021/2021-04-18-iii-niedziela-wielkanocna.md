@@ -15,5 +15,5 @@ date: 2021-04-18
 
 - Dzisiejszą niedzielą rozpoczyna się **XIII Tydzień Biblijny** pod hasłem: "Zgromadzeni na świętej Wieczerzy".
 - W związku z **I Komunią Świętą** jutro o godzinie <u>17:30</u> spotkanie z rodzicami dzieci pierwszokomunijnych. Po spotkaniu z rodzicami próba z dziećmi przystępującymi do I Komunii Świętej. Druga próba z dziećmi w tym tygodniu w czwartek o godzinie <u>17:30</u>.
-- W tym roku **I Komunia Święta** odbędzie się w dwóch terminach - 9 maja i 13 czerwca. Tak zadecydowali rodzice.
+- W tym roku **I Komunia Święta** odbędzie się w dwóch terminach: 9 maja i 13 czerwca. Tak zadecydowali rodzice.
 - Na półce z prasą są wyłożone broszurki na temat jak chronić dziecko przed zagrożeniami ze strony technologii i ideologii.
