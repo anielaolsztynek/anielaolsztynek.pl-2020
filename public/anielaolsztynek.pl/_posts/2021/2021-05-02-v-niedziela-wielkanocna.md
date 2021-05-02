@@ -21,6 +21,6 @@ date: 2021-05-02
 - **Spowiedź Święta** dla dzieci pierwszokomunijnych, dla ich rodziców i rodzin będzie w sobotę, 8 maja o godzinie <u>10:00</u>.
 - W sobotę wypada liturgiczna **Uroczystość ku czci Świętego Stanisława**, Biskupa i Męczennika, głównego Patrona Polski.
 - W sobotę Msza Święta połączona ze ślubem o godzinie <u>16:00</u>.
-- Próby dla dzieci przed I Komunią Świętą w tym tygodniu we wtorek i czwartek o godzinie <u>17:45</u>.
+- **Próby dla dzieci** przed I Komunią Świętą w tym tygodniu we wtorek i czwartek o godzinie <u>17:45</u>.
 - Serdecznie zachęcam i zapraszam do udziału w **nabożeństwie majowym**, codziennie bezpośrednio po Mszy Świętej o godzinie <u>17:00</u>.
 - Bóg zapłać za wszystkie ofiary przekazywane na utrzymanie parafii.
