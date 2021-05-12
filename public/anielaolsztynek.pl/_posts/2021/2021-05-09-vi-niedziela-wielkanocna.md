@@ -13,7 +13,7 @@ date: 2021-05-09
 >
 > &nbsp;
 
-- Dziś w naszej parafii **uroczystość I Komunii Świętej**, do której przystąpiła pierwsza grupa dzieci (trzynaścioro dzieci). Druga grupa dzieci (czternaścioro dzieci) przystąpi do I Komunii Świętej 13 czerwca o godzinie <u>11:00</u>.
+- Dziś w naszej parafii **uroczystość I Komunii Świętej**, do której przystąpiła pierwsza grupa dzieci (trzynaścioro). Druga grupa dzieci (czternaścioro) przystąpi do I Komunii Świętej 13 czerwca o godzinie <u>11:00</u>.
 - Bóg zapłać rodzicom dzieci przystępujących w tym roku pierwszy raz do Komunii Świętej za **dar ołtarza** – dar dla parafii – jest to obrus na ołtarz i lichtarz do świecy, czy roratki.
 - **Spotkanie z bierzmowanymi** w poniedziałek o <u>17:45</u>, próby w czwartek i piątek o godzinie <u>17:45</u>.
 - Zachęcam i zapraszam do udziału w **nabożeństwie majowym**.
