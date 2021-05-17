@@ -17,5 +17,5 @@ date: 2021-05-16
 - We wtorek Msza Święta połączona z nabożeństwem majowym o godzinie <u>18:00</u>.
 - **Spowiedź** dla kandydatów do bierzmowania, świadków i rodziców jutro o godzinie <u>16:15</u>.
 - W następną niedzielę wypada **uroczystość Zesłania Ducha Świętego**. Przed tą uroczystością codziennie odmawiamy Nowennę do Ducha Świętego połączoną z nabożeństwem majowym.
-- W minionym tygodniu odszedł do wieczności nasz parafianin z Wilkowa śp. Tadeusz Makutynowicz, lat 91. Wieczny odpoczynek racz zmarłemu dać, Panie.
+- W minionym tygodniu odszedł do wieczności nasz parafianin z Wilkowa, śp. Tadeusz Makutynowicz, lat 91. Wieczny odpoczynek racz zmarłemu dać, Panie.
 - Są do odebrania zdjęcia z I Komunii Świętej.
