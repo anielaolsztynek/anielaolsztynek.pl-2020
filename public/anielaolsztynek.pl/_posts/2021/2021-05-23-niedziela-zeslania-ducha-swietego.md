@@ -16,6 +16,6 @@ date: 2021-05-23
 - Dzisiejszą **niedzielą Zesłania Ducha Świętego** kończy sie okres wielkanocny, a zaczyna się okres zwykły.
 - Jutro w liturgii **święto Najświętszej Marii Panny - Matki Kościoła**.
 - W najbliższy czwartek wypada liturgiczne **święto Jezusa Chrystusa Najwyższego i Wiecznego Kapłana**.
-- W **Uroczystość Bożego Ciała** Msze Święte będą w kosciele według porządku niedzielnego. Procesja eucharystyczna po Mszy Świętej o godzinie <u>11:00</u> będzie szła trasą trochę zmienioną w stosunku do roku ubiegłego: ulicą Akacjową, Sportową, Leśną i Wrzosową. Ołtarze I, II i IV będą w tych samych miejscach, co w roku ubiegłym, natomiast ołtarz III chciałbym, aby był na skrzyżowaniu ulic Leśnej i Wiśniowej.
-- **I próba dla dzieci przed I Komunią Świętą**, (która odbędzie się 13 czerwca), w najbliższy wtorek o godzinie <u>17:45</u>.
+- W **Uroczystość Bożego Ciała** Msze Święte będą w kościele według porządku niedzielnego. Procesja eucharystyczna po Mszy Świętej o godzinie <u>11:00</u> będzie szła trasą trochę zmienioną w stosunku do roku ubiegłego: ulicą Akacjową, Sportową, Leśną i Wrzosową. Ołtarze I, II i IV będą w tych samych miejscach, co w roku ubiegłym, natomiast ołtarz III chciałbym, aby był na skrzyżowaniu ulic Leśnej i Wiśniowej.
+- **I próba dla dzieci przed I Komunią Świętą** (która odbędzie się 13 czerwca), w najbliższy wtorek o godzinie <u>17:45</u>.
 - Są do odebrania zdjęcia z I Komunii Świętej z 9 maja.
