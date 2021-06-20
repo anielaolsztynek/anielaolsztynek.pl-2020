@@ -18,15 +18,11 @@ date: 2021-06-20
 - Jutro Msza Święta o godzinie <u>8:00</u>.
 - Są do odebrania zdjęcia z I Komunii Świętej z poprzedniej niedzieli.
 - XV Piesza Pielgrzymka z Łomianek do Gietrzwałdu przez Olsztynek wyrusza w następną niedzielę. Plakat na ten temat w gablocie.
-- Dziś **zostaje zniesiona dyspensa od obowiązku uczestniczenia we Mszy Świętej niedzielnej w kościele**.
+- **Dziś zostaje zniesiona dyspensa od obowiązku uczestniczenia we Mszy Świętej niedzielnej w kościele**.
 
 - **DEKRET ARCYBISKUPA METROPOLITY WARMIŃSKIEGO W SPRAWIE ODWOŁANIA DYSPENSY OD OBOWIĄZKU UCZESTNICTWA WE MSZY ŚWIĘTEJ W NIEDZIELE I ŚWIĘTA NAKAZANEN**.
 
-Zgodnie z decyzją Konferencji Episkopatu Polski, podjętą na 389. Zebraniu Plenarnym Konferencji Episkopatu Polski w Kalwarii Zebrzydowskiej w dniach 11-12 czerwca 2021 r., na podstawie kan. 93 Kodeksu Prawa Kanonicznego, z dniem 20 czerwca br. tj. od XII Niedzieli Zwykłej, odwołuję dyspensę od uczestnictwa we Mszy Świętej w niedziele i święta nakazane, udzieloną dnia 16 października 2020 r. w związku z pandemią Covid-19.
-
-W związku z tym, z głębi serca proszę wszystkich wiernych o powrót do świątyń i osobisty udział w liturgii Kościoła.
-
-Wszystkim wiernym udzielam pasterskiego błogosławieństwa i przypominam jednocześnie o przestrzeganiu aktualnych wskazań władz sanitarnych.
+Zgodnie z decyzją Konferencji Episkopatu Polski, podjętą na 389. Zebraniu Plenarnym Konferencji Episkopatu Polski w Kalwarii Zebrzydowskiej w dniach 11-12 czerwca 2021 r., na podstawie kan. 93 Kodeksu Prawa Kanonicznego, z dniem 20 czerwca br. tj. od XII Niedzieli Zwykłej, odwołuję dyspensę od uczestnictwa we Mszy Świętej w niedziele i święta nakazane, udzieloną dnia 16 października 2020 r. w związku z pandemią Covid-19. W związku z tym, z głębi serca proszę wszystkich wiernych o powrót do świątyń i osobisty udział w liturgii Kościoła. Wszystkim wiernym udzielam pasterskiego błogosławieństwa i przypominam jednocześnie o przestrzeganiu aktualnych wskazań władz sanitarnych.
 
 Abp Józef Górzyński
 
