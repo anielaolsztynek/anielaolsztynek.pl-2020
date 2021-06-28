@@ -16,7 +16,7 @@ date: 2021-06-27
 - Dziś wypada **144 rocznica rozpoczęcia objawień Matki Bożej w Gietrzwałdzie**.
 - We wtorek obchodzimy **uroczystość Świętych Apostołów Piotra i Pawła**.
 - W środę zakończenie nabożeństwa czerwcowego. Msza Święta w środę o godzinie <u>8:00</u>.
-- W związku z powyższym, w każdą środę będziemy odmawiali **Nowennę do Matki Bożej Nieustającej Pomocy**, a w piątki **Koronkę do Miłosierdzia Bożego**, o ile bedzie kilka osób.
+- W związku z powyższym, w każdą środę będziemy odmawiali **Nowennę do Matki Bożej Nieustającej Pomocy**, a w piątki **Koronkę do Miłosierdzia Bożego**, o ile będzie kilka osób.
 - W tym tygodniu wypada **I czwartek, I piątek i I sobota** lipca. W piątek przed południem odwiedziny chorych.
 - **Zmiana tajemnic różańcowych** w następną niedzielę o godzinie <u>8:30</u>.
 - Również w następną - I niedzielę miesiąca **adoracja Najświętszego Sakramentu**.
@@ -31,4 +31,4 @@ date: 2021-06-27
   - w kaplicy wykonano nowe oświetlenie (dzięki Panu Markowi Karpińskiemu);
   - cała kaplica wewnątrz została pomalowana, łącznie z posadzką (dziękuję za ogromne zaangażowanie i pracę Panu Mirosławowi Mrozowskiemu) - w kaplicy planuję przygotować obiad dla Księdza Arcybiskupa i Księży;
   - w ogrodzie pomalowano altankę i pomost - w ogrodzie będzie poczęstunek dla wszystkich gości i uczestników liturgii.
-- Poświęcenie kościoła (do niedawna nazywane konsekracją kościoła) to najważniejsze wydarzenie w dziejach każdej parafii i światyni. Jest to wydarzenie jedyne i niepowtarzalne, to ofiarowanie Panu Bogu kościoła i ołtarza. Dlatego najważniejszym momentem podczas tej liturgii jest modlitwa poświęcenia i namaszczenie krzyżmem świetym ołtarza i ścian kościoła w miejscach, gdzie są umieszczone zacheuszki. W tym dniu będą też zapalone świece na zacheuszkach. W dniu wejścia do kościoła (25.12.2007) miało miejsce błogosławieństwo zwyczajne kościoła i pokropienie wodą święconą.
+- Poświęcenie kościoła (do niedawna nazywane konsekracją kościoła) to najważniejsze wydarzenie w dziejach każdej parafii i światyni. Jest to wydarzenie jedyne i niepowtarzalne, to ofiarowanie Panu Bogu kościoła i ołtarza. Dlatego najważniejszym momentem podczas tej liturgii jest modlitwa poświęcenia i namaszczenie krzyżmem świetym ołtarza i ścian kościoła w miejscach, gdzie są umieszczone zacheuszki. W tym dniu będą też zapalone świece na zacheuszkach. W dniu wejścia do kościoła (25.12.2007 r.) miało miejsce błogosławieństwo zwyczajne kościoła i pokropienie wodą święconą.
