@@ -19,8 +19,8 @@ date: 2021-06-27
 - W związku z powyższym, w każdą środę będziemy odmawiali **Nowennę do Matki Bożej Nieustającej Pomocy**, a w piątki **Koronkę do Miłosierdzia Bożego**, o ile bedzie kilka osób.
 - W tym tygodniu wypada **I czwartek, I piątek i I sobota** lipca. W piątek przed południem odwiedziny chorych.
 - **Zmiana tajemnic różańcowych** w następną niedzielę o godzinie <u>8:30</u>.
-- Również w następną - I niedzielę miesiąca adoracja Najświętszego Sakramentu.
-- Wszystkim dzieciom, młodzieży, nauczycielom i katechetom na progu wakacji oraz wszystkim, którzy udają się na urlopy, życzę spokojnego, radosnego i bezpiecznego wypoczynku, wielu miłych wrażeń i szczęśliwych powrotów.
+- Również w następną - I niedzielę miesiąca **adoracja Najświętszego Sakramentu**.
+- Wszystkim dzieciom, młodzieży, nauczycielom i katechetom na progu wakacji, a także wszystkim, którzy udają się na urlopy, życzę spokojnego, radosnego i bezpiecznego wypoczynku, wielu miłych wrażeń i szczęśliwych powrotów.
 
 - **Przygotowania do uroczystości Poświęcenia Kościoła i obchodów 25-lecia parafii**. Przygotowania przebiegają zgodnie z planem. Chociaż nie udało się nam pomalować kościoła, to wykonaliśmy wiele pomniejszych prac:
   - w kościele w minionym tygodniu zostały pozłocone paski na ołtarzach bocznych, a także na nowo wykonano złocenia na ołtarzu głównym i przy tabernakulum;
