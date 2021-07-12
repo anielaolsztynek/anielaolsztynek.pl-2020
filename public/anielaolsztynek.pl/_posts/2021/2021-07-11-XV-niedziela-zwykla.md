@@ -15,4 +15,4 @@ date: 2021-07-11
 
 - Przypominam, że w każdą środę odmawiamy **Nowennę do Matki Bożej Nieustającej Pomocy**, a w piątki **Koronkę do Miłosierdzia Bożego**.
 - Jutro Msza Święta o godzinie <u>8:00</u>.
-- Zbiórka zużytego sprzętu elektrycznego i elektronicznego.
+- Jest prowadzona zbiórka zużytego sprzętu elektrycznego i elektronicznego.
