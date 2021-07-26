@@ -7,6 +7,12 @@ layout: page
 permalink: /caritas-1/
 ---
 
+W naszej parafii funkcjonuje parafialny Caritas. Zachęcamy do wspierania.
+
+![Caritas pomoc żywnościowa 2014-2020](/assets/caritas-pomoc-zywnosciowa.jpg)
+
+## Wesprzyj parafialny Caritas
+
 **Dane potrzebne do dokonania odpisu w zeznaniu podatkowym na parafialne Caritas:**
 
 - Nazwa OPP:  Caritas Archidiecezji Warmińskiej
@@ -17,8 +23,6 @@ permalink: /caritas-1/
 
 - **Program Operacyjny Pomoc Żywnościowa 2014-2020:** <https://caritas.pl/projekty/program-operacyjny-pomoc-zywnosciowa/>
 
-
-
-### Podsumowanie realizacji programu 2019
+## Podsumowanie realizacji programu 2019
 
 ![Podsumowanie realizacji programu Caritas w naszej parafii](/assets/2020/2020.10.18-caritas.jpg)
