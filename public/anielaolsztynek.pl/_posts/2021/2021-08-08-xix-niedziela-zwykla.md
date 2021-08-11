@@ -7,7 +7,7 @@ date: 2021-08-08
 >
 > **Eucharystia - sakrament Boga z nami**
 >
-> Jezus zapowiada Eucharystię. Nazywa siebie prawdziwym chlebem z nieba. A ten, kto wierzy w Chleb Życia, ma życie wieczne. Eucharystia dla nas, wierzących, jest obecnością Jezusa z nami aż do końca świata. Dlatego dzisiaj przypominamy sobie, jak ważne jest uczestnictwo we Mszy Świętej, jak potrzebna jest nam adoracja Najświętszego Sakramentu i praktykowanie tzw. nawiedzenia Najświętszego Sakramentu w ciągu dnia. Dla św. Jana Pawła II adoracja najświętszego Sakramentu była punktem odniesienia dla podejmowanych decyzji i czynów. Jezus tak bardzo nas kocha, że jest z nami obecny w Eucharystii. Daje nam siebie za pokarm. Pragnie, abyśmy mieli życie. Czy jest coś piękniejszego?
+> Jezus zapowiada Eucharystię. Nazywa siebie prawdziwym chlebem z nieba. A ten, kto wierzy w Chleb Życia, ma życie wieczne. Eucharystia dla nas, wierzących, jest obecnością Jezusa z nami aż do końca świata. Dlatego dzisiaj przypominamy sobie, jak ważne jest uczestnictwo we Mszy Świętej, jak potrzebna jest nam adoracja Najświętszego Sakramentu i praktykowanie tzw. nawiedzenia Najświętszego Sakramentu w ciągu dnia. Dla św. Jana Pawła II adoracja Najświętszego Sakramentu była punktem odniesienia dla podejmowanych decyzji i czynów. Jezus tak bardzo nas kocha, że jest z nami obecny w Eucharystii. Daje nam siebie za pokarm. Pragnie, abyśmy mieli życie. Czy jest coś piękniejszego?
 >
 > <span style="color: #666699;">Benedykt XVI powiedział: "Kto karmi się Chrystusem, ten żyje dla Niego". Panie, proszę Cię o łaskę, aby te słowa odnosiły się do mnie. </span>
 >
