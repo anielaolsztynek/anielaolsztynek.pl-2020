@@ -1,6 +1,6 @@
 ---
 title: Wniebowzięcie Najświętszej Marii Panny
-date: 2021-08-08
+date: 2021-08-15
 ---
 
 > **Łk 1, 39-56**
