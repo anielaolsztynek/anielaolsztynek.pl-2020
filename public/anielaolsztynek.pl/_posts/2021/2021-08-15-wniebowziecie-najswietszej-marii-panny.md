@@ -1,5 +1,5 @@
 ---
-title: Wniebowzięcia Najświętszej Mari Panny
+title: Wniebowzięcie Najświętszej Marii Panny
 date: 2021-08-15
 ---
 
