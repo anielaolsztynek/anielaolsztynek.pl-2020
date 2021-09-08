@@ -8,8 +8,9 @@ guid: http://anielaolsztynek.pl/
 permalink: /kroniki-parafialne/
 ---
 
-Z okazji 20-lecia naszej parafii udostępniamy całość kronik parafialnych, a także prezentację przygotowaną z okazji dzisiejszego święta.
+Poniżej dostępne są do pobrania prezentacje wyświetlane podczas XX-lecia parafii oraz z XXV-lecia (z Poświęceniem Kościoła). Prezentacja z okacji XXV lecia jest rozszerzoną wersją tej z XX lecia. Do nabycia u Księdza Proboszcza jest także książka o parafii autorstwa Danuty Lewandowskiej, Henryki Żebrowskiej, ks. Sławomira Piniahy i Jędrzeja JB Lewandowskiego. Wkrótce zostanie ona udostępniona takze tutaj.
 
+- [Prezentacja z okazji XXV-lecia parafii (PDF, 114MB)]({{ site.urls.kronika_base }}/aniela-25-lecie-prezentacja.pdf)
 - [Prezentacja z okazji XX-lecia parafii (PDF, 45MB)]({{ site.urls.kronika_base }}/aniela-20-lecie-prezentacja-pdf.pdf)
 
 **Kroniki**
