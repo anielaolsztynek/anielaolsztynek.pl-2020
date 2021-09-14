@@ -13,7 +13,7 @@ date: 2021-09-12
 >
 > &nbsp;
 
-- Dziś **beatyfikacja sług Bożych: kardynała Stefana Wyszyńskiego i siostry Róży Czackiej**, w Świątyni Opatrzności Bożej w Warszawie. Zachęcam do obejrzenia transmisji z tej uroczystości. Nowym błogosławionym jest poświęcone specjalne wydanie "Gościa Niedzielnego" w cenie 10 zł. Natomiast w dzisiejszym numerze "Gościa Niedzielnego" jest artykuł poświęcony naszej uroczystości sprzed tygodnia.
+- Dziś **beatyfikacja sług Bożych: kardynała Stefana Wyszyńskiego i siostry Róży Czackiej** w Świątyni Opatrzności Bożej w Warszawie. Zachęcam do obejrzenia transmisji z tej uroczystości. Nowym błogosławionym poświęcone jest specjalne wydanie "Gościa Niedzielnego", w cenie 10 zł. Natomiast w dzisiejszym numerze "Gościa Niedzielnego" znajduje się artykuł poświęcony naszej uroczystości sprzed tygodnia.
 - Dziś po Mszy Świętej o godzinie <u>11:00</u> spotkanie z rodzicami dzieci, które w tym roku szkolnym **przygotowują się do I Komunii Świętej**.
 - Tradycyjnie w niedziele po Mszach Świętych **będą rozdawane dzieciom obrazki nawiązujące do Ewangelii**. Dzieci przygotowujące się w tym roku szkolnym do I Komunii Świętej, jak również dzieci z klas drugich, zbierają obrazki obowiązkowo.
 - W następną niedzielę - 19 września - na terenie naszej parafii, w skansenie, odbędą się po raz dziesiąty **Dożynki Wojewódzkie**, które rozpoczną się o godzinie <u>12:00</u> Mszą Świętą pod przewodnictwem Księdza Arcybiskupa Józefa Górzyńskiego Metropolity Warmińskiego. W związku z powyższym, w następną niedzielę nie będzie Mszy Świętej o godzinie <u>11:00</u> w naszym kościele.
