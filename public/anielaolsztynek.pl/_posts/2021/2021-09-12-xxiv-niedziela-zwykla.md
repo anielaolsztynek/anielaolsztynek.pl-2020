@@ -19,5 +19,5 @@ date: 2021-09-12
 - W następną niedzielę - 19 września - na terenie naszej parafii, w skansenie, odbędą się po raz dziesiąty **Dożynki Wojewódzkie**, które rozpoczną się o godzinie <u>12:00</u> Mszą Świętą pod przewodnictwem Księdza Arcybiskupa Józefa Górzyńskiego Metropolity Warmińskiego. W związku z powyższym, w następną niedzielę nie będzie Mszy Świętej o godzinie <u>11:00</u> w naszym kościele.
 - Zachęcam do nabywania książki wydanej z okazji 25-lecia naszej parafii i poświęcenia kościoła, w cenie 30 złotych - to przy okazji cegiełka na pokrycie kosztów związanych z organizacją tej uroczystości.
 - Przy wyjściu głównym z kościoła są wyłożone książki z liturgią poświęcenia kościoła, które można zabrać na pamiątkę uroczystości. Wewnątrz są magnesiki z naszym kościołem.
-- Młodzież klas VIII, **przygotowującą się w tym roku szkolnym do bierzmowania**, zapraszam w czwartek na godzinę <u>17:00</u>. Po Mszy Świętej spotkanie. Proszę zabrać ze sobą indeksy.
+- Młodzież klas VIII, **przygotowującą się w tym roku szkolnym do bierzmowania**, zapraszam w czwartek na godzinę <u>17:00</u>. Po Mszy Świętej będzie spotkanie. Proszę zabrać ze sobą indeksy.
 - W poniedziałek i wtorek Mszy Świętej w naszym kościele nie będzie.
