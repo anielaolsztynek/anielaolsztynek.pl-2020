@@ -7,7 +7,7 @@ date: 2021-10-17
 >
 > **Zmień kierunek działania**
 >
-> Uczniowie Jakub i Jan są wierni, swoją przyszłość wiążą ze swoim Mistrzem.Mają zapał, są ambitni, pragną władzy. To nic złego. Tyle tylko, że myślą w kategoriach czysto ludzkich. Jezus zaprasza nas, abyśmy Mu towarzyszyli i potrzebuje zapału ludzi, ale w dziele odkupienia. Uczniowie, których powołał Jezus, nie są doskonali. My też jesteśmy słabi. Ale gdy powierzymy Mu swoje życie, On nas umocni. Zmieni kierunek naszej energii - staniemy się ludźmi gotowymi do poświęceń, do ofiar, ludźmi pragnącymi mieć udział w Jego zmartwychwstaniu.
+> Uczniowie Jakub i Jan są wierni, swoją przyszłość wiążą ze swoim Mistrzem. Mają zapał, są ambitni, pragną władzy. To nic złego. Tyle tylko, że myślą w kategoriach czysto ludzkich. Jezus zaprasza nas, abyśmy Mu towarzyszyli i potrzebuje zapału ludzi, ale w dziele odkupienia. Uczniowie, których powołał Jezus, nie są doskonali. My też jesteśmy słabi. Ale gdy powierzymy Mu swoje życie, On nas umocni. Zmieni kierunek naszej energii - staniemy się ludźmi gotowymi do poświęceń, do ofiar, ludźmi pragnącymi mieć udział w Jego zmartwychwstaniu.
 >
 > <span style="color: #666699;"> Jezu, dotknij mnie, przemień moje serce, abym swój zapał wykorzystał na służbę dla Ciebie. </span>
 >
