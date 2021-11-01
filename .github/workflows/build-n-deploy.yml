@@ -7,7 +7,7 @@ on:
 jobs:
   deploy:
     name: Build and deploy
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-18.04
     steps:
       - name: Checkout Repo
         uses: actions/checkout@master
@@ -28,9 +28,9 @@ jobs:
       - uses: actions/cache@v1
         with:
           path: vendor/bundle
-          key: bundle-use-ruby-${{ matrix.os }}-${{ matrix.ruby }}-${{ hashFiles('**/Gemfile.lock') }}
+          key: bundle-use-ruby-${{ matrix.os }}-v2-${{ matrix.ruby }}-${{ hashFiles('**/Gemfile.lock') }}
           restore-keys: |
-            bundle-use-ruby-${{ matrix.os }}-${{ matrix.ruby }}-
+            bundle-use-ruby-${{ matrix.os }}-v2-${{ matrix.ruby }}-
       - name: bundle install
         run: |
           bundle config path vendor/bundle

@@ -13,4 +13,3 @@ gem 'liquid', github: 'Shopify/liquid', branch: 'master'
 gem 'liquid-c', github: 'Shopify/liquid-c', branch: 'master'
 gem "jekyll-include-cache"
 gem 'jekyll-sitemap'
-gem "ffi"
