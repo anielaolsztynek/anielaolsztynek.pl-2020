@@ -9,7 +9,7 @@ date: 2021-10-31
 >
 > Dziś Jezus mówi o miłości, miłości Boga i bliźniego. Miłość jest jedna. O tym, czy ktoś kocha Boga, świadczy jego postawa wobec bliźniego. A jeśli ktoś kocha bliźniego, to ma to swoje źródło w miłości do Boga. W miłości nie ma miejsca na połśrodki. Trzeba miłować całym sobą. Bóg chce całego serca, umysłu i całej duszy. Kocha się bezwarunkowo, w sposób nieograniczony i ponad wszystko. Miłość polega na oddaniu Bogu całego swojego życia, oddania Mu wszystkiego, co się posiada, tak jak uboga wdowa, która wrzuciła do skarbony wszystko, co miała. Wyrazem miłości jest także okazywanie szacunku, wierność, służba. Kto kocha, ten przestrzega przykazań. Czy jesteśmy gotowi na taką miłość?
 >
-> <span style="color: #666699;"> Boże, naucz mnie prawdziwej miłości, abym potrafił kochać Ciebie i bliźnich.
+> <span style="color: #666699;"> Boże, naucz mnie prawdziwej miłości, abym potrafił kochać Ciebie i bliźnich. </span>
 >
 > &nbsp;
 
