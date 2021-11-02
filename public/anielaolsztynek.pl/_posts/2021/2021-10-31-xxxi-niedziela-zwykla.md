@@ -15,7 +15,7 @@ date: 2021-10-31
 
 - Zgodnie z zapowiedzią, dziś o godzinie <u>12:30</u> będę święcił pomniki na cmentarzu przy ulicy Wilczej. Jest kilka zgłoszeń, można jeszcze zgłaszać się dziś lub być obecnym w tym czasie na cmentarzu.
 - Uroczystość **Wszystkich Świętych** obchodzimy jutro – 1 listopada. Msze Święte w tym dniu będą odprawione o godzinie <u>9:00</u> i <u>11:00</u>. Nie będzie Mszy Świętej o godzinie <u>17:00</u>. Nie będzie też procesji żałobnej z naszego kościoła na cmentarz, ale będzie procesja i nabożeństwo za zmarłych na cmentarzu o godzinie <u>12:15</u>. Po nabożeństwie będzie okazja do poświęcenia krzyży i pomników nagrobnych, jeśli to możliwe, proszę to zgłaszać dzisiaj.
-- Natomiast **na cmentarzu przy ulicy Grunwaldzkiej** nabożeństwo za zmarłych będzie jutro o godzinie <u>14:00</u>.
+- Natomiast **na cmentarzu przy ulicy Grunwaldzkiej** nabożeństwo za zmarłych będzie o godzinie <u>14:00</u>.
 - Wspomnienie Wszystkich Wiernych Zmarłych, tzw. **Dzień Zaduszny**, wypada we wtorek – 2 listopada.
 - Dniem Zadusznym rozpoczyna się **Tydzień Modlitw za Zmarłych** – do 8 listopada włącznie. Od wtorku do następnego poniedziałku włącznie będzie odprawiane nabożeństwo za zmarłych, tzw. wypominki, o godzinie <u>16:30</u>. W następną niedzielę odmówimy wspólnie różaniec za zmarłych o godzinie <u>8:30</u>. Natomiast przez cały listopad będzie odprawiana Msza Święta zbiorowa za tych zmarłych z naszych rodzin, których imiona wypisaliśmy na kartkach.
 - Kartki na wypominki i Mszę Świętą zbiorową są wyłożone na półce z prasą.
