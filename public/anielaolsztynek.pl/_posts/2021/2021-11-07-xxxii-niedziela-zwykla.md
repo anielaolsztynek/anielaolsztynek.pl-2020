@@ -17,7 +17,7 @@ date: 2021-11-07
 - Również dziś na godzinę <u>11:00</u>, w nawiązaniu do spotkania sprzed tygodnia, zapraszam szczególnie małżeństwa. Będzie raz jeszcze świadectwo, tym razem innego małżeństwa należącego do wspólnoty Kościoła Domowego oraz wspólna modlitwa małżonków. Po Mszy Świętej dla wszystkich chętnych małżeństw odbędzie się spotkanie w salce na plebanii. Serdecznie zapraszam.
 - W czwartek – <u>11 listopada</u> – wypada **103 rocznica Odzyskania Niepodległości Polski**.
 - W tym dniu wypada też **21 rocznica poświęcenia naszego dzwonu i plebanii**.
-- Film "Wyszyński - zemsta czy przebaczenie" - będzie wyświetlany w naszym kinie "Grunwald" w dniu 8 listopada (jutro) o godzinie <u>11:00</u>. Bilety po 12 złotych. Natomiast film "Fatima" będzie wyswietlany w dniach 12.11-16.11 w godzinach popołudniowych (plakat w gablocie). Jedynie 15 listopada będzie dodatkowa emisja o godzinie <u>11:00</u>.
+- Film "Wyszyński - zemsta czy przebaczenie" będzie wyświetlany w naszym kinie "Grunwald" w dniu 8 listopada (jutro) o godzinie <u>11:00</u>. Bilety po 12 złotych. Natomiast film "Fatima" będzie wyswietlany w dniach 12.11-16.11 w godzinach popołudniowych (plakat w gablocie). Jedynie 15 listopada będzie dodatkowa emisja o godzinie <u>11:00</u>.
 - Zgodnie z wcześniejszą zapowiedzią, ofiary składane na tacę w następną niedzielę będą przeznaczone na figurę Świętego Józefa, która ma być wykonana do 8 grudnia.
 - W następną niedzielę obchodzimy **Światowy Dzień Ubogich**. Po Mszy Świętej będą zbierane ofiary do puszek na potrzeby Caritas.
 - Jutro zakończenie **nabożeństwa za zmarłych**, tzw. **wypominek**, w naszym kościele. Natomiast Msza Święta zbiorowa za naszych bliskich zmarłych będzie odprawiana przez cały listopad.
