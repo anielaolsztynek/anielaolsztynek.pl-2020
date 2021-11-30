@@ -8,7 +8,7 @@ date: 2021-11-28
 > **Nasza adwentowa gotowość**
 >
 > Jezus opisuje swoje drugie przyjście na ziemię. Zjawiska, jakie będą temu towarzyszyć, wywołują strach i przerażenie, ale On nie chce napełniać naszych serc strachem. Jego powtórne przyjście to wypełnienie danej nam obietnicy, dopełnienie odkupienia. Bóg nas kocha, jest miłosierny. Zatem oczekujmy Pana z odwagą i nadzieją. Wypełniajmy przykazania dane nam przez Boga, a będziemy gotowi na spotkanie z Nim, kiedy przyjdzie z całą swoją mocą i chwałą.
-
+>
 > <span style="color: #666699;"> Panie Jezu, dziękuję Ci za czas Adwentu i wyznaję, że pragnę Cię całym moim życiem i sercem. </span>
 >
 > &nbsp;
