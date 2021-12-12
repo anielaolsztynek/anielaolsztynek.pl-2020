@@ -34,7 +34,9 @@ Jest jeszcze wiele plusów należenia do scholi, których nie da się tu opisać
 
 ### Prowadzący
 
-[<img class="size-full wp-image-38 alignleft" title="wiola" src="{{ site.urls.wp_content_base }}/uploads/2010/12/wiola.jpg" alt="" width="93" height="127" />]({{ site.urls.wp_content_base }}/uploads/2010/12/wiola.jpg)Scholę prowadzi Wioletta Figielska &#8211; magister teologii Uniwersytetu Warmińsko &#8211; Mazurskiego w Olsztynie, absolwent kursu kwalifikacyjnego w zakresie śpiewu i muzyki kościelnej, katecheta w Szkole Podstawowej w Olsztynku, organistka przy parafii.
+[<img class="size-full wp-image-38 alignleft" title="wiola" src="{{ site.urls.wp_content_base }}/uploads/2010/12/wiola.jpg" alt="" width="93" height="127" style="width: 93px; />]({{ site.urls.wp_content_base }}/uploads/2010/12/wiola.jpg)
+
+Scholę prowadzi Wioletta Figielska &#8211; magister teologii Uniwersytetu Warmińsko &#8211; Mazurskiego w Olsztynie, absolwent kursu kwalifikacyjnego w zakresie śpiewu i muzyki kościelnej, katecheta w Szkole Podstawowej w Olsztynku, organistka przy parafii.
 
 Swoje zamiłowanie do muzyki kościelnej odkryła w 3 klasie szkoły podstawowej, gdy rozpoczęła śpiewanie w scholi dziecięcej zorganizowanej przez katechetkę Ewę Piłat (Suchodolską) przy parafii Najświętszego Serca Pana Jezusa w Olsztynku (5 lat). Następnie należała do scholi Vox Cordis prowadzonej przez ks. Zbigniewa Stępniaka oraz wyłonionego z niej zespołu młodzieżowego Magnalia Dei (4 lata), gdzie grała na gitarze. W 1998 r. założyła scholę Apostołowie Radości przy parafii bł. Anieli Salawy. W latach 2002-2006 prowadziła chór szkolny Bravo przy Gimnazjum w Olsztynku.
 
