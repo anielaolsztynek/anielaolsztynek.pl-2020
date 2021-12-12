@@ -31,10 +31,16 @@ body {
 }
 
 #headerline h1 {
+  position: absolute;
+  bottom: 20px;
+  left: 0;
+  right: 0;
+  height: 2.5rem;
   text-align: center;
   margin: 0 auto;
   padding: 0;
-  font-size: 3rem;
+  font-size: 1.75rem;
+  border: 0;
 }
 
 #headerline h1 a {
