@@ -28,6 +28,7 @@ body {
   height: 180px;
   margin: 0;
   padding: 0;
+  position: relative;
 }
 
 #headerline h1 {
