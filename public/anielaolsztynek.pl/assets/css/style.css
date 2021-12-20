@@ -23,24 +23,33 @@ body {
 }
 
 #headerline {
-  background: url(/assets/theme/topbg.jpg) repeat-x;
+  background: url(/assets/theme/topbg.jpg) bottom repeat-x;
   width: 100%;
-  height: 180px;
+  height: 160px;
   margin: 0;
   padding: 0;
 }
-#anheader {
-  width: 913px;
-  height: 150px;
-  background: url(/assets/theme/header2.jpg) no-repeat;
+
+#headerline h1 {
+  text-align: center;
   margin: 0 auto;
   padding: 0;
+  font-size: 1.5rem;
+  letter-spacing: 0.125rem;
+  border: 0;
+  padding-top: 0.75rem;
+  line-height: 140%;
 }
-#headera {
+
+#headerline h1 small {
+  opacity: 0.75;
+}
+
+#headerline h1 a {
+  color: white;
   text-decoration: none;
-  margin: 0;
-  padding: 0;
 }
+
 #container {
   width: 978px;
   margin: 0 auto;

@@ -1,5 +1,5 @@
 ---
-III Niedziela Adwentu
+title: III Niedziela Adwentu
 date: 2021-12-12
 ---
 
