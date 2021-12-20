@@ -24,3 +24,5 @@ date: 2021-12-19
 - W nawiązaniu do synodu poświęconego refleksji nad kościołem, który aktualnie trwa na etapie diecezjalnym oraz w nawiązaniu do listu pasterskiego Księdza Arcybiskupa na Adwent, zachęca się świeckich do zabrania głosu w tej sprawie. Sposób, w jaki można to zrobić, jest opisany w broszurce, którą można wziąć przy wyjściu z kościoła.
 - Bóg zapłać za ofiary złożone przed tygodniem do puszek (900 złotych) oraz indywidualne na figurę Świętego Józefa, w sumie 1500 złotych.
 - Jest do nabycia nowy numer **Gościa Niedzielnego**.
+
+
