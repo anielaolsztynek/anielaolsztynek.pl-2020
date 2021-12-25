@@ -2,8 +2,6 @@
 layout: default
 ---
 
-Transmisja pasterki (22:00): <a href="https://youtu.be/cjOtxLMYbl8">https://youtu.be/cjOtxLMYbl8</a>
-
 {%- for post in site.posts limit:10 -%}
 <article class="post">
   <h2 class="entry-title">
@@ -24,8 +22,6 @@ Transmisja pasterki (22:00): <a href="https://youtu.be/cjOtxLMYbl8">https://yout
     </a>
   </div>
 
-  <div class="entry-content">
-    {{ post.content }}
-  </div>
+  <div class="entry-content">{{ post.content }}</div>
 </article>
 {%- endfor -%}
