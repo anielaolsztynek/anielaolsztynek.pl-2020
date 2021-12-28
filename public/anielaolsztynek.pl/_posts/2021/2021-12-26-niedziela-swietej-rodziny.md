@@ -12,3 +12,4 @@ date: 2021-12-26
 > <span style="color: #666699;"> Ojcze, proszę Cię dzisiaj za wszystkie rodziny, a szczególnie za moją, abyś Ty był w nich najważniejszy. </span>
 >
 > &nbsp;
+
