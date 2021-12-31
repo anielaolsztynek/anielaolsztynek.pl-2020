@@ -19,3 +19,4 @@ date: 2021-12-26
 - Przypominam, że w tym roku kolęda odbędzie się u tych rodzin, które wcześniej się zgłoszą i wyrażą chęć spotkania. Zasadniczo można zgłaszać się do końca tego roku.
 - Kolęda w Wilkowie (numery 8-13) w czwartek od godziny <u>10:00</u>.
 - Jest do nabycia nowy numer "Gościa Niedzielnego".
+
