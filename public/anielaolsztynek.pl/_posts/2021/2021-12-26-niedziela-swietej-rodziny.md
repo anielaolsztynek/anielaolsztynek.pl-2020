@@ -13,3 +13,9 @@ date: 2021-12-26
 >
 > &nbsp;
 
+- W piątek **ostatni dzień starego roku**. Po Mszy Świętej o godzinie <u>17:00</u> będzie wystawienie Najświętszego Sakramentu połączone z nabożeństwem dziękczynno-przebłagalnym i Te Deum.
+- W sobotę **Nowy Rok**. Msze Święte w tym dniu o godzinie <u>11:00</u> i <u>17:00</u>.
+- W następną, **I niedzielę miesiąca** wystawienie i adoracja Najświętszego Sakramentu. Zmiana tajemnic różańcowych w tym dniu o godzinie <u>8:30</u>.
+- Przypominam, że w tym roku kolęda odbędzie się u tych rodzin, które wcześniej się zgłoszą i wyrażą chęć spotkania. Zasadniczo można zgłaszać się do końca tego roku.
+- Kolęda w Wilkowie (numery 8-13) w czwartek od godziny <u>10:00</u>.
+- Jest do nabycia nowy numer "Gościa Niedzielnego".
