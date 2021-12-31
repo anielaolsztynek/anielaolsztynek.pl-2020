@@ -20,3 +20,4 @@ date: 2021-12-26
 - Kolęda w Wilkowie (numery 8-13) w czwartek od godziny <u>10:00</u>.
 - Jest do nabycia nowy numer "Gościa Niedzielnego".
 
+
