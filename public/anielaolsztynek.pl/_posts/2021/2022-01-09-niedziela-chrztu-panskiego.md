@@ -12,7 +12,7 @@ date: 2022-01-09
 > <span style="color: #666699;"> Panie Jezu, Ty patrzysz na mnie zakochanymi oczami oblubieńca. A ja chcę być Twoją ukochaną duszą. I choć nie jestem godny zawiązać rzemyka u Twoich sandałów, wierzę w Twoją miłosierną miłość, zanurzając się w tajemnicę mojego chrztu. Ty żyjesz i królujesz na wieki wieków. Amen.
 > &nbsp;
 
-- Dzisiejszą **niedzielą Chrztu Pańskiego** kończy się okres Bożego Narodzenia, a zaczyna się okres zwykły. Kolędy będziemy jeszcze naszym polskim zwyczajem śpiewali od czasu do czasu do święta Matki Bożej Gromnicznej.
-- **Msze Święte w tym tygodniu:** jutro Mszy Świętej nie będzie, w sobotę będę odprawiał Mszę Świętą w domu jubilatów, więc w kościele Mszy Świętej też nie będzie. We wtorek, środę i czwartek o godzinie <u>8:00</u>, w piątek o godzinie <u>17:00</u>.
+- Dzisiejszą **Niedzielą Chrztu Pańskiego** kończy się okres Bożego Narodzenia, a zaczyna się okres zwykły. Naszym polskim zwyczajem będziemy jeszcze śpiewali kolędy do dnia uroczystości Matki Bożej Gromnicznej.
+- **Msze Święte w tym tygodniu:** jutro Mszy Świętej nie będzie, w sobotę będę odprawiał Mszę Świętą u jubilatów w domu, więc w kościele Mszy Świętej też nie będzie. We wtorek, środę i czwartek o godzinie <u>8:00</u>, w piątek o godzinie <u>17:00</u>.
 - W dzisiejszym "Gościu Niedzielnym" przeczytamy między innymi o tym, czy Jezus jako dziecko wiedział, że jest Bogiem i dlaczego po latach przyjął chrzest od Jana Chrzciciela.
-- Pragnę serdecznie podziękować za wszystkie spotkania kolędowe, w tym tygodniu pod koniec tygodnia już będę odwiedzał rodziny na osiedlu bliżej kościoła.
+- Pragnę serdecznie podziękować za wszystkie spotkania kolędowe, pod koniec tego tygodnia będę już odwiedzał rodziny na osiedlu bliżej kościoła.
