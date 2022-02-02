@@ -14,8 +14,8 @@ date: 2022-01-30
 
 - W środę - 2 lutego - obchodzimy **Święto Ofiarowania Pańskiego**. W tym dniu czcimy Chrystusa Pana - Światłość Świata (symbolizują to świece) i Jego Matkę jako Matkę Bożą Gromniczną. Tradycyjnie w czasie Mszy Świętej będzie błogosławieństwo świec zwanych gromnicami, które przynosimy ze sobą. Można będzie też nabyć je w zakrystii przed Mszą Świętą. Msze Święte w tym dniu o godzinie <u>10:00</u> i <u>17:00</u>.
 - W tym tygodniu wypada **I czwartek, I piątek i I sobota lutego**. W piątek przed południem odwiedziny chorych.
-- Następna - I Niedziela miesiąca - to **Niedziela Adoracji Najświętszego Sakramentu** i zmiany tajemnic różańcowych, połączonej ze wspólnym różańcem o godzinie <u>8:30</u>.
+- Następna, I Niedziela miesiąca to **Niedziela Adoracji Najświętszego Sakramentu** i zmiany tajemnic różańcowych, połączonej ze wspólnym różańcem o godzinie <u>8:30</u>.
 - W poniedziałek i wtorek Msza Święta o godzinie <u>8:00</u>.
-- W dniach 6-14 lutego odbędzie się w Olsztynie **V Tydzień Maltański**. Plakat na ten temat w gablocie.
+- W dniach 6-14 lutego odbędzie się w Olsztynie **V Tydzień Małżeński**. Plakat na ten temat w gablocie.
 - W minionym tygodniu odeszło do wieczności dwoje naszych parafian - śp. Janina Żmijewska - lat 89 i śp. Ireneusz Osłowski - lat 85. Wieczny odoczynek racz zmarłym dać, Panie.
 - Jest do nabycia nowy numer "Gościa Niedzielnego".
