@@ -13,6 +13,6 @@ date: 2022-02-06
 > &nbsp;
 
 - Dziś I Niedziela miesiąca - **Niedziela Adoracji Najświętszego Sakramentu**.
-- We piątek – 11 lutego, w liturgiczne wspomnienie Najświętszej Marii Panny z Lourdes, wypada **Światowy Dzień Chorego**, ustanowiony przez Św. Jana Pawła II. W tym dniu będzie udzielany Sakrament Chorych w czasie Mszy Świętej o godzinie <u>17:00</u>. Do Sakramentu tego mogą przystąpić wszystkie osoby starsze i te, które noszą znamię poważnej i trwałej choroby oraz są w stanie łaski uświęcającej.
+- W piątek – 11 lutego, w liturgiczne wspomnienie Najświętszej Marii Panny z Lourdes, wypada **Światowy Dzień Chorego**, ustanowiony przez Świętego Jana Pawła II. W tym dniu będzie udzielany Sakrament Chorych w czasie Mszy Świętej o godzinie <u>17:00</u>. Do Sakramentu tego mogą przystąpić wszystkie osoby starsze i te, które noszą znamię poważnej i trwałej choroby oraz są w stanie łaski uświęcającej.
 - W poniedziałek, wtorek, środę i czwartek Mszy Świętej nie będzie.
 - Jest do nabycia nowy numer "Gościa Niedzielnego".
