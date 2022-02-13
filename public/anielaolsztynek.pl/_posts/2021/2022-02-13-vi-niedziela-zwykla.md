@@ -13,4 +13,4 @@ date: 2022-02-13
 > &nbsp;
 
 - W poniedziałek i wtorek Mszy Świętej nie będzie.
-- Jest do nabycia nowy numer "Gościa Niedzielnego".
+- Jest do nabycia nowy numer **"Gościa Niedzielnego"**.
