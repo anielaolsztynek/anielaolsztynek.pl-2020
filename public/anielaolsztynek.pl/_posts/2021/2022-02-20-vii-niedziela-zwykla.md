@@ -12,7 +12,7 @@ date: 2022-02-20
 > <span style="color: #666699;"> Panie Jezu, Ty uczysz mnie przekraczać moje możliwości. Wiesz, że nie umiem kochać tych, którzy mnie ranią, ani wybaczać tym, którzy mnie nie kochają, a jednak dajesz mi łaskę, by Twoje wezwanie stawało się we mnie ciałem. Ty żyjesz i królujesz na wieki wieków. Amen.
 > &nbsp;
 
-- W związku z wysoką opłatą za ogrzewanie (ostatni rachunek 6100 złotych), w następną niedzielę ofiary składane na tacę będą przeznaczone na ten cel.
+- W związku z wysoką opłatą za ogrzewanie (ostatni rachunek wyniósł 6100 złotych), w następną niedzielę ofiary składane na tacę będą przeznaczone na ten cel.
 - W czwartek Msza Święta o godzinie <u>8:00</u>.
 - Jest do nabycia nowy numer **"Gościa Niedzielnego"**.
-- W minionym tygodniu odeszła do wieczności nasza parafianka z Sudwy - śp. Teresa Ławczyńska - lat 75. Wieczny odoczynek racz zmarłej dać, Panie.
+- W minionym tygodniu odeszła do wieczności nasza parafianka z Sudwy - śp. Teresa Ławczyńska, lat 75. Wieczny odpoczynek racz zmarłej dać, Panie.
