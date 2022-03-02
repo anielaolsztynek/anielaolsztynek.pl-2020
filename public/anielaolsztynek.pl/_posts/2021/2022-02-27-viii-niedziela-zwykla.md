@@ -23,17 +23,14 @@ date: 2022-02-27
 - **APEL PRZEWODNICZĄCEGO KOMISJI EPISKOPATU POLSKI**
 
 W związku inwazją rosyjską na Ukrainę, w imieniu Konferencji Episkopatu Polski, stanowczo potępiam działania Rosji i Władimira Putina, uznając je za niedopuszczalny i haniebny akt barbarzyństwa, skierowany wobec suwerenności i niezależności niepodległego państwa.
-
 Jednocześnie – wraz z całym Kościołem w Polsce – wyrażam moją solidarność ze wszystkimi Ukraińcami, zarówno w Polsce, jak i na Ukrainie, zapewniając ich o naszej bliskości, modlitwie oraz gotowości do pomocy.
-
 W związku z prośbą Ojca Świętego Franciszka, zwracam się do Księży Biskupów oraz wszystkich wiernych, aby Środa Popielcowa była obchodzona w Kościele w Polsce jako dzień postu i modlitwy w intencji pokoju oraz solidarności z Ukrainą. Proszę, aby w każdym kościele i parafii w Polsce zanosić gorące błagania w intencji pokoju, a także w intencji Ukraińców, by Pan pokrzepił ich serca w obecnej dramatycznej sytuacji.
-
 Jako Kościół w Polsce pragniemy przyjść naszym Braciom również z materialną pomocą, dlatego apeluję, aby zarówno w najbliższą niedzielę, jak i w Środę Popielcową, po każdej Mszy Świętej zorganizować zbiórkę ofiar do puszek, które – za pośrednictwem Caritas Polska – zostaną przeznaczone na pomoc uchodźcom wojennym z Ukrainy. Pomoc Kościoła katolickiego w Polsce będzie świadczona sukcesywnie i systemowo za pośrednictwem naszych instytucji charytatywnych – parafialnych, diecezjalnych i ogólnopolskich – w tym, przez Zespół Pomocy Kościołowi na Wschodzie przy Konferencji Episkopatu Polski.
-
 Ponadto, proszę wszystkich wierzących i ludzi dobrej woli o otwartą postawę wobec potrzebujących schronienia.
-
 Królowej Pokoju zawierzam losy Ukrainy i Polski, zapewniając wszystkich o mojej duchowej bliskości i modlitwie.
 
 Stanisław Gądecki
+
 Arcybiskup Metropolita Poznański
+
 Przewodniczący Konferencji Episkopatu Polski
