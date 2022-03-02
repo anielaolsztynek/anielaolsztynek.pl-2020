@@ -17,7 +17,7 @@ date: 2022-02-27
 - **Gorzkie Żale** w niedziele Wielkiego Postu o godzinie <u>8:45</u>.
 - W tym tygodniu wypada **I czwartek, I piątek i I sobota** marca. W piątek przed południem **odwiedziny chorych**.
 - **Zmiana tajemnic różańcowych** w następną niedzielę o godzinie <u>8:30</u>, przed Gorzkimi Żalami.
-- Proszę, aby w następną niedzielę dzieci pierwszokomunijne przyniosły do poświęcenia krzyżyki na godzinę <u>11:00</u>. Takie krzyżyki można nabyć w kancelarii.
+- Proszę, aby w następną niedzielę na godzinę <u>11:00</u> dzieci pierwszokomunijne przyniosły do poświęcenia krzyżyki. Takie krzyżyki można nabyć w kancelarii.
 - Społeczność Szkoły Podstawowej nr 2 im. rotmistrza Witolda Pileckiego zaprasza mieszkańców Olsztynka na **wieczornicę poświęconą Żołnierzom Wyklętym** w najbliższy czwartek - 3 marca o godzinie <u>18:00</u> do kina "Grunwald".
 
 - **APEL PRZEWODNICZĄCEGO KOMISJI EPISKOPATU POLSKI**
@@ -34,6 +34,6 @@ Ponadto, proszę wszystkich wierzących i ludzi dobrej woli o otwartą postawę 
 
 Królowej Pokoju zawierzam losy Ukrainy i Polski, zapewniając wszystkich o mojej duchowej bliskości i modlitwie.
 
-- Stanisław Gądecki
-  Arcybiskup Metropolita Poznański
-  Przewodniczący Konferencji Episkopatu Polski
+Stanisław Gądecki
+Arcybiskup Metropolita Poznański
+Przewodniczący Konferencji Episkopatu Polski
