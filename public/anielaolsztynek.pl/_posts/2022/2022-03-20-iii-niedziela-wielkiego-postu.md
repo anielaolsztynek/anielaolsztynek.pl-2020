@@ -16,4 +16,4 @@ date: 2022-03-20
 - Zachęcam i zapraszam do udziału w nabożeństwie **Drogi Krzyżowej** w piątek o godzinie <u>16:30</u>.
 - **Rekolekcje wielkopostne** w naszej parafii rozpoczną się za tydzień, w IV niedzielę Wielkiego Postu i będą trwały do wtorku włącznie. Rekolekcje wygłosi ksiądz Marek Jodkowski - dyrektor Wydziału Sztuki Kościelnej, archidiecezjalny konserwator zabytków, pracownik naukowy Wydziału Teologii UWM.
 - W poniedziałek, wtorek i środę w naszym kościele Mszy Świętej nie będzie.
-- W minionym tygodniu odszedł do wieczności nasz parafianin - śp. Eugeniusz Lentacz - lat 63. Wieczny odoczynek racz zmarłemu dać, Panie.
+- W minionym tygodniu odszedł do wieczności nasz parafianin - śp. Eugeniusz Lentacz, lat 63. Wieczny odoczynek racz zmarłemu dać, Panie.
