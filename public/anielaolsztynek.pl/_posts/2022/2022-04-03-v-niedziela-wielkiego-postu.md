@@ -19,4 +19,4 @@ date: 2022-04-03
 - Już za tydzień **Niedziela Palmowa** – Niedziela Męki Pańskiej. Podczas wszystkich Mszy Świętych będzie poświęcenie palm.
 - W Niedzielę Palmową po Mszy Świętej będą zbierane ofiary na zakup kwiatów do **Grobu Pańskiego**.
 - We wtorek i czwartek Msza Święta o godzinie <u>8:00</u>.
-- Jest do nabycia nowy numer "Gościa Niedzielnego".
+- Jest do nabycia nowy numer **Gościa Niedzielnego**.
