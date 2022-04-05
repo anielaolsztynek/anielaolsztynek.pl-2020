@@ -14,7 +14,7 @@ date: 2022-04-03
 
 - W minionym tygodniu przeżyliśmy parafialne **rekolekcje wielkopostne**. Wyrażam wdzięczność Bogu za owoce tych rekolekcji, przygotowujących nas do Świąt Wielkanocnych.
 - Dziś rozpoczęły się **rekolekcje wielkopostne** w parafii Najświętszego Serca Pana Jezusa i będą trwały do wtorku włącznie.
-- Serdecznie zapraszam na ostatnią w tym roku **Drogę Krzyżową** w piątek o godzinie <u>16:30</u>, w intencji rodzin z naszej parafii.
+- Serdecznie zapraszam na ostatnią w tym roku **Drogę Krzyżową** w piątek o godzinie <u>16:30</u>, która będzie w intencji rodzin z naszej parafii.
 - Również w piątek po Mszy Świętej o godzinie <u>17:00</u> spotkanie z rodzicami dzieci przygotowujących się do I Komunii Świętej.
 - Już za tydzień **Niedziela Palmowa** – Niedziela Męki Pańskiej. Podczas wszystkich Mszy Świętych będzie poświęcenie palm.
 - W Niedzielę Palmową po Mszy Świętej będą zbierane ofiary na zakup kwiatów do **Grobu Pańskiego**.
