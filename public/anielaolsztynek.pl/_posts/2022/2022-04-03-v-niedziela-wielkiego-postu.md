@@ -17,7 +17,6 @@ date: 2022-04-03
 - Serdecznie zapraszam na ostatnią w tym roku **Drogę Krzyżową** w piątek o godzinie <u>16:30</u>, w intencji rodzin z naszej parafii.
 - Również w piątek po Mszy Świętej o godzinie <u>17:00</u> spotkanie z rodzicami dzieci przygotowujących się do I Komunii Świętej.
 - Już za tydzień **Niedziela Palmowa** – Niedziela Męki Pańskiej. Podczas wszystkich Mszy Świętych będzie poświęcenie palm.
-- Msza Święta o godzinie <u>11:00</u> w Niedzielę Palmową, podobnie jak dziś, będzie transmitowana przez facebooka i youtube'a. Będzie też transmitowana z naszego kościoła Droga Krzyżowa w najbliższy piątek o godzinie <u>16:30</u>, tak, jak i Triduum Paschalne oraz Msza Święta Wielkanocna.
 - W Niedzielę Palmową po Mszy Świętej będą zbierane ofiary na zakup kwiatów do **Grobu Pańskiego**.
 - We wtorek i czwartek Msza Święta o godzinie <u>8:00</u>.
 - Jest do nabycia nowy numer "Gościa Niedzielnego".
