@@ -3,11 +3,11 @@ title: Niedziela Palmowa Męki Pańskiej
 date: 2022-04-10
 ---
 
-> **Łk 22, 14-23,56**
+> **Łk 22, 14-23, 56**
 >
 > **Tylko nawrócony będę w stanie umacniać innych**
 >
-> Ewangelia, która ujawnia nam umęczone oblicze Jezusa Chrystusa, dziś rozbłysnęła szczególnie słowami wypowiedzianymi przez Zbawiciela do Szymona Piotra: "Modliłem się za Ciebie, abyś nie utracił swojej wiary. A Ty, kiedy się nawrócisz, umacniaj twoich braci". Jakie to piękne doświadczyć, że Jezus Chrystus jest pierwszym modlącym się o moją wiarę. To On jest jej gwarantem, to On pragnie, bym wierzył - bardziej nawet niż ja tego pragnę. Jezus Chrystus wie, że krzyż, który Go czeka, bardzo zgorszy serce Piotra, tak jak każdego z nas gorszy cierpienie, ból, doświadczenie krzyża naszego życia. On wie, jak trudno wytrwać nam pod krzyżem, jak bardzo pragniemy uciec. On wie, że tu waży się sprawa naszej wiary, i dlatego do swojej modlitwy o moją i twoją wiarę dodaje jeszcze niezwykłe, pełne nadziei zdanie: "Kiedy się nawrócisz, umacniaj twoich braci". Jedyny warunek nawracania innych, umacniania ich w wierze, to moje osobiste nawrócenie.
+> Ewangelia, która ujawnia nam umęczone oblicze Jezusa Chrystusa, dziś rozbłysnęła szczególnie słowami wypowiedzianymi przez Zbawiciela do Szymona Piotra: "Modliłem się za Ciebie, abyś nie utracił swojej wiary. A Ty, kiedy się nawrócisz, umacniaj twoich braci". Jakie to piękne doświadczyć, że Jezus Chrystus jest pierwszym modlącym się o moją wiarę. To On jest jej gwarantem, to On pragnie, bym wierzył - bardziej nawet niż ja tego pragnę. Jezus Chrystus wie, że krzyż, który Go czeka, bardzo zgorszy serce Piotra, tak jak każdego z nas gorszy cierpienie, ból, doświadczenie krzyża naszego życia. On wie, jak trudno wytrwać nam pod krzyżem, jak bardzo pragniemy uciec. On wie, że tu waży się sprawa naszej wiary i dlatego do swojej modlitwy o moją i twoją wiarę dodaje jeszcze niezwykłe, pełne nadziei zdanie: "Kiedy się nawrócisz, umacniaj twoich braci". Jedyny warunek nawracania innych, umacniania ich w wierze, to moje osobiste nawrócenie.
 >
 > <span style="color: #666699;"> Panie Jezu Chryste, nie pozwól mi upaść ani odejść spod krzyża, nie pozwól mi zmarnować owoców Twojej męki ani zasnąć, nie pozwól mi odstąpić od Ciebie. Ty żyjesz i królujesz na wieki wieków. Amen.
 > &nbsp;
