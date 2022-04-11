@@ -27,7 +27,7 @@ date: 2022-04-10
 - Liturgia **Wielkiego Czwartku** i **Wielkiego Piątku** o godzinie <u>18:00</u>.
 - Liturgia **Wigilii Paschalnej** rozpocznie się o godzinie <u>20:00</u>.
 - Zachęcam do chrześcijańskiego przeżycia dni Wielkiego Tygodnia, a w szczególności Triduum Paschalnego. Zachęcam też do indywidualnej adoracji Pana Jezusa w Najświętszym Sakramencie w te dni.
-- Msze Święte w pierwszym dniu Świąt będą jak w każdą niedzielę: o godzinie <u>9:00</u>, <u>11:00</u> i <u>17:00</u>. W drugim dniu Świąt Msze Święte o godzinie <u>9:00</u> i <u>11:00</u>, nie będzie Mszy Świętej o godzinie <u>17:00</u>.
+- Msze Święte w pierwszym dniu Świąt Wielkanocnych będą jak w każdą niedzielę: o godzinie <u>9:00</u>, <u>11:00</u> i <u>17:00</u>. W drugim dniu Świąt Msze Święte o godzinie <u>9:00</u> i <u>11:00</u>, nie będzie Mszy Świętej o godzinie <u>17:00</u>.
 - Po Mszy Świętej przy wyjściu z kościoła będą zbierane ofiary na kwiaty do Grobu Pańskiego. Z góry składam serdeczne Bóg zapłać.
 - **Okazja do Spowiedzi Świętej** – jeszcze dziś po Mszy Świętej, każdego dnia przed Mszą Świętą oraz po liturgii Triduum Paschalnego.
 - Konkurs palm dziś po Mszy Świętej o godzinie <u>11:00</u>.
