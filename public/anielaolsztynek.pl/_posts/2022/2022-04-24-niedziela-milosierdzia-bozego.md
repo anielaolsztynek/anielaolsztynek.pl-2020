@@ -15,7 +15,6 @@ date: 2022-04-24
 - Dzisiejsza **Niedziela Miłosierdzia Bożego** rozpoczyna **78 Tydzień Miłosierdzia**.
 - Dzisiejszy dzień to także patronalne święto Caritas. Ofiary składane dziś na tacę są przeznaczone na funkcjonowanie Caritas Archidiecezji Warmińskiej. Przy okazji dziękuję naszemu PZC za zaangażowanie i pracę na rzecz najuboższych.
 - Następna niedziela to **I niedziela miesiąca** - niedziela adoracji Najświętszego Sakramentu.
-- **Zmiana tajemnic różańcowych** w następną niedzielę o godzinie <u>8:30</u>, a o godzinie <u>8:45</u> nabożeństwo majowe.
-- **Zmiana tajemnic różańcowych** w następną niedzielę o godzinie <u>8:30</u>, a o godzinie <u>8:45</u> nabożeństwo majowe.
+- **Zmiana tajemnic różańcowych** w następną niedzielę o godzinie <u>8:30</u>, a o godzinie <u>8:45</u> **nabożeństwo majowe**.
 - **Próby dla dzieci przed I Komunią Świetą** w tym tygodniu w poniedziałek i w środę o godzinie <u>17:30</u>, w czwartek o godzinie <u>17:00</u>.
 - We wtorek i czwartek Msza Święta godzinie <u>8:00</u>.
