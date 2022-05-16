@@ -177,7 +177,7 @@ p {
 .post p img {
   display: block;
   margin: 0 auto;
-  width: 85%;
+  width: 100%;
 }
 /*
 .post p:first-child:first-letter {
