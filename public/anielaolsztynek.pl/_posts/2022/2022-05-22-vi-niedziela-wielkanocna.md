@@ -16,4 +16,4 @@ date: 2022-05-22
 - Zachęcam i zapraszam do udziału w **nabożeństwie majowym**, codziennie po Mszy Świętej o godzinie <u>17:00</u>.
 - We sobotę Msze Święte połączone z sakramentem małżeństwa o godzinie <u>16:00</u> i <u>17:15</u>.
 - W następną niedzielę obchodzimy uroczystość **Wniebowstąpienia Pańskiego**.
-- Jest do nabycia nowy numer "Gościa Niedzielnego".
+- Jest do nabycia nowy numer **"Gościa Niedzielnego"**.
