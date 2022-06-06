@@ -16,4 +16,4 @@ date: 2022-06-05
 - Jutro w liturgii **święto Najświętszej Marii Panny - Matki Kościoła**.
 - W najbliższy czwartek wypada liturgiczne **święto Jezusa Chrystusa Najwyższego i Wiecznego Kapłana**.
 - W tym roku **Uroczystość Bożego Ciała** będzie według porządku sprzed pandemii - o godzinie <u>10:00</u> Msza Święta w Skansenie i procesja do kościoła. W następnym roku planuję procesję na osiedle przy ulicy Wrzosowej.
-- W minionym tygodniu odeszło do wieczności dwoje naszych parafian - śp. Małgorzata Nidzgorska - lat 62 (pogrzeb jutro o godzinie <u>11:00</u>) i śp. Jan Gawęda - lat 74 (pogrzeb jutro o godzinie <u>13:00</u>. Wieczny odoczynek racz zmarłym dać, Panie.
+- W minionym tygodniu odeszło do wieczności dwoje naszych parafian - śp. Małgorzata Nidzgorska - lat 62 (pogrzeb jutro o godzinie <u>11:00</u>) i śp. Jan Gawęda - lat 74 (pogrzeb jutro o godzinie <u>13:00</u>). Wieczny odoczynek racz zmarłym dać, Panie.
