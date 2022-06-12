@@ -13,8 +13,8 @@ date: 2022-06-12
 > &nbsp;
 
 - Uroczystość Najświętszego Ciała i Krwi Pana Jezusa – **Boże Ciało** – wypada w najbliższy czwartek, 16 czerwca. **Msza Święta jako jedyna w tym dniu będzie odprawiona w Skansenie w amfiteatrze o godzinie <u>10:00</u>**. Po Mszy Świętej, idąc w procesji eucharystycznej, udamy się do czterech ołtarzy. Bardzo proszę o wykonanie ołtarzy w tych samych miejscach, jak to było przed pandemią:
-  - <u>I ołtarz</u> ulica Sportowa,
-  - <u>II ołtarz</u> skrzyżowanie ulic Akacjowej i Kasztanowej,
-  - <u>III ołtarz</u> skrzyżowanie ulic Akacjowej i Klonowej,
-  - <u>IV ołtarz</u> skrzyżowaniu ulic Akacjowej i Świerkowej.
-Brzózki będą dowiezione do wszystkich ołtarzy w środę po południu (za co z góry dziękuję Nadleśnictwu Olsztynek). Proszę o przyozdobienie kwiatami ołtarza w Skansenie. Proszę też o udział w procesji Panie z Kółek Różańcowych, strażaków i całą służbę liturgiczną. Dziewczynki pierwszokomunijne, a także wszystkie chętne dziewczynki, zapraszam do sypania kwiatków w czasie procesji eucharystycznej. Proszę mamy o pomoc w ustawieniu dzieci oraz o przygotowanie koszyków i kwiatów. Chłopców pierwszokomunijnych również zapraszam w albach do udziału w procesji – do niesienia poduszek z emblematami religijnymi. Procesja zakończy się w kościele, gdzie zaśpiewamy Te Deum i odmówimy Litanię do Najświętszego Serca Pana Jezusa.
+  - <u>I ołtarz</u> - ulica Sportowa,
+  - <u>II ołtarz</u> - skrzyżowanie ulic Akacjowej i Kasztanowej,
+  - <u>III ołtarz</u> - skrzyżowanie ulic Akacjowej i Klonowej,
+  - <u>IV ołtarz</u> - skrzyżowaniu ulic Akacjowej i Świerkowej.
+- Brzózki będą dowiezione do wszystkich ołtarzy w środę po południu (za co z góry dziękuję Nadleśnictwu Olsztynek). Proszę o przyozdobienie kwiatami ołtarza w Skansenie. Proszę też o udział w procesji Panie z Kółek Różańcowych, strażaków i całą służbę liturgiczną. Dziewczynki pierwszokomunijne, a także wszystkie chętne dziewczynki, zapraszam do sypania kwiatków w czasie procesji eucharystycznej. Proszę mamy o pomoc w ustawieniu dzieci oraz o przygotowanie koszyków i kwiatów. Chłopców pierwszokomunijnych również zapraszam w albach do udziału w procesji – do niesienia poduszek z emblematami religijnymi. Procesja zakończy się w kościele, gdzie zaśpiewamy Te Deum i odmówimy Litanię do Najświętszego Serca Pana Jezusa.
