@@ -17,5 +17,6 @@ date: 2022-06-19
 - Natomiast w piątek wypada uroczystość **Najświętszego Serca Pana Jezusa**. Jest to dzień odpustu w sąsiedniej parafii.
 - W tym tygodniu przybędzie w naszym kościele **figura Niepokalanego Serca Najświętszej Marii Panny**, ufundowana przez jedną rodzinę z parafii. Wspomnienie liturgiczne **Niepokalanego Serca Najświętszej Marii Panny** wypada w najbliższą sobotę. Poświęcenia tej figury dokonamy w następną niedzielę pod koniec Mszy Świętej o godzinie <u>9:00</u>.
 - Msze Święte w sobotę połączone z sakramentem małżeństwa o godzinie <u>15:30</u> i <u>17:00</u>.
-- W następną niedzielę o godzinie <u>11:00</u> będzie odprawiona Msza Święta w intencji dzieci, młodzieży, nauczycieli i katechetów, na zakończenie roku szkolnego.
+- W następną niedzielę o godzinie <u>11:00</u> będzie odprawiona Msza Święta na zakończenie roku szkolnego, w intencji dzieci, młodzieży, nauczycieli i katechetów.
+
 
