@@ -16,4 +16,5 @@ date: 2022-07-03
 - **Zmiana tajemnic różańcowych** dziś o godzinie <u>8:30</u>.
 - Również dziś, w I niedzielę miesiąca, **adoracja Najświętszego Sakramentu**.
 - 1 lipca minęła 26 rocznica powstania naszej parafii, natomiast w czwartek - 7 lipca - wypada 26 rocznica pierwszej Mszy Świetej odprawionej w kaplicy.
-- **39 Warmińska Piesza Pielgrzymka na Jasną Górę** wyrusza 31 lipca i będzie trwała do 12 sierpnia. Hasło tegorocznej pielgrzymki to "Posłani w pokoju Chrystusa".
+- **39. Warmińska Piesza Pielgrzymka na Jasną Górę** wyrusza 31 lipca i będzie trwała do 12 sierpnia. Hasło tegorocznej pielgrzymki to "Posłani w pokoju Chrystusa".
+
