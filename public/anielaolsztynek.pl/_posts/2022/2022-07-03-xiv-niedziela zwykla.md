@@ -14,7 +14,7 @@ date: 2022-07-03
 
 - 1 lipca minęła 26 rocznica powstania naszej parafii, natomiast w czwartek - 7 lipca - wypada 26 rocznica pierwszej Mszy Świetej odprawionej w naszej parafii w kaplicy.
 - W sobotę Msza Święta połączona z sakramentem małżeństwa o godzinie <u>16:30</u>.
-- Dzoś I niedziela miesiąca — niedziela **adoracji Najświętszego Sakramentu**.
+- Dziś I niedziela miesiąca — niedziela **adoracji Najświętszego Sakramentu**.
 - **39 Warmińska Piesza Pielgrzymka na Jasną Górę** wyrusza 31 lipca i będzie trwała do 12 sierpnia. Hasło tegorocznej pielgrzymki to "Posłani w pokoju Chrystusa".
 - Przypominam, że informacje na temat pielgrzymek pieszych do Ostrej Bramy i na Jasną Górę są na plakatach w gablocie.
 
