@@ -12,8 +12,9 @@ date: 2022-07-03
 > <span style="color: #666699;"> Panie Jezu Chryste, pragnę być pośród tych siedemdziesięciu dwóch, których wysyłasz na krańce świata, by głosili Twoje imię. Chcę dawać światu świadectwo Twojej Ewangelii. Ty żyjesz i królujesz na wieki wieków. Amen.
 > &nbsp;
 
-- W związku z zakończeniem nabożeństwa czerwcowego, w każdą środę będzie odmawiana **nowenna do Matki Bożej Nieustającej Pomocy**, a w piątki **koronka do Miłosierdzia Bożego**, o ile będzie kilka osób.
-- **Zmiana tajemnic różańcowych** dziś o godzinie <u>8:30</u>.
-- Również dziś, w I niedzielę miesiąca, **adoracja Najświętszego Sakramentu**.
-- 1 lipca minęła 26 rocznica powstania naszej parafii, natomiast w czwartek - 7 lipca - wypada 26 rocznica pierwszej Mszy Świetej odprawionej w kaplicy.
+- 1 lipca minęła 26 rocznica powstania naszej parafii, natomiast w czwartek - 7 lipca - wypada 26 rocznica pierwszej Mszy Świetej odprawionej w naszej parafii w kaplicy.
+- W sobotę Msza Święta połączona z sakramentem małżeństwa o godzinie <u>16:30</u>.
+- Dzoś I niedziela miesiąca — niedziela **adoracji Najświętszego Sakramentu**.
 - **39 Warmińska Piesza Pielgrzymka na Jasną Górę** wyrusza 31 lipca i będzie trwała do 12 sierpnia. Hasło tegorocznej pielgrzymki to "Posłani w pokoju Chrystusa".
+- Przypominam, że informacje na temat pielgrzymek pieszych do Ostrej Bramy i na Jasną Górę są na plakatach w gablocie.
+
