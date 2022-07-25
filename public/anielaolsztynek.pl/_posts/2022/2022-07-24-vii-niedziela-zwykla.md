@@ -7,9 +7,9 @@ date: 2022-07-24
 >
 > **Kto prosi, otrzymuje w obfitości**
 >
-> Jezus opowiada dziś o człowieku, którego odwiedził jeden przyjaciel, ale potrzebne mu były trzy chleby. Przypomina to sytuację Abrahama pod dębami mamre: trzech gości, choć jedna osoba. Każdy bowiem, kto prosi o Bożą obecność, otzrymuje w obfitości. Bóg przychodzi w Trzech Osobach. Jeden święty chleb karmi nas miłością całej Trójcy.
+> Jezus opowiada dziś o człowieku, którego odwiedził jeden przyjaciel, ale potrzebne mu były trzy chleby. Przypomina to sytuację Abrahama pod dębami Mamre: trzech gości, choć jedna osoba. Każdy bowiem, kto prosi o Bożą obecność, otrzymuje w obfitości. Bóg przychodzi w Trzech Osobach. Jeden święty chleb karmi nas miłością całej Trójcy.
 >
-> <span style="color: #666699;"> Panie Jezu Chryste, naucz mnie modlić się tak, jak Jan nauczył swoich uczniów. Daj mi łaskę, bym miał odwagę mówić do Boga : "Ojcze". Ty żyjesz i królujesz na wieki wieków. Amen.
+> <span style="color: #666699;"> Panie Jezu Chryste, naucz mnie modlić się tak, jak Jan nauczył swoich uczniów. Daj mi łaskę, bym miał odwagę mówić do Boga: "Ojcze". Ty żyjesz i królujesz na wieki wieków. Amen.
 > &nbsp;
 
 - Jutro **uroczystość Świętego Krzysztofa** – patrona podróżnych i kierowców.
