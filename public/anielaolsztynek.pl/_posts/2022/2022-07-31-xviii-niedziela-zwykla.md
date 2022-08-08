@@ -12,3 +12,11 @@ date: 2022-07-31
 > <span style="color: #666699;"> Panie Jezu Chryste, Ty jesteś spichlerzem, w którym pragnę zgromadzić wszystkie zapasy na życie wieczne. Ty jesteś moją gwarancją, że nigdy - także w w wieczności - nie będę głodny. Ty żyjesz i królujesz na wieki wieków. Amen.
 > &nbsp;
 
+- Z okazji **uroczystości Świętego Krzysztofa** – patrona podróżnych i kierowców - dziś po Mszach Świętych odbędzie sie poświęcenie pojazdów. Przy tej okazji będą zbierane dobrowolne ofiary na misje, na zakup środków transportu.
+- Dziś wyrusza z Gietrzwałdu **39 Piesza Pielgrzymka Warmińska na Jasną Górę**, będzie trwała do 12 sierpnia. Hasło tegorocznej pielgrzymki to "Posłani w pokoju Chrystusa". Istnieje możliwość przesłania intencji, które będą omodlone podczas tej pielgrzymki. Adres podany na plakacie w gablocie.
+- W tym tygodniu wypada **I czwartek, I piątek i I sobota sierpnia**.
+- W piątek przed południem odwiedziny chorych.
+- W sobotę wypada liturgiczne **święto Przemienienia Pańskiego**. W tym dniu Msza Święta połączona ze ślubem o godzinie <u>16:00</u>.
+- Zmiana tajemnic różańcowych w następną niedzielę o godzinie <u>8:30</u> i adoracja Najświętszego Sakramentu na koniec Mszy Świętych o godzinie <u>9:00</u> i <u>11:00</u>.
+- W poniedziałek i wtorek Mszy Świętych nie będzie.
+- W minionym tygodniu odszedł do wieczności nasz parafianin ś.p. Janusz Żurawek - lat 39. Wieczny odpoczynek racz zmarłemu dać, Panie.
