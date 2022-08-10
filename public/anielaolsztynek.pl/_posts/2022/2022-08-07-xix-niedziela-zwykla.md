@@ -14,6 +14,6 @@ date: 2022-08-07
 
 - Dziś I niedziela miesiąca - **niedziela adoracji Najświętszego Sakramentu**.
 - We wtorek wypada liturgiczne **święto Świętej Teresy Benedykty od Krzyża**, patronki Europy. W środę z kolei **święto Świętego Wawrzyńca**, diakona i męczennika, patrona parafii w Gryźlinach, natomiast w czwartek **święto Najświętszej Marii Panny Świętolipskiej**.
-- 12 sierpnia (w najbliższy piątek) w Sanktuarium Matki Bożej w Gietrzwałdzie w ramach rozważań siedmiu boleści Matki Bożej Bolesnej odbędzie się rozważanie czwartej boleści Matki Bożej Bolesnej ofiarowane jako ekspiacja za grzechy zniewolenia przez alkohol, narkotyki i wszystkie inne zniewolenia, w intencji o uwolnienie od wszystkich zniewoleń. Plakat na ten temat w gablocie.
+- 12 sierpnia (w najbliższy piątek) w Sanktuarium Matki Bożej w Gietrzwałdzie w ramach rozważań siedmiu boleści Matki Bożej Bolesnej odbędzie się rozważanie czwartej boleści Matki Bożej Bolesnej ofiarowane jako ekspiacja za grzechy zniewolenia przez alkohol, narkotyki i za grzechy innych zniewoleń, w intencji o uwolnienie od nich wszystkich. Plakat na ten temat w gablocie.
 - Jutro w naszym kościele Mszy Świętej nie będzie.
-- Ksiądz Jan Paszulewicz organizuje pielgrzymkę autokarową do Krakowa i okolic w dniach 07.09-11.09.2022 w cenie 1300 złotych. Szczegółowy program w gablocie na zewnątrz. Można zgłaszać się do mnie lub bezpośrednio do księdza Jana.
+- Ksiądz Jan Paszulewicz organizuje **pielgrzymkę autokarową do Krakowa i okolic** w dniach 07.09-11.09.2022 w cenie 1300 złotych. Szczegółowy program w gablocie na zewnątrz. Można zgłaszać się do mnie lub bezpośrednio do księdza Jana.
