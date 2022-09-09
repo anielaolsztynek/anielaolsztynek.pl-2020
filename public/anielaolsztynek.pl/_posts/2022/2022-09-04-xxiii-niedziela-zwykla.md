@@ -22,3 +22,5 @@ date: 2022-09-04
 - Spotkanie z rodzicami dzieci, które w tym roku szkolnym **przygotowują się do I Komunii Świętej**, w następną niedzielę po Mszy Świętej o godzinie <u>11:00</u>. Rodzice zgłaszają swoje dzieci do przyjęcia tego sakramentu.
 - W związku z rozpoczętym już nowym rokiem szkolnym wszystkim dzieciom, młodzieży, nauczycielom, katechetom i wychowawcom życzę Bożego błogosławieństwa oraz wytrwałości w nauce i nauczaniu.
 - W minionym tygodniu odszła do wieczności nasza parafianka śp. Anna Makutynowicz, lat 90. Pogrzeb jutro o godzinie <u>11:00</u>. Nie będzie Mszy Świętej o godzinie 17:00. Wieczny odpoczynek racz zmarłej dać, Panie.
+
+
