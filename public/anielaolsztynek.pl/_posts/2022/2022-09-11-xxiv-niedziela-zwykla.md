@@ -1,6 +1,6 @@
 ---
 title: XXIV Niedziela zwykła
-date: 2022-09-04
+date: 2022-09-11
 ---
 
 > **Łk 15, 1-32**
@@ -15,7 +15,7 @@ date: 2022-09-04
 - Dziś odbywają się uroczystości odpustowe w **145 rocznicę Objawień Najświętszej Marii Panny w Gietrzwałdzie** oraz **56 Dożynki Archidiecezjalne**.
 - Dziś po Mszy Świętej o godzinie <u>11:00</u> spotkanie z rodzicami dzieci, które w tym roku szkolnym **przygotowują się do I Komunii Świętej**.
 - Przypominam, że w niedziele po Mszach Świętych **są rozdawane dzieciom obrazki nawiązujące do Ewangelii**. Obrazki z pieczątką na odwrocie to niespodzianka. Dzieci przygotowujące się w tym roku szkolnym do I Komunii Świętej, jak również dzieci z klas drugich, zbierają obrazki obowiązkowo.
-- W najbliższą środę - 14 września - wypada liturgiczne **Święto Podwyższenia Krzyża Świętego**. To dzień pamięci i wsparcia dla Ukrainy, by okazać solidarność z cierpiącymi ofiarami rosyjskiej agresji, by wołać o sprawiedliwy pokój oraz uwrażliwić wspólnoty międzynarodowe na kwestie pomocy uchodźcom wojennym. W modlitwie chcemy pamiętać również o sprawcach tej napaści, prosząc o ich nawrócenie i opamiętanie. Tę modlitwę połączymy z **Nowenną do Matki Bożej Nieustającej Pomocy**.
+- W najbliższą środę - 14 września - wypada liturgiczne **Święto Podwyższenia Krzyża Świętego**. To dzień pamięci i wsparcia dla Ukrainy, by okazać solidarność z cierpiącymi ofiarami rosyjskiej agresji, by wołać o sprawiedliwy pokój oraz uwrażliwić wspólnoty międzynarodowe na kwestie pomocy uchodźcom wojennym. W modlitwie chcemy pamiętać również o sprawcach tej napaści, prosząc o ich nawrócenie i opamiętanie. Tę modlitwę połączymy z **nowenną do Matki Bożej Nieustającej Pomocy**.
 - Młodzież z klas VIII przygotowującą się w tym roku szkolnym do **bierzmowania** zapraszam w piątek na godzinę <u>17:00</u>. Po Mszy Świętej spotkanie. Proszę zabrać ze sobą indeksy.
 - Jutro Msza Święta o godzinie <u>8:00</u>.
 - W następną niedzielę - 18 września - na terenie naszej parafii, w Skansenie, odbędą się po raz jedenasty **Dożynki Wojewódzkie**, które rozpoczną się Mszą Świętą pod przewodnictwem Księdza Arcybiskupa Józefa Górzyńskiego Metropolity Warmińskiego o godzinie <u>12:00</u>. W związku z powyższym, w tym dniu nie będzie Mszy Świętej o godzinie 11:00 w naszym kościele.
