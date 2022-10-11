@@ -1,6 +1,6 @@
 ---
 id: 139
-title: "Caritas 1%"
+title: "Caritas"
 date: 2011-03-01T20:02:09+00:00
 author: admin
 layout: page
@@ -9,7 +9,7 @@ permalink: /caritas-1/
 
 W naszej parafii funkcjonuje parafialny Caritas. Zachęcamy do wspierania.
 
-## Wesprzyj parafialny Caritas
+## Wesprzyj parafialny Caritas 1% podatku
 
 **Dane potrzebne do dokonania odpisu w zeznaniu podatkowym na parafialne Caritas:**
 
