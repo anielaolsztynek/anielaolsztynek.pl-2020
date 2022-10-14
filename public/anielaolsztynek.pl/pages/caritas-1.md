@@ -33,6 +33,10 @@ W naszej parafii funkcjonuje parafialny Caritas. Zachęcamy do wspierania.
 
 ![Caritas pomoc żywnościowa 2014-2020](/assets/caritas-pomoc-zywnosciowa.jpg)
 
+### Podsumowanie realizacji programu 2020
+
+![Podsumowanie realizacji podprogramu Caritas w naszej parafii](/assets/caritas-podsumowanie-podprogramu-2020.jpg)
+
 
 ### Podsumowanie realizacji programu 2019
 
