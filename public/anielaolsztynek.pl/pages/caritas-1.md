@@ -1,6 +1,6 @@
 ---
 id: 139
-title: "Caritas 1%"
+title: "Caritas"
 date: 2011-03-01T20:02:09+00:00
 author: admin
 layout: page
@@ -9,9 +9,7 @@ permalink: /caritas-1/
 
 W naszej parafii funkcjonuje parafialny Caritas. Zachęcamy do wspierania.
 
-![Caritas pomoc żywnościowa 2014-2020](/assets/caritas-pomoc-zywnosciowa.jpg)
-
-## Wesprzyj parafialny Caritas
+## Wesprzyj parafialny Caritas 1% podatku
 
 **Dane potrzebne do dokonania odpisu w zeznaniu podatkowym na parafialne Caritas:**
 
@@ -21,8 +19,25 @@ W naszej parafii funkcjonuje parafialny Caritas. Zachęcamy do wspierania.
 
 **UWAGA!** Proszę o dostarczenie do parafii ksero PITu ze stroną, na której jest odpis na Caritas w celu orientacji wysokości pozyskanych środków z parafii
 
+
+## Pomoc żywnościowa
+
+### Podprogram 2021
+
+![Caritas pomoc żywnościowa podprogram 2021](/assets/caritas-podprogram-2021.jpg)
+
+
+### Program 2014-2020
+
 - **Program Operacyjny Pomoc Żywnościowa 2014-2020:** <https://caritas.pl/projekty/program-operacyjny-pomoc-zywnosciowa/>
 
-## Podsumowanie realizacji programu 2019
+![Caritas pomoc żywnościowa 2014-2020](/assets/caritas-pomoc-zywnosciowa.jpg)
+
+### Podsumowanie realizacji programu 2020
+
+![Podsumowanie realizacji podprogramu Caritas w naszej parafii](/assets/caritas-podsumowanie-podprogramu-2020.jpg)
+
+
+### Podsumowanie realizacji programu 2019
 
 ![Podsumowanie realizacji programu Caritas w naszej parafii](/assets/2020/2020.10.18-caritas.jpg)
