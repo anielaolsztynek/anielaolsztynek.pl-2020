@@ -16,7 +16,7 @@ date: 2022-10-16
 - Z okazji obchodzonego **Dnia Papieskiego** dziś o godzinie <u>17:00</u> w kościele Chrystusa Odkupiciela Człowieka przy ulicy Wyszyńskiego w Olsztynie, odbędzie się koncert papieski w wykonaniu chóru dziecięco-młodzieżowego "Our music" z parafii Matki Bożej Fatimskiej w Olsztynie.
 - We wtorek - 18 października - wypada liturgiczne święto **Świętego Łukasza** – apostoła, patrona służby zdrowia. Wszystkim pracownikom tej branży życzę Bożego błogosławieństwa i Bożego ducha w posługiwaniu ludziom chorym.
 - W sobotę - 22 października - wypada liturgiczne wspomnienie **Świętego Jana Pawła II, papieża**.
-- **Tydzień Misyjny** rozpoczyna się w następną niedzielę. Ofiary składane na tacę w następną niedzielę będą przeznaczone na misje.
+- **Tydzień Misyjny** rozpoczyna się w następną niedzielę. Ofiary składane na tacę w tę niedzielę będą przeznaczone na misje.
 - Zapraszam do **wspólnej modlitwy różańcowej** codziennie o godzinie <u>16:30</u>. Młodzież zapraszam w czwartek, dzieci zapraszam w piątek.
 - Kartki na wypominki i na Mszę Świętą zbiorową za zmarłych są wyłożone na półce z prasą.
 - W dniach 21-23 października 2022 roku w Sanktuarium Matki Bożej w Gietrzwałdzie jest organizowanne już **XXIII Triduum Różańcowe**, w intencji o rozwój modlitwy różańcowej, o rozwój Wspólnot Nieustającego Różańca Świętego, Kół Żywego Różańca, Męskich Wspólnot Różańcowych - aby Polska była otoczona różańcem. Plakat na ten temat w gablocie.
