@@ -19,6 +19,6 @@ date: 2022-10-16
 - **Tydzień Misyjny** rozpoczyna się w następną niedzielę. Ofiary składane na tacę w następną niedzielę będą przeznaczone na misje.
 - Zapraszam do **wspólnej modlitwy różańcowej** codziennie o godzinie <u>16:30</u>. Młodzież zapraszam w czwartek, dzieci zapraszam w piątek.
 - Kartki na wypominki i na Mszę Świętą zbiorową za zmarłych są wyłożone na półce z prasą.
-- W dniach 21-23 października 2022 roku w Sanktuarium Matki Bożej w Gietrzwałdzie jest organizowanne już **XXIII Triduum Różańcowe**, w intencji o rozwój modlitwy różańcowej, o rozwój Wspólnot Nieustającego Różańca Świętego, Kół Żywego Różańca, Męskich Wspólnot Różańcowych - aby Polska była otoczona różańcem. Plakat na ten temat w gablocie.
+- W dniach 21-23 października 2022 roku w Sanktuarium Matki Bożej w Gietrzwałdzie będzie organizowanne już **XXIII Triduum Różańcowe**, w intencji o rozwój modlitwy różańcowej, o rozwój Wspólnot Nieustającego Różańca Świętego, Kół Żywego Różańca, Męskich Wspólnot Różańcowych - aby Polska była otoczona różańcem. Plakat na ten temat w gablocie.
 - Od 14 października w polskich kinach można obejrzeć film **Medjugorie**. To pierwszy kinowy film o fenomenie Mejugorie. Twórcy filmu w barwny sposób opisują historię wydarzeń, skrupulatnie analizują ewolucyjny stosunek Kościoła do nich, a także ukazują wzruszające świadectwa ludzi, dla których podróż do Medjugorie stała się punktem zwrotnym w życiu. Plakat w gablocie.
-- Wydawanie żywności rodzinom objętym pomocą w piątek w godzinach <u>18:00-19:00</u>.
+- Wydawanie żywności rodzinom objętym pomocą - w piątek w godzinach <u>18:00-19:00</u>.
