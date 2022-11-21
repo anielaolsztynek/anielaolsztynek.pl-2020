@@ -19,6 +19,7 @@ date: 2022-11-20
 - **Opłatki na stół wigilijny** będą roznoszone tradycyjnie do wszystkich mieszkań w parafii. Można nabyć je też osobiście w kancelarii. Ofiary składane przy tej okazji będą przeznaczone na ogrzewanie kościoła.
 - Jutro Msza Święta o godzinie <u>8:00</u>.
 - Zapraszamy całą wspólnotę parafialną do udziału w zbiórce zużytego sprzętu elektrycznego i elektronicznego (sprzęt rtv i agd, np. pralki, telewizory, komputery). Zużyty sprzęt można przynosić od 21.11 do 25.11 i składować wzdłuż kaplicy przy bocznych drzwiach. Przychody z akcji pozwolą na wsparcie polskich misjonarzy, którzy prowadzą swoje misje w najbiedniejszych krajach świata (Zambii, Kamerunie, Kenii) oraz na wsparcie naszych rodaków, którzy pozostali na wschodzie (Ukraina, Białoruś, Kazachstan).
-- W miniony piątek w nocy, na skutek pożaru, zginęła jedna osoba i uległ znacznemu zniszczeniu budynek (2 mieszkania) w Wilkowie (dawna ulica Leśna). Jako wspólnota parafialna pragniemy okazać solidarność i wsparcie wobec osób, które ucierpiały wskutek pożaru, stąd dziś po Mszy Świętej przy wyjściu z kościoła będą zbierane ofiary na pomoc dla poszkodowanych osób.
+- W miniony piątek w nocy, na skutek pożaru, zginęła jedna osoba i uległ znacznemu zniszczeniu budynek (2 mieszkania) w Wilkowie (dawna ulica Leśna). Jako wspólnota parafialna pragniemy okazać solidarność i wsparcie wobec osób, które ucierpiały wskutek pożaru, stąd dziś po Mszy Świętej przy wyjściu z kościoła będą zbierane ofiary jako pomoc dla poszkodowanych osób.
 - Pomódlmy się za śp. Piotra Niedźwieckiego, lat 43, który zginął w pożarze. Wieczny odpoczynek racz zmarłemu dać, Panie.
+
 
