@@ -9,7 +9,7 @@ date: 2022-11-20
 >
 > Bardzo często ci, którzy naparawdę głęboko cierpią, ci, którzy przeżywają najstraszniejsze chwile swojego życia, w rozpaczy i w lęku, gotowi są wobec Boga wykrzyczeć największe przekleństwa i nawet Mu urągać. I można być pewnym, że Bóg - widząc ten ból, widząc gorycz człowieka cierpiącego - rozumie, że w jego wnętrzu, pod jego powierzchnią kryje się prawdziwa rozpacz i szalona potrzeba, by się objawił i uratował. Jeśli komukolwiek z nas zdarzyło się tak krzyczeć do Boga, czy w rozpaczy nawet Mu urągać, wygrażać Mu pięścią, powinien powiedzieć Mu teraz, że - tak naprawdę - szalenie pragnął, by On przyszedł. I uratował z tego krzyża, który okazał się być ponad siły.
 >
-> <span style="color: #666699;"> Panie Jezu Chryste, Ty znasz krzyk ludzkiej rozpaczy. Pozwól mi usłyszeć krzyk Twojej miłości.Ty żyjesz i królujesz na wieki wieków. Amen.
+> <span style="color: #666699;"> Panie Jezu Chryste, Ty znasz krzyk ludzkiej rozpaczy. Pozwól mi usłyszeć krzyk Twojej miłości. Ty żyjesz i królujesz na wieki wieków. Amen.
 > &nbsp;
 
 - Bóg zapłać za ofiary składane dziś na tacę na potrzeby **Wyższego Seminarium Duchownego "Hosianum" w Olsztynie**.
