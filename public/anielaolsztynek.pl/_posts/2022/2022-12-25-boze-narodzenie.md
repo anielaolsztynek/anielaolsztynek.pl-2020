@@ -12,7 +12,7 @@ date: 2022-12-25
 > <span style="color: #666699;"> Panie Jezu, dziękuję Ci, że tak dobrze mnie znasz i przychodzisz do mnie w tę noc. Proszę, abym w Tobie odnalazł prawdziwe życie. Ty żyjesz i królujesz na wieki wieków. Amen.
 > &nbsp;
 
-- Jutro - w drugim dniu Świąt Bożego Narodzenia - Msze Świete o godzinie <u>9:00</u> i <u>11:00</u>.
+- Jutro, czyli w drugim dniu Świąt Bożego Narodzenia, Msze Świete o godzinie <u>9:00</u> i <u>11:00</u>.
 - W sobotę **ostatni dzień starego roku**. Po Mszy Świętej o godzinie <u>17:00</u> będzie wystawienie Najświętszego Sakramentu połączone z nabożeństwem dziękczynno-przebłagalnym i Te Deum.
 - W następną niedzielę **Nowy Rok**. Msze Święte w tym dniu o godzinie <u>11:00</u> i <u>17:00</u>.To jedncześnie **I niedziela miesiąca**. O godzinie <u>11:00</u> i <u>17:00</u> wystawienie i adoracja Najświętszego Sakramentu. Zawierzymy Bogu nas i Nowy Rok. Zmiana tajemnic różańcowych o godzinie <u>10:30</u>.
 - Już w tym tygodniu rozpocznę kolędę, która będzie odbywać się w sposób tradycyjny, będę szedł od domu do domu (oczywiście tam, gdzie mnie przyjmą).
@@ -22,3 +22,4 @@ date: 2022-12-25
   - Sudwa cd. – czwartek, od godziny <u>10:00</u>.
   - Karczma Świętojańska, Świętajny, Sudwa Kol. – piątek, od godziny <u>10:00</u>.
   - Wilkowo 8-13 – sobota, od godziny <u>9:00</u>.
+
