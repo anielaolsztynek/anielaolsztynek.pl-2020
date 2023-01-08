@@ -16,8 +16,8 @@ date: 2023-01-08
 - **Msze Święte w tym tygodniu:** poniedziałek i sobota o godzinie <u>17:00</u>, w pozostałe dni o godzinie <u>8:00</u>.
 - **Porządek kolędy w tym tygodniu**:
   - Ul. Lipowa 26, 28, 30 i Wilcza 10, 10A – poniedziałek, od godz. <u>14:45</u>.
-  - Ul. Świerkowa 1-21 (nieparzyste), u tych, którzy nie pracują – wtorek, od godz.<u>10:0</u>, ciąg dalszy od godz. <u>14:30</u>.
-  - Ul. Akacjowa 1-19 (numery nieparzyste), poczynając od numeru 19 oraz 4 i 4A środa, od godz. <u>14:30</u>.
-  - Ul. Akacjowa 10-26 (numery parzyste), 23 oraz 6A, 6 i 4B – czwartek, od godz. <u>14:00</u>.
+  - Ul. Świerkowa 1-21 (nieparzyste), u tych, którzy nie pracują – wtorek, od godz.<u>10:0</u>, c.d. od godz. <u>14:30</u>.
+  - Ul. Akacjowa 1-19 (nieparzyste), poczynając od numeru 19 oraz 4 i 4A - środa, od godz. <u>14:30</u>.
+  - Ul. Akacjowa 10-26 (parzyste), 23 oraz 6A, 6 i 4B – czwartek, od godz. <u>14:00</u>.
   - Ul. Lipowa (domy jednorodzinne) i Akacjowa 4B – piątek, od godz. <u>14:30</u>.
   - Ul. Sportowa 19-39  – sobota, od godz. <u>09:30</u>.
