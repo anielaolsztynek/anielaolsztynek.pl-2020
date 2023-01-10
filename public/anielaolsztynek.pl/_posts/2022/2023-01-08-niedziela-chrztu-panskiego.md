@@ -19,5 +19,5 @@ date: 2023-01-08
   - Ul. Świerkowa 1-21 (nieparzyste), u tych, którzy nie pracują – wtorek, od godz.<u>10:00</u>, c.d. od godz. <u>14:30</u>.
   - Ul. Akacjowa 1-19 (nieparzyste), poczynając od numeru 19 oraz 4 i 4A - środa, od godz. <u>14:30</u>.
   - Ul. Akacjowa 10-26 (parzyste), 23 oraz 6A, 6 i 4B – czwartek, od godz. <u>14:00</u>.
-  - Ul. Lipowa (domy jednorodzinne) i Akacjowa 4B – piątek, od godz. <u>14:30</u>.
+  - Ul. Lipowa (domy jednorodzinne) i Akacjowa 6B – piątek, od godz. <u>14:30</u>.
   - Ul. Sportowa 19-39  – sobota, od godz. <u>09:30</u>.
