@@ -12,7 +12,7 @@ date: 2023-01-29
 > <span style="color: #666699;"> Panie Jezu, Ty wiesz, jak bywam pyszny, nawet w swej pobożności i religijności na pokaz. Dlatego, najpokorniej, jak potrafię, wołam: Jezu cichy i pokornego serca, uczyń serce moje według Serca Twego. Amen.
 > &nbsp;
 
-- W czwartek - 2 lutego - obchodzimy **Święto Ofiarowania Pańskiego**. W tym dniu czcimy Chrystusa Pana - Światłość Świata (symbolizują to świece) i Jego Matkę jako Matkę Bożą Gromniczną. Tradycyjnie w czasie Mszy Świętej będzie błogosławieństwo świec zwanych gromnicami, które przynosimy ze sobą. Można będzie też nabyć je w zakrystii przed Mszą Świętą. Msze Święte w tym dniu o godzinie <u>10:00</u> i <u>17:00</u>.
+- W czwartek - 2 lutego - obchodzimy **Święto Ofiarowania Pańskiego**. W tym dniu czcimy Chrystusa Pana - Światłość Świata (symbolizują to świece) i Jego Matkę pod nazwą Matki Bożej Gromnicznej. Tradycyjnie w czasie Mszy Świętej będzie błogosławieństwo świec zwanych gromnicami, które przynosimy ze sobą. Można będzie też nabyć je w zakrystii przed Mszą Świętą. Msze Święte w tym dniu o godzinie <u>10:00</u> i <u>17:00</u>.
 - W tym tygodniu wypada **I czwartek, I piątek i I sobota lutego**. W piątek przed południem odwiedziny chorych.
 - Następna, I Niedziela miesiąca to **Niedziela Adoracji Najświętszego Sakramentu**. O godzinie <u>8:30</u> wspólny różaniec i zmiana tajemnic różańcowych.
 - **Msze Święte w tym tygodniu:** w poniedziałek i środę o godzinie <u>8:00</u>, w pozostałe dni o godzinie <u>17:00</u>, w czwartek o godzinie <u>10:00</u> i <u>17:00</u>.
