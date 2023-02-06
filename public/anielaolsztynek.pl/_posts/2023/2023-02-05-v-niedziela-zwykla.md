@@ -15,7 +15,7 @@ date: 2023-02-05
 - Dziś I Niedziela miesiąca - **Niedziela Adoracji Najświętszego Sakramentu**.
 - W sobotę – 11 lutego, w liturgiczne wspomnienie Najświętszej Marii Panny z Lourdes, wypada **Światowy Dzień Chorego**, ustanowiony przez Świętego Jana Pawła II. W tym dniu będzie udzielony Sakrament Chorych w czasie Mszy Świętej o godzinie <u>10:00</u>. Do Sakramentu tego mogą przystąpić wszystkie osoby starsze i te, które noszą znamię poważnej i trwałej choroby oraz są w stanie łaski uświęcającej.
 - Wszystkim dzieciom, młodzieży i nauczycielom rozpoczynającym II semestr nauki życzę Bożego błogosławieństwa i wytrwałości w nauce oraz nauczaniu.
-- W związku z zakończeniem kolędy, która była czasem bardzo miłych i serdecznych spotkań w Waszych domach rodzinnych, pragnę wyrazić szczerą i głęboką wdzięczność wobec wszystkich parafian, których odwiedziłem. Tym większa moja radość i wdzięczność, że w większości mieszkań kolęda była trzy lata temu i spotkałem się z wieloma nowymi sytuacjami rodzinnymi czy zdrowotnymi, wielu też odeszło do wieczności. Wielkie dzięki i Bóg zapłać za każdy gest życzliwości, gościnności i otwartości. Bóg zapłać za szczodre ofiary. A ciepło w kościele, jakie aktualnie odczuwamy i jakie mieliśmy w minionych latach przed kryzysem (+11 stopni), to skromny wyraz wdzięczności za ciepło, jakie okazaliście w czasie kolędy. Chciałbym, aby pozostało to na stałe, ale rzeczywistość bywa brutalna.
+- W związku z zakończeniem kolędy, która była czasem bardzo miłych i serdecznych spotkań w Waszych domach rodzinnych, pragnę wyrazić szczerą i głęboką wdzięczność wobec wszystkich parafian, których odwiedziłem. Tym większa moja radość i wdzięczność, że w większości mieszkań kolęda była trzy lata temu. Teraz, po tym czasie, spotkałem się z wieloma nowymi sytuacjami rodzinnymi czy zdrowotnymi, wielu też odeszło do wieczności. Wielkie dzięki i Bóg zapłać za każdy gest życzliwości, gościnności i otwartości. Bóg zapłać za szczodre ofiary. A ciepło w kościele, jakie aktualnie odczuwamy i jakie mieliśmy w minionych latach przed kryzysem (+11 stopni), to skromny wyraz wdzięczności za ciepło, jakie okazaliście w czasie kolędy. Chciałbym, aby pozostało to na stałe, ale rzeczywistość bywa brutalna.
 - Można jeszcze zgłaszać chęć spotkania kolędowego.
 - **Msze Święte w tym tygodniu:** we wtorek Msza Święta będzie o godzinie <u>8:00</u>, w sobotę o godzinie <u>10:00</u>, w pozostałe dni o godzinie <u>17:00</u>.
 - W minionym tygodniu odeszło do wieczności dwoje naszych parafian: śp. Stanisław Kowalski, lat 85 i śp. Helena Andziak, lat 69. Wieczny odpoczynek racz zmarłym dać, Panie.
@@ -23,9 +23,8 @@ date: 2023-02-05
 - **Intencje mszalne na dni najbliższego tygodnia:**
   - poniedziałek: o zdrowie i błogosławieństwo Boże dla Wiolety,
   - wtorek:
-  - środa: +Agata Gorczyca,
-  - czwartek: +Kazimierz Ogonowski,
-  - piątek: +Helena Cichowska (1 rocznica śmierci), Stanisław Cichowski, Antonina Śniadała,
+  - środa: + Agata Gorczyca,
+  - czwartek: + Kazimierz Ogonowski,
+  - piątek: + Helena Cichowska (1 rocznica śmierci), + Stanisław Cichowski, + Antonina Śniadała,
   - sobota: w intencji chorych,
-  - niedziela: <u>9:00</u> +Alina Mrozowska, <u>11:00</u>
-  +Aleksandra, <u>17:00</u> +Jadwiga i Zygmunt Jadczak.
+  - niedziela: <u>9:00</u> + Alina Mrozowska, <u>11:00</u> + Aleksandra, <u>17:00</u> + Jadwiga i Zygmunt Jadczak.
