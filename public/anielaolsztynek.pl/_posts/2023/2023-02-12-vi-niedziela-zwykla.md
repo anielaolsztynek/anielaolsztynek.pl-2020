@@ -20,4 +20,4 @@ date: 2023-02-12
   - czwartek: + Maria,
   - piątek: + Maria,
   - sobota: + Helena Andziak (od uczniów klasy VIII A),
-  - niedziela (19.01): <u>9:00</u> + Alina Mrozowska, <u>11:00</u> + Robert Dumka, <u>17:00</u> + Henryk Kapusta.
+  - niedziela (19.02): <u>9:00</u> + Alina Mrozowska, <u>11:00</u> + Robert Dumka, <u>17:00</u> + Henryk Kapusta.
