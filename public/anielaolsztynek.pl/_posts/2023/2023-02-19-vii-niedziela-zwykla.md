@@ -13,7 +13,7 @@ date: 2023-02-19
 > &nbsp;
 
 - W tym tygodniu **Środą Popielcową** rozpocznie się **Wielki Post** – okres 40 dni przygotowania do największych świąt chrześcijańskich – Świąt Paschalnych. W tym dniu tradycyjnie nastąpi posypanie głów popiołem na znak pokuty. Msze Święte tego dnia o godzinie <u>10:00</u> i <u>17:00</u>. Przypominam, że w Środę Popielcową obowiązuje post ścisły.
-- Zachęcam do udziału w nabożeństwach wielkopostnych. **Droga Krzyżowa** będzie odprawiana w naszym kościele w każdy piątek Wielkiego Postu o godzinie <u>16:30</u>, wspólna dla wszystkich. Serdecznie zachęcam i zapraszam wszystkich, w tym dzieci pierwszokomunijne i młodzież przed bierzmowaniem obowiązkowo. Po Mszy Świętej spotkanie z kandydatami do bierzmowania.
+- Zachęcam do udziału w nabożeństwach wielkopostnych. **Droga Krzyżowa** będzie odprawiana w naszym kościele w każdy piątek Wielkiego Postu o godzinie <u>16:30</u>, wspólna dla wszystkich. Serdecznie zachęcam i zapraszam wszystkich, w tym dzieci przystępujące w tym roku do I Komunii Świętej i młodzież przed bierzmowaniem obowiązkowo. Po Mszy Świętej spotkanie z kandydatami do bierzmowania.
 - **Gorzkie Żale** w niedziele Wielkiego Postu o godzinie <u>8:45</u>.
 - Proszę, aby w następną niedzielę na godzinę <u>11:00</u> dzieci pierwszokomunijne przyniosły do poświęcenia krzyżyki. Takie krzyżyki można nabyć w kancelarii.
 - W następną niedzielę przeczytam sprawozdanie za miniony rok.
