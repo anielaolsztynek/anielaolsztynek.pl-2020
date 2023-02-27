@@ -22,11 +22,11 @@ date: 2023-02-26
 - W tym tygodniu wypada **I czwartek, I piątek i I sobota** marca. Odwiedziny chorych wyjatkowo w czwartek przed południem. Zmiana tajemnic różańcowych w następną niedzielę o godzinie <u>8:30</u>.
 - Jeśli chodzi o wolne intencje w niedziele, to jest kilka w lipcu i w sierpniu oraz w drugiej połowie grudnia.
 - **Intencje mszalne na najbliższy tydzień i następną niedzielę:**
-  - poniedziałek:
-  - wtorek:
-  - środa:
-  - czwartek:
-  - piątek:
-  - sobota:
-  - niedziela (26.02): <u>9:00</u> , <u>11:00</u> , <u>17:00</u> .
+  - poniedziałek: + Mariusz,
+  - wtorek: + Bożena Ogonowska (42 rocznica śmierci),
+  - środa: za parafian,
+  - czwartek: + Kazimierz Przestrzelski,
+  - piątek: + Helena Andziak (30 dzień po pogrzebie),
+  - sobota: + Janina, Stanisław, Jan, Jerzy Dzianachowscy,
+  - niedziela (26.02): <u>9:00</u> + Janina Topczyńska, <u>11:00</u> o zdrowie i błogosławieństwo Boże dla Kazimiery w 90 rocznicę urodzin, <u>17:00</u> o Bożą opiekę oraz zdrowie duszy i ciała dla Julity, Zachariasza i Rafała.
 
