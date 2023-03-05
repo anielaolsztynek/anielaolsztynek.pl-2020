@@ -1,6 +1,6 @@
 ---
 title: Sprawozdanie za rok 2022
-date: 2023-03-05
+date: 2023-03-04
 ---
 
 1. Po czasie pandemii wszystko - jak gdyby - wraca do normy, a z drugiej strony wydaje się, że już nie będzie tak, jak było. Widać to na wielu płaszczyznach. Widać to także na płaszczyźnie życia religijnego i parafialnego. W wielu przypadkach widać też, że ten nieszczęsny czas miał wpływ na mentalność i izolację ludzi. Potrzeba nam otwarcia na drugiego człowieka, ale przede wszystkim otwarcia na Pana Boga i Jego łaskę. Wykorzystajmy i dobrze przeżyjmy czas Wielkiego Postu. Cieszę się bardzo, że tegoroczna kolęda odbyła się w sposób tradycyjny, gdy odwiedzałem rodziny idąc od domu do domu, tym bardziej, że w wielu domach ostatnio byłem w roku 2020. Odwiedziłem wszystkie rodziny, które przyjmują kolędę. Część mieszkań była zamknięta (to ma miejsce każdego roku z różnych powodów). Pragnę raz jeszcze bardzo serdecznie podziękować za wszelkie dobro i życzliwość, które są owocem spotkań w naszych domach. Dziękuję za bardzo miłą, gościnną i rodzinną atmosferę, którą tworzymy od 27 lat. Dziękuję za wszystko, co zbliża i buduje dobre relacje. Bóg zapłać za wszystkie ofiary. Niestety średnia wieku w parafii podnosi się i myślę, że wynosi około 55-60 lat. Jest coraz więcej emerytów (stąd często kolęda o wczesnej godzinie). Na szczęście w sąsiedztwie kościoła przybywa młodych rodzin.
