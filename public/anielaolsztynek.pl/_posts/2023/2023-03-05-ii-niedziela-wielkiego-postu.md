@@ -23,6 +23,6 @@ date: 2023-03-05
   - środa: za parafian,
   - czwartek: + Czesław,
   - piątek: + Józef Karpiński (3 rocznica śmierci),
-  - sobota: + o zdrowie i błogosławieństwo Boże dla Agaty w 18 rocznicę urodzin i o pomyślne zdanie maatury,
+  - sobota: o zdrowie i błogosławieństwo Boże dla Agaty w 18 rocznicę urodzin i o pomyślne zdanie matury,
   - niedziela (26.02): <u>9:00</u> + Anna Magierska (6 rocznica śmierci), <u>11:00</u> + Andrzej Sobczyński, Józef Socha, Jan i Stanisław Stokowscy, <u>17:00</u> + Eugeniusz Lentacz (1 rocznica śmierci).
 
