@@ -13,11 +13,17 @@ date: 2023-03-12
 > &nbsp;
 
 - **Oświadczenie Przewodniczącego Konferencji Episkopatu Polski w związku z publikacjami dotyczącymi Metropolity Krakowskiego Kardynała Karola Wojtyły**:
+
 Święty Jan Paweł II to jeden z najwybitniejszych papieży i największych Polaków. Jego papieskie przepowiadanie, apostolskie wizyty, a także wysiłki dyplomatyczne przyczyniły się do wzrostu duchowego milionów ludzi na całym świecie. Dla nich Papież Polak był i pozostaje moralnym punktem odniesienia, nauczycielem wiary, a także orędownikiem w niebie.
+
 W tym świetle szokujące są próby zdyskredytowania jego osoby i dzieła, podejmowane pod pozorem troski o prawdę i dobro. Autorzy tych dyskredytujących głosów podjęli się oceny Karola Wojtyły w sposób stronniczy, często ahistoryczny, bez znajomości kontekstu, bezkrytycznie uznając tworzone przez Służby Bezpieczeństwa dokumenty za wiarygodne źródła. Nie wzięli przy tym pod uwagę istniejących raportów i opracowań, które rzetelnie ukazują jego słowa i czyny. Członkowie Rady Stałej Konferencji Episkopatu Polski już raz podkreślili (18 listopada 2022 roku), że medialny atak na kard. Karola Wojtyłę, a następnie Papieża Polaka i jego pontyfikat ma swoje głębsze przyczyny.
+
 Chciałbym w tym miejscu wyrazić moje serdeczne podziękowanie tym wszystkim, którzy w ostatnim czasie bronią dziedzictwa i osoby św. Jana Pawła II, który m.in. przyczynił się do wyzwolenia Polski i innych państw spod sowieckiego komunizmu.
+
 To właśnie poczynając od decyzji Jana Pawła II, Kościół podjął zdecydowany wysiłek powołania struktur i opracowania jednoznacznych procedur, by zapewnić bezpieczeństwo dzieciom i młodzieży, należycie ukarać winnych przestępstw seksualnych, a przede wszystkim wspomóc osoby skrzywdzone. Wydając dokument Sacramentorum sanctitatis tutela dla całego Kościoła, który uznaje krzywdę wyrządzoną dziecku w sferze seksualnej za jedno z najcięższych przestępstw, Jan Paweł II zobowiązał wszystkie episkopaty świata do wprowadzenia szczegółowych norm postępowania w takich przypadkach. Była to decyzja ze wszech miar bezprecedensowa i przełomowa.
+
 Obrona świętości i wielkości Jana Pawła II nie oznacza, oczywiście, twierdzenia, że nie mógł on popełniać błędów. Bycie pasterzem Kościoła w czasach podziału Europy na Zachód i blok sowiecki oznaczało konieczność mierzenia się z niełatwymi wyzwaniami. Trzeba też być świadomym tego, że w tamtym okresie obowiązywały, nie tylko w Polsce, inne niż dzisiaj prawa, inna była świadomość społeczna i zwyczajowe sposoby rozwiązywania problemów.
+
 Wzywam zatem wszystkich ludzi dobrej woli, by nie niszczyć wspólnego dobra, a do takiego należy niewątpliwie dziedzictwo Jana Pawła II. Polacy winni pamiętać o błogosławieństwie, jakie Opatrzność dała nam za sprawą tego Papieża.
 
 Warszawa, 9 marca 2023 roku
