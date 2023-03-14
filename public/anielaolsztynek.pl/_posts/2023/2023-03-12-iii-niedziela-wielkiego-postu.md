@@ -7,7 +7,7 @@ date: 2023-03-12
 >
 > **Ugasić pragnienie**
 >
-> Kim była kobieta z dzisiejszej Ewangelii? Nie wiemy o niej zbyt wiele, ale fakt, że miała wielu mężów, może świadczyć o tym, że albo prowadziła życie bardzo rozwiązłe, albo po prostu szukała szczęścia i nie mogła go znaleźć. Była osoba zagubioną, samotną, której życie było poplątane. Czy dostrzegamy w niej podobieństwo do siebie? Wszyscy pragniemy miłości drugiej osoby, a często znajdujemy rozczarowanie i samotność. Pragniemy dobra i szczęścia, a czynimy zło, które przynosi chaos i cierpienie. Pragniemy zaspokoić nasze pragnienie wodą tego świata, kuszą nas przelotne romanse, pornografia, ciągłe imprezowanie, topienie problemów w alkoholu i narkotykach, błyszczenie wyglądem, sukcesem i stylem życia. Ta woda jednak nie gasi pragnienia serca. Czy czujemy to? Czy wierzymy Jezusowi? On daje konkretne wskazówki, jak dojść do źródła wody żywej. Mamy sakramenty, zwłaszcza sakrament pojednania, który otwiera serca na nasze pragnienia. Jest Jezus Chrystus, który oddał swoje życie, abyśmy nie umarli z pragnienia.
+> Kim była kobieta z dzisiejszej Ewangelii? Nie wiemy o niej zbyt wiele, ale fakt, że miała wielu mężów, może świadczyć o tym, że albo prowadziła życie bardzo rozwiązłe, albo po prostu szukała szczęścia i nie mogła go znaleźć. Była osobą zagubioną, samotną, której życie było poplątane. Czy dostrzegamy w niej podobieństwo do siebie? Wszyscy pragniemy miłości drugiej osoby, a często znajdujemy rozczarowanie i samotność. Pragniemy dobra i szczęścia, a czynimy zło, które przynosi chaos i cierpienie. Pragniemy zaspokoić nasze pragnienie wodą tego świata, kuszą nas przelotne romanse, pornografia, ciągłe imprezowanie, topienie problemów w alkoholu i narkotykach, błyszczenie wyglądem, sukcesem i stylem życia. Ta woda jednak nie gasi pragnienia serca. Czy czujemy to? Czy wierzymy Jezusowi? On daje konkretne wskazówki, jak dojść do źródła wody żywej. Mamy sakramenty, zwłaszcza sakrament pojednania, który otwiera serca na nasze pragnienia. Jest Jezus Chrystus, który oddał swoje życie, abyśmy nie umarli z pragnienia.
 >
 > <span style="color: #666699;">Boże, Ty pragniesz czcicieli, którzy będą Cię wielbili w prawdzie. Niech Duch Święty pouczy mnie, jak stanąć w prawdzie o samym sobie, bym nie udawał lepszego ani gorszego niż w rzeczywistości jestem. Amen.
 > &nbsp;
@@ -34,14 +34,14 @@ Przewodniczący Konferencji Episkopatu Polski
 
 - Zachęcam i zapraszam do udziału w nabożeństwie **Drogi Krzyżowej** w piątek o godzinie <u>16:30</u>.
 - **Rekolekcje wielkopostne** w naszej parafii rozpoczną się za tydzień, w IV niedzielę Wielkiego Postu i będą trwały do wtorku włącznie. Rekolekcje wygłosi ksiądz Dariusz Sonak (ten, który zastępował mnie przed tygodniem) - dyrektor Archidiecezjalnego Ośrodka Caritas w Rybakach, kapelan Szpitala Pulmonologicznego w Olsztynie, asystent kościelny warmińskiej edycji Gościa Niedzielnego.
-- W następną niedzielę, przed kościołem, wolontariusze będą zbierać ofiary na najdroższy lek świata dla Kingi Rydz z Olsztyna, chorej na SMA, czyli rdzeniowy zanik mięśni. Kinga nie kwalifikuje się do refundacji leku. Ma coraz mniej czasu, bo można go otrzymać tylko do wagi 13,5 kg, a obecnie waży już 11,5 kg. Do zebrania pozostało jeszcze ponad 5 mln złotych (całość kwoty to 9,5 mln złotych). Zbiórka prowadzona jest na [siepomaga.pl/kinga](https://siepomaga.pl/kinga). Można wysłać sms lub przkazać 1,5% podatku. Plakat w gablocie w przedsionku kościoła.
-- Samorządowa Szkoła Muzyczna I stopnia w Olsztynku zaprasza wszystkich na zajęcia wszystkich kandydatów chętnych do rozpoczęcia nauki w szkole muzycznej. Informacje na plakacie w gablocie.
+- W następną niedzielę, przed kościołem, wolontariusze będą zbierać ofiary na najdroższy lek świata dla Kingi Rydz z Olsztyna, chorej na SMA, czyli rdzeniowy zanik mięśni. Kinga nie kwalifikuje się do refundacji leku. Ma coraz mniej czasu, bo można go otrzymać tylko do wagi 13,5 kg, a obecnie waży już 11,5 kg. Do zebrania pozostało jeszcze ponad 5 mln złotych (całość kwoty to 9,5 mln złotych). Zbiórka prowadzona jest na [siepomaga.pl/kinga](https://siepomaga.pl/kinga). Można wysłać sms lub przkazać 1,5 % podatku. Plakat na ten temat w gablocie w przedsionku kościoła.
+- Samorządowa Szkoła Muzyczna I stopnia w Olsztynku zaprasza na zajęcia wszystkich kandydatów chętnych do rozpoczęcia w niej nauki. Informacje na plakacie w gablocie.
 - **Intencje mszalne na najbliższy tydzień i następną niedzielę:**
   - poniedziałek: + Krystyna, Kazimierz, Tomasz Wilczewscy,
   - wtorek: za parafian,
   - środa: + Eugeniusz, Alicja Klimek, Marianna i Józef Jankowscy,
   - czwartek: + Józef Mrozowski (20 rocznica śmierci),
-  - piątek: + Kzaimierz Przestrzelski (30 dzień po pogrzebie),
+  - piątek: + Kazimierz Przestrzelski (30 dzień po pogrzebie),
   - sobota: + Sławomir Caryk (1 rocznica śmierci),
-  - niedziela (19.03): <u>9:00</u> +Irena i Benedykt Flegel; + Walentyna, Małgorzata, Bohdan i Józef, <u>11:00</u> + Edmund Chodubski (2 rocznica śmierci) i Krystyna Chodubska, <u>17:00</u> + Robert Dumka.
+  - niedziela (19.03): <u>9:00</u> + Irena i Benedykt Flegel; + Walentyna, Małgorzata, Bohdan i Józef; <u>11:00</u> + Edmund Chodubski (2 rocznica śmierci) i Krystyna Chodubska; <u>17:00</u> + Robert Dumka.
 
