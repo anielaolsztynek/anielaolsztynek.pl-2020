@@ -17,7 +17,7 @@ date: 2023-03-26
 - Dziś po Mszy Świętej o godzinie <u>11:00</u> **spotkanie z rodzicami dzieci pierwszokomunijnych**.
 - Serdecznie zapraszam na ostatnią w tym roku **Drogę Krzyżową** w intencji rodzin z naszej parafii, w piątek bezpośrednio po Mszy Świętej o godzinie <u>17:00</u>.
 - Już za tydzień **Niedziela Palmowa** – Niedziela Męki Pańskiej. Podczas wszystkich Mszy Świętych będzie poświęcenie palm.
-- Wzorem lat ubiegłych zachęcam wszystkie dzieci do udziału w **konkursie na największą i najpiękniejszą palmę wykonaną własnoręcznie** (przy pomocy rodziców). Z palmami przygotowanymi na konkurs zapraszam na Mszę Świętą o godzinie <u>11:00</u>.
+- Wzorem lat ubiegłych zachęcam wszystkie dzieci do udziału w **konkursie na największą i najpiękniejszą palmę wykonaną własnoręcznie** (przy pomocy rodziców). Z palmami zapraszam na Mszę Świętą o godzinie <u>11:00</u>.
 - Kwiaty do **Grobu Pańskiego** będą zakupione, a ofiary na kwiaty można składać indywidualnie lub po Mszy Świętej przy wyjściu z kościoła w Niedzielę Palmową.
 - W poprzednią niedzielę na lek dla Kingi Rydz chorej na SMA zebrano 1883 złote. W imieniu rodziców Kingi składam serdeczne Bóg zapłać.
 - W poniedziałek Msza Święta o godzinie <u>8:00</u>.
