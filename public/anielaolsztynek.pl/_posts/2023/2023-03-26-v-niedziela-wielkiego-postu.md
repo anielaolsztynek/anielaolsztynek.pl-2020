@@ -31,3 +31,4 @@ date: 2023-03-26
   - sobota:
   - niedziela (02.04): <u>9:00</u> + Ewa Gburczyk (7 rocznica śmierci), Jan Sikora (29 rocznica śmierci); <u>11:00</u> + Anna, Tadeusz, Marianna i Bazyli; <u>17:00</u> o Bożą opiekę oraz zdrowie duszy i ciała dla Julity, Zachariasza i Rafała.
 
+
