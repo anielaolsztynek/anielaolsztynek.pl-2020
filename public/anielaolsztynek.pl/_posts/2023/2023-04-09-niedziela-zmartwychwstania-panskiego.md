@@ -14,7 +14,7 @@ date: 2023-04-09
 > &nbsp;
 
 - Jutro, w drugim dniu świąt, Msze Święte o godzinie <u>9:00</u> i <u>11:00</u>, nie będzie Mszy Świętej o godzinie 17:00.
-- Spotkanie indywidualne z kandydatami do bierzmowania w środę i czwartek o godzinie <u>17:30</u>.
+- Spotkania indywidualne z kandydatami do bierzmowania w środę i czwartek o godzinie <u>17:30</u>.
 - W piątek z uwagi na oktawę wielkanocną **nie obowiązuje wstrzemięźliwość od pokarmów mięsnych**.
 - W następną niedzielę - w **Święto Miłosierdzia Bożego** - wystąpi w naszym kościele muzyczny duet Laudans - Andrzej i Alona z Białorusi. Od półtora roku mieszkają w Polsce - w Skierniewicach.
 - **Intencje mszalne na najbliższy tydzień:**
@@ -25,3 +25,4 @@ date: 2023-04-09
   - piątek: o zdrowie i błogosławieństwo Boże dla Aleksandry w 33 rocznicę urodzin oraz o błogosławieństwo Boże i opiekę Matki Bożej dla Michała i Kingi w dniu ślubu;
   - sobota: + Eugenia, Stanisław, Anna i Jan;
   - niedziela (16.04): <u>9:00</u> + Regina Zielińska (7 rocznica śmierci), Stanisław i Jan; <u>11:00</u> dziękczynna za otrzymane łaski w rodzinie Hacia; <u>17:00</u> + Renata Ogonowska (6 rocznica śmierci).
+
