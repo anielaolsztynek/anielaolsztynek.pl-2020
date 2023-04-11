@@ -25,4 +25,3 @@ date: 2023-04-09
   - piątek: o zdrowie i błogosławieństwo Boże dla Aleksandry w 33 rocznicę urodzin oraz o błogosławieństwo Boże i opiekę Matki Bożej dla Michała i Kingi w dniu ślubu;
   - sobota: + Eugenia, Stanisław, Anna i Jan;
   - niedziela (16.04): <u>9:00</u> + Regina Zielińska (7 rocznica śmierci), Stanisław i Jan; <u>11:00</u> dziękczynna za otrzymane łaski w rodzinie Hacia; <u>17:00</u> + Renata Ogonowska (6 rocznica śmierci).
-
