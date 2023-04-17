@@ -15,11 +15,11 @@ date: 2023-04-16
 
 - Dziękuję duetowi Laudans - Andrzejowi i Alonie za występ wokalno-muzyczny.
 - Dzisiejszą **Niedzielą Miłosierdzia Bożego** rozpoczyna się **79 Tydzień Miłosierdzia**.
-- Dzisiejszy dzień to także patronalne święto Caritas. Ofiary składane dziś na tacę są przeznaczone na funkcjonowanie Caritas Archidiecezji Warmińskiej. Przy okazji dziękuję naszemu PZC za zaangażowanie i pracę na rzecz najuboższych.
+- Dzisiejszy dzień to także **patronalne święto Caritas**. Ofiary składane dziś na tacę są przeznaczone na funkcjonowanie Caritas Archidiecezji Warmińskiej. Przy okazji dziękuję naszemu PZC za zaangażowanie i pracę na rzecz najuboższych.
 - **Spotkanie indywidualne rodziców z dzieckiem przed I Komunią Świetą** we wtorek i w środę o godzinie <u>17:30</u>.
-- **Próba dla młodziezy przed bierzmowaniem** w środę o godzinie <u>17:30</u>.
-- W najbliższą sobotę - 22 kwietnia o godzinie <u>9:00</u> - odbedzie się w naszym kościele po raz piąty **Przegląd Pieśni Religijnej**.
-- W następną niedzielę będziemy gościli w naszej parafii misjonarza świeckiego **Daniela Kasperowicza**, który przed kilku laty był u nas przed wyjazdem na Madagaskar. Tym razem podzieli się z nami doświadczeniem misyjnym na tej wyspie. Po Mszy Świętej będzie okazja wesprzeć dzieło misyjne na Madagaskarze.
+- **Próba dla młodzieży przed bierzmowaniem** w środę o godzinie <u>17:30</u>.
+- W najbliższą sobotę - 22 kwietnia o godzinie <u>9:00</u> - po raz piąty odbędzie się w naszym kościele **Przegląd Pieśni Religijnej**.
+- W następną niedzielę będziemy gościli w naszej parafii **misjonarza świeckiego Daniela Kasperowicza**, który przed kilku laty był u nas przed wyjazdem na Madagaskar. Tym razem podzieli się z nami doświadczeniem misyjnym na tej wyspie. Po Mszy Świętej będzie okazja wesprzeć dzieło misyjne na Madagaskarze.
 - W minionym tygodniu odszedł do wieczności nasz parafianin śp. Michał Górczyński, lat 77. Wieczny odpoczynek racz zmarłemu dać, Panie.
 - **Intencje mszalne na najbliższy tydzień:**
   - poniedziałek: + Edward Sienicki (3 rocznica śmierci);
