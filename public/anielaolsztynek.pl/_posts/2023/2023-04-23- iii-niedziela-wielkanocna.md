@@ -13,7 +13,7 @@ date: 2023-04-23
 > <span style="color: #666699;">Panie Jezu, naucz mnie być, jak Ty. Naucz mnie tej cudownej jedności w tym, czego mnie nauczasz, i jak żyję. Daj mi serce gorliwe w miłości, zabierz zwątpienie i plany, które nie są tymi, jakie przygotowałeś dla mnie z miłości. Amen.
 > &nbsp;
 
-- Dziękujemy **misjonarzowi świeckiemu Danielowi Kasperowiczowi** za obecność w naszej parafii, za wypowiedziane świadectwo i podzielenie się doświadczeniem misyjnym na wyspie Madagaskar. Po Mszy Świętej przy wyjściu z kościoła będą zbierane ofiary jako wsparcie dzieła misyjnego na tej wyspie.
+- Dziękujemy **misjonarzowi świeckiemu Danielowi Kasprowiczowi** za obecność w naszej parafii, za wypowiedziane świadectwo i podzielenie się doświadczeniem misyjnym na wyspie Madagaskar. Po Mszy Świętej przy wyjściu z kościoła będą zbierane ofiary jako wsparcie dzieła misyjnego na tej wyspie.
 - Jutro w liturgii obchodzimy **uroczystość Świętego Wojciecha**, głównego Patrona Polski i naszej Archidiecezji Warmińskiej.
 - We wtorek **święto Świętego Marka Ewangelisty**.
 - **Bierzmowanie** w naszej parafii w najbliższy czwartek o godzinie <u>18:00</u>.
