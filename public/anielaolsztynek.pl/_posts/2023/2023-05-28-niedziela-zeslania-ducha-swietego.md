@@ -30,3 +30,5 @@ date: 2023-05-28
   - piątek: dantis;
   - sobota: + Jan, Stanisława, Konstanty;
   - niedziela (04.06): <u>9:00</u> + Helena, Antoni, Jan Binkul, Grzegorz i Piotr Naumiuk, Tadeusz Mróz i ++ z rodziny, Teresa Ławczyńska; <u>11:00</u> o zdrowie i Boże błogosławieństwo dla Anieli i Aleksandry; <u>17:00</u> + Małgorzata Nidzgorska (1 rocznica śmierci).
+
+
