@@ -18,10 +18,10 @@ date: 2023-05-28
 - W czwartek rozpoczyna się czerwiec - miesiąc poświęcony czci **Najświętszego Serca Pana Jezusa**. Codziennie po Mszy Świętej będziemy odmawiali Litanię do Najświętszego Serca Pana Jezusa, w niedziele o <u>8:45</u>.
 - W czwartek wypada też liturgiczne **święto Jezusa Chrystusa Najwyższego i Wiecznego Kapłana**.
 - W piątek wypada **Dzień Dziecka**. Z okazji tego dnia życzę wszystkim dzieciom pięknego dzieciństwa, wiele radości, uśmiechów i zdrowia oraz wytrwałości w nauce i Bożego błogosławieństwa.
-- W tym tygodniu wypada **I czwartek, I piątek** i **I sobota** czerwca. Odwiedziny chorych tym razem wczwartek przed południem.
+- W tym tygodniu wypada **I czwartek, I piątek** i **I sobota** czerwca. Odwiedziny chorych tym razem w czwartek przed południem.
 - Następna niedziela to **pierwsza niedziela miesiąca**. O godzinie <u>8:30</u> zmiana tajemnic różańcowych i adoracja Najświętszego Sakramentu w czasie Mszy Świętych o godzinie <u>9:00</u> i <u>11:00</u>.
 - W następną niedzielę obchodzimy **uroczystość Trójcy Przenajświętszej**.
-- W tym roku w **uroczystość Bożego Ciała** Msza Święta tradycyjnie w Skansenie o godzinie <u>10:00</u> i procesja zgodnie z zapowiedzią na osiedle przy ulicy Wrzosowej.
+- W tym roku w **uroczystość Bożego Ciała** Msza Święta tradycyjnie w Skansenie o godzinie <u>10:00</u> i procesja - zgodnie z zapowiedzią - na osiedle przy ulicy Wrzosowej.
 - **Intencje mszalne na najbliższy tydzień:**
   - poniedziałek: + Magdalena Nyga;
   - wtorek: + Jan Wiesław Solarewicz;
