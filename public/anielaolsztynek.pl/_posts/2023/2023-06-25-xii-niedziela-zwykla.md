@@ -12,7 +12,7 @@ date: 2023-06-25
 > <span style="color: #666699;">Panie Jezu, unikanie okazji do dania świadectwa wiary jest grzechem. Nie odwracaj się ode mnie, bądź przy mnie w chwili próby, gdy muszę się opowiedzieć, po której jestem stronie. Wybacz mi moje tchórzostwo. Kocham Cię. Amen.
 > &nbsp;
 
-- We wtorek - 27 czerwca - wypada **146 rocznica rozpoczęcia objawień Matki Bożej w Gietrzwałdzie**. Program tego dnia w Gietrzwałdzie jest wywieszony w  gablocie.
+- We wtorek - 27 czerwca - wypada **146 rocznica rozpoczęcia objawień Matki Bożej w Gietrzwałdzie**. Program tego uroczystości dnia w Gietrzwałdzie jest wywieszony w  gablocie.
 - W czwartek obchodzimy **uroczystość Świętych Apostołów Piotra i Pawła**.
 - W piątek zakończenie nabożeństwa czerwcowego.
 - W związku z powyższym, w każdą środę będzie odmawiana **nowenna do Matki Bożej Nieustającej Pomocy**, a w piątki **koronka do Miłosierdzia Bożego**.
@@ -28,5 +28,6 @@ date: 2023-06-25
   - piątek: dantis;
   - sobota: + Jerzy Cieśla;
   - niedziela (02.07): <u>9:00</u> + Marian, Wacław, Zofia, Czesław, Zdzisław i ++ z rodz. Ćwik; <u>11:00</u> + Janina, Jan Gostkiewicz; <u>17:00</u> o Bożą opiekę oraz zdrowie duszy i ciała dla Julity, Zachariasza i Rafała.
+
 
 
