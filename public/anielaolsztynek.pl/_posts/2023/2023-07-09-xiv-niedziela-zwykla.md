@@ -13,12 +13,12 @@ date: 2023-07-09
 > &nbsp;
 
 - We wtorek wypada w liturgii święto **Świętego Benedykta**, opata, głównego patrona Europy.
-- We wtorek także zachęcamy do modlitwy **w intencji pomordowanych w 80 rocznicę tragicznych wydarzeń na Wołyniu oraz w intencji pokoju na świecie**.
+- We wtorek także zachęcamy do modlitwy **w intencji pomordowanych - w 80 rocznicę tragicznych wydarzeń na Wołyniu oraz w intencji pokoju na świecie**.
 - W środę wspominamy w liturgii **Świętego Brunona Bonifacego z Kwerfurtu**, biskupa i męczennika, patrona Archidiecezji Warmińskiej.
 - Przypominam, że w każdą środę odmawiamy **nowennę do Matki Bożej Nieustającej Pomocy**, a w piątki **koronkę do Miłosierdzia Bożego**.
 - W następną niedzielę ofiary zbierane na tacę będą przeznaczone na potrzeby **Wyższego Seminarium Duchownego Hosianum** w Olsztynie.
 - Poświęcenie pojazdów odbędzie się za dwa tygodnie.
-- Jutro Msza Święta o godzinie <u>8:00</u>, w sobotę Msza Święta połączona ze ślubem o godzinie <u>16:00</u>, w poizostałe dni o godzinie <u>17:00</u>.
+- Jutro Msza Święta o godzinie <u>8:00</u>, w sobotę Msza Święta połączona ze ślubem o godzinie <u>16:00</u>, w pozostałe dni o godzinie <u>17:00</u>.
 - **Intencje mszalne na najbliższy tydzień:**
   - poniedziałek: dantis;
   - wtorek: + Janina, Stanisław, Jan, Jerzy;
