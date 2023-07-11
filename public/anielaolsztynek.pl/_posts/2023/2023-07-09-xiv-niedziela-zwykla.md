@@ -16,7 +16,7 @@ date: 2023-07-09
 - We wtorek także zachęcamy do modlitwy **w intencji pomordowanych - w 80 rocznicę tragicznych wydarzeń na Wołyniu oraz w intencji pokoju na świecie**.
 - W środę wspominamy w liturgii **Świętego Brunona Bonifacego z Kwerfurtu**, biskupa i męczennika, patrona Archidiecezji Warmińskiej.
 - Przypominam, że w każdą środę odmawiamy **nowennę do Matki Bożej Nieustającej Pomocy**, a w piątki **koronkę do Miłosierdzia Bożego**.
-- W następną niedzielę ofiary zbierane na tacę będą przeznaczone na potrzeby **Wyższego Seminarium Duchownego Hosianum** w Olsztynie.
+- W następną niedzielę ofiary zbierane na tacę przeznaczone będą na potrzeby **Wyższego Seminarium Duchownego Hosianum** w Olsztynie.
 - Poświęcenie pojazdów odbędzie się za dwa tygodnie.
 - Jutro Msza Święta o godzinie <u>8:00</u>, w sobotę Msza Święta połączona ze ślubem o godzinie <u>16:00</u>, w pozostałe dni o godzinie <u>17:00</u>.
 - **Intencje mszalne na najbliższy tydzień:**
@@ -27,4 +27,6 @@ date: 2023-07-09
   - piątek: w intencji Patrycji w 25 rocznicę urodzin;
   - sobota: w intencji Nowożeńców;
   - niedziela (16.07): <u>9:00</u> + Janina Topczyńska; <u>11:00</u> + Emilia Borawska, Henryk Kwiatkowski, Janina Kwiatkowska (2 rocznica śmierci), Konstanty Kwiatkowski; <u>17:00</u> + Adam, Genowefa Bolczak i ++ z rodziny Bolczak.
+
+
 
