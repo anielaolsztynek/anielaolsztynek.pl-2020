@@ -17,11 +17,9 @@ date: 2023-08-06
 - W piątek Msza Święta połączona ze ślubem o godzinie <u>16:00</u>.
 - **Intencje mszalne na najbliższy tydzień:**
   - poniedziałek: + Czesław Zaniewski;
-  - wtorek: ++ z rodzin: Czyczyn, Gosk, Pobudkowskich, Korab, Roman, Szczepańskich, Baranowskich;
+  - wtorek: ++ z rodzin Czyczyn, Gosk, Pobudkowskich, Korab, Roman, Szczepańskich, Baranowskich;
   - środa: w intencji Anny z okazji imienin;
   - czwartek: o zdrowie i błogosławieństwo Boże dla Grzesia w 1 rocznicę urodzin;
   - piątek: w intencji nowożeńców;
   - sobota: + Remigiusz, Regina, Zdzisława;
   - niedziela (13.08): <u>9:00</u> + Janina Topczyńska; <u>11:00</u> w intencji Krystyny i Romana w 50 rocznicę ślubu (18.08); <u>17:00</u> + Maria Zaniewska (1 rocznica śmierci).
-
-
