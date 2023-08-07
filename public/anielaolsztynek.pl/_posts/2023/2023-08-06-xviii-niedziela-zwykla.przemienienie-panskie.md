@@ -7,13 +7,13 @@ date: 2023-08-06
 >
 > **Boża obecność**
 >
-> Cud przemienienia był objawieniem chwały Bożej wobec trzech apostołów, a dla nas stał się szkołą kontaktu z Bogiem. On przemawia w języku zrozumiałym dla nas, bo używa takich sytuacji, osób, znaków, które jesteśmy w stanie odczytać. Ale Jego objawieniu się towarzyszą także znaki zrozumiałe tylko w miłości i przyjaźni. On objawia się zarówno przez wielkie wydarzenia, potężne znaki swojej mocy i opieki, jak i przez maleńkie, niepozorne. Czasami są to znaki tak banalne, że rozumiemy je dopiero z perspektywy czasu. Jeśli ktoś twierdzi, że nie spotkał jeszcze w życiu Boga, to prawdopodobnie zatracił umiejetność szukania Go w sobie i wokół siebie w tej subtelnej obecności. Aby spotkać przemienionego Pana, trzeba wejść na górę, trzeba zostawić cały ten świat, który nas pochłania, choćby na chwilę, by w ciszy zauważyć inne dźwięki, dźwięki Bożej miłości.
+> Cud przemienienia był objawieniem chwały Bożej wobec trzech apostołów, a dla nas stał się szkołą kontaktu z Bogiem. On przemawia w języku zrozumiałym dla nas, bo używa takich sytuacji, osób, znaków, które jesteśmy w stanie odczytać. Ale Jego objawieniu się towarzyszą także znaki zrozumiałe tylko w miłości i przyjaźni. On objawia się zarówno przez wielkie wydarzenia, potężne znaki swojej mocy i opieki, jak i przez maleńkie, niepozorne. Czasami są to znaki tak banalne, że rozumiemy je dopiero z perspektywy czasu. Jeśli ktoś twierdzi, że nie spotkał jeszcze w życiu Boga, to prawdopodobnie zatracił umiejętność szukania Go w sobie i wokół siebie w tej subtelnej obecności. Aby spotkać przemienionego Pana, trzeba wejść na górę, trzeba zostawić cały ten świat, który nas pochłania, choćby na chwilę, by w ciszy zauważyć inne dźwięki, dźwięki Bożej miłości.
 >
 > <span style="color: #666699;">Panie Jezu, niech spotkanie z Tobą pozostanie we mnie na długo. Niech nie będzie tylko emocjonalnym uniesieniem, które słabnie pod wpływem intensywniejszych objawień, jakie daje mi świat. Amen.
 > &nbsp;
 
 - Dziś I niedziela miesiąca - **niedziela adoracji Najświętszego Sakramentu**.
-- We środę wypada liturgiczne **święto Świętej Teresy Benedykty od Krzyża**, patronki Europy. W czwartek z kolei **święto Świętego Wawrzyńca**, diakona i męczennika, patrona parafii w Gryźlinach, natomiast w piątek **święto Najświętszej Marii Panny Świętolipskiej**.
+- W środę wypada liturgiczne **święto Świętej Teresy Benedykty od Krzyża**, patronki Europy. W czwartek z kolei **święto Świętego Wawrzyńca**, diakona i męczennika, patrona parafii w Gryźlinach, natomiast w piątek **święto Najświętszej Marii Panny Świętolipskiej**.
 - W piątek Msza Święta połączona ze ślubem o godzinie <u>16:00</u>.
 - **Intencje mszalne na najbliższy tydzień:**
   - poniedziałek: + Czesław Zaniewski;
