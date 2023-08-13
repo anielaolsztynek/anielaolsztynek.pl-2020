@@ -23,3 +23,4 @@ date: 2023-08-13
   - piątek: + Mariusz Filipiak (13 rocznica śmierci);
   - sobota: <u>8:00</u> za parafian;
   - niedziela (20.08): <u>9:00</u> + Anna, Bolesław, Krzysztof Modzelewscy, Jerzy Kalwejt i Henryk Hop; <u>11:00</u> + Robert Dumka; <u>17:00</u> + Kazimierz Konopka.
+
