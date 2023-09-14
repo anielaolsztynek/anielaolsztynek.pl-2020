@@ -13,10 +13,12 @@ date: 2023-09-10
 > &nbsp;
 
 - Dziś odbywają się uroczystości odpustowe w **146 rocznicę Objawień Najświętszej Marii Panny w Gietrzwałdzie** oraz **57 Dożynki Archidiecezjalne**.
-- Za tydzień - 17 września - odbędą się **Dożynki Wojewódzkie w Skansenie** o godzinie <u>12:00</u>. W związku z tym, w tym dniu nie będzie Mszy Świętej o godzinie 11:00 w naszym kościele.
-- Spotkanie z rodzicami dzieci, które w tym roku szkolnym **przygotowują się do I Komunii Świętej**, dziś po Mszy Świętej o godzinie <u>11:00</u>. Rodzice zgłaszają swoje dzieci do przyjęcia tego sakramentu.
 - Poświęcenie tornistrów i przyborów szkolnych **pierwszoklasistów** dziś pod koniec Mszy Świętej o godzinie <u>11:00</u>.
-- Tradycyjnie w niedziele po Mszach Świętych **będą rozdawane dzieciom obrazki nawiązujące do Ewangelii**. Dzieci przygotowujące się w tym roku szkolnym do I Komunii Świętej, jak również dzieci z klas drugich, zbierają obrazki obowiązkowo - od następnej niedzieli.
+- Spotkanie z rodzicami dzieci, które w tym roku szkolnym **przygotowują się do I Komunii Świętej**, dziś po Mszy Świętej o godzinie <u>11:00</u>.
+- Przypominam, że w niedziele po Mszach Świętych **są rozdawane dzieciom obrazki nawiązujące do Ewangelii**. Obrazki z pieczątką na odwrocie - to niespodzianka.
+- W najbliższy czwartek - 14 września - wypada liturgiczne **Święto Podwyższenia Krzyża Świętego**.
+- **Młodzież klas VIII przygotowującą się w tym roku szkolnym do bierzmowania** zapraszam w czwartek na godzinę <u>17:00</u>. Po Mszy Świętej spotkanie. Proszę zabrać ze sobą indeksy.
+- Za tydzień w niedzielę - 17 września - na terenie naszej parafii odbędą się po raz dwunasty **Dożynki Wojewódzkie w Skansenie**, które rozpoczną się Mszą Świętą o godzinie <u>12:00</u>, pod przewodnictwem Księdza Arcybiskupa Józefa Górzyńskiego Metropolity Warmińskiego. W związku z powyższym, w następną niedzielę nie będzie Mszy Świętej o godzinie <u>11:00</u> w naszym kościele.
 - W sobotę Msza Święta związana ze zjazdem rodzinnym będzie o godzinie <u>16:00</u>.
 - **Intencje mszalne na najbliższy tydzień:**
   - poniedziałek: własna;
