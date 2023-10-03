@@ -15,13 +15,13 @@ date: 2023-10-01
 - Dziś pierwsza niedziela miesiąca - **niedziela Adoracji Najświętszego Sakramentu**, na koniec Mszy Świętych o godzinie <u>9:00</u> i <u>11:00</u>.
 - Zachęcam do **wspólnej modlitwy różańcowej** codziennie o godzinie <u>16:30</u>, w niedziele o godzinie <u>8:30</u>. W niedziele różaniec  połączony jest ze zmianą tajemnic różańcowych.
 - W tym tygodniu wypada **I czwartek, I piątek i I sobota** października. I czwartek to dzień upamiętniający ustanowienie Eucharystii i Kapłaństwa. W tym dniu modlimy się o nowe powołania duchowne. I piątek to dzień poświęcony Najświętszemu Sercu Pana Jezusa.
-- W sobotę wypada liturgiczne **wspomnienie Matki Bożej Różańcowej**. Jest to **Święto Patronalne Żywego Różańca - Kółek Różańcowych**.
+- W sobotę wypada liturgiczne **wspomnienie Matki Bożej Różańcowej**. Jest to **Święto Patronalne Żywego Różańca - Kółek Różańcowych**. Zapraszam na wspólny różaniec i Mszę Świętą w intencji wszystkich członków Kółek Różańcowych.
 - Dziś **poświęcenie różańców** dzieci pierwszokomunijnych.
 - **Intencje mszalne na najbliższy tydzień:**
-  - poniedziałek:
-  - wtorek:
-  - środa:
-  - czwartek:
-  - piątek:
-  - sobota:
-  - niedziela (1.10): <u>9:00</u> <u>11:00</u> <u>17:00</u>
+  - poniedziałek: dantis;
+  - wtorek: dantis;
+  - środa: dantis;
+  - czwartek: dantis;
+  - piątek: o Bożą opiekę oraz zdrowie duszy i ciała dla Julity, Zachariasza i Rafała;
+  - sobota: w intencji wszystkich członków Kółek Różańcowych;
+  - niedziela (08.10): <u>9:00</u> + Irena Grodecka (7 rocznica śmierci) i Jerzy Grodecki; <u>11:00</u> + Wanda Hypki (3 rocznica śmierci) i ++ z rodz. Pluta i Hypki; + Bogusław Chmieloch ( 1 rocznica śmierci); <u>17:00</u> + Marta Juszczyk (2 rocznica śmierci).
