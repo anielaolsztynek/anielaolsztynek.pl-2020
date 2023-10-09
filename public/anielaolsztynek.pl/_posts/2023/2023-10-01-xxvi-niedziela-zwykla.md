@@ -12,11 +12,11 @@ date: 2023-10-01
 > <span style="color: #666699;">Panie Boże, Ty oczekujesz ode mnie szczerości. Chcesz prawdy o moim życiu. Jest mi ciężko, czuję się samotny, nie rozumiem tego, co się wokół mnie dzieje. Pomóż mi uwierzyć w to, że mnie kochasz. Amen.
 > &nbsp;
 
-- Dziś pierwsza niedziela miesiąca - **niedziela Adoracji Najświętszego Sakramentu**, na koniec Mszy Świętych o godzinie <u>9:00</u> i <u>11:00</u>.
-- Zachęcam do **wspólnej modlitwy różańcowej** codziennie o godzinie <u>16:30</u>, w niedziele o godzinie <u>8:30</u>. W niedziele różaniec  połączony jest ze zmianą tajemnic różańcowych.
-- W tym tygodniu wypada **I czwartek, I piątek i I sobota** października. I czwartek to dzień upamiętniający ustanowienie Eucharystii i Kapłaństwa. W tym dniu modlimy się o nowe powołania duchowne. I piątek to dzień poświęcony Najświętszemu Sercu Pana Jezusa.
-- W sobotę wypada liturgiczne **wspomnienie Matki Bożej Różańcowej**. Jest to **Święto Patronalne Żywego Różańca - Kółek Różańcowych**. Zapraszam na wspólny różaniec i Mszę Świętą w intencji wszystkich członków Kółek Różańcowych.
-- Dziś **poświęcenie różańców** dzieci pierwszokomunijnych.
+- Dziś pierwsza niedziela miesiąca - **niedziela Adoracji Najświętszego Sakramentu**.
+- Dziś **poświęcenie różańców** dla dzieci pierwszokomunijnych pod koniec Mszy Świętej o godzinie <u>11:00</u>.
+- Zachęcam do **wspólnej modlitwy różańcowej** codziennie o godzinie <u>16:30</u>, w niedziele o godzinie <u>8:30</u>. Dzieci, w tym dzieci przygotowujące się do I Komunii Świętej obowiązkowo, zapraszam w czwartek. Kandydatów do bierzmowania z klas VIII również zapraszam w czwartek  na godzinę <u>16:30</u>.
+- W tym tygodniu wypada **I czwartek, I piątek i I sobota** października. I czwartek to dzień upamiętniający ustanowienie Eucharystii i Kapłaństwa. W tym dniu modlimy się o nowe powołania duchowne. I piątek to dzień poświęcony Najświętszemu Sercu Pana Jezusa. Przed południem odwiedziny chorych z Komunią Świętą. Po południu spowiedź pierwszopiątkowa przed różańcem - od godziny <u>16:00</u>. Zachęcam do spowiedzi wszystkich, którzy obchodzą I piątki miesiąca, w szczególności zachęcam dzieci z klas IV, które w tym roku były u I Komunii Świętej. I sobota to dzień poświęcony czci Niepokalanego Serca Matki.
+- W tę sobotę wypada też liturgiczne **wspomnienie Matki Bożej Różańcowej**. Jest to **święto patronalne Żywego Różańca - Kółek Różańcowych**. Zapraszam na wspólny różaniec i Mszę Świętą w intencji wszystkich członków Kółek Różańcowych.
 - **Intencje mszalne na najbliższy tydzień:**
   - poniedziałek: dantis;
   - wtorek: dantis;
