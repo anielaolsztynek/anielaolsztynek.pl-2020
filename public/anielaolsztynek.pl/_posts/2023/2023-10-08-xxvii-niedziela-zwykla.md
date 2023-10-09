@@ -27,3 +27,5 @@ date: 2023-10-08
   - piątek: + Stanisława Muttke;
   - sobota: + Jadwiga i Mieczysław Smyk;
   - niedziela (15.10): <u>9:00</u> + Janina Topczyńska; <u>11:00</u> za parafian; <u>17:00</u> + Robert Dumka (1 rocznica śmierci) i + Julia Dumka (10 rocznica śmierci).
+
+
