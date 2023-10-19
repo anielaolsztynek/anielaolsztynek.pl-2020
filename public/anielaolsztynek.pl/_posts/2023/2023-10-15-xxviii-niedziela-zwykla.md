@@ -12,9 +12,9 @@ date: 2023-10-15
 > <span style="color: #666699;">Panie Jezu, każdego dnia zapraszasz mnie na ucztę. Ty jesteś pokarmem. Tylko będąc blisko Ciebie, nigdy nie będę samotny i głodny. Amen.
 > &nbsp;
 
-- Dziś w Dniu Papieskim, obchodzonym w Polsce od 23 lat, po Mszy Świętej w ramach Dzieła Nowego Tysiąclecia będą zbierane ofiary na fundusz stypendialny dla uzdolnionej młodzieży z małych miejscowości i z rodzin najuboższych.
+- Dziś, w Dniu Papieskim, obchodzonym w Polsce od 23 lat, po Mszy Świętej - w ramach Dzieła Nowego Tysiąclecia - będą zbierane ofiary na fundusz stypendialny dla uzdolnionej młodzieży z małych miejscowości i z rodzin najuboższych.
 - W środę - 18 października - wypada liturgiczne **święto Świętego Łukasza Apostoła - patrona służby zdrowia**. Wszystkim pracownikom tej branży życzę Bożego błogosławieństwa i Bożego ducha w posługiwaniu ludziom chorym.
-- Tydzień misyjny rozpoczyna się w następną niedzielę. Ofiary składane wtedy na tacę będą przeznaczone na misje.
+- **Tydzień misyjny** rozpoczyna się w następną niedzielę. Ofiary składane wówczas na tacę będą przeznaczone na misje.
 - Zapraszam do wspólnej modlitwy różańcowej codziennie o godzinie <u>16:30</u>, w niedziele o godzinie <u>8:30</u>. Dzieci i młodzież przed bierzmowaniem zapraszam w czwartek.
 - Młodzież z klas VII, z którą chciałem się spotkać raz jeden w tym roku szkolnym, zignorowała zaproszenie. Przyszła tylko jedna osoba. Nikogo na siłę nie chcemy przygotowywać do bierzmowania.
 - Kartki na wypominki i na Mszę Świętą zbiorową za zmarłych są wyłożone na półce z prasą.
