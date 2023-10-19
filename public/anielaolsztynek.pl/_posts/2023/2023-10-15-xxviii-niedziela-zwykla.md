@@ -30,3 +30,5 @@ Ulotki pólce 2 prasą.
   - sobota: w intencji Kacpra w 18 rocznicę urodzin;
   - niedziela (22.10): <u>9:00</u> + Alina Mrozowska; <u>11:00</u> + Władysław Stobiecki (13 rocznica śmierci); <u>17:00</u> + Zdzisław Nyga (6 rocznica śmierci).
 
+
+
