@@ -13,14 +13,14 @@ date: 2023-11-26
 > &nbsp;
 
 - Bóg zapłać za ofiary składane dziś na tacę na potrzeby **Wyższego Seminarium Duchownego „Hosianum” w Olsztynie**.
-- Dziś po Mszy Świętej o godzinie <u>9:00</u> na zakończenie roku kościelnego będzie wystawienie Najświętszego Sakramentu, akt poświęcenia rodzaju ludzkiego Jezusowi Chrystusowi Królowi Wszechświata i Litania do Chrystusa Króla.
+- Dziś po Mszy Świętej o godzinie <u>9:00</u>, na zakończenie roku kościelnego wystawienie Najświętszego Sakramentu, akt poświęcenia rodzaju ludzkiego Jezusowi Chrystusowi Królowi Wszechświata i Litania do Chrystusa Króla.
 - Od następnej niedzieli rozpoczyna się **Adwent** - okres przygotowania do Narodzenia Pańskiego.
 - **Rekolekcje Adwentowe** w naszym kościele za dwa tygodnie - tradycyjnie od II Niedzieli Adwentu .
 - **Opłatki na stół wigilijny** będą roznoszone tradycyjnie do wszystkich mieszkań w parafii. Można nabyć je też osobiście w kancelarii. Ofiary składane przy tej okazji będą przeznaczone na ogrzewanie kościoła.
-- W tym tygodniu wypada **I piątek i I sobota** grudnia. W piątek przed południem odwiedziny chorych.
+- W tym tygodniu wypada **I piątek** i **I sobota** grudnia. W piątek przed południem odwiedziny chorych.
 - **Zmiana tajemnic różańcowych** i wspólny różaniec w następną niedzielę o godzinie <u>8:30</u>.
 - Natomiast pod koniec Mszy Świętej o godzinie <u>9:00</u> wystawienie i adoracja Najświętszego Sakramentu.
-- Również w następną niedzielę o godzinie <u>11:00</u> będzie odprawiona Msza Święta w intencji pszczelarzy z RKP w Olsztynku (z okazji Świętego Ambrożego), pod przewodnictwem Księdza Arcybiskupa Józefa Górzyńskiego, który chętnie odpowiedział na zaproszenie pszczelarzy.
+- Również w następną niedzielę o godzinie <u>11:00</u> będzie odprawiona **Msza Święta w intencji pszczelarzy z RKP w Olsztynku** (z okazji uroczystości Świętego Ambrożego), pod przewodnictwem Księdza Arcybiskupa Józefa Górzyńskiego, który chętnie odpowiedział na zaproszenie pszczelarzy.
 - **Intencje mszalne na bieżący tydzień:**
   - poniedziałek: Msza Święta zbiorowa za zmarłych;
   - wtorek: Msza Święta zbiorowa za zmarłych;
