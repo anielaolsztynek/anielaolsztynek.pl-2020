@@ -12,7 +12,7 @@ date: 2023-12-17
 > <span style="color: #666699;">Panie Jezu, jestem posłany. Proszę Cię o pokorę, abym ukazywał sobą Światłość, którą Ty jesteś. Chcę być Twoim głosem w tym świecie, który bez Ciebie jest jak pustynia. Amen.
 > &nbsp;
 
-- Zbliżają się **Święta Bożego Narodzenia**. Zachęcam, abyśmy przeżyli je pojednani z Bogiem, aby w tym czasie znalazł miejsce w naszych sercach. Okazja do **Spowiedzi Świętej** każdego dnia przed Mszą Świętą.
+- Zbliżają się **Święta Bożego Narodzenia**. Zachęcam, abyśmy przeżyli je pojednani z Bogiem, aby w tym czasie znalazł On miejsce w naszych sercach. Okazja do **Spowiedzi Świętej** każdego dnia przed Mszą Świętą.
 - Od dzisiaj rozpoczyna się druga część Adwentu. Dni tego okresu w liturgii są poświęcone bezpośredniemu przygotowaniu do Bożego Narodzenia. W tych dniach odmawiamy **nowennę do Dzieciątka Jezus**.
 - W tym tygodniu **Msze Święte roratnie** w poniedziałek, wtorek, i środę o godzinie <u>7:00</u> oraz w czwartek o godzinie <u>17:00</u>. Dzieci i młodzież przed bierzmowaniem zapraszam w czwartek na godzinę <u>17:00</u>.
 - Są jeszcze do nabycia **świece wigilijne Caritas**.
