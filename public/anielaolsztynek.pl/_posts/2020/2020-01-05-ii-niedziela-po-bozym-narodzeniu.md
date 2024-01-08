@@ -3,11 +3,7 @@ title: II Niedziela po Bożym Narodzeniu
 date: 2020-01-05
 ---
 
-> **<span style="color: #346546;">J 1, 1-18</span>**
->
-> **<span style="color: #346546;">„Jan Chrzciciel głosił: »Idzie za mną potężniejszy ode mnie, a ja nie jestem godny, aby schylić się i rozwiązać rzemyk u Jego sandałów. Ja ochrzciłem was wodą, a On będzie was chrzcił Duchem Świętym«. Wtedy przyszedł Jezus z Nazaretu w Galilei i został ochrzczony przez Jana w Jordanie. Zaraz po tym, kiedy wychodził z wody, ujrzał niebo otwarte i Ducha, który zstępował na Niego jakby gołębica. I rozległ się głos z nieba: »Ty jesteś moim Synem umiłowanym, Ciebie upodobałem sobie«.”</span>**
->
->
+> **J 1, 1-18**
 >
 > **Od Prawa do Ducha**
 >
@@ -25,7 +21,7 @@ date: 2020-01-05
 - Msze Święte w tym tygodniu: w środę i czwartek o godzinie <u>8:00</u>, w pozostałe dni o godzinie <u>17:00</u>.
 - Porządek kolędy w tym tygodniu:.
   1. Jagiełek i Wilkowo – wtorek, godz. <u>9:00</u>.
-  2. Sudwa 27, ul. Wilcza 22, ul. Sosnowa i Leśna 22, 26, 28, 30 i ul. Parkowa– środa, godz. <u>14:30</u>.
+  2. Sudwa 27, ul. Wilcza 22, ul. Sosnowa i Leśna 22, 26, 28, 30 i ul. Parkowa – środa, godz. <u>14:30</u>.
   3. Ul. Leszczynowa, Dębowa, Brzozowa, Grabowa i Głogowa – czwartek, godz. <u>13:30</u>.
   4. Ul. Wrzosowa 2 i 4– piątek, godz. <u>14:30</u>.
   5. Ul. Wrzosowa 6, 7 i 8 – sobota, godz. <u>10:00</u>.
