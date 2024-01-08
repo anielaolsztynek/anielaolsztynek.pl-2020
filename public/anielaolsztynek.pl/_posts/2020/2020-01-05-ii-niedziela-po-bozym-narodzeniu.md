@@ -5,7 +5,8 @@ date: 2020-01-05
 
 > **J 1, 1-18**
 >
->Jan Chrzciciel głosił: „Idzie za mną potężniejszy ode mnie, a ja nie jestem godny, aby schylić się i rozwiązać rzemyk u Jego sandałów. Ja ochrzciłem was wodą, a On będzie was chrzcił Duchem Świętym”. Wtedy przyszedł Jezus z Nazaretu w Galilei i został ochrzczony przez Jana w Jordanie. Zaraz po tym, kiedy wychodził z wody, ujrzał niebo otwarte i Ducha, który zstępował na Niego jakby gołębica. I rozległ się głos z nieba: „Ty jesteś moim Synem umiłowanym, Ciebie upodobałem sobie”.
+>**Jan Chrzciciel głosił: „Idzie za mną potężniejszy ode mnie, a ja nie jestem godny, aby schylić się i rozwiązać rzemyk u Jego sandałów. Ja ochrzciłem was wodą, a On będzie was chrzcił Duchem Świętym”. Wtedy przyszedł Jezus z Nazaretu w Galilei i został ochrzczony przez Jana w Jordanie. Zaraz po tym, kiedy wychodził z wody, ujrzał niebo otwarte i Ducha, który zstępował na Niego jakby gołębica. I rozległ się głos z nieba: „Ty jesteś moim Synem umiłowanym, Ciebie upodobałem sobie”.**
+>
 >
 >
 > **Od Prawa do Ducha**
