@@ -23,10 +23,10 @@ date: 2024-01-14
 - **Porządek kolędy w tym tygodniu**:
   - Ul. Agrestowa – poniedziałek od godziny <u>14:00</u>.
   - Ul. Wrzosowa 11 i 13 - poniedziałek od od godziny <u>17:45</u>.
-  - Ulica Wiśniowa – wtorek od godziny <u>12:30</u>.
+  - Ul. Wiśniowa – wtorek od godziny <u>12:30</u>.
   - Ul. Mrongowiusza i Porzeczkowa – środa od godziny <u>13:30</u>.
   - Ul. Morelowa - czwartek od godziny <u>14:00</u>.
-  - ul. Leśników - piątek od godziny <u>10:00</u>.
+  - Ul. Leśników - piątek od godziny <u>10:00</u>.
   - Ul. Leśna – sobota od godziny <u>10:00</u>.
 - **Intencje mszalne na bieżący tydzień:**
   - poniedziałek: + Bożena Wereda (30 dzień po pogrzebie);
