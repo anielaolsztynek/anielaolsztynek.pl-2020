@@ -50,7 +50,7 @@
     },
     "peacock.remoteColor": "#c7482f",
     "editor.codeActionsOnSave": {
-      "source.fixAll.eslint": true
+      "source.fixAll.eslint": "explicit"
     }
   },
   "extensions": {
