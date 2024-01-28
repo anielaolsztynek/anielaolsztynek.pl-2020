@@ -37,3 +37,5 @@ date: 2024-01-28
   - sobota: + Czesław Mazur (1 rocznica śmierci) i ++ z rodz. Mazur i Zięcik;
   - niedziela (04.02.24): <u>9:00</u> + Anna, Bolesław, Krzysztof Modzelewscy, Jerzy Kalwejt i Henryk Hop; <u>11:00</u> + Stanisława (14 rocznica śmierci) i Eugeniusz Giranowscy; <u>17:00</u> + Zofia Konopka.
 
+
+
