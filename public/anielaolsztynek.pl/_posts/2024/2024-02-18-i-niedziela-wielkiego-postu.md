@@ -19,8 +19,8 @@ date: 2024-02-18
 - **Pierwsza Niedziela Wielkiego Postu** jest jak gdyby drugim początkiem tego okresu dla tych zwłaszcza, którzy nie wzięli udziału w liturgii Środy Popielcowej. Cały Kościół rozpoczyna czterdziestodniową pokutę, której dobre przeżycie doprowadzi nas do prawdziwego spotkania ze Zmartwychwstałym Panem.
 - Włączmy się w głębokie przeżycie tego czasu przez modlitwę osobistą i wspólnotową. Tej drugiej będzie sprzyjał udział w nabożeństwach wielkopostnych. **Droga Krzyżowa** w każdy piątek Wielkiego Postu o godzinie <u>16:30</u>. Zachęcam serdecznie do wspólnego udziału w tym nabożeństwie. Obowiązkowo przychodzą dzieci przed I Komunią Świętą i młodzież przed bierzmowaniem. **Gorzkie Żale** w niedziele Wielkiego Postu o godzinie <u>08:45</u>.
 - Pamiętajmy też o osobistych postanowieniach czy umartwieniach na Wielki Post, które mają nas zbliżyć do Boga i uwrażliwić na drugiego człowieka. Jest wystawiona skarbona, do której można składać jałmużnę wielkopostną z myślą o biednych.
-- Dziś poświęcenie krzyżyków dla dzieci pierwszokomunijnych w czasie Mszy Świętej o godzinie <u>11:00</u>.
-- Następna, II Niedziela Wielkiego Postu, to **Dzień Modlitwy i Solidarności z Misjonarzami**. Po Mszach Świętych będą zbierane ofiary na Misjne Dzieło Pomocy "Ad Gentes".
+- Dziś poświęcenie krzyżyków dla dzieci pierwszokomunijnych, w czasie Mszy Świętej o godzinie <u>11:00</u>.
+- Następna, II Niedziela Wielkiego Postu, to **Dzień Modlitwy i Solidarności z Misjonarzami**. Po Mszach Świętych będą zbierane ofiary na Misjne Dzieło Pomocy **"Ad Gentes"**.
 - **Intencje mszalne na bieżący tydzień:**
   - poniedziałek: ++ z rodzin Czyczyn, Gosk, Pobudkowskich, Korab, Roman, Szczepańskich, Baranowskich;
   - wtorek: dantis;
@@ -28,7 +28,7 @@ date: 2024-02-18
   - czwartek: + Józef Wantoch-Rekowski (15 rocznica śmierci);
   - piątek: dantis;
   - sobota: dantis;
-  - niedziela (25.02.24): <u>9:00</u> + Józef Karpiński (5 rocznica śmierci) ++ z rodz. Buler i Karpińskich; <u>11:00</u> + Henryk Grabowski (7 miesięcy po śmierci); <u>17:00</u> + Henryk Kapusta.
+  - niedziela (25.02.24): <u>9:00</u> + Józef Karpiński (5 rocznica śmierci) i ++ z rodz. Buler i Karpińskich; <u>11:00</u> + Henryk Grabowski (7 miesięcy po śmierci); <u>17:00</u> + Henryk Kapusta.
 
 
 
