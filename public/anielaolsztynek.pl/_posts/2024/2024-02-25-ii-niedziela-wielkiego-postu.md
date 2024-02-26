@@ -12,7 +12,6 @@ date: 2024-02-25
 > **Wielkośc Boga**
 >
 > Uczniowie towarzyszyli Jezusowi już od jakiegoś czasu. Widzieli cuda, których dokonywał i przez które objawiał swoją nadzwyczajną moc. Ale to, czego są świadkami teraz, przekracza ich dotychczasowe doświadczenie. To, co widzą uczniowie, to tylko część chwały Bożej. Bóg w swojej świętości, w swojej chwale, w swojej transcendencji przekracza to, co potrafimy zrozumieć. Obok lekcji chwały jest to dla nas także lekcja pokory. Tyle razy chcemy, aby Bóg tłumaczył się przed nami. Często pytanie „dlaczego", które stawiamy wobec trudnych życiowych doświadczeń, jest w rzeczywistości oskarżeniem Boga. A tak naprawdę pozostajemy małymi stworzeniami, które Bóg niewspółmiernie kocha. Ojciec miłuje najpierw swojego Syna i zaprasza do tego, abyśmy byli Mu posłuszni.
-
 >
 > <span style="color: #666699;">Panie Jezu, umiłowany Synu Ojca, Odblasku Jego chwały, proszę Cię, umacniaj mnie w słuchaniu Ciebie i w posłuszeństwie Twojej Ewangelii, abym mógł się cieszyć oglądaniem Ciebie w niebie. Amen.
 > &nbsp;
@@ -20,7 +19,7 @@ date: 2024-02-25
 - W dzisiejszą - **II niedzielę Wielkiego Postu** - tradycyjnie po Mszy Świętej będą zbierane dobrowolne ofiary na potrzeby misji, które za pośrednictwem Dzieła Pomocy Misjom **„Ad Gentes”** zostaną przeznaczone na realizację projektów ewangelizacyjnych i humanitarnych.
 - **Próba chóru** dziś o godzinie <u>18:00</u>.
 - W tym tygodniu wypada **I piątek i I sobota marca**. Odwiedziny chorych w piątek przed południem. Spowiedź w I piątek przed Drogą Krzyżową.
-- Następna, I Niedziela miesiąca to **niedziela adoracji Najświętszego Sakramentu**. Zmiana tajemnic różańcowych w następną niedzielę o godzinie <u>8:30</u>.
+- Następna, I niedziela miesiąca to **niedziela adoracji Najświętszego Sakramentu**. Zmiana tajemnic różańcowych w następną niedzielę o godzinie <u>8:30</u>.
 - Zachęcam serdecznie i zapraszam do udziału w nabożeństwach wielkopostnych. To wyraz naszej wiary i zaangażowania w duchowe przeżycie Wielkiego Postu oraz zrozumienia dla tajemnicy Odkupienia, która dokonała się przez mękę i śmierć Chrystusa.
 - **Droga Krzyżowa** w każdy piątek Wielkiego Postu o godzinie <u>16:30</u>, **Gorzkie Żale** w niedziele Wielkiego Postu o godzinie <u>08:45</u>.
 - **Rekolekcje wielkopostne** w naszej parafii za dwa tygodnie.
