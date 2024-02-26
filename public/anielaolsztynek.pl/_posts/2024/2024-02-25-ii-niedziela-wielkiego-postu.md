@@ -9,7 +9,7 @@ date: 2024-02-25
 >
 >
 >
-> **Wielkośc Boga**
+> **Wielkość Boga**
 >
 > Uczniowie towarzyszyli Jezusowi już od jakiegoś czasu. Widzieli cuda, których dokonywał i przez które objawiał swoją nadzwyczajną moc. Ale to, czego są świadkami teraz, przekracza ich dotychczasowe doświadczenie. To, co widzą uczniowie, to tylko część chwały Bożej. Bóg w swojej świętości, w swojej chwale, w swojej transcendencji przekracza to, co potrafimy zrozumieć. Obok lekcji chwały jest to dla nas także lekcja pokory. Tyle razy chcemy, aby Bóg tłumaczył się przed nami. Często pytanie „dlaczego", które stawiamy wobec trudnych życiowych doświadczeń, jest w rzeczywistości oskarżeniem Boga. A tak naprawdę pozostajemy małymi stworzeniami, które Bóg niewspółmiernie kocha. Ojciec miłuje najpierw swojego Syna i zaprasza do tego, abyśmy byli Mu posłuszni.
 >
