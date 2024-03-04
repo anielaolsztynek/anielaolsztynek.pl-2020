@@ -16,16 +16,18 @@ date: 2024-03-03
 > <span style="color: #666699;">Panie Jezu, moje serce jest świątynią Boga żywego, pozwól mi przez głębokie przeżycie Wielkiego Postu oczyścić je dla Ciebie. Amen.
 > &nbsp;
 
-- Zachęcam i zapraszam do udziału w nabożeństwie **Drogi Krzyżowej** w piątek o godzinie <u>16:30</u>. **Gorzkie Żale** w niedziele Wielkiego Postu o godzinie <u>08:45</u>.
+- Dzis I niedziela miesiąca - **niedziela adoracji Najświętszego Sakramentu**.
+- Jutro w liturgii święto ku czci Świetego Kazimierza Królewicza.
+- Zachęcam i zapraszam do udziału w nabożeństwie **Drogi Krzyżowej** w piątek o godzinie <u>16:30</u>.
 - **Rekolekcje wielkopostne** w naszej parafii rozpoczną się za tydzień, tradycyjnie w IV niedzielę Wielkiego Postu i będą trwały do wtorku włącznie. Rekolekcje wygłosi Ksiądz Wojciech Kotowicz - wicerektor Wyższego Seminarium Duchownego „Hosianum” w Olsztynie.
 - We wtorek i czwartek Msza Święta o godzinie <u>8:00</u> rano.
 - **Intencje mszalne na najbliższy tydzień:**
   - poniedziałek: + Kazimierz Rosłaniec;
-  - wtorek:
-  - środa:
-  - czwartek:
+  - wtorek: + Sławomir Caryk oraz o zdrowie i błogosławieństwo Boże dla Marleny Kwiatkowskiej;
+  - środa: dantis;
+  - czwartek: dantis;
   - piątek: o Bożą opiekę oraz zdrowie duszy i ciała dla Julity, Zachariasza i Rafała;
-  - sobota:
-  - niedziela (10.03): <u>9:00</u> ; <u>11:00</u> ; <u>17:00</u>.
+  - sobota: dantis;
+  - niedziela (10.03): <u>9:00</u> o zdrowie i błogosławieństwo Boże w rodz. Biedulskich; + Kazimierz Tański (1 rocznica śmierci); <u>11:00</u> + Kazimiera Mazur (7 rocznica śmierci) i ++ z rodz. Mazur i Zięcik; + Zdzisław Jurkowski (6 rocznica śmierci); <u>17:00</u> o zdrowie i błogosławieństwo Boże dla rodziny Dańko.
 
 
