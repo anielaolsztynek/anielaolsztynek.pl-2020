@@ -13,7 +13,7 @@ date: 2024-03-03
 >
 > Według Ewangelii Janowej Pan Jezus na samym początku swojej publicznej działalności dokonuje bardzo wymownego gestu oczyszczenia świątyni z kupców i handlu, który był uzasadniany potrzebami kultu. Tylko Jan, inaczej niż pozostali ewangeliści, przedstawia to wydarzenie w sposób tak dynamiczny. Opisuje, jak Jezus splótł bicz ze sznurów i przepędził handlujących z terenu świątyni jerozolimskiej. Kluczem do zrozumienia tego proroczego gestu są słowa: „nie róbcie targowiska z domu mego Ojca!". To, co odnosi się do Boga, musi pozostać czyste i niczym nieskażone. Wiara wyraża się przez to, że Bóg ma tylko sobie właściwe miejsce w życiu człowieka, że jest On w centrum naszego serca i nie jest dodatkiem do ludzkich spraw, ale jest celem naszych pragnień i dążeń. Nawet jeśli wykonujemy zwykłe czynności, które wynikają z naszego stanu i powołania, to dążymy do Boga. A zachwianie owego porządku przez nasze ludzkie, drobne interesy powoduje Jego gniew.
 >
-> <span style="color: #666699;">Panie Jezu, moje serce jest świątynią Boga żywego, pozwól mi przez głębokie przeżycie Wielkiego Pustu oczyścić je dla Ciebie. Amen.
+> <span style="color: #666699;">Panie Jezu, moje serce jest świątynią Boga żywego, pozwól mi przez głębokie przeżycie Wielkiego Postu oczyścić je dla Ciebie. Amen.
 > &nbsp;
 
 - Zachęcam i zapraszam do udziału w nabożeństwie **Drogi Krzyżowej** w piątek o godzinie <u>16:30</u>. **Gorzkie Żale** w niedziele Wielkiego Postu o godzinie <u>08:45</u>.
