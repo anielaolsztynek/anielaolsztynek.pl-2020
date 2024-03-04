@@ -16,10 +16,10 @@ date: 2024-03-03
 > <span style="color: #666699;">Panie Jezu, moje serce jest świątynią Boga żywego, pozwól mi przez głębokie przeżycie Wielkiego Postu oczyścić je dla Ciebie. Amen.
 > &nbsp;
 
-- Dzis I niedziela miesiąca - **niedziela adoracji Najświętszego Sakramentu**.
-- Jutro w liturgii święto ku czci Świetego Kazimierza Królewicza.
+- Dziś I niedziela miesiąca - **niedziela adoracji Najświętszego Sakramentu**.
+- Jutro w liturgii święto ku czci Świętego Kazimierza Królewicza.
 - Zachęcam i zapraszam do udziału w nabożeństwie **Drogi Krzyżowej** w piątek o godzinie <u>16:30</u>.
-- **Rekolekcje wielkopostne** w naszej parafii rozpoczną się za tydzień, tradycyjnie w IV niedzielę Wielkiego Postu i będą trwały do wtorku włącznie. Rekolekcje wygłosi Ksiądz Wojciech Kotowicz - wicerektor Wyższego Seminarium Duchownego „Hosianum” w Olsztynie.
+- **Rekolekcje wielkopostne** w naszej parafii rozpoczną się za tydzień, tradycyjnie w IV niedzielę Wielkiego Postu i będą trwały do wtorku włącznie. Rekolekcje wygłosi Ksiądz Wojciech Kotowicz - wicerektor Wyższego Seminarium Duchownego Metropolii Warmińskiej „Hosianum” w Olsztynie.
 - We wtorek i czwartek Msza Święta o godzinie <u>8:00</u> rano.
 - **Intencje mszalne na najbliższy tydzień:**
   - poniedziałek: + Kazimierz Rosłaniec;
