@@ -16,14 +16,14 @@ date: 2024-03-10
 > <span style="color: #666699;">Panie Jezu, choć jestem człowiekiem grzesznym i słabym, to jednak pragnę Twojego zbawienia, do którego mogę mieć dostęp tylko przez Twój krzyż. Niech Twoja ofiarna miłość oczyści mnie z mojej winy. Amen.
 > &nbsp;
 
-- **Rekolekcje wielkopostne** w naszej parafii, które dziś się rozpoczęły, będą trwały do wtorku włącznie.  W <u>poniedziałek i we wtorek</u> godz. <u>10:00</u> i <u>17:30</u>. Spowiedź Święta przed Mszą i w czasie Mszy Świętej. Rekolekcje wygłosi Ksiądz Wojciech Kotowicz - wicerektor Wyższego Seminarium Duchownego Metropolii Warmińskiej „Hosianum” w Olsztynie.
+- **Rekolekcje wielkopostne** w naszej parafii, które dziś się rozpoczęły, będą trwały do wtorku włącznie, w <u>poniedziałek i we wtorek</u> godz. <u>10:00</u> i <u>17:30</u>. Spowiedź Święta przed Mszą i w czasie Mszy Świętej. Rekolekcje wygłosi Ksiądz Wojciech Kotowicz - wicerektor Wyższego Seminarium Duchownego Metropolii Warmińskiej „Hosianum” w Olsztynie.
 - Próba chóru dziś o godzinie <u>18:00</u>.
 - Serdecznie zapraszam do udziału w nabożeństwie **Drogi Krzyżowej** w piątek o godzinie <u>16:30</u>.
-- Od soboty 16.03 do 24.03 codziennie po mszy Świetej będziemy odmawiali **nowennę w intencji Ojczyzny, zgody narodowej i poszanowania życia ludzkiego za wstawiennictwem Świętego Andrzeja Boboli i Błogosławionego Jerzego popiełuszki**.
+- Od soboty 16.03 do 24.03 codziennie po Mszy Świętej będziemy odmawiali **nowennę w intencji Ojczyzny, zgody narodowej i poszanowania życia ludzkiego, za wstawiennictwem Świętego Andrzeja Boboli i Błogosławionego Jerzego Popiełuszki**.
 - W środę Msza Święta o godzinie <u>8:00</u> rano.
-- W minionym tygodniu odszedł do wieczności nasz parafianin śp. Tadeusz Jakubowski - lat 93. Wieczny odpoczynek racz zmarłemu dać, Panie.
+- W minionym tygodniu odszedł do wieczności nasz parafianin, śp. Tadeusz Jakubowski - lat 93. Wieczny odpoczynek racz zmarłemu dać, Panie.
 - **Intencje mszalne na najbliższy tydzień:**
-  - poniedziałek: <u>10:00</u> o zdrowie i błogosławieństwo Boże oraz opiekę Matki Bożej dla Krystyny z okazji imienin; <u>17:30</u> ++ z rodz. Ostrowskich, Szkuryńskich, Podolskich, Rafalskichi Nowickich.
+  - poniedziałek: <u>10:00</u> o zdrowie i błogosławieństwo Boże oraz opiekę Matki Bożej dla Krystyny z okazji imienin; <u>17:30</u> ++ z rodz. Ostrowskich, Szkuryńskich, Podolskich, Rafalskich i Nowickich.
   - wtorek: <u>10:00</u> o zdrowie i błogosławieństwo Boże dla Magdaleny; <u>17:30</u> + Marian Kuchmacz (1 rocznica śmierci);
   - środa: dantis;
   - czwartek: + Kazimierz Przestrzelski;
