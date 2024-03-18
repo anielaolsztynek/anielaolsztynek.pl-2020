@@ -22,9 +22,9 @@ date: 2024-03-17
 - Serdecznie zapraszam na ostatnią w tym roku **Drogę Krzyżową** w intencji rodzin z naszej parafii, w piątek bezpośrednio po Mszy Świętej o godzinie <u>17:00</u>.
 - Już za tydzień **Niedziela Palmowa** – Niedziela Męki Pańskiej. Podczas wszystkich Mszy Świętych będzie poświęcenie palm.
 - Wzorem lat ubiegłych zachęcam wszystkie dzieci do udziału w **konkursie na największą i najpiękniejszą palmę wykonaną własnoręcznie** (przy pomocy rodziców). Z palmami zapraszam na Mszę Świętą o godzinie <u>11:00</u>.
-- Kwiaty do **Grobu Pańskiego** wzrem lat ubiegłych będą zakupione. Ofiary na kwiaty można składać indywidualnie lub po Mszy Świętej przy wyjściu z kościoła w Niedzielę Palmową.
-- Okazja do Spowiedzi Świętej codziennie przed Mszą Świętą. W Niedzielę Palmową pół godziny przed Mszą Świętą.
-- **Spotkanie z rodzicami przed I Komunią Świętą** tydzień po świętach - w Niedzielę Miłosierdzia Bożego po Mszy Świętej o godzinie <u>11:00</u>.
+- **Kwiaty do Grobu Pańskiego** wzrem lat ubiegłych będą zakupione. Ofiary na kwiaty można składać indywidualnie lub po Mszy Świętej przy wyjściu z kościoła w Niedzielę Palmową.
+- **Okazja do Spowiedzi Świętej** codziennie przed Mszą Świętą. W Niedzielę Palmową pół godziny przed Mszą Świętą.
+- **Spotkanie z rodzicami przed I Komunią Świętą** tydzień po świętach - w Niedzielę Miłosierdzia Bożego, po Mszy Świętej o godzinie <u>11:00</u>.
 - **Intencje mszalne na najbliższy tydzień:**
   - poniedziałek: + Józef Mrozowski (21 rocznica śmierci);
   - wtorek: + Józef Luks i Małgorzata Luks (33 rocznica śmierci);
