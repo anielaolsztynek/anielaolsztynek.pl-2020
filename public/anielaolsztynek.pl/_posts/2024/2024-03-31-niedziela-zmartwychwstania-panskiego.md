@@ -17,16 +17,16 @@ date: 2024-03-31
 > &nbsp;
 
 - Jutro, w drugim dniu świąt, Msze Święte o godzinie <u>9:00</u> i <u>11:00</u>.
-- Spotkania indywidualne z kandydatami do bierzmowania podsumowujące przygotowanie do tego sakramentu w środę o godzinie <u>17:30</u>.
-- W tym tygodniu wypada **I czwartek, I piątek i I sobota kwietnia**. W piątek przed południem odwiedziny chorych.
+- **Spotkania indywidualne z kandydatami do bierzmowania**, podsumowujące przygotowanie do tego sakramentu, w środę o godzinie <u>17:30</u>.
+- W tym tygodniu wypada **I czwartek, I piątek** i **I sobota kwietnia**. W piątek przed południem odwiedziny chorych.
 - Następna niedziela to **Święto Miłosierdzia Bożego**. Ofiary składane na tacę w tym dniu są przeznaczone na Caritas Archidiecezji Warmińskiej.
-- następna niedziela to także **I niedziela miesiąca - niedziela adoracji Najświętszego Sakramentu**. W tym dniub też zmiana tajemnic różańcowych o godzinie <u>8:30</u>.
+- Następna niedziela to także **I niedziela miesiąca - niedziela adoracji Najświętszego Sakramentu**. W tym dniu też zmiana tajemnic różańcowych o godzinie <u>8:30</u>.
 - Również w następną niedzielę **spotkanie z rodzicami przed I Komunią Świętą**.
 - **Intencje mszalne na najbliższy tydzień:**
   - Poniedziałek Wielkanocny: <u>9:00</u> + Monika, Józef Subotowicz; <u>11:00</u> + Jerzy Płoski (10 rocznica śmierci), Barbara, Stanisław Podowscy;
   - wtorek: + Jan Ćwik (30 dzień po pogrzebie);
   - środa: + Ryszard Pasternak;
-  - czwartek: + Stanisław Żebrowski (31 rocznica śmierci);
+  - czwartek: + Stanisław Żebrowski (31 rocznica śmierci), Stefania, Władysław, Urszula;
   - piątek: dantis;
   - sobota: + Grażyna Masiak i za jej męża i syna;
   - niedziela (07.04): <u>9:00</u> + Ewa Gburczyk (8 rocznica śmierci), Jan Sikora (30 rocznica śmierci); <u>11:00</u> + Regina Zielińska (8 rocznica śmierci), Stanisław, Jan Zielińscy; <u>17:00</u> dziękczynna za otrzymane łaski w rodzinie.
