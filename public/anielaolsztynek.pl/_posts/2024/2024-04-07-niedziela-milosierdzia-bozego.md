@@ -18,10 +18,10 @@ date: 2024-04-07
 
 - Dziś **I niedziela miesiąca - niedziela adoracji Najświętszego Sakramentu**.
 - Dzisiejszą **Niedzielą Miłosierdzia Bożego** rozpoczyna się **80 Tydzień Miłosierdzia**.
-- Dzisiejszy dzień to także **patronalne święto Caritas**. Ofiary składane dziś na tacę są przeznaczone na funkcjonowanie Caritas Archidiecezji Warmińskiej. Przy okazji dziękuję naszemu PZC za zaangażowanie i pracę na rzecz najuboższych.
-- Dziś po Mszy Świetej o godzinie <u>11:00</u>**Spotkanie z rodzicami przed I Komunią Świetą**.
+- Dzisiejszy dzień to także **patronalne święto Caritas**. Ofiary składane dziś na tacę są przeznaczone na funkcjonowanie Caritas Archidiecezji Warmińskiej. Przy okazji dziękuję naszemu Parafialnemu Zespołowi Caritas za zaangażowanie i pracę na rzecz najuboższych.
+- Dziś po Mszy Świętej o godzinie <u>11:00</u> **spotkanie z rodzicami przed I Komunią Świętą**.
 - Jutro w liturgii obchodzimy **Uroczystość Zwiastowania Pańskiego** przeniesioną z 25 marca z uwagi na Wielki Tydzień.
-- W najbliższą sobotę - 13 kwietnia o godzinie <u>10:00</u> - po raz szósty odbędzie się w naszym kościele **Przegląd Pieśni Religijnych**.
+- W najbliższą sobotę - 13 kwietnia - o godzinie <u>10:00</u> odbędzie się po raz szósty w naszym kościele **Przegląd Pieśni Religijnych**.
 - W minionym tygodniu odszła do wieczności nasza parafianka śp. Maria Przestrzelska, lat 94. Wieczny odpoczynek racz zmarłej dać, Panie.
 - **Intencje mszalne na najbliższy tydzień:**
   - poniedziałek: + Tadeusz Jakubowski (30 dzień po pogrzebie);
