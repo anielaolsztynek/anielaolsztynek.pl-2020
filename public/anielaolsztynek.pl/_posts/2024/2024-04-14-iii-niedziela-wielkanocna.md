@@ -11,19 +11,19 @@ date: 2024-04-14
 >
 > **Tajemnica zmartwychwstania**
 >
-> Doświadczenie śmierci kłóci się z doświadczeniem życia, zwłaszcza po chwalebnym zmartwychwstaniu. Uczniowie dobrze wiedzieli, że ich Nauczyciel umarł na krzyżu. Do tej pory sprawy były jasne: kto umarł, ten nie wracał do żyjących. Król Dawid o swoim zmarłym dziecku powiedział: „Ja dołączę do niego, ale ono do mnie nie powróci” (2 Sm 12, 23). Tymczasem Jezus pokonał śmierć, wyłamał jej bramy i wszedł do pełni chwalebnego życia. Teraz objawia siebie w tajemnicy zmartwychwstania. Uczniowie są przestraszeni, niedowierzają, widzą przemienione przez zmartwychwstanie ciało, ale nie wiedzą, jak to wszystko wyjaśnić, jak zrozumieć niepojęte. Dlatego Pan odwołuje się do prostych znaków, które mogą ich przekonać: pokazuje im swoje ciało, żeby zrozumieli, że nie jest zjawą, w ich obecności je rybę. Kiedy oswoił ich z tym nowym doświadczeniem, wyjaśnia sens Pism, które mówiły o losie Chrystusa: że musi cierpieć, a gdy zmartwychwstanie, w Jego imię będzie głoszone nawrócenie wszystkim narodom. To jest nowe zadanie uczniów.
+> Doświadczenie śmierci kłóci się z doświadczeniem życia, zwłaszcza po chwalebnym zmartwychwstaniu. Uczniowie dobrze wiedzieli, że ich Nauczyciel umarł na krzyżu. Do tej pory sprawy były jasne: kto umarł, ten nie wracał do żyjących. Król Dawid o swoim zmarłym dziecku powiedział: „Ja dołączę do niego, ale ono do mnie nie powróci” (2 Sm 12, 23). Tymczasem Jezus pokonał śmierć, wyłamał jej bramy i wszedł do pełni chwalebnego życia. Teraz objawia siebie w tajemnicy zmartwychwstania. Uczniowie są przestraszeni, nie dowierzają, widzą przemienione przez zmartwychwstanie ciało, ale nie wiedzą, jak to wszystko wyjaśnić, jak zrozumieć niepojęte. Dlatego Pan odwołuje się do prostych znaków, które mogą ich przekonać: pokazuje im swoje ciało, żeby zrozumieli, że nie jest zjawą, w ich obecności je rybę. Kiedy oswoił ich z tym nowym doświadczeniem, wyjaśnia sens Pism, które mówiły o losie Chrystusa: że musi cierpieć, a gdy zmartwychwstanie, w Jego imię będzie głoszone nawrócenie wszystkim narodom. To jest nowe zadanie uczniów.
 >
 > <span style="color: #666699;">Panie Jezu, pozwól, aby moje życie przeniknęła radość z Twojego zmartwychwstania. Niech ustąpią lęk, obawa, niedowierzanie. A w to miejsce niech pojawi się wiara, którą pragnę dzielić się z innymi. Amen.
 > &nbsp;
 
 - **Spotkanie indywidualne rodziców z dziećmi przed I Komunią Świętą** we wtorek i środę o godzinie <u>17:30</u>, a w piątek próba o <u>17:30</u>.
-- W czwartek Msza Święta o godzinie <u>8:00</u>.**spotkanie z rodzicami przed I Komunią Świętą**.
+- W czwartek Msza Święta o godzinie <u>8:00</u>.
 - **Intencje mszalne na najbliższy tydzień:**
-  - poniedziałek: o zdrowie i błogosławieństwo Boże dla Kingi i Michała w 1 rocznicę ślubu i ich dzieci Zofii, Ksawerego, Ignacego;
+  - poniedziałek: o zdrowie i błogosławieństwo Boże dla Kingi i Michała w 1 rocznicę ślubu oraz ich dzieci Zofii, Ksawerego, Ignacego;
   - wtorek: + Waldemar Krukowski, Joanna Bijata, Marlena Świdzińska-Hacia;
   - środa: ++ z rodz. Czyczyn, Gosk, Pobudkowskich, Korab, Roman, Szczepańskich, Baranowskich;
-  - czwartek: ;
-  - piątek: ;
+  - czwartek:;
+  - piątek:;
   - sobota: + Roman Kaźmierczak;
   - niedziela (21.04): <u>9:00</u> + Alina Mrozowska i ++ z rodziny; <u>11:00</u> + Władysława Olszewska (11 rocznica śmierci), Stanisław i Adela Zakrzewscy; <u>17:00</u> + Henryka (11 rocznica śmierci) i Jan Przygoda.
 
