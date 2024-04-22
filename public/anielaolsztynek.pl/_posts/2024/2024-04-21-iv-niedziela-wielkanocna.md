@@ -20,8 +20,8 @@ date: 2024-04-21
 - W najbliższy wtorek obchodzimy **uroczystość Świętego Wojciecha**, głównego Patrona Polski i naszej Archidiecezji Warmińskiej.
 - W czwartek liturgiczne **święto Świętego Marka Ewangelisty**.
 - Wspólnota Wyższego Seminarium Duchownego "Hosianum" w Olsztynie zaprasza wszystkich wiernych do udziału w kolejnym **Dniu Wdzięczności**, który odbędzie się w najbliższą sobotę - 27 kwietnia - i rozpocznie się Mszą Świętą o godzinie <u>10:00</u> w kościele seminaryjnym. Będzie to czas wspólnej modlitwy oraz świętowania, podczas którego klerycy i wychowawcy seminaryjni pragną podziękować wszystkim Dobroczyńcom i Przyjaciołom naszego seminarium za wszelką pomoc, życzliwość i wsparcie. Informacje na ten temat na plakacie w gablocie.
-- W środę młodzież z naszej parafii (5 osób)przystąpi do **Sakramentu Bierzmowania** w kościele Najświętszego  Serca Pana Jezusa wraz z tamtejszą młodzieżą o godzinie <u>18:00</u>.
-- W czwartek Msza Święta o godzinie <u>8:00</u>.
+- W środę młodzież z naszej parafii (5 osób) przystąpi do **Sakramentu Bierzmowania** w kościele Najświętszego Serca Pana Jezusa, wraz z tamtejszą młodzieżą, o godzinie <u>18:00</u>.
+- W czwartek Msza Święta o godzinie <u>8:00</u>, w sobotę o godzinie <u>15:30</u>.
 - **Próby dla dzieci przed I Komunią Świętą** w tym tygodniu w czwartek i piątek o godzinie <u>17:30</u>.
 - **Intencje mszalne na najbliższy tydzień:**
   - poniedziałek: + Renata Ogonowska (7 rocznica śmierci);
