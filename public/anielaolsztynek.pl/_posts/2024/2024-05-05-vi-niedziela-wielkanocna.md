@@ -22,8 +22,8 @@ date: 2024-05-05
 - **Próby dla dzieci** przed I Komunią Świętą w tym tygodniu w środę i czwartek o godzinie <u>17:45</u>.
 - **Spowiedź Święta** dla dzieci pierwszokomunijnych, dla ich rodziców i rodzin, w sobotę, 11 maja o godzinie <u>10:00</u>.
 - Zachęcam serdecznie do udziału w **nabożeństwie majowym**, codziennie bezpośrednio po Mszy Świętej o godzinie <u>17:00</u>, w niedziele o godzinie <u>8:45</u>.
-- W następną niedzielę obchodzimy liturgiczną **uroczystość Wniebowstąpienia Pańskiego**.
-- **Intencje mszalne na najbliższy tydzień:**
+- W następną niedzielę obchodzimy **uroczystość Wniebowstąpienia Pańskiego**.
+- **Intencje mszalne na bieżący tydzień:**
   - poniedziałek: + Maria Przestrzelska (30 dzień po pogrzebie);
   - wtorek: + Paweł (19 rocznica śmierci);
   - środa: o Bożą opiekę oraz zdrowie duszy i ciała dla Julity, Zachariasza i Rafała;
