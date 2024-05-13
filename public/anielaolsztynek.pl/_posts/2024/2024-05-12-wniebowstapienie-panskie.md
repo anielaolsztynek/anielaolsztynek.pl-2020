@@ -34,3 +34,5 @@ date: 2024-05-12
   - sobota: o zdrowie, błogosławieństwo Boże i szczęśliwą operację dla Andrzeja;
   - niedziela (19.05): <u>9:00</u> w intencji Pawła w 18 rocznicę urodzin; <u>11:00</u> w intencji Weroniki z okazji imienin i rocznicy chrztu; <u>17:00</u> + Maria i Zenon Bednarek.
 
+
+
