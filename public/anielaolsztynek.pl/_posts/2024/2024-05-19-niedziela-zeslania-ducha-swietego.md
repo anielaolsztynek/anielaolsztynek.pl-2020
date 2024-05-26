@@ -14,7 +14,7 @@ czerpał z tego, co moje, i będzie wam to głosił. Wszystko, co należy do Ojc
 >
 > **Paraklet**
 >
-> Uroczystość Zesłania Ducha Świętego kończy liturgiczny okres Wielkanocny. Jezus nazywa Ducha Świętego Wspomożycielem. W języku greckim użyty jest tu bogaty w znaczenie termin Paraklētos. W zależności od kontekstu tłumaczy się go jako 'adwokat, obrońca czyjejś sprawy, pośrednik, który przemawia w czyjejś obronie'; ale także 'ten, kto ratuje, wybawia, pociesza'. Rozpiętość znaczeniowa tego wyrazu sprawia, że w niektórych przekładach Pisma Świętego zostawia się słowo „Paraklet", gdyż każdy przekład uwzględnia tylko jakiś aspekt. Pan Jezus wyjaśnia, jaka jest rola Parakleta. On świadczy o Jezusie, o znaczeniu Jego osoby i misji. Jest Nauczycielem - prowadzi do pełni prawdy, czyli umożliwia jasne przyjęcie objawienia, jakie daje Jezus. Będzie uczył też o sprawach przyszłych. Paraklet uwielbi Jezusa: ukaże Jego boską naturę, Jego wieczną chwałę, która – póki jest On w ciele - nikomu nie jest w pełni znana. Dopiero po wydarzeniach paschalnych będzie ukazana przez Ducha Prawdy.
+> Uroczystość Zesłania Ducha Świętego kończy liturgiczny okres Wielkanocny. Jezus nazywa Ducha Świętego Wspomożycielem. W języku greckim użyty jest tu bogaty w znaczenie termin Paraklētos. W zależności od kontekstu tłumaczy się go jako 'adwokat, obrońca czyjejś sprawy, pośrednik, który przemawia w czyjejś obronie'; ale także 'ten, kto ratuje, wybawia, pociesza'. Rozpiętość znaczeniowa tego wyrazu sprawia, że w niektórych przekładach Pisma Świętego zostawia się słowo „Paraklet", gdyż każdy przekład uwzględnia tylko jakiś aspekt. Pan Jezus wyjaśnia, jaka jest rola Parakleta. On świadczy o Jezusie, o znaczeniu Jego osoby i misji. Jest Nauczycielem - prowadzi do pełni prawdy, czyli umożliwia jasne przyjęcie objawienia, jakie daje Jezus. Będzie uczył też o sprawach przyszłych. Paraklet uwielbi Jezusa: ukaże Jego boską naturę, Jego wieczną chwałę, która – póki jest On w ciele – nikomu nie jest w pełni znana. Dopiero po wydarzeniach paschalnych będzie ukazana przez Ducha Prawdy.
 >
 > <span style="color: #666699;">Duchu Święty, przyjdź do mego serca. Prowadź mnie ku pełni prawdy, objawiaj mi prawdę o moim Panu, Chrystusie. Umacniaj moją wiarę i ucz dawać świadectwo o Ewangelii zbawienia. Amen.
 > &nbsp;
@@ -50,7 +50,7 @@ czerpał z tego, co moje, i będzie wam to głosił. Wszystko, co należy do Ojc
   - środa: + Roman Kaźmierczak;
   - czwartek: + Krystyna Stawicka (3 rocznica śmierci);
   - piątek: + Bohdan i Walentyna Luks;
-  - sobota: + Helena Grażyna Zakrzewska (14 rocznica śmiewrci);
+  - sobota: + Helena Grażyna Zakrzewska (14 rocznica śmierci);
   - niedziela (26.05): <u>9:00</u> + Walenty Puszczewicz (11 rocznica śmierci); <u>11:00</u> + Alina Mrozowska; <u>17:00</u> + Feliksa, Adam Jeziorscy.
 
 
