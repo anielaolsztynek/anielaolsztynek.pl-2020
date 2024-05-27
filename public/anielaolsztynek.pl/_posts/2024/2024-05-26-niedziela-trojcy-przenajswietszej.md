@@ -16,7 +16,7 @@ date: 2024-05-26
 > <span style="color: #666699;">Panie Boże w Trójcy Osób, dziękuję Ci za dar Twojego zamieszkiwania we mnie. Za to, że przez dzieło Jezusa zrodziłeś mnie do miłości, jaka może doświadczać Ciebie. Amen.
 > &nbsp;
 
-- Z okazji dzisiejszego Dnia Matki wwzystkim Mamom składam najpiękniejsze życzenia: Bożego błogosławieństwa i zdrowia, wiele radości z przeżywania macierzyństwa oraz wiele miłości i wdzięczności od dzieci.
+- Z okazji dzisiejszego **Dnia Matki** wszystkim Mamom składam najpiękniejsze życzenia: Bożego błogosławieństwa i zdrowia, wiele radości z przeżywania macierzyństwa oraz wiele miłości i wdzięczności od dzieci.
 - Uroczystość Najświętszego Ciała i Krwi Pana Jezusa – **Boże Ciało** – wypada w najbliższy czwartek, 30 maja. **Msza Święta jako jedyna w tym dniu będzie odprawiona w Skansenie w amfiteatrze o godzinie <u>10:00</u>**. Po Mszy Świętej, idąc w procesji eucharystycznej, udamy się do czterech ołtarzy. Bardzo proszę o wykonanie ołtarzy w tych samych miejscach, co przed dwoma laty:
   - <u>I ołtarz</u> - ulica Sportowa,
   - <u>II ołtarz</u> - skrzyżowanie ulic Akacjowej i Kasztanowej,
