@@ -20,15 +20,15 @@ date: 2024-06-02
 - Dziś **I niedziela miesiąca** - niedziela adoracji Najświętszego Sakramentu.
 - Z okazji wczorajszego **Dnia Dziecka** wszystkim dzieciom życzę pięknego dzieciństwa, wiele radości, uśmiechów i zdrowia oraz wytrwałości w nauce i Bożego błogosławieństwa.
 - W tym tygodniu wypada **I czwartek i I piątek** czerwca. W I piątek przed południem odwiedziny chorych.
--W piątek wypada też **uroczystość Najświętszego Serca Pana Jezusa**.
+- W piątek wypada też **uroczystość Najświętszego Serca Pana Jezusa**.
 - We wtorek Msza Święta o godzinie <u>8:00</u>.
 - **Intencje mszalne na bieżący tydzień:**
   - poniedziałek: + Kazimierz Przestrzelski (Msza Święta gregoriańska);
-  - wtorek: + Kazimierz Przestrzelski (Msza Święta gregoriańska);
-  - środa: + Kazimierz Przestrzelski (Msza Święta gregoriańska);
-  - czwartek: + Kazimierz Przestrzelski (Msza Święta gregoriańska);
-  - piątek: + Kazimierz Przestrzelski (Msza Święta gregoriańska);
-  - sobota: + Kazimierz Przestrzelski (Msza Święta gregoriańska);
+  - wtorek: + Kazimierz Przestrzelski;
+  - środa: + Kazimierz Przestrzelski;
+  - czwartek: + Kazimierz Przestrzelski;
+  - piątek: + Kazimierz Przestrzelski;
+  - sobota: + Kazimierz Przestrzelski;
   - niedziela (09.06): <u>9:00</u> + Zofia i Teodor Tarasiuk; <u>11:00</u> + Jan, Stanisława, Konstanty Szliwińscy; <u>17:00</u> + Kazimierz Przestrzelski.
 
 
