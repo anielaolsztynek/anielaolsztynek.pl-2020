@@ -17,9 +17,9 @@ date: 2024-07-07
 > &nbsp;
 
 - Dziś I niedziela miesiąca - niedziela **adoracji Najświętszego Sakramentu**.
-- Dziś także 28 rocznica pierwszej Mszy Świętej odprawionej w naszej parafii w kaplicy.
+- Dziś także 28 rocznica pierwszej Mszy Świętej odprawionej w naszej parafii, w kaplicy.
 - We czwartek wypada w liturgii święto **Świętego Benedykta**, patrona Europy.
-- We tym tygodniu zachęcamy do modlitwy **w intencji pomordowanych na Wołyniu w 81 rocznicę tych tragicznych wydarzeń**.
+- We tym tygodniu zachęcamy do modlitwy **w intencji pomordowanych na Wołyniu, w 81 rocznicę tych tragicznych wydarzeń**.
 - W piątek wspominamy w liturgii **Świętego Brunona Bonifacego z Kwerfurtu**, biskupa i męczennika, patrona Archidiecezji Warmińskiej.
 - W następną niedzielę ofiary zbierane na tacę przeznaczone będą na potrzeby **Wyższego Seminarium Duchownego Hosianum** w Olsztynie.
 - Poświęcenie pojazdów odbędzie się za dwa tygodnie.
