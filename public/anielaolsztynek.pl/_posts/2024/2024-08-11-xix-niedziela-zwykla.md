@@ -20,7 +20,7 @@ date: 2024-08-11
 - W tym dniu jest organizowane **Regionalne Święto Ziół** w Skansenie. Msza Święta w kościele w Skansenie, połączona z poświęceniem ziół i kwiatów, o godzinie <u>12:30</u>.
 - W tym dniu będziemy gościli Księdza Włodzimierza Osicę, pallotyna z Radomia, który będzie miał do zaoferowania kawę i herbatę.
 - W środę Msza Święta połączona ze ślubem o godzinie <u>16:00</u> i w sobotę o godzinie <u>17:00</u>.
-- W minionym tygodniu odeszła do wieczności najstarsza parafianka śp. Jadwiga Symonowicz-Gnaś - w 101 roku życia. Pogrzeb we wtorek. Wieczny odpoczynek racz zmarłej dać, Panie.
+- W minionym tygodniu odeszła do wieczności najstarsza parafianka śp. Jadwiga Symonowicz-Gnaś - w 101 roku życia. Pogrzeb we wtorek: różaniec o godzinie <u>10:30</u>, Msza Święta o <u>11:00</u>. Wieczny odpoczynek racz zmarłej dać, Panie.
 - **Intencje mszalne na bieżący tydzień:**
   - poniedziałek: + Wacław Nawrocki (1 rocznica śmierci);
   - wtorek: + Kazimierz Przestrzelski;
