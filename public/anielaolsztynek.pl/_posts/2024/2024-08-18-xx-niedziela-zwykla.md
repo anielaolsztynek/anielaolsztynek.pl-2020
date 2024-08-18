@@ -13,7 +13,7 @@ date: 2024-08-18
 >
 > Końcowy fragment mowy eucharystycznej. Jezus jest Chlebem dającym życie. Daje życie światu przez swoją ofiarę na krzyżu, gdzie dokonał odkupienia. Czyni to w Eucharystii, przychodzi do nas w sposób sakramentalny. W dzisiejszym fragmencie ewangelista podkreśla w słowach Jezusa jeszcze inne aspekty. Wyraźniejszy staje się sakramentalny wymiar przyjmowania, czyli spożywania Ciała i Krwi Jezusa. Słuchacze Nauczyciela stawiają ważne pytanie: „Jak On może nam dać swoje ciało do jedzenia?". Spożywanie Ciała i Krwi - jak podkreśla Jezus - jest konieczne, by mieć w sobie życie. Komunia, jaka rodzi się pomiędzy Jezusem w Eucharystii a tym, kto Go przyjmuje, jest początkiem życia wiecznego.
 >
-> <span style="color: #666699;">Panie Jezu, tak jak chleba do życia doczesnego potrzebuję Twojego eucharystycznego Ciała, abym mógł kiedyś cieszyć się pełnią życia, które tylko Ty możesz dać. Amen.
+> <span style="color: #666699;">Panie Jezu, tak jak chleba do życia doczesnego, potrzebuję Twojego eucharystycznego Ciała, abym mógł kiedyś cieszyć się pełnią życia, które tylko Ty możesz dać. Amen.
 > &nbsp;
 
 - Księża Marianie, posługujący w Stoczku Klasztornym, serdecznie zapraszają na **główne uroczystości odpustowe ku czci Matki Bożej Królowej Pokoju** w następną niedzielę - 25 sierpnia. Program w gablocie.
