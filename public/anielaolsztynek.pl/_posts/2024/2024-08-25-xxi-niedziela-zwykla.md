@@ -21,6 +21,7 @@ date: 2024-08-25
 - Również w następną niedzielę - 1 września - wypada **85 rocznica wybuchu II wojny światowej**, jest to dzień pamięci ofiar tej wojny. Obchody rocznicy odbędą się w tym dniu na Cmentarzu Ofiar Faszyzmu w Sudwie i będą połączone z nabożeństwem o godzinie <u>10:15</u> w intencji poległych.
 - **Zmiana tajemnic różańcowych** w następną niedzielę o godzinie <u>8:30</u>.
 - Jutro liturgiczna **uroczystość Najświętszej Marii Panny Częstochowskiej**.
+- W związku z wprowadzeniem tzw. ustawy Kamilka na stronie internetowej, w zakładce "Dokumenty", zamieszczono Standardy Ochrony Dzieci w Archidiecezji Warmińskiej 2024.
 - **Intencje mszalne na bieżący tydzień:**
   - poniedziałek: o zdrowie i błogosławieństwo Boże dla Władysławy z okazji imienin; w intencji Sylwii i Marka w 7 rocznicę ślubu i w intencji Łucji w 6 rocznicę chrztu;
   - wtorek: + Wojciech Wydra (40 dzień po pogrzebie);
