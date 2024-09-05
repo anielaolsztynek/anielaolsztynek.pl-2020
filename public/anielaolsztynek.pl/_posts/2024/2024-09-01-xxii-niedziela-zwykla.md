@@ -21,7 +21,7 @@ date: 2024-09-01
 - W tym tygodniu wypada **I czwartek, I piątek, I sobota** września. W piątek przed południem odwiedziny chorych z Komunią Świętą. Spowiedź pierwszopiątkowa od godziny <u>16:30</u>. Zachęcam do spowiedzi szczególnie dzieci i młodzież, z okazji rozpoczęcia nowego roku szkolnego.
 - W następną niedzielę - 8 września - wypada liturgiczna uroczystość **Narodzenia Najświętszej Marii Panny** - Matki Bożej Gietrzwałdzkiej.
 - Główne uroczystości **147 rocznicy Objawień Najświętszej Marii Panny Gietrzwałdzkiej** oraz **58 Dożynki Archidiecezjalne** w następną niedzielę o godzinie <u>11:00</u>. Mszy Świętej będzie przewodniczył Ksiądz Biskup Szymon Stułkowski, ordynariusz Diecezji Płockiej. Plakat w gablocie.
-- **Pielgrzymka piesza z Olsztynka do Gietrzwałdu** w najbliższą sobotę - 7 września. Wyjście o godzinie <u>8:00</u> spod kościoła Najświętszego Serca Pana Jezusa.
+- **Pielgrzymka piesza z Olsztynka do Gietrzwałdu** w najbliższą sobotę - 7 września. Wyjście o godzinie <u>7:30</u> spod kościoła Najświętszego Serca Pana Jezusa.
 - Za dwa tygodnie - 15 września - odbędą się **Dożynki Wojewódzkie w Skansenie**, o godzinie <u>11:30</u>. W związku z tym, w tym dniu nie będzie Mszy Świętej o godzinie 11:00 w naszym kościele.
 - Spotkanie z rodzicami dzieci, które w tym roku szkolnym **przygotowują się do I Komunii Świętej**, w następną niedzielę po Mszy Świętej o godzinie <u>11:00</u>. Rodzice zgłaszają swoje dzieci do przyjęcia tego sakramentu.
 - Poświęcenie tornistrów i przyborów szkolnych **pierwszoklasistów** w następną niedzielę pod koniec Mszy Świętej o godzinie <u>11:00</u>.
