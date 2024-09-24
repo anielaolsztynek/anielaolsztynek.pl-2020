@@ -17,8 +17,8 @@ date: 2024-09-22
 > &nbsp;
 
 - Dzisiejsze ofiary zbierane na tacę są przeznaczone na potrzeby **Wyższego Seminarium Duchownego "Hosianum"** w Olsztynie.
-- Natomiast po Mszy Świętej przy wyjściu z kościoła będzie **zbiórka ofiar dla powodzian"**. Za wszystkie ofiary składam serdeczne Bóg zapłać.
-- W piątek Msza Święta połączona ze ślubem będzie o godzinie <u>16:30</u>.
+- Natomiast po Mszy Świętej - przy wyjściu z kościoła - będzie **zbiórka ofiar dla powodzian**. Za wszystkie ofiary składam serdeczne Bóg zapłać.
+- W piątek Msza Święta, połączona ze ślubem, będzie o godzinie <u>16:30</u>.
 - **Intencje mszalne na bieżący tydzień:**
   - poniedziałek: własna;
   - wtorek: + Renata Staniszewska (2 miesiące po pogrzebie);
