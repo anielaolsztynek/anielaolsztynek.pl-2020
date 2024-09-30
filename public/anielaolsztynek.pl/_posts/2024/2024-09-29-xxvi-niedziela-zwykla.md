@@ -18,9 +18,9 @@ date: 2024-09-29
 
 - We wtorek rozpoczyna się październik - **miesiąc wspólnej modlitwy różańcowej**.
 - Gorąco zachęcam do tej wspólnej modlitwy codziennie o godzinie <u>16:30</u>, w niedziele o godzinie <u>8:30</u>.
-Dzieci, w tym dzieci przygotowujące się do I Komunii Świętej, zapraszam w czwartek. Kandydatów do bierzmowania z klas VIII zapraszam również w czwartek na godzinę <u>16:30</u>. Tych, którzy nie byli na pierwszym spotkaniu proszę o spotkanie indywidualne z rodzicem.
-- W tym tygodniu wypada **I czwartek, I piątek i I sobota** października. **I czwartek** to dzień upamiętniający ustanowienie Eucharystii i Kapłaństwa. W tym dniu modlimy się o nowe powołania kapłańskie i zakonne. **I piątek** to dzień poświęcony czci Najświętszego Serca Pana Jezusa. Przed południem odwiedziny chorych z Komunią Świętą. Po południu spowiedź przed różańcem. **I sobota** to dzień poświęcony czci Niepokalanego Serca Maryi - odmawiamy nabożeństwo do Najświętszego Serca Maryi.
-- Następna **I niedziela miesiąca** to **niedziela Adoracji Najświętszego Sakramentu**, pod koniec Mszy Świętych o godzinie <u>9:00</u> i <u>11:00</u>.
+Dzieci, w tym dzieci przygotowujące się do I Komunii Świętej, zapraszam w czwartek. Kandydatów do bierzmowania z klas VIII zapraszam również w czwartek na godzinę <u>16:30</u>. Tych, którzy nie byli na pierwszym spotkaniu, proszę o spotkanie indywidualne z rodzicem.
+- W tym tygodniu wypada **I czwartek, I piątek i I sobota** października. **I czwartek** to dzień upamiętniający ustanowienie Eucharystii i Kapłaństwa. W tym dniu modlimy się o nowe powołania kapłańskie i zakonne. **I piątek** to dzień poświęcony czci Najświętszego Serca Pana Jezusa. Przed południem odwiedziny chorych z Komunią Świętą. Po południu spowiedź przed różańcem. **I sobota** to dzień poświęcony czci Niepokalanego Serca Maryi - odmawiamy nabożeństwo do Niepokalanego Serca Maryi.
+- Następna, **I niedziela miesiąca**, to **niedziela Adoracji Najświętszego Sakramentu**, pod koniec Mszy Świętych o godzinie <u>9:00</u> i <u>11:00</u>.
 - W następną niedzielę proszę, aby **dzieci przygotowujące się w tym roku szkolnym do I Komunii Świętej przyniosły do poświęcenia różańce** na godzinę <u>11:00</u>.
 - **Młodzież z klas VI** - w ramach zapisów i przygotowania do bierzmowania - zapraszam z rodzicami w następną niedzielę na godzinę <u>11:00</u>.
 - Jutro Msza Święta o godzinie <u>8:00</u>.
