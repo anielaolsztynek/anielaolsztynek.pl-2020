@@ -17,17 +17,17 @@ date: 2024-10-06
 > &nbsp;
 
 - Dziś pierwsza niedziela miesiąca - **niedziela adoracji Najświętszego Sakramentu**.
-- Dziś **poświęcenie różańców** dla dzieci pierwszokomunijnych pod koniec Mszy Świętej o godzinie <u>11:00</u>.
-- Po Mszy Świętej o godzinie <u>11:00</u> spotkanie z młodzieżą klas VI w ramach zapisów i przygotowania do bierzmowania.
+- Także dziś **poświęcenie różańców** dla dzieci pierwszokomunijnych pod koniec Mszy Świętej o godzinie <u>11:00</u>.
+- Natomiast po Mszy Świętej o godzinie <u>11:00</u> spotkanie z młodzieżą klas VI w ramach zapisów i przygotowania do bierzmowania.
 - W następną niedzielę - w Dniu Papieskim - po Mszach Świętych w ramach Dzieła Nowego Tysiąclecia będą zbierane ofiary na fundusz stypendialny dla uzdolnionej młodzieży z małych miejscowości i z rodzin najuboższych.
 - Zachęcam i zapraszam do **wspólnej modlitwy różańcowej** przez cały październik, codziennie o godzinie <u>16:30</u>, w niedziele o godzinie <u>8:30</u>. Dzieci i młodzież z klas VIII zapraszam w czwartek  na godzinę <u>16:30</u>.
 - Młodzież z klas VII zapraszam z indeksami w środę także na godzinę <u>16:30</u>. Przypominam, że obowiązuje trzyletni cykl przygotowania do bierzmowania.
 - Przypominam też, że w ramach przygotowania do I Komunii Świętej, dzieci z klas II również zbierają obrazki z niedzielnych Mszy Świętych.
 - W dniach 11-13 października br. w Sanktuarium Matki Bożej w Gietrzwałdzie odbędzie się doroczne i jednocześnie jubileuszowe **25 Triduum Różańcowe pod hasłem „Przez Maryję do Jezusa”**. Plakat w gablocie.
-- W minionym tygodniu odeszło do wieczności dwoje naszych parafian: śp. Stefan Stawicki, lat 87 i śp. Krystyna Jurkowska, lat 66. pogrzeb jutro o godzinie <u>11:00</u>. Wieczny odpoczynek racz zmarłym dać, Panie.
+- W minionym tygodniu odeszło do wieczności dwoje naszych parafian: śp. Stefan Stawicki, lat 87 i śp. Krystyna Jurkowska, lat 66. Pogrzeb jutro o godzinie <u>11:00</u>. Wieczny odpoczynek racz zmarłym dać, Panie.
 - **Intencje mszalne na najbliższy tydzień:**
   - poniedziałek: w intencji Wspólnot Różańcowych;
-  - wtorek: + Stanisław Tomaszewski (5 rocznica śmierci), Marek Tomaszewski i ++z rodz. Tomaszewskich i Rybickich;
+  - wtorek: + Stanisław Tomaszewski (5 rocznica śmierci), Marek Tomaszewski i ++ z rodz. Tomaszewskich i Rybickich;
   - środa: o zdrowie duszy i ciała dla wnuka Franciszka;
   - czwartek: o Bożą opiekę oraz zdrowie duszy i ciała dla Julity, Zachariasza i Rafała;
   - piątek: + Izabela Stankiewicz-Herda (od rodz. Ziębów z Sieniawy);
