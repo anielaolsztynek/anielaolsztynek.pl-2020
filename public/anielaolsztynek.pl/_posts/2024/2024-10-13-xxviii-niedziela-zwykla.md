@@ -16,13 +16,13 @@ date: 2024-10-13
 > <span style="color: #666699;">Panie Jezu, Ty jesteś drogą, którą pragnę iść, aby niezawodnie wejść do domu w niebie, gdzie przygotowałeś dla nas miejsce. Daj mi serce wolne od przywiązania do tego, co jest wyłącznie ziemskie. Amen.
 > &nbsp;
 
-- Dziś, w Dniu Papieskim, obchodzonym w Polsce od 24 lat, (w tym roku pod hasłem "Ewangelia cierpienia i starości") po Mszy Świętej będą zbierane ofiary na fundusz stypendialny dla uzdolnionej młodzieży z małych miejscowości i z rodzin najuboższych.
+- Dziś, w Dniu Papieskim, obchodzonym w Polsce od 24 lat (w tym roku pod hasłem "Ewangelia cierpienia i starości"), po Mszy Świętej będą zbierane ofiary na fundusz stypendialny dla uzdolnionej młodzieży z małych miejscowości i z rodzin najuboższych.
 - Jutro wypada **Dzień Edukacji Narodowej - Dzień Nauczyciela**. Z okazji tego dnia wszystkim nauczycielom, katechetom i wychowawcom składam najlepsze życzenia: wytrwałości, cierpliwości, spokoju, ludzkiej satysfakcji i wdzięczności oraz błogosławieństwa Bożego w pracy oraz w życiu rodzinnym i osobistym.
 - natomiast w piątek - 18 października - wypada liturgiczne **święto Świętego Łukasza Apostoła - patrona służby zdrowia**. Wszystkim pracownikom tej branży życzę Bożego błogosławieństwa i Bożego ducha w posługiwaniu ludziom chorym.
 - **Tydzień misyjny** rozpoczyna się w następną niedzielę. Ofiary składane wówczas na tacę będą przeznaczone na misje.
 - Zapraszam do wspólnej modlitwy różańcowej codziennie o godzinie <u>16:30</u>, w niedziele o godzinie <u>8:30</u>. Dzieci i młodzież przed bierzmowaniem zapraszam w czwartek.
 - Kartki na wypominki i na Mszę Świętą zbiorową za zmarłych są wyłożone na półce z prasą.
-- W minionym tygodniu odeszła do wieczności nasza parafianka: śp. Janina Szulc, lat 94. Wieczny odpoczynek racz zmarłej dać, Panie.
+- W minionym tygodniu odeszła do wieczności nasza parafianka śp. Janina Szulc, lat 94. Wieczny odpoczynek racz zmarłej dać, Panie.
 - W związku z pożarem budynku mieszkalnego w Łęcinach, który uległ całkowitemu zniszczeniu (zrównany z ziemią), odpowiadając na prośbę poszkodowanej rodziny, a także solidaryzując się jako wspólnota parafialna z poszkodowanymi, proszę o dobrowolne ofiary, które będą zbierane w następną niedzielę po Mszach Świętych. Pewną kwotę już przekazałem tej rodzinie.
 - **Intencje mszalne na najbliższy tydzień:**
   - poniedziałek: ++ z rodz. Czyczyn, Gosk, Pobudkowskich, Korab, Roman, Szczepańskich, Baranowskich;
