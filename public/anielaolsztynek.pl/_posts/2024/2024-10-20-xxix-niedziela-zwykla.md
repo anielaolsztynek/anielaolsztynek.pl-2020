@@ -1,6 +1,6 @@
 ---
-title: XXVIII Niedziela zwykła
-date: 2024-10-13
+title: XXIX Niedziela zwykła
+date: 2024-10-20
 ---
 
 > **<span style="color: #5D4587;">Mk 10, 35-45 </span>**
