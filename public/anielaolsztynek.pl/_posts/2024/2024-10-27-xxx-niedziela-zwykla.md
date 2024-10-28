@@ -30,6 +30,6 @@ date: 2024-10-27
   - wtorek: o zdrowie i błogosławieństwo Boże dla Wioletty w dniu imienin;
   - środa: własna;
   - czwartek: + Zofia Chojnacka (24 rocznica śmierci), Zygmunt Chojnacki, Marianna Młyńczak;
-  - piątek: <u>9:00</u> + Albin Skłodowski (10 rocznica śmierci), Zofia i Henryk Kornowscy, Mirosław Kornowski; <u>11:00</u> + Alina Mrozowska i ++ z rodz. Mrozowskich i Witek; Msza Święta zbiorowa w DPS
+  - piątek: <u>9:00</u> + Albin Skłodowski (10 rocznica śmierci), Zofia i Henryk Kornowscy, Mirosław Kornowski; <u>11:00</u> + Alina Mrozowska i ++ z rodz. Mrozowskich i Witek; Msza Święta zbiorowa w DPS;
   - sobota: ;
   - niedziela (03.11): <u>9:00</u> + Matylda Panasiuk (4 rocznica śmierci), Stefan i Katarzyna Panasiuk; <u>11:00</u> + Janina Stobiecka (30 dzień po pogrzebie); <u>17:00</u> + Regina Zielińska (4 rocznica śmierci), Franciszek Zieliński (42 rocznica śmierci), Roman Oleszczuk (3,5 roku po śmierci).
