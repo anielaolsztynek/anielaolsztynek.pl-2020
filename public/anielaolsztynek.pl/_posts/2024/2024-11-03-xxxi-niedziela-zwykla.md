@@ -1,6 +1,6 @@
 ---
 title: XXXI Niedziela zwykła
-date: 2024-11-31
+date: 2024-11-03
 ---
 
 > **<span style="color: #5D4587;">Mk 12, 28b-34 </span>**
@@ -24,6 +24,6 @@ date: 2024-11-31
   - wtorek: Msza Święta zbiorowa za zmarłych;
   - środa: Msza Święta zbiorowa za zmarłych;
   - czwartek: Msza Święta zbiorowa za zmarłych;
-  - piątek: Msza Święta zbiorowa za zmarłych w DPS;
+  - piątek: Msza Święta zbiorowa za zmarłych;
   - sobota: + Bogdan Sira (6 rocznica śmierci); DPS - Msza Święta zbiorowa za zmarłych;
-  - niedziela (10.11): <u>9:00</u> + Zbigniew Janikowski (12 rocznica śmierci), Ryszard i Marian Miklaszewscy; <u>11:00</u> + Krystyna (8 rocznica śmierci) i Edmund Chodubski; <u>17:00</u> + Stefan Stawicki (30 dzień po pogrzebie); Msza Święta zbiorowa za zmarłych (ks. Michał)
+  - niedziela (10.11): <u>9:00</u> + Zbigniew Janikowski (12 rocznica śmierci), Ryszard i Marian Miklaszewscy; <u>11:00</u> + Krystyna (8 rocznica śmierci) i Edmund Chodubski; <u>17:00</u> + Stefan Stawicki (30 dzień po pogrzebie); Msza Święta zbiorowa za zmarłych (ks. Michał).
