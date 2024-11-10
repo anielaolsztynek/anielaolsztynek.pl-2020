@@ -16,7 +16,7 @@ date: 2024-11-10
 > <span style="color: #666699;">Panie Jezu, chcę się Tobie powierzyć z taką ufnością, na jaką mnie stać. Moje życie należy do Ciebie, nawet jeśli próbuję iść własną drogą. Niech w Twoich dłoniach będzie bezpieczne. Amen.
 > &nbsp;
 
-- Dziś, w **Dniu Solidarności z Kościołem Prześladowanym**, po Mszy Świętej będą zbierane ofiary jako pomoc naszym siostrom i braciom na Bliskim Wschodzie.
+- Dziś w **Dniu Solidarności z Kościołem Prześladowanym** po Mszy Świętej będą zbierane ofiary jako pomoc naszym siostrom i braciom na Bliskim Wschodzie.
 - Jutro - 11 listopada, wypada **106 Rocznica Odzyskania Niepodległości Polski**. - W tym dniu wypada też 24 rocznica poświęcenia dzwonu i plebanii.
 - W sobotę - 16 listopada wypada liturgiczne **Święto Matki Bożej Ostrobramskiej - Matki Miłosierdzia**.
 - **Światowy Dzień Ubogich** wypada w następną niedzielę. Po Mszy Świętej będą zbierane ofiary na potrzeby Caritas Archidiecezji Warmińskiej.
@@ -29,3 +29,5 @@ date: 2024-11-10
   - piątek: + Grzegorz Bakulin (30 dzień po pogrzebie); w tym dniu Mszę Świętą zbiorową za zmarłych odprawię w ciągu dnia;
   - sobota: Msza Święta zbiorowa za zmarłych;
   - niedziela (10.11): <u>9:00</u> + Kazimierz Przestrzelski; <u>11:00</u> + Krzysztof Kośnik (3 rocznica śmierci); <u>17:00</u> Msza Święta zbiorowa za zmarłych.
+
+
