@@ -29,3 +29,6 @@ date: 2024-11-10
   - piątek: + Grzegorz Bakulin (30 dzień po pogrzebie); w tym dniu Mszę Świętą zbiorową za zmarłych odprawię w ciągu dnia;
   - sobota: Msza Święta zbiorowa za zmarłych;
   - niedziela (17.11): <u>9:00</u> + Kazimierz Przestrzelski; <u>11:00</u> + Krzysztof Kośnik (3 rocznica śmierci); <u>17:00</u> Msza Święta zbiorowa za zmarłych.
+
+
+
