@@ -17,8 +17,9 @@ date: 2024-11-10
 > &nbsp;
 
 - Dziś w **Dniu Solidarności z Kościołem Prześladowanym** po Mszy Świętej będą zbierane ofiary jako pomoc naszym siostrom i braciom na Bliskim Wschodzie.
-- Jutro - 11 listopada, wypada **106 Rocznica Odzyskania Niepodległości Polski**. - W tym dniu wypada też 24 rocznica poświęcenia dzwonu i plebanii.
-- W sobotę - 16 listopada wypada liturgiczne **Święto Matki Bożej Ostrobramskiej - Matki Miłosierdzia**.
+- Jutro - 11 listopada - wypada **106 Rocznica Odzyskania Niepodległości Polski**.
+- W tym dniu wypada też 24 rocznica poświęcenia dzwonu i plebanii.
+- W sobotę, 16 listopada, wypada liturgiczne **Święto Matki Bożej Ostrobramskiej - Matki Miłosierdzia**.
 - **Światowy Dzień Ubogich** wypada w następną niedzielę. Po Mszy Świętej będą zbierane ofiary na potrzeby Caritas Archidiecezji Warmińskiej.
 - Dziś drugi dzień bazarku w Miejskim Domu Kultury w godzinach <u>11:00</u> - <u>15:00</u>. Można nabyć książki, zabawki, ubrania w okazyjnych cenach. Cały dochód jest przeznaczony na leczenie Wiolety Duch chorej na nowotwór.
 - **Intencje mszalne na najbliższy tydzień:**
