@@ -16,8 +16,8 @@ date: 2024-11-17
 > <span style="color: #666699;">Panie Jezu, czekam na Twoje przyjście. Ono jest pewne jak nadejście poranka. Przyjdź do mnie przez natchnienia Ducha Świętego, przyjdź w ostatnim momencie mojego życia, jako mój Zbawiciel. Amen.
 > &nbsp;
 
-- Dziś **Światowy Dzień Ubogich**. Po Mszy Świętej będą zbierane ofiary. Według zapowiedzi miały być przeznaczone na potrzeby Caritas. W związku z sytuacją losową, czyli pożarem plebanii Ojców Redemptorystów w Braniewie, decyzją Księdza Arcybiskupa Józefa Górzyńskiego ofiary będą zbierane na ten cel.
-- W następną niedzielę zakończenie roku kościelnego (liturgicznego) - **Uroczystością Chrystusa Króla Wszechświata**. Po Mszy Świętej o godzinie <u>9:00</u> będzie wystawienie Najświętszego Sakramentu, Litania do Jezusa Chrystusa Króla Wszechświata i akt poświęcenia rodzaju ludzkiego Jezusowi Chrystusowi Królowi Wszechświata.
+- Dziś **Światowy Dzień Ubogich**. Po Mszy Świętej będą zbierane ofiary, według zapowiedzi miały być przeznaczone na potrzeby Caritas. W związku z sytuacją losową, czyli pożarem plebanii Ojców Redemptorystów w Braniewie, decyzją Księdza Arcybiskupa Józefa Górzyńskiego ofiary będą zbierane właśnie na ten cel.
+- W następną niedzielę zakończenie roku kościelnego (liturgicznego) **Uroczystością Chrystusa Króla Wszechświata**. Po Mszy Świętej o godzinie <u>9:00</u> będzie wystawienie Najświętszego Sakramentu, Litania do Jezusa Chrystusa Króla Wszechświata i akt poświęcenia rodzaju ludzkiego Jezusowi Chrystusowi Królowi Wszechświata.
 - Natomiast na początku Mszy Świętej o godzinie <u>11:00</u> wprowadzenie kandydatów w posługę ministranta.
 - W następną niedzielę ofiary zbierane na tacę będą przeznaczone na potrzeby **Wyższego Seminarium Duchownego "Hosianum" w Olsztynie**.
 - **Zbiórka elektrośmieci.** Wzorem lat ubiegłych Green Office Ecologic wraz ze Stowarzyszeniem Dobrych Inicjatyw "Pro Missio" organizuje akcję ekologiczną polegającą na zbiórce zużytego sprzętu elektrycznego i elektronicznego. Sprzedaż odzyskanych surowców z tego sprzętu pozwala na finansowanie projektów misyjnych Kościoła Katolickiego. Nasze projekty pomocowe realizujemy w porozumieniu z Przewodniczącym Zespołu Pomocy Kościołowi na Wschodzie przy Komisji Episkopatu Polski. Data odbioru tego sprzętu to 28.11, godzina <u>14:00</u>. Sprzęt można składać wzdłuż kaplicy, przy bocznym wejściu.
@@ -30,7 +30,7 @@ date: 2024-11-17
   - czwartek: Msza Święta zbiorowa za zmarłych;
   - piątek: + Tadeusz Piątosa (30 dzień po pogrzebie); w tym dniu Msza Święta zbiorowa za zmarłych w ciągu dnia;
   - sobota: + Ewa Remiszewska (z okazji urodzin); w tym dniu Mszę Świętą zbiorową za zmarłych odprawię o godzinie <u>15:00</u> w DPS;
-  - niedziela (24.11): <u>9:00</u> + Józef Żuchowski (29 rocznica śmierci); <u>11:00</u> + Klemens Dąbrowski (29 rocznica śmierci); <u>17:00</u> + Irena, Tadeusz, (9 rocznica śmierci) i ++ z rodz. Fijałkowskich, Borowik i Nowak .
+  - niedziela (24.11): <u>9:00</u> + Józef Żuchowski (29 rocznica śmierci); <u>11:00</u> + Klemens Dąbrowski (29 rocznica śmierci); <u>17:00</u> + Irena, Tadeusz, (9 rocznica śmierci) i ++ z rodz. Fijałkowskich, Borowik i Nowak.
 
 
 
