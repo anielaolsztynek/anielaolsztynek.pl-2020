@@ -5,7 +5,7 @@ date: 2024-11-10
 
 > **<span style="color: #5D4587;">Mk 12, 38-44 </span>**
 >
-> **<span style="color: #5D4587;">„Nauczając, Jezus mówił: „Miejcie się na baczności przed nauczycielami Pisma. Chętnie chodzą w wytwornych szatach, lubią pozdrowienia na placach, pierwsze krzesła w synagogach i honorowe miejsca na ucztach. Objadają domy wdów i dla pozoru długo się modlą. Ich spotka surowszy wyrok«. Potem, siedząc naprzeciw skarbony, przypatrywał się, jak tłum wrzucał do niej drobne pieniądze. Wielu bogatych wrzucało wiele. Gdy przyszła pewna uboga wdowa, wrzuciła dwie drobne monety, czyli jeden kwadrans. Wtedy przywołał swoich uczniów i powiedział do nich: »Zapewniam was: Ta uboga wdowa wrzuciła więcej od wszystkich, którzy wrzucali do skarbony. Wszyscy bowiem wrzucali z tego, co im zbywało, a ona ze swego ubóstwa wrzuciła wszystko, co miała, całe swoje utrzymanie«.”</span>**
+> **<span style="color: #5D4587;">„Nauczając, Jezus mówił: »Miejcie się na baczności przed nauczycielami Pisma. Chętnie chodzą w wytwornych szatach, lubią pozdrowienia na placach, pierwsze krzesła w synagogach i honorowe miejsca na ucztach. Objadają domy wdów i dla pozoru długo się modlą. Ich spotka surowszy wyrok«. Potem, siedząc naprzeciw skarbony, przypatrywał się, jak tłum wrzucał do niej drobne pieniądze. Wielu bogatych wrzucało wiele. Gdy przyszła pewna uboga wdowa, wrzuciła dwie drobne monety, czyli jeden kwadrans. Wtedy przywołał swoich uczniów i powiedział do nich: »Zapewniam was: Ta uboga wdowa wrzuciła więcej od wszystkich, którzy wrzucali do skarbony. Wszyscy bowiem wrzucali z tego, co im zbywało, a ona ze swego ubóstwa wrzuciła wszystko, co miała, całe swoje utrzymanie«.”</span>**
 >
 >
 >
