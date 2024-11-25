@@ -1,5 +1,5 @@
 ---
-title: XXXIV Niedziela zwykła
+title: XXXIV Niedziela zwykła - Uroczystość Jezusa Chrystusa Króla Wszechświata
 date: 2024-11-24
 ---
 
@@ -17,13 +17,13 @@ date: 2024-11-24
 > &nbsp;
 
 - Bóg zapłać za ofiary składane dziś na tacę na potrzeby **Wyższego Seminarium Duchownego „Hosianum” w Olsztynie**.
-- Dziś po Mszy Świętej o godzinie <u>9:00</u> na zakończenie roku kościelnego wystawienie Najświętszego Sakramentu, Litania do Jezusa Chrystusa Króla i akt poświęcenia rodzaju ludzkiego Jezusowi Chrystusowi Królowi Wszechświata.
+- Dziś po Mszy Świętej o godzinie <u>9:00</u> na zakończenie roku kościelnego wystawienie Najświętszego Sakramentu, litania do Jezusa Chrystusa Króla i akt poświęcenia Jezusowi Chrystusowi Królowi Wszechświata.
 - Od następnej niedzieli rozpoczyna się **Adwent** - okres przygotowania do Narodzenia Pańskiego.
-- **Rekolekcje Adwentowe** w naszej parafii za dwa tygodnie - tradycyjnie od II Niedzieli Adwentu .
-- **Opłatki na stół wigilijny** będą roznoszone tradycyjnie do wszystkich mieszkań w parafii. Można nabyć je też osobiście w kancelarii. Ofiary składane przy tej okazji będą przeznaczone na ogrzewanie kościoła.
+- **Rekolekcje Adwentowe** w naszej parafii za dwa tygodnie - tradycyjnie od II Niedzieli Adwentu.
+- **Opłatki na stół wigilijny** będą roznoszone tradycyjnie do mieszkań w parafii. Można nabyć je też osobiście w kancelarii. Ofiary składane przy tej okazji będą przeznaczone na ogrzewanie kościoła.
 - **Zmiana tajemnic różańcowych** i wspólny różaniec w następną niedzielę o godzinie <u>8:30</u>.
-- Z uwagi na wystawienie Najświętszego Sakramentu dziś o godzinie <u>9:00</u>, nie będzie wystawienie w następną niedzielę.
-- Natomiast w następną niedzielę będzie odczytany **list Arcybiskupa na rozpoczęcie nowego roku kościelnego - duszpasterskiego**.
+- Z uwagi na wystawienie Najświętszego Sakramentu dziś o godzinie <u>9:00</u>, nie będzie wystawienia w następną niedzielę.
+- Natomiast w następną niedzielę będzie odczytany **list Księdza Arcybiskupa na rozpoczęcie nowego roku kościelnego - duszpasterskiego**.
 - W sobotę, 30 listopada, obchodzimy liturgiczną **Uroczystość Świętego Andrzeja Apostoła** - głównego Patrona Archidiecezji Warmińskiej.
 - **Zbiórka elektrośmieci.** Wzorem lat ubiegłych Green Office Ecologic wraz ze Stowarzyszeniem Dobrych Inicjatyw "Pro Missio" organizuje akcję ekologiczną polegającą na zbiórce zużytego sprzętu elektrycznego i elektronicznego. Sprzedaż odzyskanych surowców z tego sprzętu pozwala na finansowanie projektów misyjnych Kościoła Katolickiego. Nasze projekty pomocowe realizujemy w porozumieniu z Przewodniczącym Zespołu Pomocy Kościołowi na Wschodzie przy Komisji Episkopatu Polski. Data odbioru tego sprzętu to 28.11, godzina <u>14:00</u>. Sprzęt można składać wzdłuż kaplicy, przy bocznym wejściu.
 - **Intencje mszalne na najbliższy tydzień:**
