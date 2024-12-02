@@ -17,11 +17,11 @@ date: 2024-12-01
 > &nbsp;
 
 - Dziś rozpoczął się **Adwent**, który jest czasem radosnego oczekiwania na Boże Narodzenie. Niech to będzie dla nas czas religijnej refleksji, modlitwy i przygotowania na przyjście Pana.
-- Naszemu przygotowaniu do nadchodzących Świąt mają pomóc **rekolekcje adwentowe** – poprzez Słowo Boże, Sakrament Pokuty i Komunię Świętą. Rekolekcje w naszej parafii rozpoczną się tradycyjnie w II Niedzielę Adwentu, a więc za tydzień. Wygłosi je Ksiądz Zdzisław Kunicki, pracownik naukowy UWM i duszpasterz pomocniczy a parafii NSPJ.
+- Naszemu przygotowaniu do nadchodzących Świąt mają pomóc **rekolekcje adwentowe** – poprzez Słowo Boże, Sakrament Pokuty i Komunię Świętą. Rekolekcje w naszej parafii rozpoczną się tradycyjnie w II Niedzielę Adwentu, a więc za tydzień. Wygłosi je Ksiądz Zdzisław Kunicki, pracownik naukowy UWM i duszpasterz pomocniczy w parafii NSPJ.
 - Również w następną niedzielę, po Mszach Świętych będą zbierane ofiary na **Fundusz Pomocy Kościołowi na Wschodzie**.
 - Serdecznie zapraszam do udziału w Adwencie w **Mszach Świętych roratnich o Najświętszej Marii Pannie**, które będą w tym tygodniu we wtorek, środę i czwartek o godzinie <u>17:00</u>. W czwartek zapraszam dzieci pierwszokomunijne i młodzież przed bierzmowaniem. Dzieci zachęcam do wykonania lampionów. Po Mszy Świętej roratniej w czwartek odbędzie się konkurs tych lampionów.
 - Można już nabywać w zakrystii **świece Caritas** na stół wigilijny - cena 10 złotych.
-W tym tygodniu wypada **I czwartek, I piątek i I sobota** grudnia. W piatek przed południem odwiedziny chorych.
+- W tym tygodniu wypada **I czwartek, I piątek** i **I sobota** grudnia. W piątek przed południem odwiedziny chorych.
 - W następną niedzielę - 8 grudnia - wypada uroczystość **Niepokalanego Poczęcia Najświętszej Marii Panny**. W tym dniu dzieci pierwszokomunijne przynoszą do poświęcenia medaliki z wizerunkiem Matki Bożej Niepokalanej.
 - Podobnie jak w latach ubiegłych, będą organizowane paczki - z myślą przede wszystkim o osobach starszych, samotnych i chorych. Każdy może włączyć się w to dzieło poprzez napełnienie siatki charytatywnej. Takie siatki będą rozdawane po Mszy Świętej. Napełniamy je w domu artykułami spożywczymi i chemicznymi i przynosimy z powrotem do zakrystii lub na plebanię do 15 grudnia.
 - Z inicjatywy organizacji Ordo Iuris w całej Polsce są zbierane podpisy pod obywatelskim projektem ustawy **Stop Narkotykowi Pornografii**. Poparcie dla tego projektu deklaruje prawie 90 % Polaków, a wiec jest ono niezależne od opcji politycznych. Jest to szansa zrobienia czegoś konkretnego dla dobra i ochrony dzieci. W następną niedzielę po Mszach Świętych będą zbierane podpisy, potrzebny jest przy tym numer pesel.
