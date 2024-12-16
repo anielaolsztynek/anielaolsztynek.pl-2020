@@ -24,12 +24,12 @@ date: 2024-12-15
 - Jeszcze do dziś można przynosić napełnione siatki charytatywne. Dziękuję wszystkim, którzy włączyli się w akcję pomocy przedświątecznej najbardziej potrzebującym osobom z naszej parafii. W sumie przyniesiono ... siatki, z których przygotujemy 19 paczek. Dziękuję **Parafialnemu Zespołowi Caritas**, który  przygotuje i zajmie się dystrybucją tych paczek oraz za pracę w tym roku na rzecz pomocy rodzinom najbardziej potrzebującym wsparcia.
 - Bóg zapłać za wszystkie ofiary składane przy okazji roznoszenia opłatków, które są przeznaczone na ogrzewanie kościoła. Bóg zapłać wszystkim osobom zaangażowanym w roznoszenie opłatków.
 - Już dziś chcę poinformować, że **Pasterka** będzie o godzinie <u>22:00</u>.
-- Za tydzień w niedzielę po Mszy Świętej o godzinie <u>17:00</u> **próba chóru parafialnego**.Serdecznie zapraszamy wszystkich chętnych.
+- Za tydzień, w niedzielę po Mszy Świętej o godzinie <u>17:00</u>, **próba chóru parafialnego**. Serdecznie zapraszamy wszystkich chętnych.
 - **Intencje mszalne na najbliższy tydzień:**
   - poniedziałek: + Adam Wyszkowski (30 dzień po pogrzebie);
-  - wtorek: <u>10:00</u> o zdrowie i błogosławieństwo Boże dla rodziny Przesławów;
+  - wtorek: o zdrowie i błogosławieństwo Boże dla rodziny Przesławów;
   - środa: + Stanisław Przybyszewski i ++ z rodz. Stupaków i Przybyszewskich;
   - czwartek: <u>8:00</u> za parafian;
-  - piątek: ++ z rodz. Pasternak: Ryszard, Irena, Stanisław;
+  - piątek: ++ z rodz. Pasternak, Ryszard, Irena, Stanisław;
   - sobota: + Barbara Druszkowska (30 dzień po pogrzebie);
-  - niedziela (15.12): <u>9:00</u> + Helena, Antoni, Jan Binkul, Grzegorz, Piotr Naumiuk, Tadeusz Mróz z rodzicami, + Ksiądz Jan Paszulewicz; <u>11:00</u> + Alina Mrozowska; <u>17:00</u> + Halina Sznajderowicz (1 rocznica śmierci).
+  - niedziela (22.12): <u>9:00</u> + Helena, Antoni, Jan Binkul, Grzegorz, Piotr Naumiuk, Tadeusz Mróz z rodzicami, Teresa Ławczyńska z rodzicami i + Ksiądz Jan Paszulewicz; <u>11:00</u> + Alina Mrozowska; <u>17:00</u> + Halina Sznajderowicz (1 rocznica śmierci).
