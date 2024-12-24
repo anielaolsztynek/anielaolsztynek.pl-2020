@@ -25,13 +25,13 @@ date: 2024-12-22
 - Dziękuję za pomoc przy wykonaniu szopki bożonarodzeniowej. Dziękuję Nadleśnictwu Olsztynek za przywiezienie choinek.
 - Bóg zapłać za ofiary składane przy okazji roznoszenia opłatków, które w całości są przeznaczone na ogrzewanie kościoła. W roku ubiegłym zebrano 9700 złotych. Na gaz łącznie wydano 8900 (to bardzo mało z racji na bardzo dobrą umowę, ale tylko przez jeden rok). W tym roku ta kwota wynosi blisko 16 000 złotych + grudzień. Od nowego roku będzie nowa umowa. Najdrożej do tej pory było w roku 2022, kwota ta wyniosła blisko 25 000.
 - W kościele przybyła czwarta figura - Świętego Andrzeja Boboli. Koszt tej figury to 15 000.
-- Kończy się rok kalendarzowy, dlatego chciałbym krótko podsumować inwestycje za miniony rok i rok 2023.
-- W roku 2023:
+- Kończy się rok kalendarzowy, dlatego chciałbym krótko **podsumować inwestycje za miniony rok i rok 2023**.
+- W roku **2023**:
   - zakupiono poduszki na ławki - 8000;
   - wykonano konieczny remont wewnątrz garażu, gdzie było podciąganie wilgoci, wykonano odpływ wody i wentylację - 3950;
   - dowieziono kamyka na parking - 1000.
   Razem to 12 950 złotych.
-- Natomiast w roku 2024:
+- Natomiast w roku **2024**:
   - remont plebanii wewnątrz: malowanie, wymiana pewnych elementów w łazienkach - 20 330;
   - naprawa pieca c.o. i wymiana dwóch grzejników - 4800;
   - impregnacja klinkierowych narożników na wieży - 2200;
@@ -40,7 +40,7 @@ W sumie to 42 330, a kwota za rok 2023 i 2024 razem to 55 280. Te środki pieni�
 - Dziś po Mszy Świętej o godzinie <u>17:00</u> **próba chóru parafialnego**. Zapraszamy serdecznie wszystkich chętnych.
 - We wtorek Msza Święta roratnia o godzinie <u>8:00</u>.
 - W następną niedzielę obchodzimy **Święto  Świętej Rodziny**.
-- Już po świętach rozpocznę kolędę. Porządek **wizyt duszpasterskich w tym tygodniu**:
+- Już po świętach rozpocznę kolędę. **Porządek wizyt duszpasterskich w tym tygodniu**:
   - Sudwa od numeru 14 w stronę Wilkowa - piątek, od godziny <u>11:00</u>.
   - Sudwa - c.d. - poczynając od szosy - sobota, od godziny <u>9:00</u>.
 - **Intencje mszalne na bieżący tydzień:**
