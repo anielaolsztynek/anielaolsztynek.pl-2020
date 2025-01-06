@@ -21,7 +21,7 @@ date: 2025-01-05
 - W następną niedzielę obchodzimy **Święto Chrztu Pańskiego**.
 - Msze Święte w tym tygodniu: poniedziałek (Trzech Króli) – jak w niedzielę; wtorek o godzinie <u>17:00</u>; środa – Mszy Świętej nie będzie; czwartek i piątek o godzinie <u>8:00</u>; sobota o godzinie <u>17:00</u>.
 - **Porządek kolędy w tym tygodniu**:
-  - Jagiełek i Wilkowo (była ulica Leśna) – wtorek, od godziny <u>9:30</u>.
+  - Jagiełek i Wilkowo (była ulica Leśna) – wtorek od godziny <u>9:30</u>.
   - Ul. Wilcza 14 A – środa od godziny <u>15:00</u> i ul. Jaśminowa 1 (41-52 – ostatnia klatka) – środa od godziny <u>17:00</u> - <u>17:30</u>.
   - Ul. Jaśminowa 1 cd. – czwartek od godziny <u>15:00</u>.
   - Ul. Świerkowa – piątek od godziny <u>9:30</u> (od numeru 1), cd. (u pracujących) od godziny <u>15:00</u> i ul. Akacjowa 4 – piątek od godziny <u>16:30</u>.
