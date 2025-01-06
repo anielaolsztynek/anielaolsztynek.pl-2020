@@ -19,12 +19,12 @@ date: 2025-01-05
 - Jutro wypada **Uroczystość Trzech Króli** – Uroczystość Objawienia Pańskiego. Msze Święte w tym dniu jak w każdą niedzielę. W czasie każdej Mszy Świętej będzie poświęcenie kredy i wody, które zabierzemy do swoich domów. Ofiary składane w tym dniu na tacę są przeznaczone na misje.
 - W uroczystość Trzech Króli o godzinie <u>11:00</u> odbędzie się orszakowe kolędowanie (mały orszak).
 - W następną niedzielę obchodzimy **Święto Chrztu Pańskiego**.
-- Msze Święte w tym tygodniu - poniedziałek (Trzech Króli) - jak w niedzielę; wtorek o godzinie <u>17:00</u>; środa - Mszy Świętej nie będzie; czwartek i piątek o godzinie <u>8:00</u>; sobota o godzinie <u>17:00</u>.
+- Msze Święte w tym tygodniu: poniedziałek (Trzech Króli) – jak w niedzielę; wtorek o godzinie <u>17:00</u>; środa – Mszy Świętej nie będzie; czwartek i piątek o godzinie <u>8:00</u>; sobota o godzinie <u>17:00</u>.
 - **Porządek kolędy w tym tygodniu**:
   - Jagiełek i Wilkowo (była ulica Leśna) – wtorek, od godziny <u>9:30</u>.
-  - Ul. Wilcza 14 A – środa od godziny <u>15:00</u> i ul. Jaśminowa 1 (41-52 - ostatnia klatka) - środa od godziny <u>17:00</u> - <u>17:30</u>.
-  - Ul. Jaśminowa 1 - cd. - czwartek od godziny <u>15:00</u>.
-  - Ul. Świerkowa – piątek od godziny <u>9:30</u> (od numeru 1), cd. (u pracujących) od godziny <u>15:00</u> i ul. Akacjowa 4 - piątek od godziny <u>16:30</u>.
+  - Ul. Wilcza 14 A – środa od godziny <u>15:00</u> i ul. Jaśminowa 1 (41-52 – ostatnia klatka) – środa od godziny <u>17:00</u> - <u>17:30</u>.
+  - Ul. Jaśminowa 1 cd. – czwartek od godziny <u>15:00</u>.
+  - Ul. Świerkowa – piątek od godziny <u>9:30</u> (od numeru 1), cd. (u pracujących) od godziny <u>15:00</u> i ul. Akacjowa 4 – piątek od godziny <u>16:30</u>.
   - Ul. Akacjowa 4 A, 4 B i 6 i ul. Jaśminowa 4, 6, 10 A, 10 B – sobota od godziny <u>9:00</u>.
   - Najnowsze bloki przy ulicy Jaśminowej 3, 5 i 7 odwiedzę na koniec kolędy z uwagi na to, że jeszcze wprowadzają się nowi mieszkańcy. Proszę jednocześnie, aby nowi mieszkańcy tych bloków, na ile to możliwe, zgłaszali się do parafii (można też telefonicznie). To ułatwi mi pierwszą kolędę. Będę mógł też indywidualnie umawiać się na kolędę.
 - **Intencje mszalne na bieżący tydzień:**
@@ -34,5 +34,5 @@ date: 2025-01-05
   - czwartek: intencja własna;
   - piątek: intencja własna;
   - sobota: + Henryk, Elżbieta, Stanisław, Jolanta Majewscy;
-  - niedziela (12.01.24): <u>9:00</u> + Janina Palko; (2 rocznica śmierci); <u>11:00</u> + Marek (4 rocznica śmierci) i Stanisław Tomaszewscy; <u>17:00</u> + Janina Szulc.
+  - niedziela (12.01.24): <u>9:00</u> + Janina Palko; <u>11:00</u> + Marek (4 rocznica śmierci) i Stanisław Tomaszewscy; <u>17:00</u> + Janina Szulc.
 
