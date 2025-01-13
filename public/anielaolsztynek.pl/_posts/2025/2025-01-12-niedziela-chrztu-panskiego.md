@@ -18,18 +18,18 @@ date: 2025-01-12
 
 - Dzisiejszą **Niedzielą Chrztu Pańskiego** kończy się okres Bożego Narodzenia, a zaczyna się okres zwykły.
 - Dzisiejsze ofiary składane na tacę są przeznaczone na potrzeby **Wyższego Seminarium Duchownego "Hosianum" w Olsztynie**.
-- Msze Święte w tym tygodniu: poniedziałek - <u>11:00</u> Msza Święta pogrzebowa; wtorek, środa i piątek o godzinie <u>8:00</u>; czwartek – Mszy Świętej nie będzie; sobota o godzinie <u>17:00</u>.
-- Dziś w Miejskim Domu Kultury w godzinach <u>10:00 - 16:00</u> odbędzie się Bazarek charytatywny - w tym kiermasz ciast, ubrania, książki, zabawki i wiele innych przedmiotów w okazyjnych cenach, także profesjonalne strzyżenie męskie. Cały dochód będzie przeznaczony na leczenie ciężko chorej Wiolety Duch.
+- Msze Święte w tym tygodniu: poniedziałek godzina <u>11:00</u> – Msza Święta pogrzebowa; wtorek, środa i piątek o godzinie <u>8:00</u>; czwartek – Mszy Świętej nie będzie; sobota o godzinie <u>17:00</u>.
+- Dziś w Miejskim Domu Kultury w godzinach <u>10:00 - 16:00</u> odbędzie się bazarek charytatywny - w tym kiermasz ciast, ubrania, książki, zabawki i wiele innych przedmiotów w okazyjnych cenach, także profesjonalne strzyżenie męskie. Cały dochód będzie przeznaczony na leczenie ciężko chorej Wiolety Duch.
 - **Porządek kolędy w tym tygodniu**:
   - Ul. Klonowa i Akacjowa 1-19 (numery nieparzyste) – poniedziałek od godziny <u>14:00</u>.
   - Park 7 – wtorek od godziny <u>11:00</u>, ul. Wilcza i ul. Akacjowa 6 A i 6 B – wtorek od godziny <u>13:30</u>.
   - Ul. Lipowa (domy jednorodzinne) i Lipowa 28 i 30 – środa od godziny <u>13:30</u>.
   - Ul. Kasztanowa i Lipowa 26 – czwartek od godziny <u>14:00</u>.
   - ul. Sportowa 1, 3, 5, 7 A, 2 B i A i ul. Akacjowa 10-26 (parzyste) oraz 23 – piątek od godziny <u>11:00</u>.
-  - Ul. Sportowa 6-18 (parzyste) i 17 – sobota od godziny <u>9:30</u>.
+  - Ul. Sportowa 6-18 (numery parzyste) i 17 – sobota od godziny <u>9:30</u>.
 - **Intencje mszalne na bieżący tydzień:**
   - poniedziałek: <u>11:00</u> + Józef Roman;
-  - wtorek: o zdrowie i błogosławieństwo Boże dla Julity, Zachariasza i Rafała;
+  - wtorek: o Bożą opiekę oraz zdrowie duszy i ciała dla Julity, Zachariasza i Rafała;
   - środa: o zdrowie i błogosławieństwo Boże dla ciężko chorej Wiolety;
   - czwartek: ;
   - piątek: intencja własna;
