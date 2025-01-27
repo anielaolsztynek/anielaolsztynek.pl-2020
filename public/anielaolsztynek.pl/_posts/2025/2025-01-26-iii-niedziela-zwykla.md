@@ -16,7 +16,7 @@ date: 2025-01-26
 > <span style="color: #666699;">Panie, pokazuj mi, jak mam głosić Dobrą Nowinę tym, którzy są wokół mnie, zwłaszcza słabym i ułomnym. Daj mi gorliwość i ufność w Twoją moc.
 > &nbsp;
 
-- W następną niedzielę - 2 lutego - obchodzimy **Święto Ofiarowania Pańskiego**. W tym dniu czcimy Chrystusa Pana - Światłość Świata (symbolizują to świece) i Jego Matkę pod nazwą Matki Bożej Gromnicznej. Tradycyjnie w czasie Mszy Świętej będzie błogosławieństwo świec zwanych gromnicami, które przynosimy ze sobą. Można będzie też nabyć je przed Mszą Świętą w zakrystii. Msze Święte w tym dniu o godzinie <u>10:00</u> i <u>17:00</u>.
+- W następną niedzielę - 2 lutego - obchodzimy **Święto Ofiarowania Pańskiego**. W tym dniu czcimy Chrystusa Pana - Światłość Świata (symbolizują to świece) i Jego Matkę pod nazwą Matki Bożej Gromnicznej. Tradycyjnie w czasie Mszy Świętej będzie błogosławieństwo świec zwanych gromnicami, które przynosimy ze sobą. Można będzie też nabyć je przed Mszą Świętą w zakrystii.
 - Również w następną, **I niedzielę miesiąca** zmiana tajemnic różańcowych i wspólny różaniec o godzinie <u>8:30</u>.
 - **Msze Święte w tym tygodniu:** w poniedziałek Mszy Świętej nie będzie, we wtorek i sobotę o godzinie <u>17:00</u>, w pozostałe dni o godzinie <u>8:00</u>.
 - W minionym tygodniu odszedł do wieczności nasz parafianin, śp. Ryszard Czaplicki - lat 71. Pogrzeb we wtorek o godzinie <u>12:00</u>. Wieczny odpoczynek racz zmarłemu dać, Panie.
@@ -32,8 +32,8 @@ date: 2025-01-26
   - poniedziałek: ;
   - wtorek: + Henryka Przybułowska (30 dzień po pogrzebie);
   - środa: o zdrowie i błgosławieństwo Boże dla Lecha;
-  - czwartek: ++ z rodz. Czyczyn, Gosk, Pobudkowskich. Korab. Roman, Szczepańskich, Baranowskich;
+  - czwartek: ++ z rodz. Czyczyn, Gosk, Pobudkowskich, Korab, Roman, Szczepańskich, Baranowskich;
   - piątek: ++ z rodz. Majewskich;
   - sobota: + Jan Gręda (12 rocznica śmierci) oraz Marianna i Franciszek Szczepkowscy;
-  - niedziela (02.02.25): <u>9:00</u> + Stanisława (15 rocznica śmierci) i Eugeniusz Giranowscy; <u>11:00</u> + Bolesław, Anna, Krzysztof Modzelewscy, Jerzy Kalwejt i Jezry Hop; <u>17:00</u> + Janina Stobiecka.
+  - niedziela (02.02.25): <u>9:00</u> + Stanisława (15 rocznica śmierci) i Eugeniusz Giranowscy; <u>11:00</u> + Bolesław, Anna, Krzysztof Modzelewscy, Jerzy Kalwejt i Jerzy Hop; <u>17:00</u> + Janina Stobiecka.
 
