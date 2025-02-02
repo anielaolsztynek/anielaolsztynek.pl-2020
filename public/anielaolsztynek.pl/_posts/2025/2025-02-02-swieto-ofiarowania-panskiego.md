@@ -17,7 +17,7 @@ date: 2025-02-02
 > &nbsp;
 
 - Ofiary składane na tacę w dzisiejsze święto w 50% są przeznaczone na zakony klauzurowe w naszej Archidiecezji.
-- W tym tygodniu wypda **I czwartek** i **I piątek** lutego. W piątek przed południem odwiedziny chorych z Komunią Świętą i Sakramentem Chorych.
+- W tym tygodniu wypada **I czwartek** i **I piątek** lutego. W piątek przed południem odwiedziny chorych z Komunią Świętą i Sakramentem Chorych.
 - **Msze Święte w tym tygodniu:** w poniedziałek Mszy Świętej nie będzie, we wtorek o godzinie <u>8:00</u>, w pozostałe dni o godzinie <u>17:00</u>.
 - W minionym tygodniu odszedł do wieczności nasz parafianin, śp. Roman Koralewski - lat 66. Wieczny odpoczynek racz zmarłemu dać, Panie.
 - **Porządek kolędy w tym tygodniu**:
@@ -26,8 +26,8 @@ date: 2025-02-02
   - Ul. Jaśminowa 5 – środa od godz. <u>15:00</u>.
 - **Intencje mszalne na bieżący tydzień:**
   - poniedziałek: ;
-  - wtorek: + Bogumił Popielewski (1 rocznica śmierci);
-  - środa: ;
+  - wtorek: ;
+  - środa: + Bogumił Popielewski (1 rocznica śmierci);
   - czwartek: + Józef, Maria i Antoni Czarzasty;
   - piątek: + Marek Kowalski (14 rocznica śmierci);
   - sobota: + Adam Wyszkowski;
