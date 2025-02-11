@@ -4,6 +4,7 @@ on:
     branches: [master]
     paths:
       - Dockerfile
+      - .github/workflows/build-docker-builder-image.yml
 
 env:
   REGISTRY: ghcr.io
