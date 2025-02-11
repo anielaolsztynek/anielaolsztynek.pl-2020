@@ -5,6 +5,7 @@ on:
       - master
 
 env:
+  REGISTRY: ghcr.io
   BUILDER_IMAGE: ghcr.io/anielaolsztynek/anielaolsztynek.pl-2020:sha-3edf116
 
 jobs:
