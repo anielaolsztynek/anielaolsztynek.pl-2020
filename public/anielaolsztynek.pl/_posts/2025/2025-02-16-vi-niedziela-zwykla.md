@@ -25,3 +25,5 @@ date: 2025-02-16
   - piątek: + Mieczysław;
   - sobota: + Józef Wantoch-Rekowski (16 rocznica śmierci);
   - niedziela (23.02.25): <u>9:00</u> + Alina Mrozowska; <u>11:00</u> + Józef Karpiński (6 rocznica śmierci); <u>17:00</u> + Krystyna Jurkowska.
+
+
