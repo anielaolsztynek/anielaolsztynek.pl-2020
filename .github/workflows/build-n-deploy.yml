@@ -4,39 +4,35 @@ on:
     branches:
       - master
 
+env:
+  REGISTRY: ghcr.io
+  BUILDER_IMAGE: ghcr.io/anielaolsztynek/anielaolsztynek.pl-2020:sha-3edf116
+
 jobs:
   deploy:
     name: Build and deploy
-    runs-on: ubuntu-latest # ubuntu-18.04
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      packages: read
     steps:
-      - name: Checkout Repo
-        uses: actions/checkout@master
+      - uses: actions/checkout@v4
 
-      - uses: actions/setup-node@v1
+      - name: Log in to the Container registry
+        uses: docker/login-action@v3.3.0
         with:
-          node-version: "12.x"
+          registry: ${{ env.REGISTRY }}
+          username: ${{ github.actor }}
+          password: ${{ secrets.GITHUB_TOKEN }}
 
-      #     - run: npm --prefix=public ci
-
-      - name: Setup ruby
-        uses: ruby/setup-ruby@v1
-        with:
-          ruby-version: 2.6
-
-      - run: gem install bundler:2.1.2
-
-      - uses: actions/cache@v1
-        with:
-          path: vendor/bundle
-          key: bundle-use-ruby-${{ matrix.os }}-v3-${{ matrix.ruby }}-${{ hashFiles('**/Gemfile.lock') }}
-          restore-keys: |
-            bundle-use-ruby-${{ matrix.os }}-v3-${{ matrix.ruby }}-
-      - name: bundle install
+      - run: docker pull ${BUILDER_IMAGE}
+      - name: Build
         run: |
-          bundle config path vendor/bundle
-          bundle install --jobs 4 --retry 3
-      - run: (cd public/anielaolsztynek.pl && bundle exec jekyll build)
-      #     - run: npm install -g workbox-cli && workbox generateSW workbox-config.js
+          docker run \
+            -v .:/app \
+            $BUILDER_IMAGE \
+            bash -c "cd public/anielaolsztynek.pl && bundle exec jekyll build"
+      - run: ls -la public/anielaolsztynek.pl/_site
 
       - name: Deploy to Firebase
         uses: w9jds/firebase-action@v2.0.0
