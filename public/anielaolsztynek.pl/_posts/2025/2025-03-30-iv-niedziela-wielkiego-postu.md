@@ -22,9 +22,9 @@ date: 2025-03-30
 - W tym tygodniu wypada **I czwartek**, **I piątek** i **I sobota** kwietnia. W I czwartek wystawienie i adoracja Najświętszego Sakramentu od godziny <u>16:00</u>, prowadzona przez Apostolat „Złota Róża”. W I piątek przed południem odwiedziny chorych z posługą sakramentalną. Po Mszy Świętej o godzinie <u>17:00</u> nabożeństwo pierwszopiątkowe. W I sobotę po Mszy Świętej nabożeństwo do Niepokalanego Serca Maryi.
 - Następna, **I niedziela miesiąca**, to niedziela Adoracji Najświętszego Sakramentu. Zmiana tajemnic różańcowych również w następną niedzielę o godzinie <u>8:30</u>, a o godzinie <u>8:45</u> Gorzkie Żale.
 - Serdecznie zapraszam też do udziału w nabożeństwie **Drogi Krzyżowej** w piątek o godzinie <u>16:30</u>.
-- W narodowym sanktuarium Świętego Józefa w Kaliszu odbędzie się Triduum Różańcowe w dniach 4-6 kwietnia 2025 roku. Informacje w gablocie.
+- W narodowym sanktuarium Świętego Józefa w Kaliszu odbędzie się **Triduum Różańcowe** w dniach 4-6 kwietnia 2025 roku. Informacje w gablocie.
 - **Spotkanie z rodzicami przed I Komunią Świętą** w następną niedzielę po Mszy świętej o godzinie <u>11:00</u>.
-- Rozpoczęła się rekrutacja do Samorządowej Szkoły Muzycznej I stopnia w Dywitach z filią w Olsztynku. Zapraszamy do bezpłatnej nauki dzieci i młodzież w wieku 6-16 lat. Termin przesłuchania kwalifikacyjnego to 5 kwietnia (sobota). Plakat informacyjny w gablocie i ulotki na półce z prasą.
+- **Rozpoczęła się rekrutacja do Samorządowej Szkoły Muzycznej I stopnia** w Dywitach z filią w Olsztynku. Zapraszamy do bezpłatnej nauki dzieci i młodzież w wieku 6-16 lat. Termin przesłuchania kwalifikacyjnego to 5 kwietnia (sobota). Plakat informacyjny w gablocie i ulotki na półce z prasą.
 - **Intencje mszalne na najbliższy tydzień:**
   - poniedziałek: <u>17:30</u> + Jan Bondaruk (2 rocznica śmierci) i Stefania Bondaruk;
   - wtorek: <u>10:00</u> dziękczynienie Maryi za opiekę nad narodem polskim i prowadzenie nas do Jej Syna; <u>17:30</u> + Roman Koralewski;
