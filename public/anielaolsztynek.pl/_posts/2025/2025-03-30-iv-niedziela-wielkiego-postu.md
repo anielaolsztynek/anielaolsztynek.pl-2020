@@ -17,18 +17,19 @@ date: 2025-03-30
 > &nbsp;
 
 - **Rekolekcje wielkopostne** w naszej parafii, które dziś się rozpoczęły, będą trwały do wtorku włącznie, w <u>poniedziałek i we wtorek</u> Msza Święta z nauką rekolekcyjną o godz. <u>10:00</u> i <u>17:30</u>. Spowiedź Święta przed Mszą i w czasie Mszy Świętej.
-- Próba chóru dziś o godzinie <u>18:00</u>.
-- W środę - 2 kwietnia - wypada 20 rocznica śmierci Świętego jana Pawła II Papieża. W tym dniu z inicjatywy Apostolatu Złota Róża będzie wystawienie i adoracja Najświętszego Sakramentu w godzinach <u>21:00</u> - <u>22:00</u>. Adorację rozpoczniemy Apelem Jasnogórskim i będziemy przeżywać ją w duchu wdzięczności za dar pontyfikatu Papieża Polaka i naszego orędownika w niebie, Świętego Jana Pawła II. Serdecznie zapraszamy wszystkich chętnych.
-- W tym tygodniu wypada I czwartek, I piątek i I sobota kwietnia. W I czwartek wystawienie i adoracja Najświętszego Sakramentu od godziny <u>16:00</u>, prowadzona przez Apostolat "Złota Róża". W I piątek przed południem odwiedziny chorych z posługą sakramentalną. Po Mszy Świętej o godzinie <u>17:00</u> nabożeństwo pierwszopiątkowe. W I sobotę po Mszy Świętej Nabożeństwo do Niepokalanego Serca Maryi.
-- Następna, I niedziela miesiąca to niedziela Adoracji Najświętszego Sakramentu. Zmiana tajemnic różańcowych również w następną niedzielę o godzinie <u>8:30</u>, a o godznie <u>8:45</u> Gorzkie Żale.
+- **Próba chóru** dziś o godzinie <u>18:00</u>.
+- W środę – 2 kwietnia – wypada **20 rocznica śmierci Świętego Jana Pawła II Papieża**. W tym dniu z inicjatywy Apostolatu „Złota Róża” będzie wystawienie i adoracja Najświętszego Sakramentu w godzinach <u>21:00</u> - <u>22:00</u>. Adorację rozpoczniemy Apelem Jasnogórskim i będziemy przeżywać ją w duchu wdzięczności za dar pontyfikatu Papieża Polaka i naszego orędownika w niebie, Świętego Jana Pawła II. Serdecznie zapraszamy wszystkich chętnych.
+- W tym tygodniu wypada **I czwartek**, **I piątek** i **I sobota** kwietnia. W I czwartek wystawienie i adoracja Najświętszego Sakramentu od godziny <u>16:00</u>, prowadzona przez Apostolat „Złota Róża”. W I piątek przed południem odwiedziny chorych z posługą sakramentalną. Po Mszy Świętej o godzinie <u>17:00</u> nabożeństwo pierwszopiątkowe. W I sobotę po Mszy Świętej nabożeństwo do Niepokalanego Serca Maryi.
+- Następna, **I niedziela miesiąca**, to niedziela Adoracji Najświętszego Sakramentu. Zmiana tajemnic różańcowych również w następną niedzielę o godzinie <u>8:30</u>, a o godzinie <u>8:45</u> Gorzkie Żale.
 - Serdecznie zapraszam też do udziału w nabożeństwie **Drogi Krzyżowej** w piątek o godzinie <u>16:30</u>.
-- W narodowym sanktuarium Świętego Józefa w Kaliszu odbędzie się Triduum Różańcowe w dniach 4-6 kwietnia 2025 roku. Informacje w gablocie. - **Spotkanie z rodzicami przed I Komunią Świętą** w następną niedzielę po Mszy świętej o godzinie <u>11:00</u>.
-- Rozpoczęła się rekrutacja do Samorządowej Szkoły Muzycznej I stopnia w Dywitach z filią w Olsztynku. Zapraszamy do bezpłatnej nauki dzieci i młodzież w wieku 6-16 lat. Termin przesłuchania kwalifikacyjnego 5 kwietnia (sobota). Plakat informacyjny w gablocie i ulotki na półce z prasą.
+- W narodowym sanktuarium Świętego Józefa w Kaliszu odbędzie się Triduum Różańcowe w dniach 4-6 kwietnia 2025 roku. Informacje w gablocie.
+- **Spotkanie z rodzicami przed I Komunią Świętą** w następną niedzielę po Mszy świętej o godzinie <u>11:00</u>.
+- Rozpoczęła się rekrutacja do Samorządowej Szkoły Muzycznej I stopnia w Dywitach z filią w Olsztynku. Zapraszamy do bezpłatnej nauki dzieci i młodzież w wieku 6-16 lat. Termin przesłuchania kwalifikacyjnego to 5 kwietnia (sobota). Plakat informacyjny w gablocie i ulotki na półce z prasą.
 - **Intencje mszalne na najbliższy tydzień:**
-  - poniedziałek: <u>17:30</u> + Jan Bondaruk (2 rocznica śmierci) i Stefania bondaruk;
+  - poniedziałek: <u>17:30</u> + Jan Bondaruk (2 rocznica śmierci) i Stefania Bondaruk;
   - wtorek: <u>10:00</u> dziękczynienie Maryi za opiekę nad narodem polskim i prowadzenie nas do Jej Syna; <u>17:30</u> + Roman Koralewski;
   - środa: + Alina Mrozowska;
-  - czwartek: w intencji kapłanów i Apostolatu "Złota Róża";
+  - czwartek: w intencji kapłanów i Apostolatu „Złota Róża”;
   - piątek: + Adam Wyszkowski;
   - sobota: + Marianna, Aleksander, Andrzej Wierzbiccy;
   - niedziela (06.04): <u>9:00</u> + Edward, Tadeusz, Eugenia; <u>11:00</u> + Władysława Olszewska (12 rocznica śmierci), Jan i Jadwiga Sendwiccy, Stanisław i Adela Zakrzewscy; <u>17:00</u> + Regina Zielińska (9 rocznica śmierci), Stanisław i Jan Zielińscy.
