@@ -17,15 +17,15 @@ date: 2025-04-13
 > &nbsp;
 
 - Dzisiejszą **Niedzielą Palmową** rozpoczynamy **Wielki Tydzień**. Centralne miejsce w tym tygodniu, jak również w ciągu całego roku liturgicznego, zajmuje **Triduum Paschalne**, trwające od Mszy Świętej wieczornej Wielkiego Czwartku do Niedzieli Zmartwychwstania. Triduum Paschalne jest pamiątką tajemnicy przejścia Pana Jezusa z tego świata do Ojca, przejścia ze śmierci do życia.
-- Msza Święta w **Wielki Czwartek** jest Mszą Wieczerzy Pańskiej, upamiętniającą ustanowienie Eucharystii i Kapłaństwa. W tym dniu Komunia Święta będzie rozdawana pod dwiema postaciami - chleba i wina. Po Mszy Świętej Najświętszy Sakrament zostanie przeniesiony do ciemnicy, która symbolizuje uwięzienie Pana Jezusa. Wielki Czwartek to dzień kapłański, nasze kapłańskie święto. Zapraszam do wspólnej modlitwy, aby dziękować Bogu za dar kapłaństwa i jednocześnie proszę o modlitwę w intencji kapłanów. Jest to też dzień wszystkich ministrantów, którzy są powołani do służby przy ołtarzu. Serdecznie w tym dniu zapraszam ministrantów, ich rodziców, najbliższych.
+- Msza Święta w **Wielki Czwartek** jest Mszą Wieczerzy Pańskiej, upamiętniającą ustanowienie Eucharystii i Kapłaństwa. W tym dniu Komunia Święta będzie rozdawana pod dwiema postaciami – chleba i wina. Po Mszy Świętej Najświętszy Sakrament zostanie przeniesiony do ciemnicy, która symbolizuje uwięzienie Pana Jezusa. Wielki Czwartek to dzień kapłański, nasze kapłańskie święto. Zapraszam do wspólnej modlitwy, aby dziękować Bogu za dar kapłaństwa i jednocześnie proszę o modlitwę w intencji kapłanów. Jest to też dzień wszystkich ministrantów, którzy są powołani do służby przy ołtarzu. Serdecznie w tym dniu zapraszam ministrantów, ich rodziców, najbliższych.
 - W **Wielki Piątek** uczestniczymy w Liturgii Męki Pańskiej, słuchając opisu Męki Pana Jezusa i adorując krzyż. Po nabożeństwie Pan Jezus w Eucharystii zostanie przeniesiony do Grobu. Adorując Najświętszy Sakrament odmówimy Koronkę do Miłosierdzia Bożego. W Wielki Piątek obowiązuje post ścisły.
 - W **Wielką Sobotę** przez cały dzień adorujemy Jezusa Eucharystycznego w Grobie od godziny <u>9:30</u> do liturgii wieczornej. W ciągu dnia **święcenie pokarmów** na stół wielkanocny o godzinie <u>10:00</u>, <u>11:00</u>, <u>12:00</u> i <u>13:00</u>.
 **Święcenie pokarmów w wioskach wg następującego porządku**:
-  1. Wilkowo 1 - <u>10:15</u>.
-  2. Wilkowo 2 - <u>10:30</u>.
-  3. Sudwa Kolonia - <u>10:45</u>.
-  4. Sudwa - <u>11:00</u>.
-  5. DPS - <u>11:15</u>.
+  1. Wilkowo 1 – <u>10:15</u>.
+  2. Wilkowo 2 – <u>10:30</u>.
+  3. Sudwa Kolonia – <u>10:45</u>.
+  4. Sudwa – <u>11:00</u>.
+  5. DPS – <u>11:15</u>.
 - W sobotę wieczorem będziemy uczestniczyli w Liturgii **Wigilii Paschalnej**, która jest **Mszą Niedzieli Zmartwychwstania**. Na tę liturgię przynosimy ze sobą świece chrzcielne, gromnice, paschaliki, lampiony. Na koniec tej liturgii pierwszej Mszy Świętej Wielkanocnej będzie wystawienie Najświętszego Sakramentu i po krótkiej modlitwie odbędzie się procesja rezurekcyjna ku czci Chrystusa Zmartwychwstałego. Serdecznie zapraszam do czynnego udziału w procesji strażaków, Kółka Różańcowe, służbę liturgiczną i muzyczną, chętne dzieci do niesienia poduszek z emblematami religijnymi. Chorągwie, różaniec, baldachim i poduszki będą w kaplicy przy głównym wejściu.
 - Liturgia **Wielkiego Czwartku** i **Wielkiego Piątku** o godzinie <u>18:00</u>.
 - Liturgia **Wigilii Paschalnej** rozpocznie się o godzinie <u>20:00</u>.
