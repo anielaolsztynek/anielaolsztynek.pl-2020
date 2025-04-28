@@ -19,8 +19,8 @@ date: 2025-04-27
 - Dzisiejszą **Niedzielą Miłosierdzia Bożego** rozpoczyna się **81 Tydzień Miłosierdzia**. Bóg zapłać za ofiary składane dziś na tacę na potrzeby Caritas Archidiecezji Warmińskiej. Przy okazji dziękuję naszemu Parafialnemu Zespołowi Caritas za zaangażowanie i pracę na rzecz najuboższych.
 - Dziś podczas Mszy Świętej o godzinie <u>11:00</u> wystąpi ze śpiewem pieśni wielkanocnych **Swojska Nutka**.
 - Jutro w liturgii obchodzimy **Uroczystość Świętego Wojciecha**, głównego Patrona Polski i naszej Warmińskiej Archidiecezji.
-- W czwartek rozpoczyna się maj - miesiąc poświęcony czci Matki Bożej. Zachęcam do udziału w **nabożeństwie majowym**, codziennie po Mszy Świętej o godzinie <u>17:00</u>, w niedziele o godzinie <u>8:45</u>.
-- W czwartek **1 maja** Msza Święta o godzinie <u>10:00</u>. Jest to jednocześnie **I czwartek** miesiąca. W tym dniu wystawienie i adoracja Najświętszego Sakramentu od godziny <u>9:00</u> do <u>10:00</u>, prowadzona przez Apostolat „Złota Róża”. W czwartek nabożeństwo majowe w ramach adoracji o godzinie <u>9:45</u>.
+- W czwartek rozpoczyna się maj – miesiąc poświęcony czci Matki Bożej. Zachęcam do udziału w **nabożeństwie majowym**, codziennie po Mszy Świętej o godzinie <u>17:00</u>, w niedziele o godzinie <u>8:45</u>.
+- W czwartek – **1 maja** – Msza Święta o godzinie <u>10:00</u>. Jest to jednocześnie **I czwartek** miesiąca. W tym dniu wystawienie i adoracja Najświętszego Sakramentu od godziny <u>9:00</u> do <u>10:00</u>, prowadzona przez Apostolat „Złota Róża”. W czwartek nabożeństwo majowe w ramach adoracji o godzinie <u>9:45</u>.
 - W **I piątek** maja Msza Święta wraz z nabożeństwem majowym i pierwszopiątkowym o godzinie <u>17:00</u>. Odwiedziny chorych po wcześniejszym uzgodnieniu telefonicznym.
 - Liturgiczna **Uroczystość Najświętszej Marii Panny Królowej Polski** wypada w sobotę, 3 maja. Msza Święta z nabożeństwem majowym o godzinie <u>10:00</u>.
 - Następna, **I niedziela miesiąca**, to **niedziela adoracji Najświętszego Sakramentu**. Zmiana tajemnic różańcowych o godzinie <u>8:30</u>.
@@ -32,4 +32,4 @@ date: 2025-04-27
   - czwartek: <u>10:00</u> w intencji kapłanów i Apostolatu „Złota Róża”;
   - piątek: + Stanisława Bartosewicz;
   - sobota: <u>10:00</u> + Stanisława Bartosewicz;
-  - niedziela (04.05): <u>9:00</u> + Wilhelm Schimmelpfenig (21 rocznica śmierci); <u>11:00</u> + Stanisława Bartoszewicz; <u>17:00</u> + Maria i Zenon Bednarek.
+  - niedziela (04.05): <u>9:00</u> + Wilhelm Schimmelpfenig (21 rocznica śmierci); <u>11:00</u> + Stanisława Bartosewicz; <u>17:00</u> + Maria i Zenon Bednarek.
