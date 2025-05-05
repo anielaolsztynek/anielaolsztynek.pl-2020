@@ -11,20 +11,20 @@ date: 2025-05-04
 >
 > **Powrót do miłości**
 >
-> W trudnych momentach życia pojawia się pragnienie powrotu do czasów i miejsc, w których czuliśmy się szczęśliwi. Stąd nostalgia za domem rodzinnym, wspominanie starych, dobrych czasów... Uczniowie w obliczu śmierci Jezusa w podobny sposób wracają do tego, co robili wcześniej. Nie rozumieją, jaka czeka ich przyszłość i co mają robić. Wówczas Jezus pokazuje im fiasko powrotu do starych, dobrych czasów. Oni zostali wezwani, aby iść za Jezusem. Dlatego powrót do poprzedniego życia nie jest już możliwy. Piotr, a wraz z nim wszyscy pozostali uczniowie otrzymują nowy fundament pod swoją egzystencję - relację miłości do Zbawiciela. Miłości, która nie gorszy się zdradą ani słabością, która nie liczy na ludzkie siły i deklaracje, miłości, na której Piotr będzie budował nie tylko swoją przyszłość, ale także przyszłość całego Kościoła.
+> W trudnych momentach życia pojawia się pragnienie powrotu do czasów i miejsc, w których czuliśmy się szczęśliwi. Stąd nostalgia za domem rodzinnym, wspominanie starych, dobrych czasów... Uczniowie w obliczu śmierci Jezusa w podobny sposób wracają do tego, co robili wcześniej. Nie rozumieją, jaka czeka ich przyszłość i co mają robić. Wówczas Jezus pokazuje im fiasko powrotu do starych, dobrych czasów. Oni zostali wezwani, aby iść za Jezusem. Dlatego powrót do poprzedniego życia nie jest już możliwy. Piotr, a wraz z nim wszyscy pozostali uczniowie otrzymują nowy fundament pod swoją egzystencję – relację miłości do Zbawiciela. Miłości, która nie gorszy się zdradą ani słabością, która nie liczy na ludzkie siły i deklaracje, miłości, na której Piotr będzie budował nie tylko swoją przyszłość, ale także przyszłość całego Kościoła.
 >
 > <span style="color: #666699;">Wobec pokus powrotu do przeszłości i lęku przed tym, co mnie czeka, spraw, abym jak Piotr znalazł odpowiedź na pytanie o to, czy Cię kocham. Daj mi doświadczyć, jak wielka jest Twoja miłość i jak trwałym fundamentem może się stać pod całe moje życie.
 > &nbsp;
 
 - Dziś **I niedziela miesiąca** – **niedziela adoracji Najświętszego Sakramentu**.
 - W czwartek - 8 maja - wypada liturgiczna **Uroczystość Świętego Stanisława Biskupa i Męczennika**, głównego patrona Polski.
-- Uroczystość **I Komunii Świętej** w naszej parafii w następną niedzielę - 11 maja o godzinie <u>11:00</u>.
+- Uroczystość **I Komunii Świętej** w naszej parafii w następną niedzielę – 11 maja o godzinie <u>11:00</u>.
 - **Próby dla dzieci** przed I Komunią Świętą we wtorek i czwartek o godzinie <u>17:45</u>.
 - **Spowiedź Święta** dla dzieci pierwszokomunijnych, dla ich rodziców i rodzin, w sobotę, 10 maja o godzinie <u>11:30</u>.
 - Również w sobotę o godzinie <u>10:00</u> Msza Święta w intencji strażaków w ramach obchodów **Powiatowego Dnia Strażaka**.
 - Zachęcam serdecznie do udziału w **nabożeństwie majowym**, codziennie bezpośrednio po Mszy Świętej o godzinie <u>17:00</u>, w niedziele o godzinie <u>8:45</u>.
 - Ksiądz Arcybiskup Józef Górzyński Metropolita Warmiński zaprasza wiernych naszej Archidiecezji do udziału w **uroczystości beatyfikacyjnej 15 sióstr ze Zgromadzenia Sióstr Świętej Katarzyny Dziewicy i Męczennicy**, która odbędzie się w sobotę, 31 maja bieżącego roku o godzinie <u>11:00</u> w Braniewie. Udział wiernych z każdej parafii będzie wyrazem wspólnotowego przeżywania wyjątkowej, pierwszej w historii na terenie naszej Archidiecezji, uroczystości beatyfikacyjnej. Proszę o zgłaszanie osób chętnych, najlepiej dzisiaj.
-- **Dzień Wdzięczności w Wyższym Seminarium Duchownym Hosianum** w najbliższą sobotę o godzinie <u>10:00</u>. Plakat w gablocie.
+- **Dzień Wdzięczności w Wyższym Seminarium Duchownym „Hosianum”** w najbliższą sobotę o godzinie <u>10:00</u>. Plakat w gablocie.
 - **Intencje mszalne na najbliższy tydzień:**
   - poniedziałek: + Stanisława Bartosewicz;
   - wtorek: + Stanisława Bartosewicz;
