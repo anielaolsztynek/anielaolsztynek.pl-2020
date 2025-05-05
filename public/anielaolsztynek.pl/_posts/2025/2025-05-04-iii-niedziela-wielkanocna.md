@@ -1,6 +1,6 @@
 ---
 title: III Niedziela Wielkanocna
-date: 2025-04-04
+date: 2025-05-04
 ---
 
 > **<span style="color: #5D4587;">J 21, 1-19 </span>**
