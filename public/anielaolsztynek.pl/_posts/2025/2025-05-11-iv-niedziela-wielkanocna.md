@@ -18,9 +18,9 @@ date: 2025-05-11
 
 - Dziś w naszej parafii **uroczystość Pierwszej Komunii Świętej**, do której przystąpiło 24 dzieci (w tym 16 z naszej parafii).
 - Bóg zapłać rodzicom dzieci pierwszokomunijnych za **dar ołtarza** – dar dla parafii – świecznik, który będzie umieszczony przy ołtarzu bocznym z obrazem Jezusa Miłosiernego i Matki Bożej Nieustającej Pomocy. Tutaj będzie można zapalić świeczkę i wzbudzić swoją intencję.
-- W następną niedzielę na godzinę <u>11:00</u> zapraszam dzieci, które przed rokiem były u I Komunii Świętej. Te dzieci zapraszam do spowiedzi w piątek o godzinie <u>16:30</u> lub w sobotę przed Mszą Świętą.
-- Próba dla tych dzieci w czwartek o godzinie <u>18:00</u>.
-- W piątek - 16 maja - wypada w liturgii  **święto ku czci Świętego Andrzeja Boboli**, patrona Polski i naszej Warmińskiej Archidiecezji. Cieszymy się, że w naszym kościele mamy figurę tego Świętego, któray jest patronem jedności, patronem na trudne czasy. Przed tym liturgicznym świętem już od minionej środy odmawiamy codziennie Nowennę w intencji naszej Ojczyzny za przyczyną tego patrona. W piątek pod koniec Mszy Świętej poświęcimy figurę Świętego Andrzeja Boboli.
+- W następną niedzielę na godzinę <u>11:00</u> zapraszam **dzieci, które przed rokiem były u I Komunii Świętej**. Te dzieci zapraszam do spowiedzi w piątek o godzinie <u>16:30</u> lub w sobotę przed Mszą Świętą.
+- **Próba dla tych dzieci** w czwartek o godzinie <u>18:00</u>.
+- W piątek - 16 maja - wypada w liturgii  **święto ku czci Świętego Andrzeja Boboli**, patrona Polski i naszej Warmińskiej Archidiecezji. Cieszymy się, że w naszym kościele mamy figurę tego Świętego, który jest patronem jedności, patronem na trudne czasy. Przed tym liturgicznym świętem już od minionej środy odmawiamy codziennie Nowennę w intencji naszej Ojczyzny za przyczyną tego patrona. W piątek pod koniec Mszy Świętej poświęcimy figurę Świętego Andrzeja Boboli.
 - **Intencje mszalne na najbliższy tydzień:**
   - poniedziałek: + Stanisława Bartosewicz;
   - wtorek: + Stanisława Bartosewicz;
