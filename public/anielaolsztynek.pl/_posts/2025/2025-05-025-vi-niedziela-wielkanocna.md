@@ -42,3 +42,6 @@ Arcybiskup Józef Górzyński METROPOLITA WARMIŃSKI
   - piątek: + Stanisława Bartosewicz;
   - sobota: + Stanisława Bartosewicz;
   - niedziela (01.06): <u>9:00</u> Helena, Antoni, Jan Binkul, Grzegorz, Piotr Naumiuk, Tadeusz Mróz z rodzicami, Teresa Ławczyńska z rodziną i ksiądz jan Paszulewicz; <u>11:00</u> + Stanisław Wnuk (13 rocznica śmierci); <u>17:00</u> + Stanisława, Konstanty, Jan Śliwińscy.
+
+
+
