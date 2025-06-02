@@ -33,5 +33,3 @@ date: 2025-06-01
   - piątek: <u>16:00</u> w intencji Nowożeńców; <u>17:30</u> w intencji Ignacego w rocznicę chrztu;
   - sobota: + Magdalena Nyga (8 rocznica śmierci);
   - niedziela (08.06): <u>9:00</u> + Hieronim Bukowski (35  rocznica śmierci); <u>11:00</u> + Marianna Orzech (8 rocznica śmierci), Jan i Jerzy Orzech; <u>17:00</u> + Krystyna (4 rocznica śmierci) i Stefan Stawiccy.
-
-
