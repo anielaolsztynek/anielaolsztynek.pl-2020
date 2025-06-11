@@ -16,3 +16,22 @@ date: 2025-06-08
 > <span style="color: #666699;">Chroń mnie, Panie, przed nazywaniem wolnością mojej samowoli, mego egoizmu – samodzielnością, a mojej pychy – solidną wiedzą o świecie. Chroń mnie, ucząc miłości do Ciebie.
 > &nbsp;
 
+- Dzisiejszą **niedzielą Zesłania Ducha Świętego** kończy się okres wielkanocny, a zaczyna się okres zwykły.
+- Jutro w liturgii obchodzimy **święto Najświętszej Marii Panny – Matki Kościoła**.
+- W czwartek wypada liturgiczne **święto Jezusa Chrystusa Najwyższego i Wiecznego Kapłana**.
+- W następną niedzielę obchodzimy **uroczystość Trójcy Przenajświętszej**.
+- W **uroczystość Bożego Ciała** Msza Święta tradycyjnie o godzinie <u>10:00</u> w Skansenie i procesja na osiedle przy ulicy Leśnej.
+- W sobotę Msza Święta połączona ze ślubem o godzinie <u>16:00</u>.
+- W minionym tygodniu odeszła do wieczności nasza parafianka śp. Urszula Foremniak – lat 90. Wieczny odpoczynek racz zmarłej dać, Panie.
+- **Intencje mszalne na bieżący tydzień:**
+  - poniedziałek: + Wioleta Duch;
+  - wtorek: + Leokadia, Dionizy, Jerzy, Jan Strzeleccy;
+  - środa: + Bronisław (40 rocznica śmierci) i Janina (20 rocznica śmierci) Gazda;
+  - czwartek: + Urszula Foremniak;
+  - piątek: + Roman Koralewski;
+  - sobota: w intencji Nowożeńców;
+  - niedziela (15.06): <u>9:00</u> + Jan, Stanisława, Michał, Jadwiga Bartosewicz; <u>11:00</u> + Janina, Jan Gostkiewicz, Marianna, Ignacy Gostkiewicz; <u>17:00</u> + Adam Wyszkowski.
+
+
+
+
