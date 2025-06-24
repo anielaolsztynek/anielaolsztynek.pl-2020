@@ -26,7 +26,7 @@ date: 2025-06-22
 
 - W sobotę obchodzimy wspomnienie N**iepokalanegp Serca Najświętszej Marii Panny**.
 
-- W następną  niedzielę o godzinie <u>11:00</a> zapraszam do wspólnej modlitwy dzieci, młodzież i nauczycieli z okazji  zakończenia roku szkolnego. Dzieci, które uczestniczyły we Mszy Świętej w każdą niedzielę w ciągu roku i mają obrazki, otrzymają nagrodę.
+- W następną  niedzielę o godzinie <u>11:00</u> zapraszam do wspólnej modlitwy dzieci, młodzież i nauczycieli z okazji  zakończenia roku szkolnego. Dzieci, które uczestniczyły we Mszy Świętej w każdą niedzielę w ciągu roku i mają obrazki, otrzymają nagrodę.
 
 - W następną niedzielę obchodzimy uroczystość **Świętych Apostołów Piotra i Pawła**.
 
