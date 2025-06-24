@@ -16,17 +16,27 @@ date: 2025-06-22
 > <span style="color: #666699;">Ty, Panie, także mnie posyłasz, abym był Twoim świadkiem. Za św. Pawłem powtarzam więc: „Obym nie chlubił się niczym innym, jak tylko krzyżem Pana naszego Jezusa Chrystusa" (Ga 6, 14).
 > &nbsp;
 
-- Dziękuję raz jeszcze tym wszystkim, którzy zaangażowali się w przygotowanie Mszy Świętej w Skansenie i w przebieg procesji w uroczystość **Bożego Ciała** oraz za wykonanie czterech ołtarzy.
-- We wtorek – 24 czerwca –  w liturgii obchodzimy **uroczystość Narodzenia Świętego Jana Chrzciciela**.
-- W piątek - 27 czerwca - wypada **148 rocznica rozpoczęcia objawień Matki Bożej w Gietrzwałdzie**.
-- W następną niedzielę obchodzimy **uroczystość Świętych Apostołów Piotra i Pawła**.
-- W poniedziałek Msza Święta o godzinie <u>8:00</u>.
-- **Intencje mszalne na najbliższy tydzień:**
-  - poniedziałek: o Bożą opiekę oraz zdrowie duszy i ciała dla Julity, Zachariasza i Rafała;
-  - wtorek: o zdrowie i błogosławieństwo Boże dla Andrzeja;
-  - środa: + Wanda Malinowska (9 rocznica śmierci), Jerzy Piotrowski i ++ z rodz. Malinowskich, Szwedowskich, Szymańskich;
-  - czwartek: za parafian;
-  - piątek: + Piotr Schimmelpfenig;
-  - sobota: + Ryszard Czaplicki;
-  - niedziela (23.06): <u>9:00</u> + Alina Mrozowska; <u>11:00</u> + Ryszard Staszak (3 rocznica śmierci); <u>17:00</u> + Ludwika Śliżewska.
+- Dziękuję raz jeszcze tym wszystkim, którzy zaangażowali się w przygotowanie Mszy Świętej w Skansenie i w przebieg procesji w Uroczystość Bożego Ciała oraz za wykonanie czterech ołtarzy.
 
+- We wtorek w liturgii obchodzimy **uroczystość Narodzenia Świętego Jana Chrzciciela**.
+
+- W piątek obchodzimy **uroczystość Najświętszego Serca Pana Jezusa**.
+
+- W piątek też - 27 czerwca wypada 148 rocznica rozpoczęcia objawień Matki Bożej Gietrzwałdzkiej.
+
+- W sobotę obchodzimy wspomnienie N**iepokalanegp Serca Najświętszej Marii Panny**.
+
+- W następną  niedzielę o godzinie 11:00 zapraszam do wspólnej modlitwy dzieci, młodzież i nauczycieli z okazji  zakończenia roku szkolnego. Dzieci, które uczestniczyły we Mszy Świętej w każdą niedzielę w ciągu roku i mają obrazki, otrzymają nagrodę.
+
+- W następną niedzielę obchodzimy uroczystość Świętych Apostołów Piotra i Pawła.
+
+- Jutro Msza Święta o godzinie <u>18:00</u>.
+
+- **Intencje mszalne na bieżący tydzień**:
+  - poniedziałek: godz. <u>18:00</u> + Iwona Adamus (1 rocznica śmierci);
+  - wtorek: + Bogusław Kuciński (5 rocznica śmierci);
+  - środa: + Paweł (20 rocznica śmierci);
+  - czwartek: w intencji Władysławy z okazji imienin;
+  - piątek: + Stanisław i ++ z rodz. Biały;
+  - sobota: w intencji Arkadiusza w 40 rocznicę urodzin;
+  - niedziela (29.06.2025): <u>9:00</u>: + Renata Staniszewska; <u>11:00</u>: dziękczynna z prośbą o szczęśliwe wakacje dla dzieci, młodzieży oraz nauczycieli i wychowawców; <u>17:00</u>: + Janina Stobiecka.
