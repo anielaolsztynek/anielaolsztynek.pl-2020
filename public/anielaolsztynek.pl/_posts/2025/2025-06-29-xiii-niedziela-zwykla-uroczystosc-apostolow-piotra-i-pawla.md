@@ -11,7 +11,7 @@ date: 2025-06-29
 >
 > **Przyjąć Jezusa**
 >
-> Gościnność jest cechą większości ludów Wschodu, dlatego reakcja uczniów jest w pewnym sensie zrozumiała. Oni chcą zniszczyć grzeszników wraz z ich grzechem. Natomiast Jezus przynosi inną odpowiedź na grzech. Jest nim powołanie do wspólnoty uczniów, gdzie każdy jest konfrontowany z korzeniami grzechu, które są w jego sercu. Trzy radykalne przykłady są dla nas nauką, że na wezwanie Jezusa nie możemy opowiedzieć połowicznie. Tylko ten jest Jego uczniem, kto całkowicie poświęca się Jego dziełu.
+> Gościnność jest cechą większości ludów Wschodu, dlatego reakcja uczniów jest w pewnym sensie zrozumiała. Oni chcą zniszczyć grzeszników wraz z ich grzechem. Natomiast Jezus przynosi inną odpowiedź na grzech. Jest nim powołanie do wspólnoty uczniów, gdzie każdy jest konfrontowany z korzeniami grzechu, które są w jego sercu. Trzy radykalne przykłady są dla nas nauką, że na wezwanie Jezusa nie możemy odpowiedzieć połowicznie. Tylko ten jest Jego uczniem, kto całkowicie poświęca się Jego dziełu.
 >
 > <span style="color: #666699;">Pozwól mi, Panie, poznać głębiny mego serca, abym dostrzegając korzenie grzechu, mógł się ich wyrzec i kroczyć za Tobą jako Twój uczeń.
 > &nbsp;
@@ -20,11 +20,11 @@ date: 2025-06-29
 - Dziś o godzinie <u>11:00</u> zapraszam do wspólnej modlitwy dzieci, młodzież i nauczycieli z okazji **zakończenia roku szkolnego**. Dzieci, które uczestniczyły we Mszy Świętej w każdą niedzielę w ciągu roku i mają obrazki, otrzymają nagrodę.
 - Jutro zakończenie nabożeństwa czerwcowego. W związku z tym w każdą środę będzie odmawiana **nowenna do Matki Bożej Nieustającej Pomocy**, a w piątki **koronka do Miłosierdzia Bożego**.
 - We wtorek – 1 lipca – mija 29 rocznica powstania naszej parafii.
-- W tym tygodniu wypada **I czwartek, I piątek i I sobota** lipca. W **I czwartek** wystawienie i adoracja Najświętszego Sakramentu w godz. <u>16:00</u> - <u>17:00</u> prowadzona przez Apostolat „Złota Róża”. W piątek przed południem odwiedziny chorych z posługą sakramentalną.
-- Następna, I niedziela miesiąca, to niedziela **adoracji Najświętszego Sakramentu**. **Zmiana tajemnic różańcowych** o godzinie <u>8:30</u>.
+- W tym tygodniu wypada **I czwartek, I piątek** i **I sobota** lipca. W **I czwartek** wystawienie i adoracja Najświętszego Sakramentu w godz. <u>16:00</u> - <u>17:00</u> prowadzona przez Apostolat „Złota Róża”. W **I piątek** przed południem odwiedziny chorych z posługą sakramentalną.
+- Następna, **I niedziela** miesiąca, to niedziela **adoracji Najświętszego Sakramentu**. **Zmiana tajemnic różańcowych** o godzinie <u>8:30</u>.
 - 5 lipca br. o godzinie <u>21:00</u> Apelem Maryjnym w sanktuarium w Gietrzwałdzie rozpocznie się całonocna **Adoracja Eucharystyczna z Mszą Świętą o godzinie <u>24:00</u>**, podczas której w szczególny sposób będzie rozważana trzecia boleść Matki Bożej Bolesnej „Szukanie przez trzy dni Pana Jezusa", ofiarowanej w intencji Ojca Świętego, biskupów i kapłanów.
 Jednocześnie po Mszy Świętej o północy podczas Adoracji Chrystusa Króla będziemy dziękować Panu Bogu za **XIX Pieszą Pielgrzymkę z Łomianek do Gietrzwałdu** w intencji rodzin oraz powierzać żywotne sprawy Kościoła i Polski. Zapraszam wszystkich do przyjazdu do Sanktuarium w Gietrzwałdzie na wspólną modlitwę za Kościół i Ojczyznę. Plakaty na ten temat w gablocie.
-- W minionym tygodniu odeszła do wieczności nasza parafianka śp. Krystyna Popielarska – lat 57. Wieczny odpoczynek racz zmarłej dać, Panie.
+- W minionym tygodniu odeszła do wieczności nasza parafianka, śp. Krystyna Popielarska – lat 57. Wieczny odpoczynek racz zmarłej dać, Panie.
 - **Intencje mszalne na najbliższy tydzień:**
   - poniedziałek: + Alicja Popielewska (30 dzień po pogrzebie);
   - wtorek: + Edward, Jan, Genowefa Sienniccy, Genowefa, Ignacy, Jadwiga, Wiktor Stupak;
