@@ -16,7 +16,7 @@ date: 2025-07-20
 > <span style="color: #666699;">Spraw, Panie, aby postawy Marii i Marty były zawsze wpisane w moje życie, by moje czyny nie były ślepym aktywizmem, a słuchanie Ciebie nie usprawiedliwiało lenistwa w dziełach miłości.
 > &nbsp;
 
-- **Poświęcenie pojazdów** z okazji święta **Świętego Krzysztofaw** w następną niedzielę po Mszach Świętych. Przy okazji będą zbierane ofiary na misje, na zakup środków transportu.
+- **Poświęcenie pojazdów** z okazji święta **Świętego Krzysztofa** w następną niedzielę po Mszach Świętych. Przy okazji będą zbierane ofiary na misje na zakup środków transportu.
 - W poniedziałek Msza Święta o godzinie <u>8:00</u>.
 - W minionym tygodniu odeszła do wieczności nasza parafianka (najstarsza), śp. Stanisława Dąbrowska – lat 98. Wieczny odpoczynek racz zmarłej dać, Panie.
 - **Intencje mszalne na najbliższy tydzień:**
@@ -27,5 +27,3 @@ date: 2025-07-20
   - piątek: o zdrowie i błogosławieństwo Boże dla Anny z okazji imienin;
   - sobota: w intencji Jubilatów w 50 rocznicę ślubu;
   - niedziela (27.07): <u>9:00</u> + Janina Kumiszczo (1 rocznica śmierci); <u>11:00</u> + Janina Stobiecka; <u>17:00</u> + Krystyna Rabij (6 rocznica śmierci).
-
-
