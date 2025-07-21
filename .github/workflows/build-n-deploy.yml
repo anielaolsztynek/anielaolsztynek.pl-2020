@@ -35,7 +35,7 @@ jobs:
       - run: ls -la public/anielaolsztynek.pl/_site
 
       - name: Deploy to Firebase
-        uses: w9jds/firebase-action@v2.0.0
+        uses: w9jds/firebase-action@4b11044a13e16364f719e82113fbe825dea3bd72
         with:
           args: deploy --only hosting
         env:
