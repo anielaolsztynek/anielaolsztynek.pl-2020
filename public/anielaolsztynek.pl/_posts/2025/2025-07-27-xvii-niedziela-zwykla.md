@@ -31,3 +31,5 @@ date: 2025-07-27
   - piątek: + Alicja Popielewska;
   - sobota: + Teresa Serafinowska (17 rocznica śmierci);
   - niedziela (03.08): <u>9:00</u> w intencji Marioli i Marka w 40 rocznicę ślubu; <u>11:00</u> + Franciszek Piłat (21 rocznica śmierci); <u>17:00</u> o Boże błogosławieństwo i pomyślność w funkcjonowaniu nowego gabinetu.
+
+
