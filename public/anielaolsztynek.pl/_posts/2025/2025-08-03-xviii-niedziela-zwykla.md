@@ -18,9 +18,9 @@ date: 2025-08-03
 
 - Dziś **I niedziela miesiąca** – niedziela adoracji Najświętszego Sakramentu.
 - W środę – 6 sierpnia – wypada liturgiczne **święto Przemienienia Pańskiego**.
-- Najbliższy czwartek to **I czwartek miesiąca**. W tym dniu adoracja Najświętszego Sakramentu od godziny <u>16:00</u> do godziny <u>17:00</u> prowadzona przez Apostolat „Złota Róża”.
+- Najbliższy czwartek to **I czwartek miesiąca**. W tym dniu adoracja Najświętszego Sakramentu od godziny <u>16:00</u> do godziny <u>17:00</u>, prowadzona przez Apostolat „Złota Róża”.
 - W sobotę obchodzimy liturgiczne święto ku czci **Świętej Teresy Benedykty od Krzyża**, patronki Europy.
-- Powstała **inicjatywa budowy pomnika Świętego Piotra**, który jest patronem naszego miasta nieprzerwanie od 1359 roku. Na prośbę Komitetu Budowy Pomnika Świętego Piotra rozprowadzane będą cegiełki w naszej parafii w dniu 10 sierpnia (za dwa tygodnie), po Mszach Świętych. Plakat w gablocie.
+- Powstała **inicjatywa budowy pomnika Świętego Piotra**, który jest patronem naszego miasta nieprzerwanie od 1359 roku. Na prośbę Komitetu Budowy Pomnika rozprowadzane będą cegiełki w naszej parafii w dniu 10 sierpnia, po Mszach Świętych. Plakat w gablocie.
 - Już dziś chcę poinformować, że w **Uroczystość Wniebowzięcia Najświętszej Marii Panny** (15 sierpnia) Msze Święte w kościele będą o godzinie <u>10:00</u> i <u>17:00</u>, z uwagi na Mszę Świętą dodatkową o godzinie <u>12:30</u> w Skansenie.
 - **Intencje mszalne na najbliższy tydzień:**
   - poniedziałek: + Jadwiga Gnaś (1 rocznica śmierci);
