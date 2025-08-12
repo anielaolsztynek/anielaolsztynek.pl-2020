@@ -16,11 +16,11 @@ date: 2025-08-10
 > <span style="color: #666699;">Kiedy dzisiejszy świat nie myśli o wieczności, nawet nie troszczy się o los przyszłych pokoleń, pozwól mi Panie, być świadkiem innego, wiecznego życia, które przewidziałeś dla każdego człowieka.
 > &nbsp;
 
-- Liturgiczna **uroczystość Wniebowzięcia Najświętszej Marii Panny - Matki Bożej Zielnej** - wypada w najbliższy piątek, czyli 15 sierpnia. Msze Święte w tym dniu w naszym kościele o godzinie <u>10:00</u> i <u>17:00</u>. Zachęcam do przyniesienia w tym dniu bukietów z kwiatów, ziół i zbóż. Ich poświęcenie odbędzie się w czasie Mszy Świętych.
+- Liturgiczna **uroczystość Wniebowzięcia Najświętszej Marii Panny – Matki Bożej Zielnej** – wypada w najbliższy piątek, czyli 15 sierpnia. Msze Święte w tym dniu w naszym kościele o godzinie <u>10:00</u> i <u>17:00</u>. Zachęcam do przyniesienia w tym dniu bukietów z kwiatów, ziół i zbóż. Ich poświęcenie odbędzie się w czasie Mszy Świętych.
 - W tym dniu jest organizowane **Regionalne Święto Ziół** w Skansenie. Msza Święta w Skansenie, o godzinie <u>12:30</u> połączona jest z poświęceniem ziół i kwiatów.
 - We wtorek Msza Święta o godzinie <u>8:00</u>.
-- Na prośbę **Komitetu Budowy Pomnika Świętego Piotra** dziś po Mszach Świętych będą rozprowadzane cegiełki na budowę tego pomnika - cegiełki w kwocie 20, 50 i 100 złotych lub w postaci dowolnej kwoty do puszki. Można też wpisać się na listę osób wspierających komitet.
-- W minionym tygodniu odszedł do wieczności nasz parafianin śp. Szczepan Madej - lat 69. Wieczny odpoczynek racz zmarłemu dać, Panie.
+- Na prośbę **Komitetu Budowy Pomnika Świętego Piotra** dziś po Mszach Świętych będą rozprowadzane cegiełki na budowę tego pomnika – cegiełki w kwocie 20, 50 i 100 złotych lub w postaci dowolnej kwoty do puszki. Można też wpisać się na listę osób wspierających komitet.
+- W minionym tygodniu odszedł do wieczności nasz parafianin śp. Szczepan Madej – lat 69. Wieczny odpoczynek racz zmarłemu dać, Panie.
 - **Intencje mszalne na bieżący tydzień:**
   - poniedziałek: o zdrowie i błogosławieństwo Boże dla Anny;
   - wtorek: za zmarłych;
