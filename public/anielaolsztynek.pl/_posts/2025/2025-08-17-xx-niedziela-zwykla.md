@@ -16,8 +16,8 @@ date: 2025-08-17
 > <span style="color: #666699;">Panie, naucz mnie swoich pragnień, abym myślał i czuł tak jak Ty, abym nigdy nie był letni i obojętny. Niech Twój pokój panuje w moim sercu i nad całym światem.
 > &nbsp;
 
-- W następną niedzielę o godzinie <u>11:00</u> będzie odprawiona **Msza Święta w intencji pszczelarzy**, w ramach obchodów VIII Regionalnego Dnia Pszczelarza z udziałem kilku Kół Pszczelarzy.
-- W poprzednią niedzielę na budowę pomnika zebrano kwotę 1115 złotych, w tym z cegiełek 900 złotych, do puszki 215 złotych. W imieniu **Komitetu Budowy Pomnika Świętego Piotra** składam serdeczne Bóg zapłać.
+- W następną niedzielę o godzinie <u>11:00</u> będzie odprawiona **Msza Święta w intencji pszczelarzy**, w ramach obchodów VIII Regionalnego Dnia Pszczelarza, z udziałem kilku Kół Pszczelarzy.
+- W poprzednią niedzielę **na budowę Pomnika Świętego Piotra** zebrano kwotę 1115 złotych, w tym z cegiełek 900 złotych, do puszki 215 złotych. W imieniu **Komitetu Budowy Pomnika Świętego Piotra** składam serdeczne Bóg zapłać.
 - W minionym tygodniu odszedł do wieczności nasz parafianin śp. Ryszard Wierszewski – lat 72. Wieczny odpoczynek racz zmarłemu dać, Panie.
 - **Intencje mszalne na bieżący tydzień:**
   - poniedziałek: Stanisława Dąbrowska (30 dzień po pogrzebie);
