@@ -17,7 +17,7 @@ date: 2025-08-24
 > &nbsp;
 
 - Dziś o godzinie <u>11:00</u> będzie odprawiona **Msza Święta w intencji pszczelarzy**, w ramach obchodów VIII Regionalnego Dnia Pszczelarza, z udziałem kilku Kół Pszczelarzy. Pod koniec Mszy Świętej zostanie poświęcony obraz Matki Bożej Królowej Pszczół - Mater Regina Apium - obraz nieco większy od poprzedniego.
-- Odpust w naszej parafii za dwa tygodnie.
+- **Odpust w naszej parafii za dwa tygodnie**.
 - W najbliższy wtorek wypada **uroczystość ku czci Matki Bożej Częstochowskiej**.
 - W dniu dzisiejszym jest organizowny **kiermasz charytatywny w MDK** w godzinach <u>11:00</u> - <u>17:00</u>. Patrycja to 28-letnia dziewczyna z Olsztynka, która usłyszała dramatyczną diagnozę - agresywny guz mózgu. Lekarze ze Szkocji nie dają już nadziei, ale jest szansa na leczenie protonowe w Niemczech. W czasie kiermaszu przewidzianych jest wiele atrakcji, a cały dochód będzie przeznaczony na leczenie Patrycji.
 - W sobotę Msza Święta o godzinie <u>16:00</u>.
