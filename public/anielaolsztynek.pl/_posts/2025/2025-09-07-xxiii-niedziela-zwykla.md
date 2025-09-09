@@ -17,13 +17,13 @@ date: 2025-09-07
 > &nbsp;
 
 - Dziś **Odpust w naszej parafii ku czci Błogosławionej Anieli Salawy**.
-- Liturgiczna uroczystość **Narodzenia Najświętszej Marii Panny** – Matki Bożej Gietrzwałdzkiej wypada jutro - 8 września.
+- Liturgiczna uroczystość **Narodzenia Najświętszej Marii Panny** – Matki Bożej Gietrzwałdzkiej wypada jutro – 8 września.
 - Główne uroczystości **148 rocznicy Objawień Najświętszej Marii Panny Gietrzwałdzkiej** oraz **59 Dożynki Archidiecezjalne** w następną niedzielę o godzinie <u>11:00</u>. Mszy Świętej będzie przewodniczył Ksiądz Biskup Jerzy Mazur, ordynariusz Diecezji Ełckiej. Plakat w gablocie.
 - **Pielgrzymka piesza z Olsztynka do Gietrzwałdu** w najbliższą sobotę – 13 września. Wyjście spod kościoła Najświętszego Serca Pana Jezusa o godzinie <u>7:30</u>.
 - Za dwa tygodnie – 21 września – odbędą się **Dożynki Wojewódzkie w Skansenie**, o godzinie <u>12:00</u>. W związku z tym, w tym dniu nie będzie Mszy Świętej o godzinie 11:00 w naszym kościele.
-- Spotkanie z rodzicami dzieci, które w tym roku szkolnym **przygotowują się do I Komunii Świętej**, w następną niedzielę po Mszy Świętej o godzinie <u>11:00</u>. Rodzice zgłaszają swoje dzieci do przyjęcia tego sakramentu.
+- **Spotkanie z rodzicami dzieci, które w tym roku szkolnym przygotowują się do I Komunii Świętej**, w następną niedzielę po Mszy Świętej o godzinie <u>11:00</u>. Rodzice zgłaszają swoje dzieci do przyjęcia tego sakramentu.
 - **Poświęcenie tornistrów i przyborów szkolnych pierwszoklasistów** w następną niedzielę pod koniec Mszy Świętej o godzinie <u>11:00</u>.
-- Tradycyjnie w niedziele po Mszach Świętych **będą rozdawane dzieciom obrazki nawiązujące do Ewangelii**. Dzieci przygotowujące się w tym roku szkolnym do I Komunii Świętej, jak również dzieci z klas drugich zbierają obrazki obowiązkowo od następnej niedzieli.
+- Tradycyjnie w niedziele po Mszach Świętych **będą rozdawane dzieciom obrazki nawiązujące do Ewangelii**. Dzieci przygotowujące się w tym roku szkolnym do I Komunii Świętej, jak również dzieci z klas drugich, zbierają obrazki obowiązkowo od następnej niedzieli.
 - **Zbiórka elektrośmieci.** Wzorem lat ubiegłych firma Green Office Ecologic sp. z o.o. wraz ze Stowarzyszeniem Dobrych Inicjatyw "Pro Missio" organizuje akcję ekologiczną polegającą na zbiórce zużytego sprzętu elektrycznego i elektronicznego. Przekazany w zbiórce sprzęt będzie poddawany procesowi utylizacji. Sprzedaż odzyskanych surowców pozwala na finansowanie projektów misyjnych Kościoła Katolickiego. Odbiór tego sprzętu w naszej parafii będzie miał miejsce w dniu 10.09.25 o godzinie <u>11:30</u>. Sprzęt można składać wzdłuż kaplicy, przy bocznym wejściu. Ulotki na półce z prasą.
 - **Intencje mszalne na bieżący tydzień:**
   - poniedziałek: o zdrowie i błogosławieństwo Boże dla Beaty;
