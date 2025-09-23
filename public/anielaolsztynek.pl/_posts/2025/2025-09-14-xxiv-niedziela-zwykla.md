@@ -1,6 +1,6 @@
 ---
 title: XXIV Niedziela zwykła. Święto Podwyższenia Krzyża Świętego
-date: 2025-09-07
+date: 2025-09-14
 ---
 
 > **<span style="color: #5D4587;">J 3, 13-17 </span>**
