@@ -16,13 +16,13 @@ date: 2025-09-28
 > <span style="color: #666699;">Panie, potrzeba mi pokory, abym pozwolił kształtować się przez Twoje słowo, potrzeba mi odwagi, abym dostrzegał potrzebę nawrócenia mojego serca, potrzeba mi Twego światła, abym widział świat tak, jak Ty go widzisz.
 > &nbsp;
 
-- W środę rozpoczyna się październik - **miesiąc wspólnej modlitwy różańcowej**.
+- W środę rozpoczyna się październik – **miesiąc wspólnej modlitwy różańcowej**.
 - Gorąco zachęcam do tej wspólnej modlitwy codziennie o godzinie <u>16:30</u>, w niedziele o godzinie <u>8:30</u>.
 Dzieci, w tym dzieci przygotowujące się do I Komunii Świętej, zapraszam w czwartek. Kandydatów do bierzmowania z klas VIII zapraszam również w czwartek na godzinę <u>16:30</u>. Tych, którzy nie byli na pierwszym spotkaniu, proszę o spotkanie indywidualne z rodzicami.
-- W tym tygodniu wypada **I czwartek, I piątek i I sobota** października. **I czwartek** to dzień upamiętniający ustanowienie Eucharystii i Kapłaństwa. W tym dniu wystawienie i adoracja Najświętszego Sakramentu od godz. <u>16:00</u> do <u>17:00</u> prowadzona przez Apostolat „Złota Róża”. **I piątek** to dzień poświęcony czci Najświętszego Serca Pana Jezusa. Wyjątkowo w tym dniu nie będzie odwiedzin z posługą sakramentalną. Po południu Spowiedź Święta przed różańcem. **I sobota** to dzień poświęcony czci Niepokalanego Serca Maryi - odmawiamy nabożeństwo do Niepokalanego Serca Maryi.
+- W tym tygodniu wypada **I czwartek, I piątek i I sobota** października. **I czwartek** to dzień upamiętniający ustanowienie Eucharystii i Kapłaństwa. W tym dniu wystawienie i adoracja Najświętszego Sakramentu od godz. <u>16:00</u> do <u>17:00</u>, prowadzona przez Apostolat „Złota Róża”. **I piątek** to dzień poświęcony czci Najświętszego Serca Pana Jezusa. Wyjątkowo w tym dniu nie będzie odwiedzin z posługą sakramentalną. Po południu Spowiedź Święta przed różańcem. **I sobota** to dzień poświęcony czci Niepokalanego Serca Maryi - odmawiamy nabożeństwo do Niepokalanego Serca Maryi.
 - Następna, **I niedziela miesiąca**, to **niedziela adoracji Najświętszego Sakramentu**, pod koniec Mszy Świętych o godzinie <u>9:00</u> i <u>11:00</u>.
 - W następną niedzielę proszę, aby **dzieci przygotowujące się w tym roku szkolnym do I Komunii Świętej przyniosły do poświęcenia różańce** na godzinę <u>11:00</u>.
-- **Młodzież z klas VI** - w ramach zapisów i przygotowania do bierzmowania - zapraszam z rodzicami w następną niedzielę na godzinę <u>11:00</u>.
+- **Młodzież z klas VI** – w ramach zapisów i przygotowania do bierzmowania – zapraszam z rodzicami w następną niedzielę na godzinę <u>11:00</u>.
 - **Intencje mszalne na bieżący tydzień:**
   - poniedziałek: + Ryszard Wierszewski (miesiąc po śmierci);
   - wtorek: + Stanisław, Jerzy, Jan, Marianna, Stanisława, Krystyna i Elżbieta i ++ z rodz. Bucholskich;
