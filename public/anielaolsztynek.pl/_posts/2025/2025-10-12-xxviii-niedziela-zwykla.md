@@ -1,6 +1,6 @@
 ---
 title: XXVIII Niedziela zwykła
-date: 2025-10-05
+date: 2025-10-12
 ---
 
 > **<span style="color: #5D4587;">Łk 17, 11-19 </span>**
@@ -21,7 +21,7 @@ date: 2025-10-05
 W XVI wieku dziedzic Kodnia – Mikołaj Pius Sapieha udaje się w pielgrzymce do Rzymu. Papież Urban VIII zaprasza polskiego magnata na Eucharystię do swojej prywatnej kaplicy, gdzie znajdował się słynący łaskami obraz Matki Bożej Gregoriańskiej, zwanej również Guadalupeńską. Mikołaj doznaje cudownego uzdrowienia. Prosi Ojca Świętego o podarowanie mu wizerunku do budowanego w Kodniu kościoła. Kiedy Papież odmawia, Sapieha wykrada obraz z watykańskiej kaplicy (Z. Kossak – "Błogosławiona wina").
 Figurka Matki Bożej z Kodnia będzie peregrynowała do mieszkań członków Apostolatu "Złota Róża". Później, jeśli będą chętni, można wziąć figurkę do swojego mieszkania na 1 dobę. Następnie zostanie przekazana do parafii Najświętszego Serca Pana Jezusa. Stamtąd zostanie przekazana do Olsztyna.
 - W sobotę **Dzień Skupienia dla Apostolatu Modlitwy i Postu za Kapłanów Archidiecezji Warmińskiej oraz sympatyków** w Gietrzwałdzie w godzinach <u>9:00</u> - <u>13:00</u>.
-- We wtorek – 14 października – wypada **Dzień Edukacji Narodowej - Dzień Nauczyciela**. Z okazji tego dnia wszystkim nauczycielom, katechetom i wychowawcom składam najlepsze życzenia: wytrwałości, cierpliwości, spokoju, ludzkiej satysfakcji i wdzięczności oraz błogosławieństwa Bożego w pracy oraz w życiu rodzinnym i osobistym.
+- We wtorek – 14 października – wypada **Dzień Edukacji Narodowej – Dzień Nauczyciela**. Z okazji tego dnia wszystkim nauczycielom, katechetom i wychowawcom składam najlepsze życzenia: wytrwałości, cierpliwości, spokoju, ludzkiej satysfakcji i wdzięczności oraz błogosławieństwa Bożego w pracy oraz w życiu rodzinnym i osobistym.
 - Natomiast w sobotę – 18 października – wypada liturgiczne **święto Świętego Łukasza Apostoła – patrona służby zdrowia**. Wszystkim pracownikom tej branży życzę Bożego błogosławieństwa i Bożego ducha w posługiwaniu ludziom chorym.
 - **Tydzień misyjny** rozpoczyna się w następną niedzielę. Ofiary składane wówczas na tacę będą przeznaczone na misje.
 - Zapraszam do wspólnej modlitwy różańcowej codziennie o godzinie <u>16:30</u>. Dzieci i młodzież przed bierzmowaniem zapraszam w środę, też na godzinę <u>16:30</u>.
