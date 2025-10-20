@@ -18,12 +18,12 @@ date: 2025-10-19
 
 - Bóg zapłać za ofiary składane dziś na tacę, przeznaczone na misje.
 - Zapraszam do wspólnej modlitwy różańcowej do końca października.
-- W środę - 22 października – wypada liturgiczne **święto Świętego Jana Pawła II – papieża**.
+- W środę – 22 października – wypada liturgiczne **święto Świętego Jana Pawła II – papieża**.
 - Kartki na wypominki i na Mszę Świętą zbiorową za zmarłych są wyłożone na półce z prasą.
 - Z inicjatywy członków III Zakonu Świętego Franciszka, zwanych tercjarzami (tercjarką była nasza patronka Błogosławiona Aniela Salawa), wysłuchamy dzisiaj świadectwa na temat tej formacji ludzi świeckich, pragnących realizować ideały życia franciszkańskiego.
 - **Intencje mszalne na najbliższy tydzień:**
   - poniedziałek: + Zofia Chojnacka (25 rocznica śmierci) i Zygmunt Chojnacki;
-  - wtorek: Tadeusz Piątosa (1 rocznica śmierci);
+  - wtorek: + Tadeusz Piątosa (1 rocznica śmierci);
   - środa: + Stanisława Dąbrowska;
   - czwartek: + Genowefa Fokow;
   - piątek: w intencji Marcina z okazji 50 rocznicy urodzin;
