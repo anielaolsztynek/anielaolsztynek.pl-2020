@@ -16,10 +16,10 @@ date: 2025-11-09
 > <span style="color: #666699;">W powierzchowności dzisiejszego świata, pośród wielości pozornych znaków miłości, spraw, Panie, aby moje ciało także stawało się świątynią Twej obecności.
 > &nbsp;
 
-- Dzisiaj, w **Dniu Solidarności z Kościołem Prześladowanym** po Mszy Świętej będą zbierane ofiary jako pomoc naszym siostrom i braciom w potrzebie.
-- We wtorek - 11 listopada - wypada **107 Rocznica Odzyskania Niepodległości Polski**.
+- Dzisiaj, w **Dniu Solidarności z Kościołem Prześladowanym**, po Mszy Świętej będą zbierane ofiary jako pomoc naszym siostrom i braciom w potrzebie.
+- We wtorek – 11 listopada – wypada **107 Rocznica Odzyskania Niepodległości Polski**.
 - W tym dniu wypada też 25 rocznica poświęcenia dzwonu i plebanii.
-- **Światowy Dzień Ubogich** wypada w następną niedzielę. W tym dniu, po Mszy Świętej będą zbierane ofiary na potrzeby Caritas Archidiecezji Warmińskiej.
+- **Światowy Dzień Ubogich** wypada w następną niedzielę. W tym dniu, po Mszy Świętej, będą zbierane ofiary na potrzeby Caritas Archidiecezji Warmińskiej.
 - **Intencje mszalne na najbliższy tydzień:**
   - poniedziałek: Msza Święta zbiorowa za zmarłych z naszych rodzin;
   - wtorek: Msza Święta zbiorowa za zmarłych z naszych rodzin;
