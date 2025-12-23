@@ -11,14 +11,14 @@ date: 2025-12-21
 >
 > **Pobożność Józefa**
 >
-> Józef był człowiekiem pobożnym, ale jego pobożność to nie są długie modlitwy, odmawiane na skrzyżowaniach ulic, żeby się ludziom pokazać; to nie są jałmużny, dawane tak, aby ludzie go chwalili; to nie jest także posępne oblicze w dniu postu, ale to prawdziwa troska o bliźniego. I wówczas, gdy w szczerości serca podejmuje decyzję, aby chronić Maryję, otrzymuje objawienie o Dziecku, które poczęło się w Jej łonie. Wiara i zaufanie do Boga natychmiast przejawia się „uczynieniem tak, jak anioł nakazał". Józef ma szczególną misję względem Dziecka - ma nadać Mu imię. Jest w ten sposób zaproszony przez Boga do chronienia Jezusa, aby mógł On wypełnić misję, którą Ojciec dla Niego przewidział.
+> Józef był człowiekiem pobożnym, ale jego pobożność to nie są długie modlitwy, odmawiane na skrzyżowaniach ulic, żeby się ludziom pokazać; to nie są jałmużny, dawane tak, aby ludzie go chwalili; to nie jest także posępne oblicze w dniu postu, ale to prawdziwa troska o bliźniego. I wówczas, gdy w szczerości serca podejmuje decyzję, aby chronić Maryję, otrzymuje objawienie o Dziecku, które poczęło się w Jej łonie. Wiara i zaufanie do Boga natychmiast przejawia się „uczynieniem tak, jak anioł nakazał". Józef ma szczególną misję względem Dziecka – ma nadać Mu imię. Jest w ten sposób zaproszony przez Boga do chronienia Jezusa, aby mógł On wypełnić misję, którą Ojciec dla Niego przewidział.
 >
 > <span style="color: #666699;">Józefie, proś za mężami i ojcami, aby na Twój wzór troszczyli się o swe współmałżonki, a swoje dzieci ochraniali i wychowywali w taki sposób, by mogły pełnić wolę Boga.
 > &nbsp;
 
 - Już w czwartek **Święta Bożego Narodzenia**. Naszym polskim zwyczajem poprzedzi je wieczerza wigilijna, którą będziemy przeżywali w środę wieczorem w naszych domach rodzinnych. Zachęcam gorąco, abyśmy przy tej wieczerzy zachowali, pielęgnowali i przekazywali następnym pokoleniom nasze tradycje i zwyczaje (czytanie opisu Narodzenia Pana Jezusa, modlitwa - choćby Ojcze nasz, dzielenie się opłatkiem, śpiewanie kolęd). Taki krótki rytuał wigilijny jest dołączony do opłatków (specjalnie taką wersję opłatków zamawiam, nie znajdziemy tego przy opłatkach kupowanych w marketach).Te tradycje świadczą o bogactwie i tożsamości naszej kultury narodowej, o przywiązaniu do zwyczajów naszych ojców, o naszej wierze.
-- Zgodnie z zapowiedzią, **Pasterka** będzie o godzinie <u>22:00</u>.
-- Pół godziny przed Pasterką wspólne czuwanie i kolędowanie przy żłóbku.
+- Zgodnie z zapowiedzią, **pasterka** będzie o godzinie <u>22:00</u>.
+- Pół godziny przed pasterką wspólne czuwanie i kolędowanie przy żłóbku.
 - W pierwszym dniu Świąt Msze Święte jak w każdą niedzielę. W drugim dniu Świąt Msze Święte o godzinie <u>9:00</u> i <u>11:00</u>. Nie będzie Mszy Świętej o godzinie 17:00.
 - W sobotę – 27 grudnia – wypada liturgiczne święto **Świętego Jana Apostoła i Ewangelisty**. Ku jego czci będzie błogosławieństwo wina.
 - Są jeszcze do nabycia **świece wigilijne Caritas**.
@@ -34,20 +34,4 @@ date: 2025-12-21
   - piątek: <u>9:00</u> + Ludwika Śliżewska (8 rocznica śmierci); <u>11:00</u> w intencji Sylwii w 40 rocznicę urodzin;
   - sobota: + Piotr Walter (20 rocznica śmierci);
   - niedziela (28.12): <u>9:00</u> + Roman Koralewski; <u>11:00</u> za zmarłych pogrzebanych przez firmę Arka w 2025 roku; <u>17:00</u> + Remigiusz Korgul (22 rocznica śmierci), Barbara, Tadeusz Chymkowscy, Janina i Zygmunt Korgul.
-
-- Zbliżają się **Święta Bożego Narodzenia**. Zachęcam, abyśmy przeżyli je pojednani z Bogiem, aby w tym czasie znalazł miejsce w naszych sercach. Okazja do **Spowiedzi Świętej** każdego dnia przed Mszą Świętą.
-- Od środy – 17 grudnia – rozpoczyna się druga część Adwentu. Dni tego okresu w liturgii są poświęcone bezpośredniemu przygotowaniu do Bożego Narodzenia. W tych dniach odmawiamy **nowennę do Dzieciątka Jezus**.
-- W tym tygodniu **Msze Święte roratnie** w poniedziałek, wtorek, i środę o godzinie <u>17:00</u>. Dzieci i młodzież przed bierzmowaniem zapraszam w środę na godzinę <u>17:00</u>.
-- Są jeszcze do nabycia **świece wigilijne Caritas**.
-- Jeszcze do dziś można przynosić napełnione siatki charytatywne. Dziękuję wszystkim, którzy włączyli się w akcję pomocy przedświątecznej najbardziej potrzebującym osobom z naszej parafii. Do tej pory przyniesiono ... siatek, z których przygotujemy około 20 paczek. Dziękuję **Parafialnemu Zespołowi Caritas**, który  przygotuje i zajmie się dystrybucją tych paczek oraz za pracę w tym roku na rzecz pomocy osobom najbardziej potrzebującym wsparcia.
-- Już dziś chcę przypomnieć, że **Pasterka** będzie o godzinie <u>22:00</u>.
-- W piątek Msza Święta o godzinie <u>15:30</u>.
-- **Intencje mszalne na najbliższy tydzień:**
-  - poniedziałek: o Bożą opiekę oraz zdrowie duszy i ciała dla Julity, Zachariasza i Rafała;
-  - wtorek: + Roman Koralewski;
-  - środa: + Szczepan Madej;
-  - czwartek: + Krystyna Popielarska;
-  - piątek: <u>15:30</u> + Hanna Draszek-Bartkiewicz;
-  - sobota: + Stanisław Przybyszewski (13 rocznica śmierci) i ++ z rodz. Stupak;
-  - niedziela (21.12): <u>9:00</u> + Helena, Antoni, Jan Binkul, Grzegorz, Piotr Naumiuk, Tadeusz Mróz z rodzicami, Teresa Ławczyńska z rodzicami i + Ksiądz Jan Paszulewicz; <u>11:00</u> + Alina Mrozowska; <u>17:00</u> w intencji Kingi w 30. rocznicę urodzin.
 
