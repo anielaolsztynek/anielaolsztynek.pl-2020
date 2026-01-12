@@ -16,7 +16,7 @@ date: 2026-01-11
 > <span style="color: #666699;">Jezu! Nie potrafię być pokorny, bo często nie wierzę w moc Twojej łagodności. Jednak bardzo pragnę, aby ogarnęła mnie Twoja potęga pokory.
 > &nbsp;
 
-- w Dzisiejszą **Niedzielą Chrztu Pańskiego** kończy się okres Bożego Narodzenia, a zaczyna się okres zwykły.
+- Dzisiejszą **Niedzielą Chrztu Pańskiego** kończy się okres Bożego Narodzenia, a zaczyna się okres zwykły.
 - Dzisiejsze ofiary składane na tacę są przeznaczone na potrzeby **Wyższego Seminarium Duchownego "Hosianum" w Olsztynie**.
 - Msze Święte w tym tygodniu: w poniedziałek Mszy Świętej nie będzie; w sobotę o godzinie <u>17:00</u>, w pozostałe dni o godzinie <u>8:00</u>.
 - **Porządek kolędy w tym tygodniu**:
