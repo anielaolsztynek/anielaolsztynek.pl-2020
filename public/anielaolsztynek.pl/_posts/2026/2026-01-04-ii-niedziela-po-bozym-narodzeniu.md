@@ -29,7 +29,7 @@ date: 2026-01-04
   - Ul. Jaśminowa 1 cd. – sobota od godziny <u>9:00</u>.
 - **Intencje mszalne na bieżący tydzień:**
   - poniedziałek: ++ z rodz. Czyczyn, Gosk, Pobudkowskich, Korab, Roman, Szczepańskich, Baranowskich;
-  - wtorek: (6.01.2025): <u>9:00</u> + Ireneusz i ++ z rodz. Osłowskich i Bolczak; <u>11:00</u> + Stanisław, Regina, Bogdan Gołębiewscy; <u>17:00</u> ++ z rodz. Skrzeczów, Ostrowskich, Ramutkowskich i Klimek oraz Franciszek Horoch;
+  - wtorek: (6.01.2026): <u>9:00</u> + Ireneusz i ++ z rodz. Osłowskich i Bolczak; <u>11:00</u> + Stanisław, Regina, Bogdan Gołębiewscy; <u>17:00</u> ++ z rodz. Skrzeczów, Ostrowskich, Ramutkowskich i Klimek oraz Franciszek Horoch;
   - środa: o Bożą opiekę oraz zdrowie duszy i ciała dla Julity, Zachariasza i Rafała;
   - czwartek: ;
   - piątek: ;
