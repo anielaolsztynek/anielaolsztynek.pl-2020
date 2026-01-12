@@ -17,7 +17,7 @@ date: 2026-01-04
 > &nbsp;
 
 - We wtorek wypada **Uroczystość Trzech Króli** – Uroczystość Objawienia Pańskiego. Msze Święte w tym dniu jak w każdą niedzielę. W czasie każdej Mszy Świętej będzie poświęcenie kredy i wody, które zabierzemy do swoich domów.
-- Ofiary składane w tym dniu na tacę są przeznaczone na misje.
+- Ofiary składane w tym dniu na tacę są przeznaczone na **misje**.
 - W uroczystość Trzech Króli o godzinie <u>11:00</u> odbędzie się orszakowe kolędowanie (mały orszak).
 - W następną niedzielę obchodzimy **Święto Chrztu Pańskiego**.
 - Msze Święte w tym tygodniu: środa i piątek o godzinie <u>8:00</u>; w czwartek Mszy Świętej nie będzie; w pozostałe dni o godzinie <u>17:00</u>.
@@ -35,4 +35,6 @@ date: 2026-01-04
   - piątek: ;
   - sobota: + Janina i Henryk Kapusta;
   - niedziela (11.01.24): <u>9:00</u> + Irena, Tadeusz, Leszek Kowalscy, Zofia i Jan Murawscy; <u>11:00</u> + Marek i Stanisław Tomaszewscy i ++ z rodz. Tomaszewskich i Rybickich; <u>17:00</u> + Szczepan Madej.
+
+
 
