@@ -34,7 +34,7 @@ date: 2026-01-04
   - czwartek: ;
   - piątek: ;
   - sobota: + Janina i Henryk Kapusta;
-  - niedziela (11.01.24): <u>9:00</u> + Irena, Tadeusz, Leszek Kowalscy, Zofia i Jan Murawscy; <u>11:00</u> + Marek i Stanisław Tomaszewscy i ++ z rodz. Tomaszewskich i Rybickich; <u>17:00</u> + Szczepan Madej.
+  - niedziela (11.01.26): <u>9:00</u> + Irena, Tadeusz, Leszek Kowalscy, Zofia i Jan Murawscy; <u>11:00</u> + Marek i Stanisław Tomaszewscy i ++ z rodz. Tomaszewskich i Rybickich; <u>17:00</u> + Szczepan Madej.
 
 
 
