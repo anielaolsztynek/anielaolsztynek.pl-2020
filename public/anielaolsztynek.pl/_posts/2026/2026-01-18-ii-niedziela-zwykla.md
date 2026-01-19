@@ -17,7 +17,7 @@ date: 2026-01-18
 > &nbsp;
 
 - Dziś rozpoczyna się **Tydzień Modlitw o Jedność Chrześcijan**, a zakończy się w następną niedzielę – 25 stycznia.
-- W związku z tym, że bloków i rodzin w parafii przybywa i będzie jeszcze przybywać, Ksiądz Michał wyraził chęć pomocy w kolędowaniu, co pozwoli na to, że czas kolędowania się nie wydłuży.
+- W związku z tym, że bloków i rodzin w parafii przybywa i będzie jeszcze przybywać, Ksiądz Michał wyraził chęć pomocy w kolędowaniu, co pozwoli na to, by czas kolędowania się nie wydłużył.
 - Msze Święte w tym tygodniu: w poniedziałek i wtorek Mszy Świętej nie będzie, w środę i czwartek o godzinie <u>8:00</u>, w piątek i sobotę o godzinie <u>17:00</u>.
 - **Porządek kolędy w tym tygodniu**:
   - Ul. Wrzosowa 1, 4, 6, 8 (poczynając od bloku 8) oraz 5A, 5B, 5C, 5D i 11, 13 – poniedziałek od godziny <u>15:00</u>.
