@@ -17,13 +17,13 @@ date: 2026-02-22
 > &nbsp;
 
 - **Pierwsza Niedziela Wielkiego Postu** jest jak gdyby drugim początkiem tego okresu dla tych zwłaszcza, którzy nie wzięli udziału w liturgii Środy Popielcowej. Cały Kościół rozpoczyna czterdziestodniową pokutę, której dobre przeżycie doprowadzi nas do prawdziwego spotkania ze Zmartwychwstałym Panem.
-- Włączmy się w głębokie przeżycie tego czasu przez modlitwę osobistą i wspólnotową. Tej drugiej będzie sprzyjał udział w nabożeństwach wielkopostnych. **Droga Krzyżowa** w każdy piątek Wielkiego Postu o godzinie <u>16:30</u>. Zachęcam serdecznie do wspólnego udziału w tym nabożeństwie. Obowiązkowo dzieci przed I Komunią Świętą i młodzież przed bierzmowaniem. **Gorzkie Żale** w niedziele Wielkiego Postu o godzinie <u>08:45</u>.
+- Włączmy się w głębokie przeżycie tego czasu przez modlitwę osobistą i wspólnotową. Tej drugiej będzie sprzyjał udział w nabożeństwach wielkopostnych. **Droga Krzyżowa** w każdy piątek Wielkiego Postu o godzinie <u>16:30</u>. Zachęcam serdecznie do wspólnego udziału w tym nabożeństwie, obowiązkowo dzieci przed I Komunią Świętą i młodzież przed bierzmowaniem. **Gorzkie Żale** w niedziele Wielkiego Postu o godzinie <u>08:45</u>.
 - Pamiętajmy też o osobistych postanowieniach czy umartwieniach na Wielki Post, które mają nas umocnić w wierze, zbliżyć do Boga i uwrażliwić na drugiego człowieka. Jest wystawiona skarbona, do której można składać **jałmużnę wielkopostną** z myślą o biednych.
 - Dziś **poświęcenie krzyżyków** dla dzieci pierwszokomunijnych w czsie Mszy Świętej o godzinie <u>11:00</u>.
-- Następna, II Niedziela Wielkiego Postu, to **Dzień Modlitwy i Solidarności z Misjonarzami**. Po Mszach Świętych będą zbierane ofiary na Misyjne Dzieło Pomocy **„Ad Gentes”**.
+- Następna, **II Niedziela Wielkiego Postu**, to **Dzień Modlitwy i Solidarności z Misjonarzami**. Po Mszach Świętych będą zbierane ofiary na Misyjne Dzieło Pomocy **„Ad Gentes”**.
 - Następna, **I niedziela miesiąca** to niedziela adoracji Najświętszego Sakramentu.
 - **Zmiana tajemnic różańcowych** o godzinie <u>08:30</u>.
-- W poniedziałek i we wtorek nie bedzie Mszy Świętej w naszym kościele.
+- W poniedziałek i we wtorek nie będzie Mszy Świętej w naszym kościele.
 - **Intencje mszalne na bieżący tydzień:**
   - poniedziałek: ;
   - wtorek: ;
@@ -32,3 +32,5 @@ date: 2026-02-22
   - piątek: ;
   - sobota: + Janina, Stanisław, Jan, Jerzy Dzianachowscy;
   - niedziela (01.03.2026): <u>9:00</u> + Józef Karpiński (7 rocznica śmierci) i Halina Karpińska; <u>11:00</u> + Stanisława, Jerzy, Maria, Dionizy, Kazimierz Sieroccy; <u>17:00</u> + Alicja Chrzanowska.
+
+
