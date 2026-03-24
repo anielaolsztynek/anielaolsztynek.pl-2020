@@ -18,11 +18,11 @@ date: 2026-03-22
 
 - **Bóg zapłać Księdzu Arcybiskupowi Józefowi Górzyńskiemu Metropolicie Warmińskiemu za obecność w naszej parafii w dniu wizytacji kanonicznej, za wspólną modlitwę, Słowo Boże i pasterskie błogosławieństwo.**
 - W dniu dzisiejszym, w ramach wizytacji kanonicznej będzie miało miejsce spotkanie Księdza Arcybiskupa z przedstawicielami grup parafialnych o godzinie <u>12:00</u> na plebanii. O godzinie <u>15:00</u> – modlitwa za zmarłych – Koronka do Miłosierdzia Bożego przy krzyżu na Cmentarzu Komunalnym przy ulicy Wilczej, która poprowadzi Ksiądz Arcybiskup. Serdecznie zapraszam do tej wspólnej modlitwy. O godzinie <u>17:00</u> Ksiądz Arcybiskup odprawi Mszę Świętą i udzieli Sakramentu Bierzmowania.
-- W najbliższą środę – 25 marca – obchodzimy liturgiczną uroczystość **Zwiastowania Pańskiego**. To Dzień Świętości Życia i Dzień Adopcji Dziecka Poczętego.
+- W najbliższą środę – 25 marca – obchodzimy liturgiczną uroczystość **Zwiastowania Pańskiego**. To **Dzień Świętości Życia i Dzień Adopcji Dziecka Poczętego**.
 - Serdecznie zapraszam na ostatnią w tym roku **Drogę Krzyżową** w naszym kościele, w piątek bezpośrednio po Mszy Świętej o godzinie <u>17:00</u>.
 - Już za tydzień **Niedziela Palmowa** – Niedziela Męki Pańskiej. Podczas wszystkich Mszy Świętych będzie poświęcenie palm.
 - Wzorem lat ubiegłych zachęcam wszystkie dzieci do udziału w **konkursie na największą i najpiękniejszą palmę**. Z palmami zapraszam na godzinę <u>11:00</u>.
-- **Kwiaty do Grobu Pańskiego** wzorem lat ubiegłych będą zakupione. Ofiary na kwiaty można składać indywidualnie lub po Mszy Świętej przy wyjściu z kościoła, w Niedzielę Palmową przy wyjściu z kościoła.
+- **Kwiaty do Grobu Pańskiego** jak co roku będą zakupione. Ofiary na kwiaty można składać indywidualnie lub po Mszy Świętej w Niedzielę Palmową, przy wyjściu z kościoła.
 - **Okazja do Spowiedzi Świętej** codziennie przed Mszą Świętą (w Niedzielę Palmową pół godziny przed Mszą Świętą).
 - **Spotkanie z rodzicami i dziećmi** przed I Komunią Świętą tydzień po Świętach – w Niedzielę Miłosierdzia, 12 kwietnia, po Mszy Świętej o godzinie <u>11:00</u>.
 - **Wydawanie żywności dla rodzin objętych pomocą** jutro o godzinie <u>18:00</u>.
