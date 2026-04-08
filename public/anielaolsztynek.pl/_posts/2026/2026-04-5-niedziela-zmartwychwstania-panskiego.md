@@ -18,7 +18,7 @@ date: 2026-04-05
 
 - Jutro, w drugim dniu świąt, Msze Święte o godzinie <u>9:00</u> i <u>11:00</u>.
 - W następną niedzielę obchodzimy **Święto Miłosierdzia Bożego**. Ofiary składane na tacę w tym dniu są przeznaczone na Caritas Archidiecezji Warmińskiej.
-- Również w następną niedzielę **Spotkanie z rodzicami i dziećmi przed I Komunią Świętą**, po Mszy Świętej o godzinie <u>11:00</u>.
+- Również w następną niedzielę **spotkanie z rodzicami i dziećmi przed I Komunią Świętą**, po Mszy Świętej o godzinie <u>11:00</u>.
 - W czwartek Msza Święta o godzinie <u>8:00</u>.
 - **Intencje mszalne na bieżący tydzień:**
   - Poniedziałek Wielkanocny: <u>9:00</u> + Józef, Monika i Edward Subotowicz; <u>11:00</u> dziękczynna z prośbą o błogosławieństwo Boże w rodzinie Mrozowskich;
