@@ -30,6 +30,6 @@ date: 2026-05-03
   - środa: + Marian Kłosowicz;
   - czwartek: w intencji kapłanów i apostolatu „Złota Róża”;
   - piątek: + Franciszka Sindrewicz;
-  - sobota: + Witold łukaszewicz;
+  - sobota: + Witold Łukaszewicz;
   - niedziela (10.05): <u>9:00</u> w intencji Weroniki z okazji rocznicy chrztu; <u>11:00</u> w intencji dzieci pierwszokomunijnych; <u>17:00</u> + Maria i Zenon Bednarek.
 
