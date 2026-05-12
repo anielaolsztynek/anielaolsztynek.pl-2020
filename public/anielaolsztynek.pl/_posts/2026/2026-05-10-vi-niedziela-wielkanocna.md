@@ -9,16 +9,15 @@ date: 2026-05-10
 >
 >
 >
-> **Czy wierzymy, że Jezus zawsze jest blisko?
-**
+> **Czy wierzymy, że Jezus zawsze jest blisko?**
 >
-> Jezus zapewnia, że nieustannie się nami opiekuje. Jego słowa dodają nam otuchy: „Nie pozostawię was sierotami, lecz powrócę do was”. I choć niekiedy szukamy ciszy i samot- ności, to jednocześnie nosimy w sobie głębokie pragnienie, aby był przy nas ktoś, na kogo zawsze możemy liczyć. Ktoś silniejszy od nas, mądrzejszy, a jednocześnie bardzo czuły i bliski. Kimś takim właśnie jest Jezus. Aby osiągnąć tę bliskość, trzeba pielęgnować relację z Nim. Nie stanie się to bez regularnych spotkań, na które nie będziemy żałować czasu. Każda przyjaźń, także przyjaźń z Jezusem, aby mogła się rozwinąć, wymaga czasu, uważnego wsłuchiwania się w słowa drugiej osoby. Tym bardziej dotyczy to Jezusa, który mówi do nas nieustannie przez Pismo Święte. W ten sposób możemy się przekonać, że zapewnienie Jezusa jest prawdziwe.
+> Jezus zapewnia, że nieustannie się nami opiekuje. Jego słowa dodają nam otuchy: „Nie pozostawię was sierotami, lecz powrócę do was”. I choć niekiedy szukamy ciszy i samotności, to jednocześnie nosimy w sobie głębokie pragnienie, aby był przy nas ktoś, na kogo zawsze możemy liczyć. Ktoś silniejszy od nas, mądrzejszy, a jednocześnie bardzo czuły i bliski. Kimś takim właśnie jest Jezus. Aby osiągnąć tę bliskość, trzeba pielęgnować relację z Nim. Nie stanie się to bez regularnych spotkań, na które nie będziemy żałować czasu. Każda przyjaźń, także przyjaźń z Jezusem, aby mogła się rozwinąć, wymaga czasu, uważnego wsłuchiwania się w słowa drugiej osoby. Tym bardziej dotyczy to Jezusa, który mówi do nas nieustannie przez Pismo Święte. W ten sposób możemy się przekonać, że zapewnienie Jezusa jest prawdziwe.
 >
 > <span style="color: #666699;">Jezu! Nie zawsze czuję i dostrzegam Twoją obecność, a przecież tak bardzo tego pragnę. Każdego dnia chcę szukać Ciebie, bo jak mówił papież Benedykt XVI: „Kto wierzy, nigdy nie jest sam”.
 > &nbsp;
 
 - Dziś w naszej parafii **uroczystość Pierwszej Komunii Świętej**, do której przystąpiło 25 dzieci (w tym 17 z naszej parafii).
-- Bóg zapłać rodzicom dzieci pierwszokomunijnych za **dar ołtarza** – dar dla parafii, to jest klęcznik – konfesjonał i pelerynki zielone dla ministrantów.
+- Bóg zapłać rodzicom dzieci pierwszokomunijnych za **dar ołtarza** – dar dla parafii, to jest klęcznik-konfesjonał i pelerynki zielone dla ministrantów.
 - W następną niedzielę na godzinę <u>11:00</u> zapraszam **dzieci, które przed rokiem były u I Komunii Świętej**. Te dzieci zapraszam do spowiedzi w piątek od godziny <u>16:00</u> do <u>16:45</u> lub w sobotę przed Mszą Świętą.
 - W sobotę – 16 maja – wypada w liturgii **święto ku czci Świętego Andrzeja Boboli**, patrona Polski i naszej Warmińskiej Archidiecezji. Cieszymy się, że w naszym kościele mamy figurę tego Świętego, który jest patronem jedności, patronem na trudne czasy. Przed tym świętem liturgicznym odmawiamy nowennę w intencji naszej Ojczyzny za przyczyną tego patrona.
 - W następną niedzielę obchodzimy **uroczystość Wniebowstąpienia Pańskiego**.
@@ -30,5 +29,5 @@ date: 2026-05-10
   - czwartek: własna;
   - piątek: własna;
   - sobota: własna;
-  - niedziela (17.05): <u>9:00</u> + Stanisława Dąbrowska; <u>11:00</u> 1. ; <u>17:00</u> + Marianna Orzech (9 rocznica śmierci), Jan i Jerzy Orzech.
+  - niedziela (17.05): <u>9:00</u> + Stanisława Dąbrowska; <u>11:00</u> ; <u>17:00</u> + Marianna Orzech (9 rocznica śmierci), Jan i Jerzy Orzech.
 
