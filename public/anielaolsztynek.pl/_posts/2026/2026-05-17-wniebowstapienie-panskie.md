@@ -25,5 +25,5 @@ date: 2026-05-17
   - czwartek: ;
   - piątek: ;
   - sobota: + Krystyna (5 rocznica śmierci) i Stefan Stawiccy;
-  - niedziela (24.05): <u>9:00</u> + Helena Grażyna Zakrzewska (16 rocznica śmieri); <u>11:00</u> + Bogusław, Zygmunt i Zofia Chmieloch, Marta, Maksymilian, kazimierz Gorzejewski; <u>17:00</u> + Feliksa, Adam Jeziorscy.
+  - niedziela (24.05): <u>9:00</u> + Helena Grażyna Zakrzewska (16 rocznica śmieri); <u>11:00</u> + Bogusław, Zygmunt i Zofia Chmieloch, Marta, Maksymilian, Kazimierz Gorzejewski; <u>17:00</u> + Feliksa, Adam Jeziorscy.
 
