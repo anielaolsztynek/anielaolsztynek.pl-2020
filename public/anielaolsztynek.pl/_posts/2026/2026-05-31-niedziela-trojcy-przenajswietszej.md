@@ -17,25 +17,25 @@ date: 2026-05-31
 > &nbsp;
 
 - Uroczystość Najświętszego Ciała i Krwi Pana Jezusa – **Boże Ciało** – wypada w najbliższy czwartek, 4 czerwca. **Msza Święta jako jedyna w tym dniu będzie odprawiona w Skansenie w amfiteatrze o godzinie <u>10:00</u>**. Po Mszy Świętej, idąc w procesji eucharystycznej, udamy się do czterech ołtarzy. Bardzo proszę o wykonanie ołtarzy w tych samych miejscach, co przed dwoma laty:
-  - <u>I ołtarz</u> - ulica Sportowa,
-  - <u>II ołtarz</u> - skrzyżowanie ulic Akacjowej i Kasztanowej,
-  - <u>III ołtarz</u> - skrzyżowanie ulic Akacjowej i Klonowej,
-  - <u>IV ołtarz</u> - skrzyżowanie ulic Akacjowej i Świerkowej.
+  - <u>I ołtarz</u> – ulica Sportowa,
+  - <u>II ołtarz</u> – skrzyżowanie ulic Akacjowej i Kasztanowej,
+  - <u>III ołtarz</u> – skrzyżowanie ulic Akacjowej i Klonowej,
+  - <u>IV ołtarz</u> – skrzyżowanie ulic Akacjowej i Świerkowej.
   - Brzózki będą dowiezione do wszystkich ołtarzy w środę (za co z góry dziękuję Nadleśnictwu Olsztynek).
-  - Proszę o przygotowanie jednego bukietu przed ołtarz w Skansenie. (Przyjmijmy zasadę, że jeśli to osiedle przygotowuje ołtarze, to drugie osiedle - przy ulicy Leśnej - przyozdabia kwiatami ołtarz w Skansenie. Za rok będzie odwrotnie).
+  - Proszę o przygotowanie jednego bukietu przed ołtarz w Skansenie. (Przyjmijmy zasadę, że jeśli to osiedle przygotowuje ołtarze, to drugie osiedle – przy ulicy Leśnej – przyozdabia kwiatami ołtarz w Skansenie. Za rok będzie odwrotnie).
   - Proszę o udział w procesji grupy modlitewne, strażaków i całą służbę liturgiczną.
   - Dziewczynki pierwszokomunijne, a także wszystkie chętne dziewczynki, zapraszam do sypania kwiatów w czasie procesji eucharystycznej. Proszę mamy tych dzieci o przygotowanie koszyczków i kwiatów, a także o pomoc w ustawieniu dzieci.
-  - Chłopców pierwszokomunijnych również zapraszam w albach do udziału w procesji - do niesienia poduszek z emblematami religijnymi.
+  - Chłopców pierwszokomunijnych również zapraszam w albach do udziału w procesji – do niesienia poduszek z emblematami religijnymi.
 - **Procesja zakończy się w kościele, gdzie zaśpiewamy dziękczynne Te Deum** i odmówimy litanię do Najświętszego Serca Pana Jezusa.
-- Jutro rozpoczyna się czerwiec - miesiąc poświęcony czci Najświętszego Serca Pana Jezusa. Przez cały czerwiec codziennie po Mszy Świętej będziemy odmawiali **litanię do Najświętszego Serca Pana Jezusa**, w niedziele o godzinie <u>8:45</u>.
+- Jutro rozpoczyna się czerwiec – miesiąc poświęcony czci Najświętszego Serca Pana Jezusa. Przez cały czerwiec codziennie po Mszy Świętej będziemy odmawiali **litanię do Najświętszego Serca Pana Jezusa**, w niedziele o godzinie <u>8:45</u>.
 - W tym tygodniu wypada **I piątek i I sobota** czerwca. W piątek przed południem odwiedziny chorych z posługą sakramentalną. Po południu wystawienie i adoracja Najświętszego Sakramentu od godz. <u>16:00</u>. O godzinie <u>16:45</u> nabożeństwo pierwszopiątkowe.
 - W sobotę Msza Święta połączona ze ślubem o godzinie <u>15:30</u>. Będzie także Msza Święta o godzinie <u>17:00</u>.
-- Następna niedziela to **pierwsza niedziela miesiąca** - niedziela adoracji Najświętszego Sakramentu. Zmiana tajemnic różańcowych o godzinie <u>8:30</u>.
+- Następna niedziela to **pierwsza niedziela miesiąca** – niedziela adoracji Najświętszego Sakramentu. Zmiana tajemnic różańcowych o godzinie <u>8:30</u>.
 - Z okazji jutrzejszego **Dnia Dziecka** wszystkim dzieciom życzę pięknego dzieciństwa, wiele radości, uśmiechów i zdrowia oraz wytrwałości w nauce i Bożego błogosławieństwa.
-- Na najbliższy piątek po Bożym Ciele Ksiądz Arcybiskup udziela dyspensy od obowiązku zachowania pokutnego charakteru piątku i wstrzemięźliwości od spożywania pokarmów mięsnych.
+- Na najbliższy piątek po Bożym Ciele, Ksiądz Arcybiskup udziela dyspensy od obowiązku zachowania pokutnego charakteru piątku i wstrzemięźliwości od spożywania pokarmów mięsnych.
 - **Intencje mszalne na najbliższy tydzień:**
   - poniedziałek: + Natalia, Aleksandra, Maria;
-  - wtorek: o Bożą opiekę oraz zdrowie duszy i ciała dla Julity, Zachariasza i Rafała;;
+  - wtorek: o Bożą opiekę oraz zdrowie duszy i ciała dla Julity, Zachariasza i Rafała;
   - środa: ;
   - czwartek: za parafian;
   - piątek: + Weronika i Ignacy Polewaczyk;
