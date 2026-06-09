@@ -18,7 +18,7 @@ date: 2026-06-07
 
 - Dziękuję raz jeszcze tym wszystkim, którzy zaangażowali się w przygotowanie Mszy Świętej w Skansenie i w przebieg procesji w Uroczystość Bożego Ciała oraz za przygotowanie czterech ołtarzy.
 - W piątek obchodzimy **uroczystość Najświętszego Serca Pana Jezusa**.
-- W sobotę obchodzimy wspomnienie **Niepokalanegp Serca Najświętszej Marii Panny**.
+- W sobotę obchodzimy **wspomnienie Niepokalanego Serca Najświętszej Marii Panny**.
 - W czwartek Msza Święta o godzinie <u>8:00</u>.
 - **Intencje mszalne na bieżący tydzień**:
   - poniedziałek: ++ z rodz. Czyczyn, Gosk, Pobudkowskich, Korab, Roman, Szczepańskich, Baranowskich;
