@@ -16,9 +16,9 @@ date: 2026-06-14
 > <span style="color: #666699;">Jezu! Podziwiam Twoją ogromną cierpliwość i dalekowzroczność. Nie dozwól, abym uległ iluzji chwilowych klęsk, ale bym widział, że do Ciebie należy ostatnie słowo. Niech Twoje królestwo rośnie we mnie.
 > &nbsp;
 
-- W związku z moim **wyjazdem pielgrzymkowym do krajów bałtyckich**: Litwa - Łotwa - Estonia - Helsinki w dniach 16-22.06.2026, obowiązki proboszcza w tym czasie bedzie pełnił Ksiądz Karol Jasiński z Olsztyna, który głosił rekolekcje adwentowe.
-- Jutro Mszy Świetej nie będzie.
-- W sobotę Msza Święta połączona ze ślubem o godzinie <u>16:00</u>. Nie będzie Mszy Świetej o godzinie <u>17:00</u>.
+- W związku z moim **wyjazdem pielgrzymkowym do krajów bałtyckich**: Litwa – Łotwa – Estonia – Helsinki w dniach 16-22.06.2026, obowiązki proboszcza w tym czasie bedzie pełnił Ksiądz Karol Jasiński z Olsztyna, który głosił rekolekcje adwentowe.
+- Jutro Mszy Świętej nie będzie.
+- W sobotę Msza Święta połączona ze ślubem o godzinie <u>16:00</u>. Nie będzie Mszy Świętej o godzinie <u>17:00</u>.
 - **Intencje mszalne na bieżący tydzień**:
   - poniedziałek: ;
   - wtorek: własna;
