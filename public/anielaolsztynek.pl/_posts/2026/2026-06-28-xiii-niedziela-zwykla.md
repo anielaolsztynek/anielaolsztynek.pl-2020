@@ -17,7 +17,7 @@ date: 2026-06-28
 > &nbsp;
 
 - Wszystkim dzieciom, młodzieży, nauczycielom i katechetom na progu wakacji oraz wszystkim, którzy udają się na urlopy, życzę spokojnego, radosnego i bezpiecznego wypoczynku, wielu miłych wrażeń i szczęśliwych powrotów.
-- Jutro obchodzimy **uroczystość Apostołów Piotra I Pawła**.
+- Jutro obchodzimy **uroczystość Apostołów Piotra i Pawła**.
 - We wtorek zakończenie nabożeństwa czerwcowego. W związku z tym w każdą środę będzie odmawiana **nowenna do Matki Bożej Nieustającej Pomocy**, a w piątki **koronka do Miłosierdzia Bożego**, przed Mszą Świętą w ramach adoracji Najświętszego Sakramentu, która ma miejsce w każdy piątek od godziny <u>16:00</u> do <u>17:00</u>.
 - W tym tygodniu wypada **I czwartek, I piątek** i **I sobota** lipca. W **I czwartek** wystawienie i adoracja Najświętszego Sakramentu w godz. <u>16:00</u> - <u>17:00</u> prowadzona przez Apostolat „Złota Róża”. W **I piątek** przed południem odwiedziny chorych z posługą sakramentalną.
 - Następna, **I niedziela** miesiąca, to niedziela **adoracji Najświętszego Sakramentu**. **Zmiana tajemnic różańcowych** o godzinie <u>8:30</u>.
