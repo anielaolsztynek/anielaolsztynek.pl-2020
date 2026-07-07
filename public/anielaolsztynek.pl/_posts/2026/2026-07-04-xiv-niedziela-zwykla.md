@@ -16,14 +16,14 @@ date: 2026-07-06
 > <span style="color: #666699;">Jezu! lleż to razy walczą we mnie te dwa osiołki: uparty i łagodny. Patrzę na Ciebie, Jezu, i podziwiam Twą uległość wobec nakładanego na Ciebie ciężaru. Naucz mnie tej sztuki cierpienia w milczeniu.
 > &nbsp;
 
-- Dziś I niedziela miesiąca - niedziela **adoracji Najświętszego Sakramentu**.
-- W sobotę – 11 lipca – wypada w liturgii święto **Świętego Benedykta**, patrona Europy.
+- Dziś **I niedziela miesiąca** - niedziela **adoracji Najświętszego Sakramentu**.
+- W sobotę – 11 lipca – wypada w liturgii **święto Świętego Benedykta**, patrona Europy.
 - W tym dniu zachęcamy do modlitwy **w intencji pomordowanych na Wołyniu, w 83 rocznicę tych tragicznych wydarzeń**.
 - W następną niedzielę ofiary zbierane na tacę przeznaczone będą na potrzeby **Wyższego Seminarium Duchownego Hosianum** w Olsztynie.
 - **Intencje mszalne na najbliższy tydzień:**
   - poniedziałek: dantis;
   - wtorek: + Franciszka Sindrewicz;
-  - środa: Grażyna Teresa Jurkiewicz (30 dzień po pogrzebie);
+  - środa: + Grażyna Teresa Jurkiewicz (30 dzień po pogrzebie);
   - czwartek: o Bożą opiekę oraz zdrowie duszy i ciała dla Julity, Zachariasza i Rafała;
   - piątek: + Witold Łukaszewicz;
   - sobota: + Janina, Stanisław, Jan, Jerzy Dzianachowscy;
