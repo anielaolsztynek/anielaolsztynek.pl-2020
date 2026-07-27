@@ -17,10 +17,10 @@ date: 2026-07-26
 > &nbsp;
 
 - Dziś z okazji **święta Świętego Krzysztofa – patrona podróżnych i kierowców**, po Mszach Świętych będzie poświęcenie pojazdów. Przy tej okazji będą zbierane dobrowolne ofiary na misje, na zakup środków transportu.
-- W piątek – 31 lipca – wyrusza z Gietrzwałdu 43 Piesza Pielgrzymka na Jasną Górę.
+- W piątek – 31 lipca – wyrusza z Gietrzwałdu **43 Piesza Pielgrzymka na Jasną Górę**.
 - W piątek Msza Święta połączona ze ślubem o godzinie <u>16:00</u>. W tym dniu nie będzie wystawienia Najświętszego Sakramentu i Mszy Świętej o godzinie <u>17:00</u>.
 - W tym tygodniu wypada **I sobota sierpnia**.
-- Następna – **I niedziela miesiąca** – to niedziela adoracji Najświętszego Sakramentu na koniec Mszy Świętej o godzinie <u>9:00</u> i o godzinie <u>11:00</u>.
+- Następna – **I niedziela miesiąca** – to **niedziela adoracji Najświętszego Sakramentu** na koniec Mszy Świętej o godzinie <u>9:00</u> i o godzinie <u>11:00</u>.
 - **Intencje mszalne na bieżący tydzień:**
   - poniedziałek: w intencji Anny z okazji imienin;
   - wtorek: + Stanisława i Jan (30 rocznica śmierci) Wyszkowscy;
