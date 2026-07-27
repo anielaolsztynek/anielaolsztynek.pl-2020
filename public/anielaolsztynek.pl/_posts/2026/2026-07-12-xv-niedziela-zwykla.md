@@ -24,7 +24,7 @@ date: 2026-07-12
 - **Intencje mszalne na najbliższy tydzień:**
   - poniedziałek: ++ z rodz. Czyczyn, Gosk, Pobudkowskich, Korab, Roman, Szczepańskich, Baranowskich;
   - wtorek: za parafian;
-  - środa: +własna;
+  - środa: + własna;
   - czwartek: własna;
   - piątek: własna;
   - sobota: w intencji Mirosława w 63 rocznicę urodzin;
