@@ -17,12 +17,12 @@ date: 2026-07-19
 > &nbsp;
 
 - **Poświęcenie pojazdów z okazji święta Świętego Krzysztofa** w następną niedzielę po Mszach Świętych. Przy okazji będą zbierane dobrowolne ofiary na misje na zakup środków transportu.
-- W minionym tygodniu odeszła do wieczności nasza parafianka śp. Helena Biała - lat 83, członkini Żywego Różańca. Wieczny odpoczynek racz zmarłej dać, Panie.
+- W minionym tygodniu odeszła do wieczności nasza parafianka śp. Helena Biała – lat 83, członkini Żywego Różańca. Wieczny odpoczynek racz zmarłej dać, Panie.
 - **Intencje mszalne na najbliższy tydzień:**
-  - poniedziałek: intencja własna - dantis;
-  - wtorek: intencja własna - dantis;
-  - środa: intencja własna - dantis;
-  - czwartek: intencja własna - dantis;
+  - poniedziałek: intencja własna – dantis;
+  - wtorek: intencja własna – dantis;
+  - środa: intencja własna – dantis;
+  - czwartek: intencja własna – dantis;
   - piątek: o zdrowie i błogosławieństwo Boże dla Anny z okazji imienin;
   - sobota: + Marianna Łabanowska (7 rocznica śmierci), Nikodem Łabanowski (32 rocznica śmierci);
   - niedziela (26.07): <u>9:00</u> + Alina Mrozowska i ++ z rodz. Witek i Mrozowskich; <u>11:00</u> + Genowefa Fokow (1 rocznica śmierci) i Alfons Fokow (19 rocznica śmierci); <u>17:00</u> o zdrowie i błogosławieństwo Boże dla Anny w dniu imienin;
