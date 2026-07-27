@@ -27,3 +27,5 @@ date: 2026-07-19
   - sobota: + Marianna Łabanowska (7 rocznica śmierci), Nikodem Łabanowski (32 rocznica śmierci);
   - niedziela (26.07): <u>9:00</u> + Alina Mrozowska i ++ z rodz. Witek i Mrozowskich; <u>11:00</u> + Genowefa Fokow (1 rocznica śmierci) i Alfons Fokow (19 rocznica śmierci); <u>17:00</u> o zdrowie i błogosławieństwo Boże dla Anny w dniu imienin;
 
+
+
