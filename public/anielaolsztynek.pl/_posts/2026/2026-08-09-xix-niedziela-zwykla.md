@@ -23,9 +23,11 @@ date: 2026-08-09
   - wtorek: + Jan Gołębiewski;
   - środa: o Bożą opiekę oraz zdrowie duszy i ciała dla Julity, Zachariasza i Rafała;
   - czwartek: ++ z rodz. Czyczyn, Gosk, Pobudkowskich, Korab, Roman, Szczepańskich, Baranowskich;
-  - piątek: ++ z rodz. Narwojsz: Andrzej, rodzice: Aleksandra i Wacław, siostry: Rita i Krystyna;
+  - piątek: ++ z rodz. Narwojsz: Andrzej; rodzice: Aleksandra i Wacław, siostry: Rita i Krystyna;
   - sobota: <u>10:00</u> w intencji Beaty i Adama w 40 rocznicę ślubu;<u>17:00</u> + Remigiusz, Regina, Zdzisława;
   - niedziela (16.08): <u>9:00</u> + Alina Mrozowska i ++ z rodz. Mrozowskich i Witek; <u>11:00</u> + Teresa Moczulska (5 rocznica śmierci); <u>17:00</u> + Rafał, Tadeusz Świtalscy i ++ z rodz. Świtalskich i Serafinowskich.
+
+
 
 
 
