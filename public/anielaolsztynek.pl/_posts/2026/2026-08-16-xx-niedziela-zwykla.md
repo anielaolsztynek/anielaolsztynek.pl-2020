@@ -11,7 +11,7 @@ date: 2026-08-16
 >
 > **Wierzyć wbrew zniechęcającym słowom**
 >
-> Czyż słowa: „Nie wypada zabierać chleba dzieciom i rzucać go szczeniętom" nie są zniechęcające? Czy Jezus nie powinien się pochylić od razu nad cierpieniem matki i jej córki? Wnikliwa analiza dzisiejszego fragmentu Ewangelii pokazuje, że miał On określony cel - chciał wypróbować wiarę Kananejki i zbadać jej serce. Dlatego nie można tych słów interpretować dosłownie, ale trzeba spojrzeć na nie w szerszym kontekście. Przecież ostatecznie Jezus pochwalił jej wiarę i spełnił pragnienie jej serca, mówiąc: „Wielka jest twoja wiara! Niech więc ci się stanie tak, jak chcesz". Tym samym ta kobieta stała się dla nas nauczycielką modlitwy, która przezwycięża nie tylko zniechęcające słowa, ale nawet milczenie Boga.
+> Czyż słowa: „Nie wypada zabierać chleba dzieciom i rzucać go szczeniętom" nie są zniechęcające? Czy Jezus nie powinien się pochylić od razu nad cierpieniem matki i jej córki? Wnikliwa analiza dzisiejszego fragmentu Ewangelii pokazuje, że miał On określony cel – chciał wypróbować wiarę Kananejki i zbadać jej serce. Dlatego nie można tych słów interpretować dosłownie, ale trzeba spojrzeć na nie w szerszym kontekście. Przecież ostatecznie Jezus pochwalił jej wiarę i spełnił pragnienie jej serca, mówiąc: „Wielka jest twoja wiara! Niech więc ci się stanie tak, jak chcesz". Tym samym ta kobieta stała się dla nas nauczycielką modlitwy, która przezwycięża nie tylko zniechęcające słowa, ale nawet milczenie Boga.
 >
 > <span style="color: #666699;">Chryste! Pomóż mi trwać przy Tobie także wtedy, kiedy nie widzę efektów moich modlitw. Obym zawsze pamiętał, że jesteś moim Przyjacielem, który daje to, co mi trzeba, w odpowiednim czasie.
 > &nbsp;
