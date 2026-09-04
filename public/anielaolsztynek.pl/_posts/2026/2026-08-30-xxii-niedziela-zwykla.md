@@ -17,11 +17,11 @@ date: 2026-08-30
 > &nbsp;
 
 - We wtorek – 1 września – wypada **87 rocznica wybuchu II wojny światowej**, jest to dzień pamięci ofiar tej wojny. Obchody rocznicy odbędą się w tym dniu na Cmentarzu Ofiar Faszyzmu w Sudwie i będą połączone z nabożeństwem w intencji poległych o godzinie <u>11:00</u>.
-- W tym tygodniu wypada **I czwartek, I piątek, I sobota** września. W czwartek wystawienie i adoracja Najświętszego Sakramentu od godziny <u>16:00</u> do <u>17:00</u> prowadzona przez Apostolat "Złota Róża". W piątek przed południem odwiedziny chorych z posługą sakramentalną.Po południu wystawienie i adoracja Najświętszego Sakramentu o godzinie <u>16:00</u> (przypominam, że tak jest w każdy piątek). Okazja do spowiedzi jest w czasie adoracji, zarówno w czwartek, jak i w piątek.Zachęcam do spowiedzi szczególnie dzieci i młodzież, z okazji rozpoczęcia nowego roku szkolnego, czy też podjęcia praktyki 9 pierwszych piątków miesiąca.
-- **Odpust parafialny ku czci Błogosławionej Anieli Salawy** będziemy przeżywali w następną niedzielę. Kazanie wygłosi ksiądz Tadeusz Marcinkowski, kanclerz Kurii AW, egzorcysta diecezjalny. Na koniec Mszy Świętych o godzinie <u>9:00</u> i <u>11:00</u> odmówimy wspólnie Litanię ku czci Błogosławionej Anieli Salawy i zaśpiewamy dziękczynne Te Deum.
+- W tym tygodniu wypada **I czwartek, I piątek, I sobota** września. W czwartek wystawienie i adoracja Najświętszego Sakramentu od godziny <u>16:00</u> do <u>17:00</u> prowadzona przez Apostolat "Złota Róża". W piątek przed południem odwiedziny chorych z posługą sakramentalną. Po południu wystawienie i adoracja Najświętszego Sakramentu o godzinie <u>16:00</u> (przypominam, że tak jest w każdy piątek). Okazja do spowiedzi jest w czasie adoracji, zarówno w czwartek, jak i w piątek. Zachęcam do spowiedzi szczególnie dzieci i młodzież, z okazji rozpoczęcia nowego roku szkolnego czy też podjęcia praktyki 9 pierwszych piątków miesiąca.
+- **Odpust parafialny ku czci Błogosławionej Anieli Salawy** będziemy przeżywali w następną niedzielę. Kazanie wygłosi ksiądz Tadeusz Marcinkowski, kanclerz Kurii Archidiecezji Warmińskiej, egzorcysta diecezjalny. Na koniec Mszy Świętych o godzinie <u>9:00</u> i <u>11:00</u> odmówimy wspólnie litanię ku czci Błogosławionej Anieli Salawy i zaśpiewamy dziękczynne Te Deum.
 - **Zmiana tajemnic różańcowych** w następną niedzielę o godzinie <u>8:30</u>.
-- W związku z rozpoczynającym się we  wtorek nowym rokiem szkolnym wszystkim dzieciom, młodzieży, nauczycielom, wychowawcom i katechetom życzę Bożego błogosławieństwa oraz wytrwałości w nauce i nauczaniu.
-- **Wydawanie żywności dla rodzin objętych pomocą w środę w godzinach <u>18:00</u> – <u>19:00</u> **
+- W związku z rozpoczynającym się we wtorek **nowym rokiem szkolnym** wszystkim dzieciom, młodzieży, nauczycielom, wychowawcom i katechetom życzę Bożego błogosławieństwa oraz wytrwałości w nauce i nauczaniu.
+- **Wydawanie żywności dla rodzin objętych pomocą w środę w godzinach <u>18:00</u> – <u>19:00</u>**
 - **Intencje mszalne na bieżący tydzień:**
   - poniedziałek: + Eugenia Jabłońska (30 dzień po pogrzebie);
   - wtorek: + Bronisław, Helena Panewscy, Irena, Feliks Pacer;
