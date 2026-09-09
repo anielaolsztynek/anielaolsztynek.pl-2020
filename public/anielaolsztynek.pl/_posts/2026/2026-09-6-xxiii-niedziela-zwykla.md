@@ -17,10 +17,10 @@ date: 2026-09-06
 > &nbsp;
 
 - Dziś w naszej parafii **odpust ku czci Błogosławionej Anieli Salawy**.
-- Liturgiczna uroczystość **Narodzenia Najświętszej Marii Panny** – Matki Bożej Gietrzwałdzkiej wypada we wtorek – 8 września.
+- Liturgiczna uroczystość **Narodzenia Najświętszej Marii Panny** – Matki Bożej Gietrzwałdzkiej – wypada we wtorek, 8 września.
 - Główne uroczystości **149 rocznicy Objawień Najświętszej Marii Panny Gietrzwałdzkiej** oraz **60 Dożynki Archidiecezjalne** w następną niedzielę o godzinie <u>11:00</u>. Mszy Świętej będzie przewodniczył Nuncjusz Apostolski w Polsce.
 - **Pielgrzymka piesza z Olsztynka do Gietrzwałdu** w sobotę – 19 września. Wyjście spod kościoła Najświętszego Serca Pana Jezusa o godzinie <u>7:30</u>.
-- Za dwa tygodnie – 20 września – odbędą się po raz kolejny **Dożynki Wojewódzkie w Skansenie**, które rozpoczną się mszą Świętą o godzinie <u>12:00</u>. W związku z tym, w tym dniu nie będzie Mszy Świętej o godzinie 11:00 w naszym kościele.
+- Za dwa tygodnie – 20 września – odbędą się po raz kolejny **Dożynki Wojewódzkie w Skansenie**, które rozpoczną się Mszą Świętą o godzinie <u>12:00</u>. W związku z tym, w tym dniu nie będzie Mszy Świętej o godzinie 11:00 w naszym kościele.
 - **Spotkanie z rodzicami dzieci, które w tym roku szkolnym przygotowują się do I Komunii Świętej**, w następną niedzielę po Mszy Świętej o godzinie <u>11:00</u>. Rodzice zgłaszają swoje dzieci do przyjęcia tego sakramentu.
 - **Poświęcenie tornistrów i przyborów szkolnych pierwszoklasistów** w następną niedzielę pod koniec Mszy Świętej o godzinie <u>11:00</u>.
 - Tradycyjnie w niedziele po Mszach Świętych **będą rozdawane dzieciom obrazki**, w tym roku temat obrazków to znaki święte. Dzieci przygotowujące się w tym roku szkolnym do I Komunii Świętej, jak również dzieci z klas drugich, zbierają obrazki obowiązkowo. Dziś dodatkowo kartoniki z których składamy pudełeczko na obrazki.
@@ -31,7 +31,7 @@ date: 2026-09-06
   - środa: o łaskę wiary, dary Ducha Świętego i błogosławieństwo Boże w nauce dla Rafała;
   - czwartek: + Stanisława Dąbrowska (od pani Barbary);
   - piątek: + Teresa Roguska (30 dzień po pogrzebie);
-  - sobota: + Genowefa, Ryszard Tadeusz;
+  - sobota: + Genowefa, Ryszard, Tadeusz;
   - niedziela (13.09): <u>9:00</u> + Eugeniusz (8 rocznica śmierci) i Stanisława Giranowscy; <u>11:00</u> w intencji dzieci, młodzieży, nauczycieli i katechetów z okazji nowego roku szkolnego; <u>17:00</u> + Janina Kumiszczo.
 
 
