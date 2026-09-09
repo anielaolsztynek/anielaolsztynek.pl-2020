@@ -33,3 +33,5 @@ date: 2026-09-06
   - piątek: + Teresa Roguska (30 dzień po pogrzebie);
   - sobota: + Genowefa, Ryszard Tadeusz;
   - niedziela (13.09): <u>9:00</u> + Eugeniusz (8 rocznica śmierci) i Stanisława Giranowscy; <u>11:00</u> w intencji dzieci, młodzieży, nauczycieli i katechetów z okazji nowego roku szkolnego; <u>17:00</u> + Janina Kumiszczo.
+
+
