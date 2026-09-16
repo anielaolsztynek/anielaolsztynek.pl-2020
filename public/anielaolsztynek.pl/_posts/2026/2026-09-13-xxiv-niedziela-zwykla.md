@@ -18,17 +18,19 @@ date: 2026-09-13
 
 - Dziś odbywają się uroczystości **149 rocznicy Objawień Najświętszej Marii Panny Gietrzwałdzkiej** oraz **60 Dożynki Archidiecezjalne**.
 - **Komunikat Arcybiskupa Metropolity Warmińskiego przed peregrynacją obrazu Matki Bożej Gietrzwałdzkiej w archidiecezji warmińskiej**
+
 Drodzy Bracia i Siostry!
 
 Maryja z Gietrzwałdu wyrusza w drogę po naszej warmińskiej archidiecezji. W swoim wizerunku nawiedzi nasze parafie, nasze wspólnoty i nasze rodziny, aby przypomnieć nam swoje gietrzwałdzkie orędzie wygłoszone przed 150-laty.
 Przed nami wyjątkowy czas przygotowania do 150. rocznicy objawień Matki Bożej w Gietrzwałdzie, którą będziemy przeżywać w przyszłym roku. Chcemy, aby ta rocznica nie była jedynie wspomnieniem wydarzeń sprzed lat, ale stała się okazją do odnowienia naszej wiary i jeszcze głębszego odkrycia gietrzwałdzkiego orędzia.
 Dlatego od 14 września 2026 roku do 26 czerwca 2027 roku obraz Matki Bożej Gietrzwałdzkiej będzie peregrynował po parafiach naszej archidiecezji.
 Drodzy Diecezjanie, zapraszam Was, abyśmy wszyscy otworzyli swoje serca na Maryję i licznie uczestniczyli w tym szczególnym wydarzeniu. Niech Jej nawiedzenie będzie czasem modlitwy i duchowej przemiany, pojednania z Bogiem i braćmi, umocnienia rodzin i odnowienia naszych wspólnot. Przynieśmy przed Maryję nasze radości i troski, powierzmy Bogu przez Jej wstawiennictwo nasze rodziny, dzieci i młodzież, osoby chore. Powierzmy także przyszłość naszej archidiecezji i naszej Ojczyzny.
-Niech Maryja, która 150 lat temu przemówiła w Gietrzwałdzie, dziś na nowo przemówi do nas i poprowadzi nas do swojego Syna - Jezusa Chrystusa.
+Niech Maryja, która 150 lat temu przemówiła w Gietrzwałdzie, dziś na nowo przemówi do nas i poprowadzi nas do swojego Syna – Jezusa Chrystusa.
 Przyjmijmy Ją z wiarą, miłością i otwartym sercem.
+
 Na czas peregrynacji i przygotowania do jubileuszu z serca wszystkim błogosławię.
 
-+ Józef Górzyński Arcybiskup Metropolita Warmiński
+  Ks. Józef Górzyński Arcybiskup Metropolita Warmiński
 
 - Święto **Podwyższenia Krzyża Świętego** wypada jutro – 14 września.
 - **Poświęcenie tornistrów i przyborów szkolnych pierwszoklasistów** dziś pod koniec Mszy Świętej o godzinie <u>11:00</u>.
