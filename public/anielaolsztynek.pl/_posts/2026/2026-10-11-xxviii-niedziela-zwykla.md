@@ -18,12 +18,12 @@ date: 2026-10-11
 
 - Dziś w **Dniu Papieskim**, obchodzonym w Polsce od 25 lat, w tym roku pod hasłem "Uczeń – Misjonarz" – po Mszach Świętych będą zbierane ofiary na fundusz stypendialny dla uzdolnionej młodzieży z małych miejscowości i z rodzin najuboższych.
 - W dniu jutrzejszym i we wtorek będziemy przeżywali w naszej parafii – w naszej wspólnocie – czas **PEREGRYNACJI OBRAZU MATKI BOŻEJ GIETRZWAŁDZKIEJ** według następującego porządku:
-**12 października (poniedziałek)**
+- **12 października (poniedziałek)**
   - 19.30 – przyjazd Obrazu Matki Bożej Gietrzwałdzkiej przed główne wejście do kościoła i obrzęd powitania w kościele,
   - 20.00 – Msza Święta koncelebrowana,
   - 21.00 – Apel Jasnogórski.
 Po Apelu Jasnogórskim wspólny różaniec, a następnie czas na indywidualną modlitwę (dopóki będą chętni).
-**13 października (wtorek)**
+- **13 października (wtorek)**
   - 10.00 – różaniec (tajemnice radosne) prowadzony przez wspólnoty modlitewne,
   - 12.00 – różaniec (tajemnice światła) prowadzony przez wspólnoty modlitewne,
   - 15.00 – Koronka do Bożego Miłosierdzia. Następnie nabożeństwo w intencji chorych, połączone z Sakramentem Chorych (przynosimy ze sobą płócienko gietrzwałdzkie),
