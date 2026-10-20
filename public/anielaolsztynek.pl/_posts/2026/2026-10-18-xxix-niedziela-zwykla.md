@@ -17,18 +17,17 @@ date: 2026-10-18
 > &nbsp;
 
 - W minionym tygodniu (poniedziałek i wtorek) parafia nasza przeżywała **peregrynację Obrazu Matki Bożej Gietrzwałdzkiej**. Jestem przekonany, że był to piękny czas przeżycia duchowego dla każdego z nas, czas modlitwy. Życzę wszystkim, aby to spotkanie z Matką Bożą w Jej wizerunku gietrzwałdzkim wydało błogosławione owoce w codziennym życiu.
-- Od dziś rozpoczyna się **nawiedzenie obrazu w rodzinach naszej parafii**. Wszystkie chętne rodziny proszę, aby zgłaszały się i zapisywały na listę. Przekazanie obrazu zawsze po Mszy Świętej o godzinie <u>17:00</u>. Obraz wraca do kościoła następnego dnia przed Mszą św. o godzinie <u>17:00</u>. W październiku przed różańcem o godzinie <u>16:30</u> i do 8 listopada też przed wypominkami o godzinie <u>16:30</u>. (Modlitwa w rodzinach według uznania: różaniec, litnia, Koronka do Bożego Miłosierdzia; pomocą są pakiety gietrzwałdzkie).
+- Od dziś rozpoczyna się **nawiedzenie obrazu w rodzinach naszej parafii**. Wszystkie chętne rodziny proszę, aby zgłaszały się i zapisywały na listę. Przekazanie obrazu zawsze po Mszy Świętej o godzinie <u>17:00</u>. Obraz wraca do kościoła następnego dnia przed Mszą św. o godzinie <u>17:00</u>. W październiku przed różańcem o godzinie <u>16:30</u> i do 8 listopada też przed wypominkami o godzinie <u>16:30</u>. (Modlitwa w rodzinach według uznania: różaniec, litania, Koronka do Bożego Miłosierdzia; pomocą są pakiety gietrzwałdzkie).
 - Zostały jeszcze obrazki pamiątkowe z peregrynacji. Proszę brać.
 - Są do wylosowania przez dzieci, które pokolorowały obrazek Matki Bożej, trzy pandy i dwie książeczki o objawieniach Matki Bożej w Gietrzwałdzie, które zostawił Ksiądz Radosław.
 - Bóg zapłać za ofiary składane w dniu dzisiejszym na misje.
 - Zapraszam do wspólnej **modlitwy różańcowej** do końca października.
 - W czwartek – 22 października – wypada liturgiczne **wspomnienie Świętego Jana Pawła II, papieża**.
-- Kartki na wypominki i Mszę Świętą zbiorową za zmarłych są wyłożone na półce z prasą.
+- **Kartki na wypominki i Mszę Świętą zbiorową za zmarłych** są wyłożone na półce z prasą.
 - W sobotę Msza Święta połączona ze ślubem o godzinie <u>15:00</u>. Różaniec wspólny o godzinie <u>12:00</u>.
-- Dokonaliśmy poprawy oświetlenia w prezbiterium. Trzeba było dokupić jeszcze kilka lamp i zamontować. Łączny koszt inwestycji: 15 000 zł.
+- Poprawiliśmy oświetlenie w prezbiterium. Trzeba było dokupić jeszcze kilka lamp i zamontować. Łączny koszt inwestycji: 15 000 zł.
 - Dziękuję p. Eugeniuszowi, który jako akustyk zainteresował się nagłośnieniem organistki i dokonał naprawy kolumn, w których trzeba było wymienić niektóre głośniki. Przekazał też parafii mikrofon.
-- W minionym tygodniu odeszły do wieczności dwie parafianki:
-– śp. Helena Żołyniak – lat 95 i śp. Irena Wilczek – lat 67.
+- W minionym tygodniu odeszły do wieczności dwie nasze parafianki: śp. Helena Żołyniak – lat 95 i śp. Irena Wilczek – lat 67.
 Wieczny odpoczynek racz zmarłym dać, Panie.
 - **Intencje mszalne na bieżący tydzień:**
   - poniedziałek: + Michalina Serafinowska (2 rocznica śmierci);
