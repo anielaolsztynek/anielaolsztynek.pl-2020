@@ -1,11 +1,11 @@
 ---
 title: Wszystkich Świętych
-date: 2026-10-25
+date: 2026-11-01
 ---
 
 > **<span style="color: #5D4587;">Mt 5, 1-12a </span>**
 >
-> **<span style="color: #5D4587;">„Gdy faryzeusze dowiedzieli się, że Jezus zamknął usta saduceuszom, zgromadzili się wokół Niego. A jeden z nich, znawca Prawa, zapytał Go podchwytliwie: »Nauczycielu, które przykazanie w Prawie jest największe?«. On odpowiedział:  »Będziesz miłował Pana, swego Boga, całym swoim sercem, całą swoją duszą i całym swoim umysłem. To jest największe i pierwsze przykazanie. Drugie jest podobne do niego: Będziesz miłował swego bliźniego jak siebie samego. Na tych dwóch przykazaniach opiera się całe Prawo i Prorocу«.”</span>**
+> **<span style="color: #5D4587;">„Jezus, widząc tłumy, wyszedł na górę. Gdy usiadł, zbliżyli się do Niego uczniowie. Wtedy odezwał się i zaczął nauczać: »Szczęśliwi ubodzy w duchu, ponieważ do nich należy królestwo niebieskie. Szczęśliwi, którzy cierpią udrękę, ponieważ będą pocieszeni. Szczęśliwi łagodni, ponieważ oni posiądą ziemię. Szczęśliwi, którzy są głodni i spragnieni sprawiedliwości, ponieważ oni będą nasyceni. Szczęśliwi miłosierni, ponieważ oni dostąpią miłosierdzia. Szczęśliwi, którzy mają czyste serce, ponieważ oni będą oglądać Boga. Szczęśliwi, którzy zabiegają o pokój, ponieważ oni zostaną nazwani synami Bożymi. Szczęśliwi, którzy są prześladowani za sprawiedliwość, ponieważ do nich należy królestwo niebieskie. Jesteście szczęśliwi, gdy was znieważają, prześladują i oczerniają z mojego powodu. Cieszcie się i radujcie, bo wielka jest wasza zapłata w niebie«.”</span>**
 >
 >
 >
