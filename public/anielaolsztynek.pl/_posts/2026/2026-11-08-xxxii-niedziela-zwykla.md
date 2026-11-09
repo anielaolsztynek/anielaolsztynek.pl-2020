@@ -18,12 +18,12 @@ Gdy one odeszły, przybył pan młody. Te, które były przygotowane, weszły z 
 > &nbsp;
 
 - Dzisiaj, w **Dniu Solidarności z Kościołem Prześladowanym**, po Mszy Świętej będą zbierane ofiary jako pomoc naszym siostrom i braciom w potrzebie.
-- W środę, 11 listopada, wypada **108. rocznica Niepodległości Polski**.
+- W środę, 11 listopada, wypada **108. Rocznica Odzyskania Niepodległości Polski**.
 - W tym dniu wypada też **26. rocznica poświęcenia dzwonu i plebanii**.
 - **Światowy Dzień Ubogich** wypada w następną niedzielę. W tym dniu po Mszy Świętej będą zbierane ofiary na potrzeby Caritas Archidiecezji Warmińskiej.
 - We wtorek Msza Święta o godzinie <u>8:00</u>.
 - Dziś po Mszy Świętej o godzinie <u>11:00</u> **spotkanie z kandydatami do bierzmowania** z klas VIII.
-- W minionym tygodniu odeszła do wieczności nasza parafianka z Wilkowa, śp. Regina Rutkowska, lat 91.Wieczny odpoczynek racz zmarłej dać, Panie. Pogrzeb w piątek o godzinie <u>11:00</u>.
+- W minionym tygodniu odeszła do wieczności nasza parafianka z Wilkowa, śp. Regina Rutkowska, lat 91. Wieczny odpoczynek racz zmarłej dać, Panie. Pogrzeb w piątek o godzinie <u>11:00</u>.
 - **Intencje mszalne na bieżący tydzień:**
   - poniedziałek: Msza Święta zbiorowa za zmarłych;
   - wtorek: Msza Święta zbiorowa za zmarłych;
